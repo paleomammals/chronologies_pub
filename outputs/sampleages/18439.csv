@@ -1,0 +1,15 @@
+"analysisunitid","chronology.agemodel","sampleages.age","sampleages.ageolder","sampleages.ageyounger"
+215433,"event",844,934,764
+215436,"event",974,1114,844
+215432,"event",714,794,644
+215434,"event",864,1044,694
+215435,"event",944,1054,834
+215437,"event",1354,1454,1264
+215438,"event",1444,1534,1354
+215433,"bounds",NA,1104,594
+215436,"bounds",NA,1384,564
+215432,"bounds",NA,974,474
+215434,"bounds",NA,1444,294
+215435,"bounds",NA,1284,614
+215437,"bounds",NA,1674,1034
+215438,"bounds",NA,1724,1164

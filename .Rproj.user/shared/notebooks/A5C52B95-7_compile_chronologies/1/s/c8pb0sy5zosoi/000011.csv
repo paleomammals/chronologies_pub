@@ -1,0 +1,6 @@
+"0","inferred_sampleages <- read.csv(here(""outputs/inferred_sampleages.csv""))[,1:6]"
+"0","inferred_sampleages <- subset(inferred_sampleages,"
+"0","                              inferred_sampleages$collectionunitid %in% newchron.all$collectionunitid)"
+"0","inferred_sampleages$source <- ""inferred"""
+"0","newchron.all$source <- ""computed"""
+"0","newchron.all <- as.data.frame(rbind(newchron.all,inferred_sampleages))"

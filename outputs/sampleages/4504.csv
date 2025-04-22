@@ -1,0 +1,13 @@
+"analysisunitid","chronology.agemodel","sampleages.age","sampleages.ageolder","sampleages.ageyounger"
+80315,"event",11104,11784,10484
+80317,"event",11774,12604,10964
+80320,"event",684,884,504
+80324,"event",1424,1604,1254
+80327,"event",2664,2954,2374
+80329,"event",2734,3014,2454
+80315,"bounds",NA,13094,9164
+80317,"bounds",NA,14184,9384
+80320,"bounds",NA,1284,94
+80324,"bounds",NA,1994,864
+80327,"bounds",NA,3574,1764
+80329,"bounds",NA,3594,1874

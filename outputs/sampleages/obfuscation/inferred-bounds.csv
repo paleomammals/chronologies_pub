@@ -1,0 +1,147 @@
+"","collid","ndb.analysisunits.analysisunitid","ndb.analysisunits.analysisunitname","agemodel","ndb.chroncontrols.age","ndb.chroncontrols.agelimitolder","ndb.chroncontrols.agelimityounger","notes","ndb.chroncontrols.chroncontroltypeid","ndb.collections.collectionunitid","rerun.&amp;.check","ndb.chroncontrols.notes","TEMP_chronid"
+"21",4437,80110,"Assemblage","event",NA,28502,1292,"full range of dated units in collection",80,4437,FALSE,"inferred: full range of dated units in collection",NA
+"22",4437,80110,"Assemblage","bounds",NA,30082,-75,"full range of dated units in collection",80,4437,FALSE,"inferred: full range of dated units in collection",NA
+"23",4437,80111,"Front Occupation","event",NA,12317,1292,"above Hearth II and III",23,4437,FALSE,"inferred: above Hearth II and III",NA
+"24",4437,80111,"Front Occupation","bounds",NA,11002,-75,"above Hearth II and III",23,4437,FALSE,"inferred: above Hearth II and III",NA
+"25",4437,80112,"Glacial Black Bone Level","event",NA,35000,13687,"below Hearth II and III; biostratigraphically <35ka",37,4437,FALSE,"inferred: below Hearth II and III; biostratigraphically &lt;35ka",NA
+"26",4437,80112,"Glacial Black Bone Level","bounds",NA,35000,14912,"below Hearth II and III; biostratigraphically <35ka",37,4437,FALSE,"inferred: below Hearth II and III; biostratigraphically &lt;35ka",NA
+"27",4437,80115,"Main Occupation","event",NA,12317,1292,"above Hearth II and III",23,4437,FALSE,"inferred: above Hearth II and III",NA
+"28",4437,80115,"Main Occupation","bounds",NA,11002,-75,"above Hearth II and III",23,4437,FALSE,"inferred: above Hearth II and III",NA
+"29",4437,80116,"Upper Occupation","event",NA,12317,1292,"above Hearth II and III",23,4437,FALSE,"inferred: above Hearth II and III",NA
+"30",4437,80116,"Upper Occupation","bounds",NA,11002,-75,"above Hearth II and III",23,4437,FALSE,"inferred: above Hearth II and III",NA
+"69",4457,80166,"Stratum A","event",NA,997,200,"above rest of unit, below end of Dietrich Phase",37,4457,FALSE,"inferred: above rest of unit, below end of Dietrich Phase",NA
+"70",4457,80166,"Stratum A","bounds",NA,997,200,"above rest of unit, below end of Dietrich Phase",37,4457,FALSE,"inferred: above rest of unit, below end of Dietrich Phase",NA
+"71",4457,80171,"Stratum D","event",NA,25842,18867,"above Stratum E, below all others",23,4457,FALSE,"inferred: above Stratum E, below all others",NA
+"72",4457,80171,"Stratum D","bounds",NA,19377,19272,"above Stratum E, below all others",23,4457,FALSE,"inferred: above Stratum E, below all others",NA
+"81",4472,80216,"Below Level 15","event",NA,35000,14202,"below Level 15, above 35ka",37,4472,FALSE,"inferred: below Level 15, above 35ka",NA
+"82",4472,80216,"Below Level 15","bounds",NA,35000,15467,"below Level 15, above 35ka",37,4472,FALSE,"inferred: below Level 15, above 35ka",NA
+"83",4472,80217,"Level 1","event",NA,5417,3642,"above Level 10, below surface",23,4472,FALSE,"inferred: above Level 10, below surface",NA
+"84",4472,80217,"Level 1","bounds",NA,4192,0,"above Level 10, below surface",23,4472,FALSE,"inferred: above Level 10, below surface",NA
+"85",4472,80219,"Level 11","event",NA,13047,6512,"between Levels 10 and 13-15",23,4472,FALSE,"inferred: between Levels 10 and 13-15",NA
+"86",4472,80219,"Level 11","bounds",NA,11777,7732,"between Levels 10 and 13-15",23,4472,FALSE,"inferred: between Levels 10 and 13-15",NA
+"87",4472,80220,"Level 12","event",NA,13047,6512,"between Levels 10 and 13-15",23,4472,FALSE,"inferred: between Levels 10 and 13-15",NA
+"88",4472,80220,"Level 12","bounds",NA,11777,7732,"between Levels 10 and 13-15",23,4472,FALSE,"inferred: between Levels 10 and 13-15",NA
+"89",4472,80221,"Level 13","event",13577,14202,13047,"same as Level 13-15",112,4472,FALSE,"inferred: same as Level 13-15",NA
+"90",4472,80221,"Level 13","bounds",NA,15467,11777,"same as Level 13-15",112,4472,FALSE,"inferred: same as Level 13-15",NA
+"91",4472,80223,"Level 14","event",13577,14202,13047,"same as Level 13-15",112,4472,FALSE,"inferred: same as Level 13-15",NA
+"92",4472,80223,"Level 14","bounds",NA,15467,11777,"same as Level 13-15",112,4472,FALSE,"inferred: same as Level 13-15",NA
+"93",4472,80224,"Level 15","event",13577,14202,13047,"same as Level 13-15",112,4472,FALSE,"inferred: same as Level 13-15",NA
+"94",4472,80224,"Level 15","bounds",NA,15467,11777,"same as Level 13-15",112,4472,FALSE,"inferred: same as Level 13-15",NA
+"95",4472,80225,"Level 2","event",NA,5417,3642,"above Level 10, below surface",23,4472,FALSE,"inferred: above Level 10, below surface",NA
+"96",4472,80225,"Level 2","bounds",NA,4192,0,"above Level 10, below surface",23,4472,FALSE,"inferred: above Level 10, below surface",NA
+"97",4472,80226,"Level 3","event",NA,5417,3642,"above Level 10, below surface",23,4472,FALSE,"inferred: above Level 10, below surface",NA
+"98",4472,80226,"Level 3","bounds",NA,4192,0,"above Level 10, below surface",23,4472,FALSE,"inferred: above Level 10, below surface",NA
+"99",4472,80227,"Level 4","event",NA,5417,3642,"above Level 10, below surface",23,4472,FALSE,"inferred: above Level 10, below surface",NA
+"100",4472,80227,"Level 4","bounds",NA,4192,0,"above Level 10, below surface",23,4472,FALSE,"inferred: above Level 10, below surface",NA
+"101",4472,80228,"Level 5","event",NA,5417,3642,"above Level 10, below surface",23,4472,FALSE,"inferred: above Level 10, below surface",NA
+"102",4472,80228,"Level 5","bounds",NA,4192,0,"above Level 10, below surface",23,4472,FALSE,"inferred: above Level 10, below surface",NA
+"103",4472,80229,"Level 6","event",NA,5417,3642,"above Level 10, below surface",23,4472,FALSE,"inferred: above Level 10, below surface",NA
+"104",4472,80229,"Level 6","bounds",NA,4192,0,"above Level 10, below surface",23,4472,FALSE,"inferred: above Level 10, below surface",NA
+"105",4472,80230,"Level 7","event",NA,5417,3642,"above Level 10, below surface",23,4472,FALSE,"inferred: above Level 10, below surface",NA
+"106",4472,80230,"Level 7","bounds",NA,4192,0,"above Level 10, below surface",23,4472,FALSE,"inferred: above Level 10, below surface",NA
+"107",4472,80231,"Level 8","event",NA,5417,3642,"above Level 10, below surface",23,4472,FALSE,"inferred: above Level 10, below surface",NA
+"108",4472,80231,"Level 8","bounds",NA,4192,0,"above Level 10, below surface",23,4472,FALSE,"inferred: above Level 10, below surface",NA
+"109",4472,80232,"Level 9","event",NA,5417,3642,"above Level 10, below surface",23,4472,FALSE,"inferred: above Level 10, below surface",NA
+"110",4472,80232,"Level 9","bounds",NA,4192,0,"above Level 10, below surface",23,4472,FALSE,"inferred: above Level 10, below surface",NA
+"517",5388,81635,"Stratum I","event",NA,10000,4727,"below Stratum III, Holocene",37,5388,FALSE,"inferred: below Stratum III, Holocene",NA
+"518",5388,81635,"Stratum I","bounds",NA,10000,5107,"below Stratum III, Holocene",37,5388,FALSE,"inferred: below Stratum III, Holocene",NA
+"519",5388,81636,"Stratum II","event",NA,10000,4727,"below Stratum III, Holocene",37,5388,FALSE,"inferred: below Stratum III, Holocene",NA
+"520",5388,81636,"Stratum II","bounds",NA,10000,5107,"below Stratum III, Holocene",37,5388,FALSE,"inferred: below Stratum III, Holocene",NA
+"521",5388,81637,"Stratum III 0-10cm","event",NA,77,-75,"above Stratum III 20-30cm",23,5388,FALSE,"inferred: above Stratum III 20-30cm",NA
+"522",5388,81637,"Stratum III 0-10cm","bounds",NA,-75,-75,"above Stratum III 20-30cm",23,5388,FALSE,"inferred: above Stratum III 20-30cm",NA
+"523",5388,81638,"Stratum III 10-20cm","event",NA,77,-75,"above Stratum III 20-30cm",23,5388,FALSE,"inferred: above Stratum III 20-30cm",NA
+"524",5388,81638,"Stratum III 10-20cm","bounds",NA,-75,-75,"above Stratum III 20-30cm",23,5388,FALSE,"inferred: above Stratum III 20-30cm",NA
+"525",5388,81640,"Stratum III 30-40cm","event",NA,3042,327,"between Stratum III 20-30cm and Stratum III 60-70cm",23,5388,FALSE,"inferred: between Stratum III 20-30cm and Stratum III 60-70cm",NA
+"526",5388,81640,"Stratum III 30-40cm","bounds",NA,2707,557,"between Stratum III 20-30cm and Stratum III 60-70cm",23,5388,FALSE,"inferred: between Stratum III 20-30cm and Stratum III 60-70cm",NA
+"527",5388,81641,"Stratum III 40-50cm","event",NA,3042,327,"between Stratum III 20-30cm and Stratum III 60-70cm",23,5388,FALSE,"inferred: between Stratum III 20-30cm and Stratum III 60-70cm",NA
+"528",5388,81641,"Stratum III 40-50cm","bounds",NA,2707,557,"between Stratum III 20-30cm and Stratum III 60-70cm",23,5388,FALSE,"inferred: between Stratum III 20-30cm and Stratum III 60-70cm",NA
+"529",5388,81642,"Stratum III 50-60cm","event",NA,3042,327,"between Stratum III 20-30cm and Stratum III 60-70cm",23,5388,FALSE,"inferred: between Stratum III 20-30cm and Stratum III 60-70cm",NA
+"530",5388,81642,"Stratum III 50-60cm","bounds",NA,2707,557,"between Stratum III 20-30cm and Stratum III 60-70cm",23,5388,FALSE,"inferred: between Stratum III 20-30cm and Stratum III 60-70cm",NA
+"531",5388,81645,"Stratum III Feature II","event",NA,4727,327,"full range of dated Stratum III units",80,5388,FALSE,"inferred: full range of dated Stratum III units",NA
+"532",5388,81645,"Stratum III Feature II","bounds",NA,5107,557,"full range of dated Stratum III units",80,5388,FALSE,"inferred: full range of dated Stratum III units",NA
+"533",5388,81646,"Stratum III Feature III","event",NA,4727,327,"full range of dated Stratum III units",80,5388,FALSE,"inferred: full range of dated Stratum III units",NA
+"534",5388,81646,"Stratum III Feature III","bounds",NA,5107,557,"full range of dated Stratum III units",80,5388,FALSE,"inferred: full range of dated Stratum III units",NA
+"535",5388,81647,"Stratum III Feature IX","event",NA,4727,327,"full range of dated Stratum III units",80,5388,FALSE,"inferred: full range of dated Stratum III units",NA
+"536",5388,81647,"Stratum III Feature IX","bounds",NA,5107,557,"full range of dated Stratum III units",80,5388,FALSE,"inferred: full range of dated Stratum III units",NA
+"537",5388,81649,"Stratum III Feature VII","event",NA,4727,327,"full range of dated Stratum III units",80,5388,FALSE,"inferred: full range of dated Stratum III units",NA
+"538",5388,81649,"Stratum III Feature VII","bounds",NA,5107,557,"full range of dated Stratum III units",80,5388,FALSE,"inferred: full range of dated Stratum III units",NA
+"539",5388,81650,"Stratum III Feature X","event",NA,4727,327,"full range of dated Stratum III units",80,5388,FALSE,"inferred: full range of dated Stratum III units",NA
+"540",5388,81650,"Stratum III Feature X","bounds",NA,5107,557,"full range of dated Stratum III units",80,5388,FALSE,"inferred: full range of dated Stratum III units",NA
+"541",5388,81651,"Stratum III/IV mix","event",NA,4727,-75,"above bottom of Stratum III",23,5388,FALSE,"inferred: above bottom of Stratum III",NA
+"542",5388,81651,"Stratum III/IV mix","bounds",NA,5107,-75,"above bottom of Stratum III",23,5388,FALSE,"inferred: above bottom of Stratum III",NA
+"543",5388,81652,"Stratum IV","event",NA,4727,327,"above top of Stratum III",23,5388,FALSE,"inferred: above top of Stratum III",NA
+"544",5388,81652,"Stratum IV","bounds",NA,5107,557,"above top of Stratum III",23,5388,FALSE,"inferred: above top of Stratum III",NA
+"1073",6369,83375,"Basal Gravels","event",NA,6000,3982,"below base of unit; Late Holocene",37,6369,FALSE,"inferred: below base of unit; Late Holocene",NA
+"1074",6369,83375,"Basal Gravels","bounds",NA,6000,4462,"below base of unit; Late Holocene",37,6369,FALSE,"inferred: below base of unit; Late Holocene",NA
+"1135",6988,84170,"Archaic","event",NA,10000,1602,"below Woodland level, above 10ka (Archaic)",37,6988,FALSE,"inferred: below Woodland level, above 10ka (Archaic)",NA
+"1136",6988,84170,"Archaic","bounds",NA,10000,2102,"below Woodland level, above 10ka (Archaic)",37,6988,FALSE,"inferred: below Woodland level, above 10ka (Archaic)",NA
+"1137",6988,84171,"Madison","event",NA,3000,1602,"below Woodland level, above 3ka (Woodland)",37,6988,FALSE,"inferred: below Woodland level, above 3ka (Woodland)",NA
+"1138",6988,84171,"Madison","bounds",NA,3000,2102,"below Woodland level, above 3ka (Woodland)",37,6988,FALSE,"inferred: below Woodland level, above 3ka (Woodland)",NA
+"1207",7331,84608,"20-30 level","event",NA,3927,752,"between 0-20 and 30-40",23,7331,FALSE,"inferred: between 0-20 and 30-40",NA
+"1208",7331,84608,"20-30 level","bounds",NA,3572,1122,"between 0-20 and 30-40",23,7331,FALSE,"inferred: between 0-20 and 30-40",NA
+"1361",15433,151843,"TP2, Level 20","event",NA,49042,37882,"bounded by TP2 18 and 23",23,15433,FALSE,"inferred: bounded by TP2 18 and 23",NA
+"1362",15433,151843,"TP2, Level 20","bounds",NA,57892,32427,"bounded by TP2 18 and 23",23,15433,FALSE,"inferred: bounded by TP2 18 and 23",NA
+"1363",15433,151845,"TP2, Level 25","event",NA,48142,37882,"bounded by TP2 23 and 26",23,15433,FALSE,"inferred: bounded by TP2 23 and 26",NA
+"1364",15433,151845,"TP2, Level 25","bounds",NA,53547,32427,"bounded by TP2 23 and 26",23,15433,FALSE,"inferred: bounded by TP2 23 and 26",NA
+"1365",15433,151847,"TP2, Level 31","event",NA,80000,48142,"below TP2 Level 31, above 80ka",37,15433,FALSE,"inferred: below TP2 Level 31, above 80ka",NA
+"1366",15433,151847,"TP2, Level 31","bounds",NA,80000,53547,"below TP2 Level 31, above 80ka",37,15433,FALSE,"inferred: below TP2 Level 31, above 80ka",NA
+"1367",15433,151848,"TP2, Level 32","event",NA,80000,48142,"below TP2 Level 31, above 80ka",37,15433,FALSE,"inferred: below TP2 Level 31, above 80ka",NA
+"1368",15433,151848,"TP2, Level 32","bounds",NA,80000,53547,"below TP2 Level 31, above 80ka",37,15433,FALSE,"inferred: below TP2 Level 31, above 80ka",NA
+"1369",15433,151849,"TP2 NE, Level 2","event",NA,3277,0,"above rest of TP2NE",23,15433,FALSE,"inferred: above rest of TP2NE",NA
+"1370",15433,151849,"TP2 NE, Level 2","bounds",NA,3172,0,"above rest of TP2NE",23,15433,FALSE,"inferred: above rest of TP2NE",NA
+"1371",15433,151852,"TP2 NE, Level 11","event",NA,13542,9712,"below TP2NE 7, above TP2NE 14",23,15433,FALSE,"inferred: below TP2NE 7, above TP2NE 14",NA
+"1372",15433,151852,"TP2 NE, Level 11","bounds",NA,12867,5627,"below TP2NE 7, above TP2NE 14",23,15433,FALSE,"inferred: below TP2NE 7, above TP2NE 14",NA
+"1373",15433,151853,"TP2 NE, Level 13","event",NA,13542,9712,"below TP2NE 7, above TP2NE 14",23,15433,FALSE,"inferred: below TP2NE 7, above TP2NE 14",NA
+"1374",15433,151853,"TP2 NE, Level 13","bounds",NA,12867,5627,"below TP2NE 7, above TP2NE 14",23,15433,FALSE,"inferred: below TP2NE 7, above TP2NE 14",NA
+"1375",15433,151855,"TP2 NE, Level 15","event",NA,38962,23732,"below TP2NE 14, above TP2NE 21",23,15433,FALSE,"inferred: below TP2NE 14, above TP2NE 21",NA
+"1376",15433,151855,"TP2 NE, Level 15","bounds",NA,32662,31642,"below TP2NE 14, above TP2NE 21",23,15433,FALSE,"inferred: below TP2NE 14, above TP2NE 21",NA
+"1377",15433,151856,"TP2 NE, Level 16","event",NA,38962,23732,"below TP2NE 14, above TP2NE 21",23,15433,FALSE,"inferred: below TP2NE 14, above TP2NE 21",NA
+"1378",15433,151856,"TP2 NE, Level 16","bounds",NA,32662,31642,"below TP2NE 14, above TP2NE 21",23,15433,FALSE,"inferred: below TP2NE 14, above TP2NE 21",NA
+"1379",15433,151857,"TP2 NE, Level 17","event",NA,38962,23732,"below TP2NE 14, above TP2NE 21",23,15433,FALSE,"inferred: below TP2NE 14, above TP2NE 21",NA
+"1380",15433,151857,"TP2 NE, Level 17","bounds",NA,32662,31642,"below TP2NE 14, above TP2NE 21",23,15433,FALSE,"inferred: below TP2NE 14, above TP2NE 21",NA
+"1381",15433,151858,"TP2 NE, Level 18","event",NA,38962,23732,"below TP2NE 14, above TP2NE 21",23,15433,FALSE,"inferred: below TP2NE 14, above TP2NE 21",NA
+"1382",15433,151858,"TP2 NE, Level 18","bounds",NA,32662,31642,"below TP2NE 14, above TP2NE 21",23,15433,FALSE,"inferred: below TP2NE 14, above TP2NE 21",NA
+"1383",15433,151859,"TP2 NE, Level 20","event",NA,38962,23732,"below TP2NE 14, above TP2NE 21",23,15433,FALSE,"inferred: below TP2NE 14, above TP2NE 21",NA
+"1384",15433,151859,"TP2 NE, Level 20","bounds",NA,32662,31642,"below TP2NE 14, above TP2NE 21",23,15433,FALSE,"inferred: below TP2NE 14, above TP2NE 21",NA
+"1385",15433,151861,"TP2 NE, Level 23","event",NA,45942,38962,"bounded by TP2NE 21 and TP2NE 24",23,15433,FALSE,"inferred: bounded by TP2NE 21 and TP2NE 24",NA
+"1386",15433,151861,"TP2 NE, Level 23","bounds",NA,52497,32662,"bounded by TP2NE 21 and TP2NE 24",23,15433,FALSE,"inferred: bounded by TP2NE 21 and TP2NE 24",NA
+"1387",15433,151863,"TP2 NE, Level 26","event",NA,42237,39182,"bounded by TP2NE 24 and TP2NE 27",23,15433,FALSE,"inferred: bounded by TP2NE 24 and TP2NE 27",NA
+"1388",15433,151863,"TP2 NE, Level 26","bounds",NA,44037,37142,"bounded by TP2NE 24 and TP2NE 27",23,15433,FALSE,"inferred: bounded by TP2NE 24 and TP2NE 27",NA
+"1389",15433,151865,"TP2 NE, Level 32","event",NA,80000,45942,"below TP2NE 27, above 80ka",37,15433,FALSE,"inferred: below TP2NE 27, above 80ka",NA
+"1390",15433,151865,"TP2 NE, Level 32","bounds",NA,80000,52497,"below TP2NE 27, above 80ka",37,15433,FALSE,"inferred: below TP2NE 27, above 80ka",NA
+"1391",15433,151866,"TP2 NE, Level 34","event",NA,80000,45942,"below TP2NE 27, above 80ka",37,15433,FALSE,"inferred: below TP2NE 27, above 80ka",NA
+"1392",15433,151866,"TP2 NE, Level 34","bounds",NA,80000,52497,"below TP2NE 27, above 80ka",37,15433,FALSE,"inferred: below TP2NE 27, above 80ka",NA
+"1393",15433,151867,"TP2 NE, Level 36","event",NA,80000,45942,"below TP2NE 27, above 80ka",37,15433,FALSE,"inferred: below TP2NE 27, above 80ka",NA
+"1394",15433,151867,"TP2 NE, Level 36","bounds",NA,80000,52497,"below TP2NE 27, above 80ka",37,15433,FALSE,"inferred: below TP2NE 27, above 80ka",NA
+"1395",15433,151868,"TP2 NE, Level 37","event",NA,80000,45942,"below TP2NE 27, above 80ka",37,15433,FALSE,"inferred: below TP2NE 27, above 80ka",NA
+"1396",15433,151868,"TP2 NE, Level 37","bounds",NA,80000,52497,"below TP2NE 27, above 80ka",37,15433,FALSE,"inferred: below TP2NE 27, above 80ka",NA
+"1467",18729,218797,"TA 15B","event",NA,29162,-75,"full range of dated units in collection",80,18729,FALSE,"inferred: full range of dated units in collection",NA
+"1468",18729,218797,"TA 15B","bounds",NA,24752,132,"full range of dated units in collection",80,18729,FALSE,"inferred: full range of dated units in collection",NA
+"1469",18729,218799,"TA 15A","event",NA,29162,-75,"full range of dated units in collection",80,18729,FALSE,"inferred: full range of dated units in collection",NA
+"1470",18729,218799,"TA 15A","bounds",NA,24752,132,"full range of dated units in collection",80,18729,FALSE,"inferred: full range of dated units in collection",NA
+"1471",18729,218800,"TA 18A","event",22927,24752,21282,"range of TA 18B",112,18729,FALSE,"inferred: range of TA 18B",NA
+"1472",18729,218800,"TA 18A","bounds",NA,28282,17822,"range of TA 18B",112,18729,FALSE,"inferred: range of TA 18B",NA
+"1473",18729,218802,"TA 2B","event",5132,5587,4662,"range of TA 2A",112,18729,FALSE,"inferred: range of TA 2A",NA
+"1474",18729,218802,"TA 2B","bounds",NA,6592,3657,"range of TA 2A",112,18729,FALSE,"inferred: range of TA 2A",NA
+"1475",18729,218804,"TA 12A","event",NA,29162,-75,"full range of dated units in collection",80,18729,FALSE,"inferred: full range of dated units in collection",NA
+"1476",18729,218804,"TA 12A","bounds",NA,24752,132,"full range of dated units in collection",80,18729,FALSE,"inferred: full range of dated units in collection",NA
+"1477",18729,218805,"TA 14","event",NA,29162,-75,"full range of dated units in collection",80,18729,FALSE,"inferred: full range of dated units in collection",NA
+"1478",18729,218805,"TA 14","bounds",NA,24752,132,"full range of dated units in collection",80,18729,FALSE,"inferred: full range of dated units in collection",NA
+"1479",18729,218806,"TA 1B","event",NA,29162,-75,"full range of dated units in collection",80,18729,FALSE,"inferred: full range of dated units in collection",NA
+"1480",18729,218806,"TA 1B","bounds",NA,24752,132,"full range of dated units in collection",80,18729,FALSE,"inferred: full range of dated units in collection",NA
+"1481",18729,218807,"TA 3A","event",12382,13262,11507,"range of TA 3B",112,18729,FALSE,"inferred: range of TA 3B",NA
+"1482",18729,218807,"TA 3A","bounds",NA,15147,9642,"range of TA 3B",112,18729,FALSE,"inferred: range of TA 3B",NA
+"1483",18729,218808,"TA 1A","event",NA,29162,-75,"full range of dated units in collection",80,18729,FALSE,"inferred: full range of dated units in collection",NA
+"1484",18729,218808,"TA 1A","bounds",NA,24752,132,"full range of dated units in collection",80,18729,FALSE,"inferred: full range of dated units in collection",NA
+"1485",18729,218810,"TA 16B","event",NA,20967,9827,"range of TA 16A & C",80,18729,FALSE,"inferred: range of TA 16A &amp; C",NA
+"1486",18729,218810,"TA 16B","bounds",NA,29162,9477,"range of TA 16A & C",80,18729,FALSE,"inferred: range of TA 16A &amp; C",NA
+"1487",18729,218814,"TA 13A","event",6672,7192,6152,"range of TA 13B",112,18729,FALSE,"inferred: range of TA 13B",NA
+"1488",18729,218814,"TA 13A","bounds",NA,8272,5067,"range of TA 13B",112,18729,FALSE,"inferred: range of TA 13B",NA
+"1489",18729,218816,"TA 20B","event",NA,2337,132,"range of TA 20A & C",80,18729,FALSE,"inferred: range of TA 20A &amp; C",NA
+"1490",18729,218816,"TA 20B","bounds",NA,3427,-75,"range of TA 20A & C",80,18729,FALSE,"inferred: range of TA 20A &amp; C",NA
+"1491",18729,218817,"TA11","event",NA,29162,-75,"full range of dated units in collection",80,18729,FALSE,"inferred: full range of dated units in collection",NA
+"1492",18729,218817,"TA11","bounds",NA,24752,132,"full range of dated units in collection",80,18729,FALSE,"inferred: full range of dated units in collection",NA
+"1493",18761,219548,"Late Holocene Quarry Spoil, AU21/AU22","event",1527,1597,1447,"range of Late Holocene Quarry Spoil, AU2Q",80,18761,FALSE,"inferred: range of Late Holocene Quarry Spoil, AU2Q",NA
+"1494",18761,219548,"Late Holocene Quarry Spoil, AU21/AU22","bounds",NA,1717,1352,"range of Late Holocene Quarry Spoil, AU2Q",80,18761,FALSE,"inferred: range of Late Holocene Quarry Spoil, AU2Q",NA
+"1495",18761,219551,"Paleoindian Quarry Spoil, AU5Q","event",NA,11700,9832,"below Leonard Paleosol; Holocene",37,18761,FALSE,"inferred: below Leonard Paleosol; Holocene",NA
+"1496",18761,219551,"Paleoindian Quarry Spoil, AU5Q","bounds",NA,11700,10222,"below Leonard Paleosol; Holocene",37,18761,FALSE,"inferred: below Leonard Paleosol; Holocene",NA

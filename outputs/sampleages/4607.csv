@@ -1,0 +1,17 @@
+"analysisunitid","chronology.agemodel","sampleages.age","sampleages.ageolder","sampleages.ageyounger"
+80527,"event",1734,1884,1604
+80529,"event",2274,2424,2134
+80531,"event",4144,4214,4084
+80536,"event",5804,6124,5484
+80539,"event",7244,7364,7114
+80540,"event",9224,9384,9044
+80541,"event",8524,8904,8144
+80543,"event",10314,10524,10114
+80527,"bounds",NA,2194,1294
+80529,"bounds",NA,2754,1804
+80531,"bounds",NA,4304,3994
+80536,"bounds",NA,6634,4974
+80539,"bounds",NA,7584,6894
+80540,"bounds",NA,9734,8694
+80541,"bounds",NA,9544,7514
+80543,"bounds",NA,10994,9644

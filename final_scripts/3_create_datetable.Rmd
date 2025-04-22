@@ -1,0 +1,300 @@
+---
+title: "3_create_datatable.Rmd"
+author: "Val Syverson"
+---
+
+This script assembles two tables, "geochrons.all" and "geochrons". The table "geochrons.all" contains all geochronology entries (dates) from collection units meeting the following criteria: 
+(1) in North America 
+(2) 14C age < age limit; by default set to 30,000 14C ybp (34,445 cal ybp) 
+(3) has a vertebrate fossil dataset
+
+# define age limit
+```{r}
+agelimit <- 30000
+```
+
+The table "geochrons" obeys (1) and (2) but is filtered by taxon: (3a) contains at least one specimen assigned to a taxon in Rodentia, Lagomorpha, or Lipotyphla. This is the main table used by subsequent scripts.
+
+Both these tables contain the following columns: "geochronid", "sampleid", "geochrontypeid", "agetypeid", "age", "errorolder", "erroryounger", "infinite", "delta13c", "labnumber", "materialdated", "notes", "analysisunitid", "datasetid", "depenvtid", "collectionunitid", "siteid", "sitename"
+
+This script pulls its data from the Neotoma 2.0 API using functions in the "neotoma2" library.
+
+# load libraries and files
+```{r}
+if ("here" %in% installed.packages()) {require(here)} else {install.packages("here"); require(here)}
+i_am("final_scripts/3_create_datetable.Rmd")
+source(here("final_scripts/functions/3_create_datatable_functions.R"))
+# load file and skip download if possible
+# this will download these tables the first time, and then subsequently call from saved files for future downloads
+if (file.exists(here("data/NAm_sites.RData"))) {
+  load(here("data/NAm_sites.RData"))} else {
+    if (file.exists(here("data/NAm_sites_dls.RData"))) {
+      load(here("data/NAm_sites_dls.Rdata"))}}
+#define North America
+NAm_wkt <- readLines(here("data/NAm_wkt.txt"))
+## If you plot this .wkt, it will have a weird artifact in Beringia where it wraps across the 360th meridian. This does not cause a problem for the download, but if you want to use it for a plot you may want to change from [0,360] to [-180,180] notation for longitude.
+```
+
+# download list of sites by type and convert to dataframe
+```{r}
+#download all sites in North America polygon with "vertebrate fauna" or "geochronologic" datasets
+if (!exists("NAm_sites_vert")) {
+  print("Downloading North American vertebrate sites...")
+  NAm_sites_vert <- get_sites(loc = NAm_wkt, datasettype = "vertebrate fauna", all_data = T, limit = 99999)
+}
+if (!exists("NAm_sites_chron")) {
+  print("Downloading North American sites with geochronologic dates...")
+  NAm_sites_chron <- get_sites(loc = NAm_wkt, datasettype = "geochronologic", all_data = T, limit = 99999)
+}
+chronsites <- getids(NAm_sites_chron);chronsites$type <- "chron"
+vertsites <- getids(NAm_sites_vert);vertsites$type = "vert"
+save(NAm_sites_chron, NAm_sites_vert, vertsites, chronsites, file = here("data/NAm_sites.RData"))
+rm(NAm_sites_vert, NAm_sites_chron)
+```
+
+
+```{r}
+#download sites with both dataset types
+data <- get_sites(as.numeric(intersect(chronsites$siteid, vertsites$siteid)), all_data = TRUE)
+siteinfo <- show(data)
+#get dataset info, split by dataset types
+datasets <- datasets(data)
+datasets.info <- show(datasets)
+datasets.info <- split(datasets.info, datasets.info$datasettype)
+```
+
+
+```{r}
+#filter down to *collections* with vert & chron data (not just sites)
+vert_chron_sites <- getids(data) #returns site, collection, and dataset IDs for all sites in argument
+#all vertebrate dataset IDs and associated siteID & collunitID
+vert_datasets <- subset(vert_chron_sites, vert_chron_sites$datasetid %in% datasets.info$`vertebrate fauna`$datasetid)
+#all chron dataset IDs and associated siteID & collunitID
+chron_datasets <- subset(vert_chron_sites, vert_chron_sites$datasetid %in% datasets.info$geochronologic$datasetid)
+#all collection unit IDs associated with both dataset types
+vert_chron_collunits <- intersect(unique(vert_datasets$collunitid), unique(chron_datasets$collunitid))
+#add the site and dataset IDs back
+vert_and_chron <- subset(vert_chron_sites, vert_chron_sites$collunitid %in% vert_chron_collunits)
+#rename column and convert to integer
+vert_and_chron <- data.frame(apply(vert_and_chron, 2, as.numeric))
+colnames(vert_and_chron)[which(colnames(vert_and_chron) == "collunitid")] <- "collectionunitid"
+#add the dataset type
+vert_and_chron$datasettype <- NA
+vert_and_chron[which(vert_and_chron$datasetid %in% datasets.info$`vertebrate fauna`$datasetid),"datasettype"] <- "vertebrate"
+vert_and_chron[which(vert_and_chron$datasetid %in% datasets.info$geochronologic$datasetid),"datasettype"] <- "geochron"
+#save to disk
+write.csv(vert_and_chron,file = here("data/vert_and_chron.csv"),row.names = F)
+
+##check how many collections were dropped
+print(paste0(c("Collections dropped due to not having both vertebrate and geochron datasets:", 
+        apply(vert_chron_sites[which(!vert_chron_sites$collunitid %in% vert_and_chron$collectionunitid), ], 
+              2, function(x) length(unique(x)))[2]), collapse = " "))
+```
+
+
+
+# download further data
+
+```{r}
+##use Tilia calls to assemble list of samples
+if (exists("samples.ti")) {if (checkRecent(samples.ti) == F) {rm(samples.ti)}}
+require(httr);require(jsonlite);require(dplyr);require(rlist)
+if (!exists("samples.ti")) {
+  samples.ti <- vector(mode = "list",length = nrow(vert_and_chron))
+  print(paste0(c("Downloading geochron sample data for",nrow(vert_and_chron),"datasets..."),collapse = " "))
+  I <- 1; J <- 100
+  while (I <= nrow(vert_and_chron)){
+    for (i in I:J) {
+      temp <- get_from_tilia(values = vert_and_chron$datasetid[i], 
+                             params = "datasetid", 
+                             meth = "getgeochronanalysisunitsbydatasetid")$data
+      if (length(temp) == 0) { temp <- data.frame(sampleid = NA,collectionunitid = NA,
+                                                 analysisunitid = NA,analysisunitname = NA,
+                                                 depth = NA,thickness = NA) }
+      samples.ti[[i]] <- data.frame(datasetid = vert_and_chron$datasetid[i], temp)
+    }
+    save(samples.ti,file = here("data/samples_ti_temp.RData"))
+    if (i %% 1000 == 0) {print(paste0(c(i,"downloaded"),collapse=" "))}
+    I <- i + 1; J <- i + 100
+    if (J > nrow(vert_and_chron)) {J <- nrow(vert_and_chron)} 
+  }
+  print(paste0(c("Done.",length(which(sapply(samples.ti,function(x) is.na(x$sampleid[1])))),"of",length(samples.ti),"failed."),collapse = " "))
+  #getting sampleid and analysisunitid by datasetid
+} #run time: ~15 minutes
+samples.ids <- distinct(list.stack(samples.ti)[, c("datasetid", "sampleid", "analysisunitid")])
+samples.ids <- subset(samples.ids,!is.na(samples.ids$sampleid))
+```
+
+
+```{r}
+##use Tilia calls to assemble list of geochronology data
+require(httr);require(jsonlite);require(dplyr);require(rlist)
+if (exists("geochrons.ti")) {if (checkRecent(geochrons.ti) == F) {rm(geochrons.ti)}}
+if (!exists("geochrons.ti")) {
+  chron <- subset(vert_and_chron,vert_and_chron$datasettype == "geochron")
+  geochrons.ti <- vector(mode = "list",length = nrow(chron))
+  print(paste0(c("Downloading geochron data for",nrow(chron),"datasets..."),collapse = " "))
+  I <- 1; J <- 100
+  while (I <= nrow(chron)){
+    for (i in I:J) {
+      temp <- get_from_tilia(values = chron$datasetid[i], 
+                             params = "datasetid", 
+                             meth = "getgeochronbydatasetid")$data
+      if (length(temp) == 0) { 
+        temp <- data.frame(geochronid = NA, geochrontypeid = NA, geochrontype = NA,
+                           agetype = NA, depth = NA, thickness = NA, analysisunitid = NA,
+                           analysisunitname = NA, age = NA, errorolder = NA, erroryounger = NA,
+                           infinite = NA, labnumber = NA, materialdated = NA, notes = NA) }
+      geochrons.ti[[i]] <- data.frame(datasetid = chron$datasetid[i], temp)
+    }
+    save(geochrons.ti,file = here("data/geochrons_ti_temp.RData"))
+    if (i %% 500 == 0) {print(paste0(c(i,"downloaded"),collapse=" "))}
+    I <- i + 1; J <- i + 100
+    if (J > nrow(chron)) {J <- nrow(chron)} 
+  }
+  print(paste0(c("Done.",length(which(sapply(geochrons.ti,function(x) is.na(x$geochronid[1])))),"of",length(geochrons.ti),"failed."),collapse = " "))
+}
+geochrons.ti <- distinct(list.stack(geochrons.ti)[, c(1,2,4,5,8:16)])
+geochrons.ti <- subset(geochrons.ti,!is.na(geochrons.ti$geochronid))
+```
+
+
+```{r}
+##use Tilia calls to assemble list of collection units
+require(httr);require(jsonlite);require(dplyr);require(rlist)
+if (exists("collections.ti")) {if (checkRecent(collections.ti) == F) {rm(collections.ti)}}
+if (!exists("collections.ti")) {
+  colls <- unique(vert_and_chron$collectionunitid)
+  collections.ti <- vector(mode = "list",length = length(colls))
+  print(paste0(c("Downloading data for",length(colls),"collections..."),collapse = " "))
+  I <- 1; J <- 100
+  while (I <= length(colls)) {
+    for (i in I:J) {
+      temp <- get_from_tilia(values = colls[i], 
+                             params = "collectionunitid", 
+                             meth = "getcollunitbyid")$data
+      if (length(temp) == 0) { 
+        temp <- data.frame(collectionunitid = NA,handle = NA,siteid = NA,colltypeid = NA,
+                           depenvtid = NA,collunitname = NA,colldate = NA,colldevice = NA,
+                           gpslatitude = NA,gpslongitude = NA,gpsaltitude = NA,gpserror = NA,
+                           waterdepth = NA,substrateid = NA,slopeaspect = NA,slopeangle = NA,
+                           location = NA,notes = NA) }
+      collections.ti[[i]] <- data.frame(datasetid = colls[i], temp)
+    }
+    save(collections.ti,file = here("data/collections_ti_temp.RData"))
+    if (i %% 500 == 0) {print(paste0(c(i,"downloaded"),collapse = " "))}
+    I <- i + 1; J <- i + 100
+    if (J > length(colls)) {J <- length(colls)} 
+  }
+  print(paste0(c("Done.",length(which(sapply(collections.ti,function(x) is.na(x$collectionunitid[1])))),"of",length(collections.ti),"failed."),collapse = " "))
+}
+collections.ti <- distinct(list.stack(collections.ti)[,c("collectionunitid","depenvtid")])
+```
+
+
+```{r}
+if (exists("geochronology.table")) {if (checkRecent(geochronology.table) == F) {rm(geochronology.table)}}
+if (!exists("geochronology.table")) {print("Downloading table 'geochronology'...")
+  geochronology.table <- distinct(get_table("geochronology", limit = 99999999))}
+
+#merge all together
+a <- distinct(inner_join(subset(vert_and_chron,vert_and_chron$datasettype == "geochron"),
+                         distinct(samples.ids[,c(1,3)]),by = "datasetid"))
+b <- distinct(right_join(a, geochrons.ti, by = "analysisunitid"))
+c <- distinct(inner_join(b,data.frame(siteid = as.numeric(siteinfo$siteid),siteinfo = siteinfo$sitename),by = "siteid"))
+d <- distinct(inner_join(c, collections.ti, by = "collectionunitid")) ## ERROR this line is not working! collections.ti is a list, c is a data.frame
+e <- distinct(left_join(d,distinct(geochronology.table[,c("geochronid","sampleid","delta13c")]),by="geochronid"))
+
+geochrons.all <- e[,c("siteid", "collectionunitid", "sampleid", "datasetid.x", "analysisunitid", 
+                  "geochronid", "geochrontype", "agetype", "age", "errorolder", "erroryounger", 
+          "infinite", "delta13c", "labnumber", "materialdated", "notes", "depenvtid", "siteinfo")]
+colnames(geochrons.all) <- c("siteid", "collectionunitid", "sampleid", "datasetid", "analysisunitid",
+                  "geochronid", "geochrontypeid", "agetypeid", "age", "errorolder", "erroryounger", 
+          "infinite", "delta13c", "labnumber", "materialdated", "notes", "depenvtid", "sitename")
+
+print(paste(nrow(geochrons.all), "dates found before filtering by taxonomy and age", collapse = " "))
+write.csv(geochrons.all, here("data/dates_for_analysis_allvert.csv"), row.names = F)
+```
+
+# filter by age 
+
+```{r}
+##filter geochrons.all to only <30ka
+colls.agelimit <- subset(geochrons.all, geochrons.all$age <= agelimit | 
+                       (geochrons.all$age - geochrons.all$erroryounger) <= agelimit)$collectionunitid
+#how many rows do we want to drop?
+nrow(geochrons.all) - nrow(subset(geochrons.all, geochrons.all$collectionunitid %in% colls.agelimit))
+#use dates from collection units containing dates within specified age range
+geochrons <- subset(geochrons.all, geochrons.all$collectionunitid %in% colls.agelimit) 
+print(paste(nrow(geochrons), "dates from collection units with ages below age limit", 
+            collapse = " "))
+```
+
+# filter by taxon
+## get list of small mammal taxa
+```{r}
+##taxon list defined as "smalltaxa" in filter_taxa.Rmd
+if (!file.exists(here("data/smallmammaltaxa.csv"))) {
+  source(here("final_scripts/functions/filter_taxa.R"))
+} 
+smalltaxa <- read.csv(here("data/smallmammaltaxa.csv"))
+```
+
+# select datasetids of only vertebrate datasets from collections in geochrons.all
+```{r}
+rm(i)
+if (exists("taxonids")) {if (any(!geochrons$datasetid %in% taxonids$datasetid)) rm(taxonids)}
+if (!exists("taxonids")) {
+  vert.datasets <- unique(intersect(subset(vert_and_chron,
+                                  vert_and_chron$collectionunitid %in% geochrons.all$collectionunitid)[, "datasetid"],
+                           datasets.info$`vertebrate fauna`$datasetid))
+  temp <- vector(mode = "list",length = length(vert.datasets))
+  print("Downloading taxon IDs...")
+  if (exists("i")) {I <- i + 1; J <- round(i + 51,-2)} else {I <- 1; J <- 100}
+  pb = txtProgressBar(min = I - 1, max = length(vert.datasets), initial = I)
+  while (I <= length(vert.datasets)){
+    for (i in I:J) {
+      verts.temp <- try(get_from_tilia(vert.datasets[i],param = "datasetid",meth = "getdatasetvariables")$data) 
+      vals <- smalltaxa[na.omit(match(verts.temp$taxoncode,smalltaxa$taxoncode)), "taxonid"]
+      temp[[i]] <- data.frame(datasetid = rep(vert.datasets[i],length(vals)),
+                              taxonid = vals)
+      setTxtProgressBar(pb, i)
+    }
+    I <- i + 1; J <- i + 100
+    if (J > length(vert.datasets)) {J <- length(vert.datasets)} 
+  }
+  close(pb)
+  taxonids <- distinct(rlist::list.stack(temp))
+  write.csv(taxonids,here("data/taxonids.csv"),row.names = F)
+}
+smallmamm.colls <- unique(subset(vert_and_chron, vert_and_chron$datasetid %in% taxonids$datasetid)$collectionunitid)
+smallmamm.sites <- unique(subset(vert_and_chron, vert_and_chron$datasetid %in% taxonids$datasetid)$siteid)
+```
+
+## filter geochrons.all to only dates from collections containing small mammals
+```{r}
+geochrons <- subset(geochrons, geochrons$collectionunitid %in% smallmamm.colls)
+print(paste(nrow(geochrons), "dates found from small mammal collections =< 30ka"))
+
+geochrons$rejected <- FALSE
+geochrons[grepl("[Dd]ate rejected",geochrons$notes) | grepl("[Dd]ate too",geochrons$notes) | grepl("[Cc]ontamination probable",geochrons$notes),"rejected"] <- TRUE
+geochrons <- distinct(geochrons)
+
+#print counts
+print(c("Unique values:",
+        apply(geochrons[, c("geochronid", "analysisunitid", "collectionunitid")], 2, function(x) length(unique(x)))))
+print(c(round(table(geochrons$agetypeid)[1]/nrow(geochrons)*100), "% of dates already calibrated"))
+```
+
+# save results
+```{r}
+write.csv(geochrons, here("data/dates_for_analysis_smallmamm.csv"), row.names = F)
+```
+
+# clear workspace 
+```{r}
+#remove objects other than geochrons, geochrons_all, smalltaxa
+objectlist <- ls()
+rm(list = objectlist[which(!objectlist %in% c("geochrons","geochrons_all","smalltaxa"))]); rm(objectlist)
+```
+

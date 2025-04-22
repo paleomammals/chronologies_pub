@@ -1,0 +1,29 @@
+Options()
+ {
+  BCAD=FALSE;
+  Curve("IntCal20","IntCal20.14c");
+  Resolution=100;
+ };
+ Plot()
+ {
+  Phase("Collection Unit 11771")
+  {
+    Sequence("AU 117411")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 117411")
+     {
+      R_Date('15124[CAMS 88275]',16270,170);
+      R_Date('15125[CAMS 74625]',16340,60);
+      R_Date('15126[CAMS 88274]',16460,170);
+      R_Date('15127[CAMS 74624]',18010,100);
+      R_Date('15128[CAMS 102798]',16340,60);
+      R_Date('15129[CAMS 97341]',16965,45);
+      R_Date('15130[CAMS 102797]',17100,70);
+      C_Date('15131[MHA02-M7, Uranium series]',14090,1150);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+  };
+ };

@@ -1,0 +1,13 @@
+"analysisunitid","chronology.agemodel","sampleages.age","sampleages.ageolder","sampleages.ageyounger"
+243042,"event",1524,1674,1384
+243043,"event",2274,2494,2074
+243044,"event",2304,2504,2114
+243045,"event",2544,2704,2374
+243046,"event",3324,3484,3154
+243047,"event",3374,3544,3194
+243042,"bounds",NA,1994,1064
+243043,"bounds",NA,2924,1654
+243044,"bounds",NA,2884,1734
+243045,"bounds",NA,3044,2044
+243046,"bounds",NA,3834,2804
+243047,"bounds",NA,3924,2814

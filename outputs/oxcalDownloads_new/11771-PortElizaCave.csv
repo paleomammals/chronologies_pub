@@ -1,0 +1,1305 @@
+"index","op","name","z","type","value","probability"
+4,"Boundary","beginAnalysisUnit",,"posterior",-36259.5,0
+4,"Boundary","beginAnalysisUnit",,"posterior",-36159.5,0
+4,"Boundary","beginAnalysisUnit",,"posterior",-36059.5,4.177e-8
+4,"Boundary","beginAnalysisUnit",,"posterior",-35959.5,9.356e-8
+4,"Boundary","beginAnalysisUnit",,"posterior",-35859.5,6.265e-8
+4,"Boundary","beginAnalysisUnit",,"posterior",-35759.5,7.268e-8
+4,"Boundary","beginAnalysisUnit",,"posterior",-35659.5,8.354e-8
+4,"Boundary","beginAnalysisUnit",,"posterior",-35559.5,1.0442e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-35459.5,7.268e-8
+4,"Boundary","beginAnalysisUnit",,"posterior",-35359.5,1.3533e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-35259.5,6.265e-8
+4,"Boundary","beginAnalysisUnit",,"posterior",-35159.5,7.268e-8
+4,"Boundary","beginAnalysisUnit",,"posterior",-35059.5,1.2531e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-34959.5,3.0909e-8
+4,"Boundary","beginAnalysisUnit",,"posterior",-34859.5,1.3533e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-34759.5,1.2531e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-34659.5,1.0442e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-34559.5,1.3533e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-34459.5,1.4619e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-34359.5,9.356e-8
+4,"Boundary","beginAnalysisUnit",,"posterior",-34259.5,1.1445e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-34159.5,1.5622e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-34059.5,1.5622e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-33959.5,1.3533e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-33859.5,2.3975e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-33759.5,1.3533e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-33659.5,2.3975e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-33559.5,2.2889e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-33459.5,1.2531e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-33359.5,1.5622e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-33259.5,1.0442e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-33159.5,2.1887e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-33059.5,1.5622e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-32959.5,2.7066e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-32859.5,1.8712e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-32759.5,2.2889e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-32659.5,2.1887e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-32559.5,2.8152e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-32459.5,2.2889e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-32359.5,1.771e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-32259.5,2.4978e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-32159.5,2.9155e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-32059.5,2.7066e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-31959.5,3.233e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-31859.5,2.9155e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-31759.5,3.642e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-31659.5,3.642e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-31559.5,3.333e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-31459.5,3.433e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-31359.5,3.751e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-31259.5,3.542e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-31159.5,3.642e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-31059.5,4.06e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-30959.5,3.642e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-30859.5,3.851e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-30759.5,4.269e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-30659.5,4.377e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-30559.5,4.377e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-30459.5,3.851e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-30359.5,5.622e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-30259.5,7.602e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-30159.5,5.94e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-30059.5,5.831e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-29959.5,5.622e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-29859.5,6.249e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-29759.5,7.502e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-29659.5,6.975e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-29559.5,6.666e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-29459.5,0.0000010108
+4,"Boundary","beginAnalysisUnit",,"posterior",-29359.5,6.357e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-29259.5,8.437e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-29159.5,0.0000010417
+4,"Boundary","beginAnalysisUnit",,"posterior",-29059.5,7.602e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-28959.5,0.0000011562
+4,"Boundary","beginAnalysisUnit",,"posterior",-28859.5,9.69e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-28759.5,9.791e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-28659.5,0.000001573
+4,"Boundary","beginAnalysisUnit",,"posterior",-28559.5,0.000001375
+4,"Boundary","beginAnalysisUnit",,"posterior",-28459.5,0.0000015104
+4,"Boundary","beginAnalysisUnit",,"posterior",-28359.5,7.711e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-28259.5,0.0000015212
+4,"Boundary","beginAnalysisUnit",,"posterior",-28159.5,0.0000014477
+4,"Boundary","beginAnalysisUnit",,"posterior",-28059.5,0.0000019999
+4,"Boundary","beginAnalysisUnit",,"posterior",-27959.5,0.0000014586
+4,"Boundary","beginAnalysisUnit",,"posterior",-27859.5,0.0000013541
+4,"Boundary","beginAnalysisUnit",,"posterior",-27759.5,0.0000020726
+4,"Boundary","beginAnalysisUnit",,"posterior",-27659.5,0.0000018854
+4,"Boundary","beginAnalysisUnit",,"posterior",-27559.5,0.0000021979
+4,"Boundary","beginAnalysisUnit",,"posterior",-27459.5,0.0000018754
+4,"Boundary","beginAnalysisUnit",,"posterior",-27359.5,0.0000023232
+4,"Boundary","beginAnalysisUnit",,"posterior",-27259.5,0.0000020316
+4,"Boundary","beginAnalysisUnit",,"posterior",-27159.5,0.0000023441
+4,"Boundary","beginAnalysisUnit",,"posterior",-27059.5,0.0000028336
+4,"Boundary","beginAnalysisUnit",,"posterior",-26959.5,0.0000028127
+4,"Boundary","beginAnalysisUnit",,"posterior",-26859.5,0.0000027083
+4,"Boundary","beginAnalysisUnit",,"posterior",-26759.5,0.0000030934
+4,"Boundary","beginAnalysisUnit",,"posterior",-26659.5,0.000003573
+4,"Boundary","beginAnalysisUnit",,"posterior",-26559.5,0.000003625
+4,"Boundary","beginAnalysisUnit",,"posterior",-26459.5,0.000003813
+4,"Boundary","beginAnalysisUnit",,"posterior",-26359.5,0.000004125
+4,"Boundary","beginAnalysisUnit",,"posterior",-26259.5,0.000005146
+4,"Boundary","beginAnalysisUnit",,"posterior",-26159.5,0.000005125
+4,"Boundary","beginAnalysisUnit",,"posterior",-26059.5,0.000004656
+4,"Boundary","beginAnalysisUnit",,"posterior",-25959.5,0.000005323
+4,"Boundary","beginAnalysisUnit",,"posterior",-25859.5,0.000005645
+4,"Boundary","beginAnalysisUnit",,"posterior",-25759.5,0.000005969
+4,"Boundary","beginAnalysisUnit",,"posterior",-25659.5,0.000006782
+4,"Boundary","beginAnalysisUnit",,"posterior",-25559.5,0.000006594
+4,"Boundary","beginAnalysisUnit",,"posterior",-25459.5,0.000006885
+4,"Boundary","beginAnalysisUnit",,"posterior",-25359.5,0.000007552
+4,"Boundary","beginAnalysisUnit",,"posterior",-25259.5,0.000007635
+4,"Boundary","beginAnalysisUnit",,"posterior",-25159.5,0.000009323
+4,"Boundary","beginAnalysisUnit",,"posterior",-25059.5,0.000009729
+4,"Boundary","beginAnalysisUnit",,"posterior",-24959.5,0.000009281
+4,"Boundary","beginAnalysisUnit",,"posterior",-24859.5,0.000009334
+4,"Boundary","beginAnalysisUnit",,"posterior",-24759.5,0.000011844
+4,"Boundary","beginAnalysisUnit",,"posterior",-24659.5,0.000011229
+4,"Boundary","beginAnalysisUnit",,"posterior",-24559.5,0.000012417
+4,"Boundary","beginAnalysisUnit",,"posterior",-24459.5,0.000014229
+4,"Boundary","beginAnalysisUnit",,"posterior",-24359.5,0.000014979
+4,"Boundary","beginAnalysisUnit",,"posterior",-24259.5,0.000015261
+4,"Boundary","beginAnalysisUnit",,"posterior",-24159.5,0.000019021
+4,"Boundary","beginAnalysisUnit",,"posterior",-24059.5,0.00001925
+4,"Boundary","beginAnalysisUnit",,"posterior",-23959.5,0.000019083
+4,"Boundary","beginAnalysisUnit",,"posterior",-23859.5,0.000022521
+4,"Boundary","beginAnalysisUnit",,"posterior",-23759.5,0.000022906
+4,"Boundary","beginAnalysisUnit",,"posterior",-23659.5,0.000023511
+4,"Boundary","beginAnalysisUnit",,"posterior",-23559.5,0.000029834
+4,"Boundary","beginAnalysisUnit",,"posterior",-23459.5,0.000029292
+4,"Boundary","beginAnalysisUnit",,"posterior",-23359.5,0.00003194
+4,"Boundary","beginAnalysisUnit",,"posterior",-23259.5,0.00003573
+4,"Boundary","beginAnalysisUnit",,"posterior",-23159.5,0.00003953
+4,"Boundary","beginAnalysisUnit",,"posterior",-23059.5,0.00003951
+4,"Boundary","beginAnalysisUnit",,"posterior",-22959.5,0.00004272
+4,"Boundary","beginAnalysisUnit",,"posterior",-22859.5,0.00005227
+4,"Boundary","beginAnalysisUnit",,"posterior",-22759.5,0.00005427
+4,"Boundary","beginAnalysisUnit",,"posterior",-22659.5,0.00005723
+4,"Boundary","beginAnalysisUnit",,"posterior",-22559.5,0.00006732
+4,"Boundary","beginAnalysisUnit",,"posterior",-22459.5,0.00007029
+4,"Boundary","beginAnalysisUnit",,"posterior",-22359.5,0.00007897
+4,"Boundary","beginAnalysisUnit",,"posterior",-22259.5,0.00008259
+4,"Boundary","beginAnalysisUnit",,"posterior",-22159.5,0.0000934
+4,"Boundary","beginAnalysisUnit",,"posterior",-22059.5,0.00009945
+4,"Boundary","beginAnalysisUnit",,"posterior",-21959.5,0.00011459
+4,"Boundary","beginAnalysisUnit",,"posterior",-21859.5,0.00012046
+4,"Boundary","beginAnalysisUnit",,"posterior",-21759.5,0.0001409
+4,"Boundary","beginAnalysisUnit",,"posterior",-21659.5,0.00015028
+4,"Boundary","beginAnalysisUnit",,"posterior",-21559.5,0.00016797
+4,"Boundary","beginAnalysisUnit",,"posterior",-21459.5,0.00018594
+4,"Boundary","beginAnalysisUnit",,"posterior",-21359.5,0.00019953
+4,"Boundary","beginAnalysisUnit",,"posterior",-21259.5,0.00023627
+4,"Boundary","beginAnalysisUnit",,"posterior",-21159.5,0.00024978
+4,"Boundary","beginAnalysisUnit",,"posterior",-21059.5,0.00028779
+4,"Boundary","beginAnalysisUnit",,"posterior",-20959.5,0.00031026
+4,"Boundary","beginAnalysisUnit",,"posterior",-20859.5,0.0003497
+4,"Boundary","beginAnalysisUnit",,"posterior",-20759.5,0.0003979
+4,"Boundary","beginAnalysisUnit",,"posterior",-20659.5,0.0004459
+4,"Boundary","beginAnalysisUnit",,"posterior",-20559.5,0.0005388
+4,"Boundary","beginAnalysisUnit",,"posterior",-20459.5,0.0005861
+4,"Boundary","beginAnalysisUnit",,"posterior",-20359.5,0.0006621
+4,"Boundary","beginAnalysisUnit",,"posterior",-20259.5,0.0007461
+4,"Boundary","beginAnalysisUnit",,"posterior",-20159.5,0.0008354
+4,"Boundary","beginAnalysisUnit",,"posterior",-20059.5,0.0007347
+4,"Boundary","beginAnalysisUnit",,"posterior",-19959.5,0.0005342
+4,"Boundary","beginAnalysisUnit",,"posterior",-19859.5,0.0003274
+4,"Boundary","beginAnalysisUnit",,"posterior",-19759.5,0.00019631
+4,"Boundary","beginAnalysisUnit",,"posterior",-19659.5,0.00013374
+4,"Boundary","beginAnalysisUnit",,"posterior",-19559.5,0.00004571
+4,"Boundary","beginAnalysisUnit",,"posterior",-19459.5,0.000006708
+4,"Boundary","beginAnalysisUnit",,"posterior",-19359.5,0
+4,"Boundary","beginAnalysisUnit",,"posterior",-19259.5,0
+4,"Boundary","beginAnalysisUnit",,"posterior",-19159.5,0
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-19099.5,0
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-18999.5,0
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-18899.5,1.7884e-9
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-18799.5,1.7884e-8
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-18699.5,3.934e-8
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-18599.5,2.3427e-7
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-18499.5,0.000003777
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-18399.5,0.000018999
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-18299.5,0.00006447
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-18199.5,0.00017088
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-18099.5,0.00038
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-17999.5,0.0006297
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-17899.5,0.0013364
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-17799.5,0.0017048
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-17699.5,0.0016725
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-17599.5,0.0017884
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-17499.5,0.0010481
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-17399.5,0.0005772
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-17299.5,0.0004017
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-17199.5,0.00015887
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-17099.5,0.00003568
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-16999.5,0.000007819
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-16899.5,4.399e-7
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-16799.5,3.577e-9
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-16699.5,0
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-16599.5,0
+6,"R_Date","15124[CAMS 88275]",,"likelihood",-16499.5,0
+6,"R_Date","15124[CAMS 88275]",,"posterior",-18799.5,0
+6,"R_Date","15124[CAMS 88275]",,"posterior",-18699.5,4.19e-8
+6,"R_Date","15124[CAMS 88275]",,"posterior",-18599.5,3.44e-7
+6,"R_Date","15124[CAMS 88275]",,"posterior",-18499.5,0.000004218
+6,"R_Date","15124[CAMS 88275]",,"posterior",-18399.5,0.000020489
+6,"R_Date","15124[CAMS 88275]",,"posterior",-18299.5,0.0000672
+6,"R_Date","15124[CAMS 88275]",,"posterior",-18199.5,0.00017427
+6,"R_Date","15124[CAMS 88275]",,"posterior",-18099.5,0.0003739
+6,"R_Date","15124[CAMS 88275]",,"posterior",-17999.5,0.0006671
+6,"R_Date","15124[CAMS 88275]",,"posterior",-17899.5,0.00128
+6,"R_Date","15124[CAMS 88275]",,"posterior",-17799.5,0.0016342
+6,"R_Date","15124[CAMS 88275]",,"posterior",-17699.5,0.0017412
+6,"R_Date","15124[CAMS 88275]",,"posterior",-17599.5,0.001746
+6,"R_Date","15124[CAMS 88275]",,"posterior",-17499.5,0.0010949
+6,"R_Date","15124[CAMS 88275]",,"posterior",-17399.5,0.0006006
+6,"R_Date","15124[CAMS 88275]",,"posterior",-17299.5,0.0003878
+6,"R_Date","15124[CAMS 88275]",,"posterior",-17199.5,0.0001601
+6,"R_Date","15124[CAMS 88275]",,"posterior",-17099.5,0.00003892
+6,"R_Date","15124[CAMS 88275]",,"posterior",-16999.5,0.000008187
+6,"R_Date","15124[CAMS 88275]",,"posterior",-16899.5,6.146e-7
+6,"R_Date","15124[CAMS 88275]",,"posterior",-16799.5,0
+6,"R_Date","15124[CAMS 88275]",,"posterior",-16699.5,0
+6,"R_Date","15124[CAMS 88275]",,"posterior",-16599.5,0
+7,"R_Date","15125[CAMS 74625]",,"likelihood",-18499.5,0
+7,"R_Date","15125[CAMS 74625]",,"likelihood",-18399.5,0
+7,"R_Date","15125[CAMS 74625]",,"likelihood",-18299.5,0
+7,"R_Date","15125[CAMS 74625]",,"likelihood",-18199.5,1.9669e-7
+7,"R_Date","15125[CAMS 74625]",,"likelihood",-18099.5,0.000012648
+7,"R_Date","15125[CAMS 74625]",,"likelihood",-17999.5,0.00010752
+7,"R_Date","15125[CAMS 74625]",,"likelihood",-17899.5,0.0019958
+7,"R_Date","15125[CAMS 74625]",,"likelihood",-17799.5,0.003512
+7,"R_Date","15125[CAMS 74625]",,"likelihood",-17699.5,0.003346
+7,"R_Date","15125[CAMS 74625]",,"likelihood",-17599.5,0.0010224
+7,"R_Date","15125[CAMS 74625]",,"likelihood",-17499.5,0.000003512
+7,"R_Date","15125[CAMS 74625]",,"likelihood",-17399.5,2.8098e-8
+7,"R_Date","15125[CAMS 74625]",,"likelihood",-17299.5,0
+7,"R_Date","15125[CAMS 74625]",,"likelihood",-17199.5,0
+7,"R_Date","15125[CAMS 74625]",,"likelihood",-17099.5,0
+7,"R_Date","15125[CAMS 74625]",,"posterior",-18399.5,0
+7,"R_Date","15125[CAMS 74625]",,"posterior",-18299.5,0
+7,"R_Date","15125[CAMS 74625]",,"posterior",-18199.5,3.554e-7
+7,"R_Date","15125[CAMS 74625]",,"posterior",-18099.5,0.000015147
+7,"R_Date","15125[CAMS 74625]",,"posterior",-17999.5,0.00019723
+7,"R_Date","15125[CAMS 74625]",,"posterior",-17899.5,0.0018874
+7,"R_Date","15125[CAMS 74625]",,"posterior",-17799.5,0.003418
+7,"R_Date","15125[CAMS 74625]",,"posterior",-17699.5,0.003303
+7,"R_Date","15125[CAMS 74625]",,"posterior",-17599.5,0.0011573
+7,"R_Date","15125[CAMS 74625]",,"posterior",-17499.5,0.000021552
+7,"R_Date","15125[CAMS 74625]",,"posterior",-17399.5,6.152e-8
+7,"R_Date","15125[CAMS 74625]",,"posterior",-17299.5,0
+7,"R_Date","15125[CAMS 74625]",,"posterior",-17199.5,0
+7,"R_Date","15125[CAMS 74625]",,"posterior",-17099.5,0
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-19299.5,0
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-19199.5,0
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-19099.5,0
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-18999.5,5.004e-9
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-18899.5,1.4678e-7
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-18799.5,0.0000011976
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-18699.5,0.0000022551
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-18599.5,0.000008995
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-18499.5,0.00007448
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-18399.5,0.00023161
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-18299.5,0.0005094
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-18199.5,0.0008925
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-18099.5,0.0013021
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-17999.5,0.0015685
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-17899.5,0.001668
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-17799.5,0.0014236
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-17699.5,0.0014435
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-17599.5,0.0006527
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-17499.5,0.00014382
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-17399.5,0.00004637
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-17299.5,0.000024721
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-17199.5,0.000005581
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-17099.5,5.988e-7
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-16999.5,7.005e-8
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-16899.5,1.668e-9
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-16799.5,0
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-16699.5,0
+8,"R_Date","15126[CAMS 88274]",,"likelihood",-16599.5,0
+8,"R_Date","15126[CAMS 88274]",,"posterior",-19099.5,0
+8,"R_Date","15126[CAMS 88274]",,"posterior",-18999.5,9.978e-9
+8,"R_Date","15126[CAMS 88274]",,"posterior",-18899.5,1.5633e-7
+8,"R_Date","15126[CAMS 88274]",,"posterior",-18799.5,0.0000013122
+8,"R_Date","15126[CAMS 88274]",,"posterior",-18699.5,0.0000029486
+8,"R_Date","15126[CAMS 88274]",,"posterior",-18599.5,0.000011708
+8,"R_Date","15126[CAMS 88274]",,"posterior",-18499.5,0.00007492
+8,"R_Date","15126[CAMS 88274]",,"posterior",-18399.5,0.00023063
+8,"R_Date","15126[CAMS 88274]",,"posterior",-18299.5,0.000506
+8,"R_Date","15126[CAMS 88274]",,"posterior",-18199.5,0.0008917
+8,"R_Date","15126[CAMS 88274]",,"posterior",-18099.5,0.0012997
+8,"R_Date","15126[CAMS 88274]",,"posterior",-17999.5,0.0015897
+8,"R_Date","15126[CAMS 88274]",,"posterior",-17899.5,0.0016631
+8,"R_Date","15126[CAMS 88274]",,"posterior",-17799.5,0.0014645
+8,"R_Date","15126[CAMS 88274]",,"posterior",-17699.5,0.0013488
+8,"R_Date","15126[CAMS 88274]",,"posterior",-17599.5,0.0006613
+8,"R_Date","15126[CAMS 88274]",,"posterior",-17499.5,0.00017338
+8,"R_Date","15126[CAMS 88274]",,"posterior",-17399.5,0.00005021
+8,"R_Date","15126[CAMS 88274]",,"posterior",-17299.5,0.000023198
+8,"R_Date","15126[CAMS 88274]",,"posterior",-17199.5,0.000005947
+8,"R_Date","15126[CAMS 88274]",,"posterior",-17099.5,7.085e-7
+8,"R_Date","15126[CAMS 88274]",,"posterior",-16999.5,1.8793e-7
+8,"R_Date","15126[CAMS 88274]",,"posterior",-16899.5,0
+8,"R_Date","15126[CAMS 88274]",,"posterior",-16799.5,0
+9,"R_Date","15127[CAMS 74624]",,"likelihood",-20799.5,0
+9,"R_Date","15127[CAMS 74624]",,"likelihood",-20699.5,0
+9,"R_Date","15127[CAMS 74624]",,"likelihood",-20599.5,0
+9,"R_Date","15127[CAMS 74624]",,"likelihood",-20499.5,2.5871e-8
+9,"R_Date","15127[CAMS 74624]",,"likelihood",-20399.5,0.000006315
+9,"R_Date","15127[CAMS 74624]",,"likelihood",-20299.5,0.00013524
+9,"R_Date","15127[CAMS 74624]",,"likelihood",-20199.5,0.0007123
+9,"R_Date","15127[CAMS 74624]",,"likelihood",-20099.5,0.0022292
+9,"R_Date","15127[CAMS 74624]",,"likelihood",-19999.5,0.0028746
+9,"R_Date","15127[CAMS 74624]",,"likelihood",-19899.5,0.0020205
+9,"R_Date","15127[CAMS 74624]",,"likelihood",-19799.5,0.0008701
+9,"R_Date","15127[CAMS 74624]",,"likelihood",-19699.5,0.0004355
+9,"R_Date","15127[CAMS 74624]",,"likelihood",-19599.5,0.000509
+9,"R_Date","15127[CAMS 74624]",,"likelihood",-19499.5,0.00020375
+9,"R_Date","15127[CAMS 74624]",,"likelihood",-19399.5,0.0000028114
+9,"R_Date","15127[CAMS 74624]",,"likelihood",-19299.5,5.174e-7
+9,"R_Date","15127[CAMS 74624]",,"likelihood",-19199.5,1.5235e-7
+9,"R_Date","15127[CAMS 74624]",,"likelihood",-19099.5,2.8746e-8
+9,"R_Date","15127[CAMS 74624]",,"likelihood",-18999.5,0
+9,"R_Date","15127[CAMS 74624]",,"likelihood",-18899.5,0
+9,"R_Date","15127[CAMS 74624]",,"likelihood",-18799.5,0
+9,"R_Date","15127[CAMS 74624]",,"posterior",-20699.5,0
+9,"R_Date","15127[CAMS 74624]",,"posterior",-20599.5,0
+9,"R_Date","15127[CAMS 74624]",,"posterior",-20499.5,6.292e-8
+9,"R_Date","15127[CAMS 74624]",,"posterior",-20399.5,0.000005647
+9,"R_Date","15127[CAMS 74624]",,"posterior",-20299.5,0.00009948
+9,"R_Date","15127[CAMS 74624]",,"posterior",-20199.5,0.0005714
+9,"R_Date","15127[CAMS 74624]",,"posterior",-20099.5,0.001794
+9,"R_Date","15127[CAMS 74624]",,"posterior",-19999.5,0.0026216
+9,"R_Date","15127[CAMS 74624]",,"posterior",-19899.5,0.0021107
+9,"R_Date","15127[CAMS 74624]",,"posterior",-19799.5,0.0011061
+9,"R_Date","15127[CAMS 74624]",,"posterior",-19699.5,0.0006742
+9,"R_Date","15127[CAMS 74624]",,"posterior",-19599.5,0.0006965
+9,"R_Date","15127[CAMS 74624]",,"posterior",-19499.5,0.00030593
+9,"R_Date","15127[CAMS 74624]",,"posterior",-19399.5,0.000012896
+9,"R_Date","15127[CAMS 74624]",,"posterior",-19299.5,9.49e-7
+9,"R_Date","15127[CAMS 74624]",,"posterior",-19199.5,4.168e-7
+9,"R_Date","15127[CAMS 74624]",,"posterior",-19099.5,7.341e-8
+9,"R_Date","15127[CAMS 74624]",,"posterior",-18999.5,2.0973e-8
+10,"R_Date","15128[CAMS 102798]",,"likelihood",-18499.5,0
+10,"R_Date","15128[CAMS 102798]",,"likelihood",-18399.5,0
+10,"R_Date","15128[CAMS 102798]",,"likelihood",-18299.5,0
+10,"R_Date","15128[CAMS 102798]",,"likelihood",-18199.5,1.9669e-7
+10,"R_Date","15128[CAMS 102798]",,"likelihood",-18099.5,0.000012648
+10,"R_Date","15128[CAMS 102798]",,"likelihood",-17999.5,0.00010752
+10,"R_Date","15128[CAMS 102798]",,"likelihood",-17899.5,0.0019958
+10,"R_Date","15128[CAMS 102798]",,"likelihood",-17799.5,0.003512
+10,"R_Date","15128[CAMS 102798]",,"likelihood",-17699.5,0.003346
+10,"R_Date","15128[CAMS 102798]",,"likelihood",-17599.5,0.0010224
+10,"R_Date","15128[CAMS 102798]",,"likelihood",-17499.5,0.000003512
+10,"R_Date","15128[CAMS 102798]",,"likelihood",-17399.5,2.8098e-8
+10,"R_Date","15128[CAMS 102798]",,"likelihood",-17299.5,0
+10,"R_Date","15128[CAMS 102798]",,"likelihood",-17199.5,0
+10,"R_Date","15128[CAMS 102798]",,"likelihood",-17099.5,0
+10,"R_Date","15128[CAMS 102798]",,"posterior",-18399.5,0
+10,"R_Date","15128[CAMS 102798]",,"posterior",-18299.5,0
+10,"R_Date","15128[CAMS 102798]",,"posterior",-18199.5,3.423e-7
+10,"R_Date","15128[CAMS 102798]",,"posterior",-18099.5,0.000014897
+10,"R_Date","15128[CAMS 102798]",,"posterior",-17999.5,0.00019479
+10,"R_Date","15128[CAMS 102798]",,"posterior",-17899.5,0.0018714
+10,"R_Date","15128[CAMS 102798]",,"posterior",-17799.5,0.003423
+10,"R_Date","15128[CAMS 102798]",,"posterior",-17699.5,0.003316
+10,"R_Date","15128[CAMS 102798]",,"posterior",-17599.5,0.0011577
+10,"R_Date","15128[CAMS 102798]",,"posterior",-17499.5,0.000021415
+10,"R_Date","15128[CAMS 102798]",,"posterior",-17399.5,6.162e-8
+10,"R_Date","15128[CAMS 102798]",,"posterior",-17299.5,0
+10,"R_Date","15128[CAMS 102798]",,"posterior",-17199.5,0
+11,"R_Date","15129[CAMS 97341]",,"likelihood",-19199.5,0
+11,"R_Date","15129[CAMS 97341]",,"likelihood",-19099.5,0
+11,"R_Date","15129[CAMS 97341]",,"likelihood",-18999.5,0
+11,"R_Date","15129[CAMS 97341]",,"likelihood",-18899.5,2.1979e-7
+11,"R_Date","15129[CAMS 97341]",,"likelihood",-18799.5,0.00007749
+11,"R_Date","15129[CAMS 97341]",,"likelihood",-18699.5,0.0003196
+11,"R_Date","15129[CAMS 97341]",,"likelihood",-18599.5,0.003547
+11,"R_Date","15129[CAMS 97341]",,"likelihood",-18499.5,0.005636
+11,"R_Date","15129[CAMS 97341]",,"likelihood",-18399.5,0.0004136
+11,"R_Date","15129[CAMS 97341]",,"likelihood",-18299.5,0.000006453
+11,"R_Date","15129[CAMS 97341]",,"likelihood",-18199.5,2.8179e-8
+11,"R_Date","15129[CAMS 97341]",,"likelihood",-18099.5,0
+11,"R_Date","15129[CAMS 97341]",,"likelihood",-17999.5,0
+11,"R_Date","15129[CAMS 97341]",,"likelihood",-17899.5,0
+11,"R_Date","15129[CAMS 97341]",,"posterior",-19099.5,0
+11,"R_Date","15129[CAMS 97341]",,"posterior",-18999.5,0
+11,"R_Date","15129[CAMS 97341]",,"posterior",-18899.5,9.581e-7
+11,"R_Date","15129[CAMS 97341]",,"posterior",-18799.5,0.00006473
+11,"R_Date","15129[CAMS 97341]",,"posterior",-18699.5,0.0004296
+11,"R_Date","15129[CAMS 97341]",,"posterior",-18599.5,0.0038
+11,"R_Date","15129[CAMS 97341]",,"posterior",-18499.5,0.005123
+11,"R_Date","15129[CAMS 97341]",,"posterior",-18399.5,0.0005695
+11,"R_Date","15129[CAMS 97341]",,"posterior",-18299.5,0.000011553
+11,"R_Date","15129[CAMS 97341]",,"posterior",-18199.5,1.0247e-7
+11,"R_Date","15129[CAMS 97341]",,"posterior",-18099.5,0
+11,"R_Date","15129[CAMS 97341]",,"posterior",-17999.5,0
+12,"R_Date","15130[CAMS 102797]",,"likelihood",-19399.5,0
+12,"R_Date","15130[CAMS 102797]",,"likelihood",-19299.5,0
+12,"R_Date","15130[CAMS 102797]",,"likelihood",-19199.5,0
+12,"R_Date","15130[CAMS 102797]",,"likelihood",-19099.5,3.801e-8
+12,"R_Date","15130[CAMS 102797]",,"likelihood",-18999.5,0.000005771
+12,"R_Date","15130[CAMS 102797]",,"likelihood",-18899.5,0.000629
+12,"R_Date","15130[CAMS 102797]",,"likelihood",-18799.5,0.0028518
+12,"R_Date","15130[CAMS 102797]",,"likelihood",-18699.5,0.003456
+12,"R_Date","15130[CAMS 102797]",,"likelihood",-18599.5,0.0028419
+12,"R_Date","15130[CAMS 102797]",,"likelihood",-18499.5,0.00020903
+12,"R_Date","15130[CAMS 102797]",,"likelihood",-18399.5,0.000006597
+12,"R_Date","15130[CAMS 102797]",,"likelihood",-18299.5,1.1058e-7
+12,"R_Date","15130[CAMS 102797]",,"likelihood",-18199.5,0
+12,"R_Date","15130[CAMS 102797]",,"likelihood",-18099.5,0
+12,"R_Date","15130[CAMS 102797]",,"likelihood",-17999.5,0
+12,"R_Date","15130[CAMS 102797]",,"posterior",-19299.5,0
+12,"R_Date","15130[CAMS 102797]",,"posterior",-19199.5,0
+12,"R_Date","15130[CAMS 102797]",,"posterior",-19099.5,1.2389e-7
+12,"R_Date","15130[CAMS 102797]",,"posterior",-18999.5,0.000017571
+12,"R_Date","15130[CAMS 102797]",,"posterior",-18899.5,0.0006942
+12,"R_Date","15130[CAMS 102797]",,"posterior",-18799.5,0.0026967
+12,"R_Date","15130[CAMS 102797]",,"posterior",-18699.5,0.00354
+12,"R_Date","15130[CAMS 102797]",,"posterior",-18599.5,0.0026854
+12,"R_Date","15130[CAMS 102797]",,"posterior",-18499.5,0.000355
+12,"R_Date","15130[CAMS 102797]",,"posterior",-18399.5,0.000011041
+12,"R_Date","15130[CAMS 102797]",,"posterior",-18299.5,1.6637e-7
+12,"R_Date","15130[CAMS 102797]",,"posterior",-18199.5,0
+12,"R_Date","15130[CAMS 102797]",,"posterior",-18099.5,0
+12,"R_Date","15130[CAMS 102797]",,"posterior",-17999.5,0
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-18439.5,0
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-18339.5,0
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-18239.5,3.469e-10
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-18139.5,3.469e-10
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-18039.5,6.938e-10
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-17939.5,1.0407e-9
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-17839.5,1.7345e-9
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-17739.5,2.4283e-9
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-17639.5,3.816e-9
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-17539.5,5.55e-9
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-17439.5,8.326e-9
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-17339.5,1.2489e-8
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-17239.5,1.8733e-8
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-17139.5,2.7406e-8
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-17039.5,3.955e-8
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-16939.5,5.724e-8
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-16839.5,8.187e-8
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-16739.5,1.1621e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-16639.5,1.6409e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-16539.5,2.3e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-16439.5,3.195e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-16339.5,4.402e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-16239.5,6.026e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-16139.5,8.187e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-16039.5,0.0000011035
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-15939.5,0.0000014764
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-15839.5,0.0000019607
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-15739.5,0.0000025838
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-15639.5,0.000003379
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-15539.5,0.000004387
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-15439.5,0.000005651
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-15339.5,0.000007225
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-15239.5,0.000009169
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-15139.5,0.000011547
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-15039.5,0.000014432
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-14939.5,0.000017903
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-14839.5,0.000022041
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-14739.5,0.000026931
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-14639.5,0.00003266
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-14539.5,0.00003931
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-14439.5,0.00004695
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-14339.5,0.00005566
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-14239.5,0.00006548
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-14139.5,0.00007646
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-14039.5,0.00008861
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-13939.5,0.00010191
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-13839.5,0.00011633
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-13739.5,0.00013179
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-13639.5,0.00014817
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-13539.5,0.00016534
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-13439.5,0.00018311
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-13339.5,0.00020127
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-13239.5,0.00021955
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-13139.5,0.00023769
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-13039.5,0.0002554
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-12939.5,0.00027235
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-12839.5,0.00028824
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-12739.5,0.00030276
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-12639.5,0.00031562
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-12539.5,0.0003265
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-12439.5,0.0003353
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-12339.5,0.0003417
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-12239.5,0.0003456
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-12139.5,0.0003469
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-12039.5,0.0003456
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-11939.5,0.0003417
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-11839.5,0.0003353
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-11739.5,0.0003265
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-11639.5,0.00031562
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-11539.5,0.00030276
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-11439.5,0.00028824
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-11339.5,0.00027235
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-11239.5,0.0002554
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-11139.5,0.00023769
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-11039.5,0.00021955
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-10939.5,0.00020127
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-10839.5,0.00018311
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-10739.5,0.00016534
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-10639.5,0.00014817
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-10539.5,0.00013179
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-10439.5,0.00011633
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-10339.5,0.00010191
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-10239.5,0.00008861
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-10139.5,0.00007646
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-10039.5,0.00006548
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-9939.5,0.00005566
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-9839.5,0.00004695
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-9739.5,0.00003931
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-9639.5,0.00003266
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-9539.5,0.000026931
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-9439.5,0.000022041
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-9339.5,0.000017903
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-9239.5,0.000014432
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-9139.5,0.000011547
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-9039.5,0.000009169
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-8939.5,0.000007225
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-8839.5,0.000005651
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-8739.5,0.000004387
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-8639.5,0.000003379
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-8539.5,0.0000025838
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-8439.5,0.0000019607
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-8339.5,0.0000014764
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-8239.5,0.0000011035
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-8139.5,8.187e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-8039.5,6.026e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-7939.5,4.402e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-7839.5,3.195e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-7739.5,2.3e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-7639.5,1.6409e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-7539.5,1.1621e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-7439.5,8.187e-8
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-7339.5,5.724e-8
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-7239.5,3.955e-8
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-7139.5,2.7406e-8
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-7039.5,1.8733e-8
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-6939.5,1.2489e-8
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-6839.5,8.326e-9
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-6739.5,5.55e-9
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-6639.5,3.816e-9
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-6539.5,2.4283e-9
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-6439.5,1.7345e-9
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-6339.5,1.0407e-9
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-6239.5,6.938e-10
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-6139.5,3.469e-10
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-6039.5,3.469e-10
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-5939.5,0
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"likelihood",-5839.5,0
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-18739.5,0
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-18639.5,0
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-18539.5,1.1447e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-18439.5,5.521e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-18339.5,6.666e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-18239.5,0.0000010834
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-18139.5,0.0000017605
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-18039.5,0.000003573
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-17939.5,0.000004063
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-17839.5,0.000006792
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-17739.5,0.000008969
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-17639.5,0.000013229
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-17539.5,0.000012927
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-17439.5,0.000016656
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-17339.5,0.000019677
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-17239.5,0.000020136
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-17139.5,0.000023313
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-17039.5,0.000024406
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-16939.5,0.000029104
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-16839.5,0.000029802
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-16739.5,0.00004056
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-16639.5,0.00004191
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-16539.5,0.00004784
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-16439.5,0.00005905
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-16339.5,0.00006128
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-16239.5,0.00006896
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-16139.5,0.00007475
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-16039.5,0.00008136
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-15939.5,0.00008676
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-15839.5,0.00009163
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-15739.5,0.00010257
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-15639.5,0.00011278
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-15539.5,0.00011514
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-15439.5,0.00013099
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-15339.5,0.00014485
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-15239.5,0.0001565
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-15139.5,0.00015719
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-15039.5,0.0001719
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-14939.5,0.00018833
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-14839.5,0.00020193
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-14739.5,0.00021259
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-14639.5,0.00023502
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-14539.5,0.00023516
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-14439.5,0.00025123
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-14339.5,0.00026553
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-14239.5,0.00026687
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-14139.5,0.00027635
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-14039.5,0.00027417
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-13939.5,0.00028361
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-13839.5,0.00028779
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-13739.5,0.00028564
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-13639.5,0.00030203
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-13539.5,0.00028852
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-13439.5,0.00029083
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-13339.5,0.00028271
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-13239.5,0.00026866
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-13139.5,0.00026975
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-13039.5,0.00025232
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-12939.5,0.00025123
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-12839.5,0.00023348
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-12739.5,0.0002167
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-12639.5,0.0002113
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-12539.5,0.0002002
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-12439.5,0.00018049
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-12339.5,0.00017634
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-12239.5,0.00015953
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-12139.5,0.00014679
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-12039.5,0.00013603
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-11939.5,0.00012454
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-11839.5,0.00010662
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-11739.5,0.00009197
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-11639.5,0.00008171
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-11539.5,0.00007937
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-11439.5,0.00006308
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-11339.5,0.00006018
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-11239.5,0.00005096
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-11139.5,0.00004334
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-11039.5,0.0000376
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-10939.5,0.000031187
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-10839.5,0.000025292
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-10739.5,0.000019833
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-10639.5,0.000017823
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-10539.5,0.000014844
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-10439.5,0.000011344
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-10339.5,0.000009573
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-10239.5,0.000007854
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-10139.5,0.00000675
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-10039.5,0.000005073
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-9939.5,0.000004146
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-9839.5,0.0000025833
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-9739.5,0.0000024271
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-9639.5,0.0000021459
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-9539.5,0.0000015207
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-9439.5,0.0000014688
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-9339.5,7.188e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-9239.5,6.041e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-9139.5,2.2924e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-9039.5,4.688e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-8939.5,1.4588e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-8839.5,2.3951e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-8739.5,1.5615e-7
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-8639.5,7.279e-8
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-8539.5,2.084e-8
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-8439.5,8.336e-8
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-8339.5,1.0269e-8
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-8239.5,1.0269e-8
+13,"C_Date","15131[MHA02-M7, Uranium series]",,"posterior",-8139.5,0
+14,"Calculate","Event",,"posterior",-33659.5,0
+14,"Calculate","Event",,"posterior",-33559.5,0
+14,"Calculate","Event",,"posterior",-33459.5,1.0427e-8
+14,"Calculate","Event",,"posterior",-33359.5,1.0427e-8
+14,"Calculate","Event",,"posterior",-33259.5,0
+14,"Calculate","Event",,"posterior",-33159.5,0
+14,"Calculate","Event",,"posterior",-33059.5,1.0427e-8
+14,"Calculate","Event",,"posterior",-32959.5,0
+14,"Calculate","Event",,"posterior",-32859.5,3.128e-8
+14,"Calculate","Event",,"posterior",-32759.5,2.0853e-8
+14,"Calculate","Event",,"posterior",-32659.5,2.0853e-8
+14,"Calculate","Event",,"posterior",-32559.5,3.128e-8
+14,"Calculate","Event",,"posterior",-32459.5,0
+14,"Calculate","Event",,"posterior",-32359.5,2.0853e-8
+14,"Calculate","Event",,"posterior",-32259.5,2.0853e-8
+14,"Calculate","Event",,"posterior",-32159.5,1.0427e-8
+14,"Calculate","Event",,"posterior",-32059.5,3.128e-8
+14,"Calculate","Event",,"posterior",-31959.5,4.171e-8
+14,"Calculate","Event",,"posterior",-31859.5,3.128e-8
+14,"Calculate","Event",,"posterior",-31759.5,1.0427e-8
+14,"Calculate","Event",,"posterior",-31659.5,8.327e-8
+14,"Calculate","Event",,"posterior",-31559.5,2.0853e-8
+14,"Calculate","Event",,"posterior",-31459.5,1.0427e-8
+14,"Calculate","Event",,"posterior",-31359.5,3.128e-8
+14,"Calculate","Event",,"posterior",-31259.5,2.0853e-8
+14,"Calculate","Event",,"posterior",-31159.5,4.171e-8
+14,"Calculate","Event",,"posterior",-31059.5,1.0427e-8
+14,"Calculate","Event",,"posterior",-30959.5,1.0427e-8
+14,"Calculate","Event",,"posterior",-30859.5,4.171e-8
+14,"Calculate","Event",,"posterior",-30759.5,2.0853e-8
+14,"Calculate","Event",,"posterior",-30659.5,7.299e-8
+14,"Calculate","Event",,"posterior",-30559.5,7.299e-8
+14,"Calculate","Event",,"posterior",-30459.5,5.213e-8
+14,"Calculate","Event",,"posterior",-30359.5,6.256e-8
+14,"Calculate","Event",,"posterior",-30259.5,2.0853e-8
+14,"Calculate","Event",,"posterior",-30159.5,4.171e-8
+14,"Calculate","Event",,"posterior",-30059.5,5.213e-8
+14,"Calculate","Event",,"posterior",-29959.5,3.128e-8
+14,"Calculate","Event",,"posterior",-29859.5,1.0413e-7
+14,"Calculate","Event",,"posterior",-29759.5,1.0413e-7
+14,"Calculate","Event",,"posterior",-29659.5,1.2498e-7
+14,"Calculate","Event",,"posterior",-29559.5,8.327e-8
+14,"Calculate","Event",,"posterior",-29459.5,6.256e-8
+14,"Calculate","Event",,"posterior",-29359.5,8.327e-8
+14,"Calculate","Event",,"posterior",-29259.5,7.299e-8
+14,"Calculate","Event",,"posterior",-29159.5,8.327e-8
+14,"Calculate","Event",,"posterior",-29059.5,1.0413e-7
+14,"Calculate","Event",,"posterior",-28959.5,1.0413e-7
+14,"Calculate","Event",,"posterior",-28859.5,1.0413e-7
+14,"Calculate","Event",,"posterior",-28759.5,1.4583e-7
+14,"Calculate","Event",,"posterior",-28659.5,1.0413e-7
+14,"Calculate","Event",,"posterior",-28559.5,1.1455e-7
+14,"Calculate","Event",,"posterior",-28459.5,1.4583e-7
+14,"Calculate","Event",,"posterior",-28359.5,1.2498e-7
+14,"Calculate","Event",,"posterior",-28259.5,1.1455e-7
+14,"Calculate","Event",,"posterior",-28159.5,2.7081e-7
+14,"Calculate","Event",,"posterior",-28059.5,1.8754e-7
+14,"Calculate","Event",,"posterior",-27959.5,1.7711e-7
+14,"Calculate","Event",,"posterior",-27859.5,1.9797e-7
+14,"Calculate","Event",,"posterior",-27759.5,1.3541e-7
+14,"Calculate","Event",,"posterior",-27659.5,1.6669e-7
+14,"Calculate","Event",,"posterior",-27559.5,2.0839e-7
+14,"Calculate","Event",,"posterior",-27459.5,2.2911e-7
+14,"Calculate","Event",,"posterior",-27359.5,3.0209e-7
+14,"Calculate","Event",,"posterior",-27259.5,3.1252e-7
+14,"Calculate","Event",,"posterior",-27159.5,3.438e-7
+14,"Calculate","Event",,"posterior",-27059.5,2.3953e-7
+14,"Calculate","Event",,"posterior",-26959.5,3.1252e-7
+14,"Calculate","Event",,"posterior",-26859.5,1.9797e-7
+14,"Calculate","Event",,"posterior",-26759.5,3.1252e-7
+14,"Calculate","Event",,"posterior",-26659.5,3.438e-7
+14,"Calculate","Event",,"posterior",-26559.5,3.854e-7
+14,"Calculate","Event",,"posterior",-26459.5,3.438e-7
+14,"Calculate","Event",,"posterior",-26359.5,5.729e-7
+14,"Calculate","Event",,"posterior",-26259.5,5.521e-7
+14,"Calculate","Event",,"posterior",-26159.5,5.208e-7
+14,"Calculate","Event",,"posterior",-26059.5,6.146e-7
+14,"Calculate","Event",,"posterior",-25959.5,6.459e-7
+14,"Calculate","Event",,"posterior",-25859.5,6.25e-7
+14,"Calculate","Event",,"posterior",-25759.5,6.459e-7
+14,"Calculate","Event",,"posterior",-25659.5,6.355e-7
+14,"Calculate","Event",,"posterior",-25559.5,8.854e-7
+14,"Calculate","Event",,"posterior",-25459.5,7.917e-7
+14,"Calculate","Event",,"posterior",-25359.5,8.959e-7
+14,"Calculate","Event",,"posterior",-25259.5,8.022e-7
+14,"Calculate","Event",,"posterior",-25159.5,0.0000011562
+14,"Calculate","Event",,"posterior",-25059.5,9.791e-7
+14,"Calculate","Event",,"posterior",-24959.5,0.0000010521
+14,"Calculate","Event",,"posterior",-24859.5,9.896e-7
+14,"Calculate","Event",,"posterior",-24759.5,0.0000014375
+14,"Calculate","Event",,"posterior",-24659.5,0.0000013646
+14,"Calculate","Event",,"posterior",-24559.5,0.0000013125
+14,"Calculate","Event",,"posterior",-24459.5,0.0000015937
+14,"Calculate","Event",,"posterior",-24359.5,0.0000015416
+14,"Calculate","Event",,"posterior",-24259.5,0.0000018021
+14,"Calculate","Event",,"posterior",-24159.5,0.0000016667
+14,"Calculate","Event",,"posterior",-24059.5,0.0000020938
+14,"Calculate","Event",,"posterior",-23959.5,0.0000020417
+14,"Calculate","Event",,"posterior",-23859.5,0.0000026354
+14,"Calculate","Event",,"posterior",-23759.5,0.0000022605
+14,"Calculate","Event",,"posterior",-23659.5,0.0000029584
+14,"Calculate","Event",,"posterior",-23559.5,0.0000030729
+14,"Calculate","Event",,"posterior",-23459.5,0.000003323
+14,"Calculate","Event",,"posterior",-23359.5,0.000003646
+14,"Calculate","Event",,"posterior",-23259.5,0.00000401
+14,"Calculate","Event",,"posterior",-23159.5,0.00000426
+14,"Calculate","Event",,"posterior",-23059.5,0.00000475
+14,"Calculate","Event",,"posterior",-22959.5,0.000005271
+14,"Calculate","Event",,"posterior",-22859.5,0.000005646
+14,"Calculate","Event",,"posterior",-22759.5,0.000006115
+14,"Calculate","Event",,"posterior",-22659.5,0.000006594
+14,"Calculate","Event",,"posterior",-22559.5,0.000007458
+14,"Calculate","Event",,"posterior",-22459.5,0.000007469
+14,"Calculate","Event",,"posterior",-22359.5,0.000008458
+14,"Calculate","Event",,"posterior",-22259.5,0.000009104
+14,"Calculate","Event",,"posterior",-22159.5,0.000010125
+14,"Calculate","Event",,"posterior",-22059.5,0.000011479
+14,"Calculate","Event",,"posterior",-21959.5,0.000012656
+14,"Calculate","Event",,"posterior",-21859.5,0.000013583
+14,"Calculate","Event",,"posterior",-21759.5,0.000015052
+14,"Calculate","Event",,"posterior",-21659.5,0.000016469
+14,"Calculate","Event",,"posterior",-21559.5,0.000018698
+14,"Calculate","Event",,"posterior",-21459.5,0.000020625
+14,"Calculate","Event",,"posterior",-21359.5,0.000022427
+14,"Calculate","Event",,"posterior",-21259.5,0.000025573
+14,"Calculate","Event",,"posterior",-21159.5,0.000028438
+14,"Calculate","Event",,"posterior",-21059.5,0.00003167
+14,"Calculate","Event",,"posterior",-20959.5,0.00003564
+14,"Calculate","Event",,"posterior",-20859.5,0.00004067
+14,"Calculate","Event",,"posterior",-20759.5,0.0000448
+14,"Calculate","Event",,"posterior",-20659.5,0.00005023
+14,"Calculate","Event",,"posterior",-20559.5,0.00005638
+14,"Calculate","Event",,"posterior",-20459.5,0.00006376
+14,"Calculate","Event",,"posterior",-20359.5,0.00007627
+14,"Calculate","Event",,"posterior",-20259.5,0.00008743
+14,"Calculate","Event",,"posterior",-20159.5,0.00009755
+14,"Calculate","Event",,"posterior",-20059.5,0.00010911
+14,"Calculate","Event",,"posterior",-19959.5,0.00012091
+14,"Calculate","Event",,"posterior",-19859.5,0.00012694
+14,"Calculate","Event",,"posterior",-19759.5,0.00013181
+14,"Calculate","Event",,"posterior",-19659.5,0.00013654
+14,"Calculate","Event",,"posterior",-19559.5,0.00013759
+14,"Calculate","Event",,"posterior",-19459.5,0.00013694
+14,"Calculate","Event",,"posterior",-19359.5,0.00013856
+14,"Calculate","Event",,"posterior",-19259.5,0.0001352
+14,"Calculate","Event",,"posterior",-19159.5,0.0001372
+14,"Calculate","Event",,"posterior",-19059.5,0.00013902
+14,"Calculate","Event",,"posterior",-18959.5,0.0001376
+14,"Calculate","Event",,"posterior",-18859.5,0.00013679
+14,"Calculate","Event",,"posterior",-18759.5,0.00013642
+14,"Calculate","Event",,"posterior",-18659.5,0.00013679
+14,"Calculate","Event",,"posterior",-18559.5,0.00013656
+14,"Calculate","Event",,"posterior",-18459.5,0.00013585
+14,"Calculate","Event",,"posterior",-18359.5,0.00013601
+14,"Calculate","Event",,"posterior",-18259.5,0.00013708
+14,"Calculate","Event",,"posterior",-18159.5,0.00013534
+14,"Calculate","Event",,"posterior",-18059.5,0.00013707
+14,"Calculate","Event",,"posterior",-17959.5,0.00013523
+14,"Calculate","Event",,"posterior",-17859.5,0.00013448
+14,"Calculate","Event",,"posterior",-17759.5,0.00013689
+14,"Calculate","Event",,"posterior",-17659.5,0.00013631
+14,"Calculate","Event",,"posterior",-17559.5,0.00013606
+14,"Calculate","Event",,"posterior",-17459.5,0.00013698
+14,"Calculate","Event",,"posterior",-17359.5,0.0001364
+14,"Calculate","Event",,"posterior",-17259.5,0.00013497
+14,"Calculate","Event",,"posterior",-17159.5,0.00013548
+14,"Calculate","Event",,"posterior",-17059.5,0.00013294
+14,"Calculate","Event",,"posterior",-16959.5,0.00013333
+14,"Calculate","Event",,"posterior",-16859.5,0.00013316
+14,"Calculate","Event",,"posterior",-16759.5,0.00013298
+14,"Calculate","Event",,"posterior",-16659.5,0.00013221
+14,"Calculate","Event",,"posterior",-16559.5,0.00012986
+14,"Calculate","Event",,"posterior",-16459.5,0.00012897
+14,"Calculate","Event",,"posterior",-16359.5,0.00012771
+14,"Calculate","Event",,"posterior",-16259.5,0.00012849
+14,"Calculate","Event",,"posterior",-16159.5,0.00012672
+14,"Calculate","Event",,"posterior",-16059.5,0.00012534
+14,"Calculate","Event",,"posterior",-15959.5,0.00012361
+14,"Calculate","Event",,"posterior",-15859.5,0.00012548
+14,"Calculate","Event",,"posterior",-15759.5,0.0001199
+14,"Calculate","Event",,"posterior",-15659.5,0.00012081
+14,"Calculate","Event",,"posterior",-15559.5,0.00011697
+14,"Calculate","Event",,"posterior",-15459.5,0.00011729
+14,"Calculate","Event",,"posterior",-15359.5,0.00011556
+14,"Calculate","Event",,"posterior",-15259.5,0.00011201
+14,"Calculate","Event",,"posterior",-15159.5,0.0001127
+14,"Calculate","Event",,"posterior",-15059.5,0.00011044
+14,"Calculate","Event",,"posterior",-14959.5,0.00010947
+14,"Calculate","Event",,"posterior",-14859.5,0.00010866
+14,"Calculate","Event",,"posterior",-14759.5,0.00010295
+14,"Calculate","Event",,"posterior",-14659.5,0.00010157
+14,"Calculate","Event",,"posterior",-14559.5,0.00009933
+14,"Calculate","Event",,"posterior",-14459.5,0.00009583
+14,"Calculate","Event",,"posterior",-14359.5,0.00009373
+14,"Calculate","Event",,"posterior",-14259.5,0.0000903
+14,"Calculate","Event",,"posterior",-14159.5,0.00008974
+14,"Calculate","Event",,"posterior",-14059.5,0.00008596
+14,"Calculate","Event",,"posterior",-13959.5,0.00008207
+14,"Calculate","Event",,"posterior",-13859.5,0.00008098
+14,"Calculate","Event",,"posterior",-13759.5,0.00007673
+14,"Calculate","Event",,"posterior",-13659.5,0.00007425
+14,"Calculate","Event",,"posterior",-13559.5,0.00007242
+14,"Calculate","Event",,"posterior",-13459.5,0.00006957
+14,"Calculate","Event",,"posterior",-13359.5,0.00006503
+14,"Calculate","Event",,"posterior",-13259.5,0.00006197
+14,"Calculate","Event",,"posterior",-13159.5,0.00005795
+14,"Calculate","Event",,"posterior",-13059.5,0.00005543
+14,"Calculate","Event",,"posterior",-12959.5,0.00005214
+14,"Calculate","Event",,"posterior",-12859.5,0.00005046
+14,"Calculate","Event",,"posterior",-12759.5,0.00004676
+14,"Calculate","Event",,"posterior",-12659.5,0.00004392
+14,"Calculate","Event",,"posterior",-12559.5,0.00004156
+14,"Calculate","Event",,"posterior",-12459.5,0.00003803
+14,"Calculate","Event",,"posterior",-12359.5,0.00003556
+14,"Calculate","Event",,"posterior",-12259.5,0.00003455
+14,"Calculate","Event",,"posterior",-12159.5,0.00003168
+14,"Calculate","Event",,"posterior",-12059.5,0.000029323
+14,"Calculate","Event",,"posterior",-11959.5,0.000027917
+14,"Calculate","Event",,"posterior",-11859.5,0.000025
+14,"Calculate","Event",,"posterior",-11759.5,0.000024083
+14,"Calculate","Event",,"posterior",-11659.5,0.000022104
+14,"Calculate","Event",,"posterior",-11559.5,0.000020625
+14,"Calculate","Event",,"posterior",-11459.5,0.000018573
+14,"Calculate","Event",,"posterior",-11359.5,0.000016896
+14,"Calculate","Event",,"posterior",-11259.5,0.000016531
+14,"Calculate","Event",,"posterior",-11159.5,0.000014729
+14,"Calculate","Event",,"posterior",-11059.5,0.000014198
+14,"Calculate","Event",,"posterior",-10959.5,0.000012427
+14,"Calculate","Event",,"posterior",-10859.5,0.000011979
+14,"Calculate","Event",,"posterior",-10759.5,0.000011
+14,"Calculate","Event",,"posterior",-10659.5,0.000010198
+14,"Calculate","Event",,"posterior",-10559.5,0.000008813
+14,"Calculate","Event",,"posterior",-10459.5,0.000008354
+14,"Calculate","Event",,"posterior",-10359.5,0.00000774
+14,"Calculate","Event",,"posterior",-10259.5,0.000007177
+14,"Calculate","Event",,"posterior",-10159.5,0.000006302
+14,"Calculate","Event",,"posterior",-10059.5,0.00000624
+14,"Calculate","Event",,"posterior",-9959.5,0.000005552
+14,"Calculate","Event",,"posterior",-9859.5,0.000005469
+14,"Calculate","Event",,"posterior",-9759.5,0.00000474
+14,"Calculate","Event",,"posterior",-9659.5,0.000004156
+14,"Calculate","Event",,"posterior",-9559.5,0.000003917
+14,"Calculate","Event",,"posterior",-9459.5,0.000003906
+14,"Calculate","Event",,"posterior",-9359.5,0.000003396
+14,"Calculate","Event",,"posterior",-9259.5,0.000003219
+14,"Calculate","Event",,"posterior",-9159.5,0.000003312
+14,"Calculate","Event",,"posterior",-9059.5,0.0000030938
+14,"Calculate","Event",,"posterior",-8959.5,0.0000024687
+14,"Calculate","Event",,"posterior",-8859.5,0.0000025209
+14,"Calculate","Event",,"posterior",-8759.5,0.0000020729
+14,"Calculate","Event",,"posterior",-8659.5,0.0000021249
+14,"Calculate","Event",,"posterior",-8559.5,0.0000018958
+14,"Calculate","Event",,"posterior",-8459.5,0.0000021354
+14,"Calculate","Event",,"posterior",-8359.5,0.0000017187
+14,"Calculate","Event",,"posterior",-8259.5,0.0000017813
+14,"Calculate","Event",,"posterior",-8159.5,0.0000016459
+14,"Calculate","Event",,"posterior",-8059.5,0.0000017291
+14,"Calculate","Event",,"posterior",-7959.5,0.0000012708
+14,"Calculate","Event",,"posterior",-7859.5,0.0000013334
+14,"Calculate","Event",,"posterior",-7759.5,0.0000011458
+14,"Calculate","Event",,"posterior",-7659.5,0.0000011458
+14,"Calculate","Event",,"posterior",-7559.5,9.167e-7
+14,"Calculate","Event",,"posterior",-7459.5,0.0000010625
+14,"Calculate","Event",,"posterior",-7359.5,7.813e-7
+14,"Calculate","Event",,"posterior",-7259.5,0.0000010104
+14,"Calculate","Event",,"posterior",-7159.5,8.541e-7
+14,"Calculate","Event",,"posterior",-7059.5,7.917e-7
+14,"Calculate","Event",,"posterior",-6959.5,6.563e-7
+14,"Calculate","Event",,"posterior",-6859.5,7.187e-7
+14,"Calculate","Event",,"posterior",-6759.5,6.459e-7
+14,"Calculate","Event",,"posterior",-6659.5,5.625e-7
+14,"Calculate","Event",,"posterior",-6559.5,5.105e-7
+14,"Calculate","Event",,"posterior",-6459.5,5.001e-7
+14,"Calculate","Event",,"posterior",-6359.5,4.896e-7
+14,"Calculate","Event",,"posterior",-6259.5,6.25e-7
+14,"Calculate","Event",,"posterior",-6159.5,4.375e-7
+14,"Calculate","Event",,"posterior",-6059.5,5.208e-7
+14,"Calculate","Event",,"posterior",-5959.5,4.271e-7
+14,"Calculate","Event",,"posterior",-5859.5,3.0209e-7
+14,"Calculate","Event",,"posterior",-5759.5,3.958e-7
+14,"Calculate","Event",,"posterior",-5659.5,3.229e-7
+14,"Calculate","Event",,"posterior",-5559.5,2.4996e-7
+14,"Calculate","Event",,"posterior",-5459.5,2.8124e-7
+14,"Calculate","Event",,"posterior",-5359.5,2.8124e-7
+14,"Calculate","Event",,"posterior",-5259.5,3.542e-7
+14,"Calculate","Event",,"posterior",-5159.5,2.7081e-7
+14,"Calculate","Event",,"posterior",-5059.5,2.8124e-7
+14,"Calculate","Event",,"posterior",-4959.5,2.3953e-7
+14,"Calculate","Event",,"posterior",-4859.5,2.3953e-7
+14,"Calculate","Event",,"posterior",-4759.5,1.7711e-7
+14,"Calculate","Event",,"posterior",-4659.5,2.2911e-7
+14,"Calculate","Event",,"posterior",-4559.5,1.5626e-7
+14,"Calculate","Event",,"posterior",-4459.5,1.6669e-7
+14,"Calculate","Event",,"posterior",-4359.5,2.1882e-7
+14,"Calculate","Event",,"posterior",-4259.5,1.1455e-7
+14,"Calculate","Event",,"posterior",-4159.5,2.0839e-7
+14,"Calculate","Event",,"posterior",-4059.5,2.1882e-7
+14,"Calculate","Event",,"posterior",-3959.5,1.0413e-7
+14,"Calculate","Event",,"posterior",-3859.5,1.1455e-7
+14,"Calculate","Event",,"posterior",-3759.5,1.3541e-7
+14,"Calculate","Event",,"posterior",-3659.5,1.5626e-7
+14,"Calculate","Event",,"posterior",-3559.5,1.1455e-7
+14,"Calculate","Event",,"posterior",-3459.5,1.1455e-7
+14,"Calculate","Event",,"posterior",-3359.5,7.299e-8
+14,"Calculate","Event",,"posterior",-3259.5,1.2498e-7
+14,"Calculate","Event",,"posterior",-3159.5,1.0413e-7
+14,"Calculate","Event",,"posterior",-3059.5,7.299e-8
+14,"Calculate","Event",,"posterior",-2959.5,1.4583e-7
+14,"Calculate","Event",,"posterior",-2859.5,1.1455e-7
+14,"Calculate","Event",,"posterior",-2759.5,8.327e-8
+14,"Calculate","Event",,"posterior",-2659.5,1.0413e-7
+14,"Calculate","Event",,"posterior",-2559.5,6.256e-8
+14,"Calculate","Event",,"posterior",-2459.5,6.256e-8
+14,"Calculate","Event",,"posterior",-2359.5,4.171e-8
+14,"Calculate","Event",,"posterior",-2259.5,8.327e-8
+14,"Calculate","Event",,"posterior",-2159.5,7.299e-8
+14,"Calculate","Event",,"posterior",-2059.5,8.327e-8
+14,"Calculate","Event",,"posterior",-1959.5,4.171e-8
+14,"Calculate","Event",,"posterior",-1859.5,7.299e-8
+14,"Calculate","Event",,"posterior",-1759.5,3.128e-8
+14,"Calculate","Event",,"posterior",-1659.5,7.299e-8
+14,"Calculate","Event",,"posterior",-1559.5,1.0427e-8
+14,"Calculate","Event",,"posterior",-1459.5,5.213e-8
+14,"Calculate","Event",,"posterior",-1359.5,5.213e-8
+14,"Calculate","Event",,"posterior",-1259.5,2.0853e-8
+14,"Calculate","Event",,"posterior",-1159.5,3.128e-8
+14,"Calculate","Event",,"posterior",-1059.5,2.0853e-8
+14,"Calculate","Event",,"posterior",-959.5,5.213e-8
+14,"Calculate","Event",,"posterior",-859.5,7.299e-8
+14,"Calculate","Event",,"posterior",-759.5,4.171e-8
+14,"Calculate","Event",,"posterior",-659.5,2.0853e-8
+14,"Calculate","Event",,"posterior",-559.5,5.213e-8
+14,"Calculate","Event",,"posterior",-459.5,3.128e-8
+14,"Calculate","Event",,"posterior",-359.5,3.128e-8
+14,"Calculate","Event",,"posterior",-259.5,0
+14,"Calculate","Event",,"posterior",-159.5,2.0853e-8
+14,"Calculate","Event",,"posterior",-59.5,4.171e-8
+14,"Calculate","Event",,"posterior",40.5,1.0427e-8
+14,"Calculate","Event",,"posterior",140.5,4.171e-8
+14,"Calculate","Event",,"posterior",240.5,2.0853e-8
+14,"Calculate","Event",,"posterior",340.5,3.128e-8
+14,"Calculate","Event",,"posterior",440.5,4.171e-8
+14,"Calculate","Event",,"posterior",540.5,1.0427e-8
+14,"Calculate","Event",,"posterior",640.5,3.128e-8
+14,"Calculate","Event",,"posterior",740.5,2.0853e-8
+14,"Calculate","Event",,"posterior",840.5,4.171e-8
+14,"Calculate","Event",,"posterior",940.5,3.128e-8
+14,"Calculate","Event",,"posterior",1040.5,0
+14,"Calculate","Event",,"posterior",1140.5,2.0853e-8
+14,"Calculate","Event",,"posterior",1240.5,4.171e-8
+14,"Calculate","Event",,"posterior",1340.5,1.0427e-8
+14,"Calculate","Event",,"posterior",1440.5,3.128e-8
+14,"Calculate","Event",,"posterior",1540.5,2.0853e-8
+14,"Calculate","Event",,"posterior",1640.5,3.128e-8
+14,"Calculate","Event",,"posterior",1740.5,4.171e-8
+14,"Calculate","Event",,"posterior",1840.5,1.0427e-8
+14,"Calculate","Event",,"posterior",1940.5,2.0853e-8
+14,"Calculate","Event",,"posterior",2040.5,3.128e-8
+14,"Calculate","Event",,"posterior",2140.5,0
+14,"Calculate","Event",,"posterior",2240.5,3.128e-8
+14,"Calculate","Event",,"posterior",2340.5,2.0853e-8
+14,"Calculate","Event",,"posterior",2440.5,1.0427e-8
+14,"Calculate","Event",,"posterior",2540.5,2.0853e-8
+14,"Calculate","Event",,"posterior",2640.5,2.0853e-8
+14,"Calculate","Event",,"posterior",2740.5,0
+14,"Calculate","Event",,"posterior",2840.5,0
+15,"Boundary","endAnalysisUnit",,"posterior",-17899.5,0
+15,"Boundary","endAnalysisUnit",,"posterior",-17799.5,0.0000011355
+15,"Boundary","endAnalysisUnit",,"posterior",-17699.5,0.000004761
+15,"Boundary","endAnalysisUnit",,"posterior",-17599.5,0.000009781
+15,"Boundary","endAnalysisUnit",,"posterior",-17499.5,0.000004792
+15,"Boundary","endAnalysisUnit",,"posterior",-17399.5,0.000007812
+15,"Boundary","endAnalysisUnit",,"posterior",-17299.5,0.000018271
+15,"Boundary","endAnalysisUnit",,"posterior",-17199.5,0.000014677
+15,"Boundary","endAnalysisUnit",,"posterior",-17099.5,0.000017344
+15,"Boundary","endAnalysisUnit",,"posterior",-16999.5,0.000021313
+15,"Boundary","endAnalysisUnit",,"posterior",-16899.5,0.000019583
+15,"Boundary","endAnalysisUnit",,"posterior",-16799.5,0.000012031
+15,"Boundary","endAnalysisUnit",,"posterior",-16699.5,0.000022802
+15,"Boundary","endAnalysisUnit",,"posterior",-16599.5,0.000028719
+15,"Boundary","endAnalysisUnit",,"posterior",-16499.5,0.000028677
+15,"Boundary","endAnalysisUnit",,"posterior",-16399.5,0.00004007
+15,"Boundary","endAnalysisUnit",,"posterior",-16299.5,0.0000437
+15,"Boundary","endAnalysisUnit",,"posterior",-16199.5,0.00004494
+15,"Boundary","endAnalysisUnit",,"posterior",-16099.5,0.00004836
+15,"Boundary","endAnalysisUnit",,"posterior",-15999.5,0.00004982
+15,"Boundary","endAnalysisUnit",,"posterior",-15899.5,0.00006756
+15,"Boundary","endAnalysisUnit",,"posterior",-15799.5,0.00006499
+15,"Boundary","endAnalysisUnit",,"posterior",-15699.5,0.00006502
+15,"Boundary","endAnalysisUnit",,"posterior",-15599.5,0.00007407
+15,"Boundary","endAnalysisUnit",,"posterior",-15499.5,0.0000669
+15,"Boundary","endAnalysisUnit",,"posterior",-15399.5,0.00008459
+15,"Boundary","endAnalysisUnit",,"posterior",-15299.5,0.00008248
+15,"Boundary","endAnalysisUnit",,"posterior",-15199.5,0.00011119
+15,"Boundary","endAnalysisUnit",,"posterior",-15099.5,0.00009564
+15,"Boundary","endAnalysisUnit",,"posterior",-14999.5,0.00010193
+15,"Boundary","endAnalysisUnit",,"posterior",-14899.5,0.00011695
+15,"Boundary","endAnalysisUnit",,"posterior",-14799.5,0.00012704
+15,"Boundary","endAnalysisUnit",,"posterior",-14699.5,0.0001416
+15,"Boundary","endAnalysisUnit",,"posterior",-14599.5,0.00013786
+15,"Boundary","endAnalysisUnit",,"posterior",-14499.5,0.00015688
+15,"Boundary","endAnalysisUnit",,"posterior",-14399.5,0.00015357
+15,"Boundary","endAnalysisUnit",,"posterior",-14299.5,0.00018966
+15,"Boundary","endAnalysisUnit",,"posterior",-14199.5,0.00018118
+15,"Boundary","endAnalysisUnit",,"posterior",-14099.5,0.00019155
+15,"Boundary","endAnalysisUnit",,"posterior",-13999.5,0.00019476
+15,"Boundary","endAnalysisUnit",,"posterior",-13899.5,0.00019952
+15,"Boundary","endAnalysisUnit",,"posterior",-13799.5,0.00020152
+15,"Boundary","endAnalysisUnit",,"posterior",-13699.5,0.0002005
+15,"Boundary","endAnalysisUnit",,"posterior",-13599.5,0.00020998
+15,"Boundary","endAnalysisUnit",,"posterior",-13499.5,0.00022222
+15,"Boundary","endAnalysisUnit",,"posterior",-13399.5,0.00023038
+15,"Boundary","endAnalysisUnit",,"posterior",-13299.5,0.00024266
+15,"Boundary","endAnalysisUnit",,"posterior",-13199.5,0.00023747
+15,"Boundary","endAnalysisUnit",,"posterior",-13099.5,0.00024472
+15,"Boundary","endAnalysisUnit",,"posterior",-12999.5,0.0002296
+15,"Boundary","endAnalysisUnit",,"posterior",-12899.5,0.00022614
+15,"Boundary","endAnalysisUnit",,"posterior",-12799.5,0.0002272
+15,"Boundary","endAnalysisUnit",,"posterior",-12699.5,0.00021494
+15,"Boundary","endAnalysisUnit",,"posterior",-12599.5,0.00021644
+15,"Boundary","endAnalysisUnit",,"posterior",-12499.5,0.0002232
+15,"Boundary","endAnalysisUnit",,"posterior",-12399.5,0.00019155
+15,"Boundary","endAnalysisUnit",,"posterior",-12299.5,0.00020266
+15,"Boundary","endAnalysisUnit",,"posterior",-12199.5,0.00020083
+15,"Boundary","endAnalysisUnit",,"posterior",-12099.5,0.00018279
+15,"Boundary","endAnalysisUnit",,"posterior",-11999.5,0.00018418
+15,"Boundary","endAnalysisUnit",,"posterior",-11899.5,0.00017811
+15,"Boundary","endAnalysisUnit",,"posterior",-11799.5,0.00017265
+15,"Boundary","endAnalysisUnit",,"posterior",-11699.5,0.00016593
+15,"Boundary","endAnalysisUnit",,"posterior",-11599.5,0.00014916
+15,"Boundary","endAnalysisUnit",,"posterior",-11499.5,0.00013704
+15,"Boundary","endAnalysisUnit",,"posterior",-11399.5,0.00013031
+15,"Boundary","endAnalysisUnit",,"posterior",-11299.5,0.00013156
+15,"Boundary","endAnalysisUnit",,"posterior",-11199.5,0.00011904
+15,"Boundary","endAnalysisUnit",,"posterior",-11099.5,0.00010581
+15,"Boundary","endAnalysisUnit",,"posterior",-10999.5,0.00011203
+15,"Boundary","endAnalysisUnit",,"posterior",-10899.5,0.00010281
+15,"Boundary","endAnalysisUnit",,"posterior",-10799.5,0.0000945
+15,"Boundary","endAnalysisUnit",,"posterior",-10699.5,0.00008543
+15,"Boundary","endAnalysisUnit",,"posterior",-10599.5,0.00008613
+15,"Boundary","endAnalysisUnit",,"posterior",-10499.5,0.00007786
+15,"Boundary","endAnalysisUnit",,"posterior",-10399.5,0.0000759
+15,"Boundary","endAnalysisUnit",,"posterior",-10299.5,0.00006168
+15,"Boundary","endAnalysisUnit",,"posterior",-10199.5,0.00005415
+15,"Boundary","endAnalysisUnit",,"posterior",-10099.5,0.00005296
+15,"Boundary","endAnalysisUnit",,"posterior",-9999.5,0.00004636
+15,"Boundary","endAnalysisUnit",,"posterior",-9899.5,0.00004674
+15,"Boundary","endAnalysisUnit",,"posterior",-9799.5,0.00004393
+15,"Boundary","endAnalysisUnit",,"posterior",-9699.5,0.0000442
+15,"Boundary","endAnalysisUnit",,"posterior",-9599.5,0.00003966
+15,"Boundary","endAnalysisUnit",,"posterior",-9499.5,0.00003548
+15,"Boundary","endAnalysisUnit",,"posterior",-9399.5,0.00003339
+15,"Boundary","endAnalysisUnit",,"posterior",-9299.5,0.000031438
+15,"Boundary","endAnalysisUnit",,"posterior",-9199.5,0.000029104
+15,"Boundary","endAnalysisUnit",,"posterior",-9099.5,0.000027062
+15,"Boundary","endAnalysisUnit",,"posterior",-8999.5,0.000027438
+15,"Boundary","endAnalysisUnit",,"posterior",-8899.5,0.000022531
+15,"Boundary","endAnalysisUnit",,"posterior",-8799.5,0.000021729
+15,"Boundary","endAnalysisUnit",,"posterior",-8699.5,0.000018875
+15,"Boundary","endAnalysisUnit",,"posterior",-8599.5,0.000016625
+15,"Boundary","endAnalysisUnit",,"posterior",-8499.5,0.000016885
+15,"Boundary","endAnalysisUnit",,"posterior",-8399.5,0.000015177
+15,"Boundary","endAnalysisUnit",,"posterior",-8299.5,0.00001349
+15,"Boundary","endAnalysisUnit",,"posterior",-8199.5,0.000013781
+15,"Boundary","endAnalysisUnit",,"posterior",-8099.5,0.000013844
+15,"Boundary","endAnalysisUnit",,"posterior",-7999.5,0.000012365
+15,"Boundary","endAnalysisUnit",,"posterior",-7899.5,0.000011771
+15,"Boundary","endAnalysisUnit",,"posterior",-7799.5,0.000009906
+15,"Boundary","endAnalysisUnit",,"posterior",-7699.5,0.000008729
+15,"Boundary","endAnalysisUnit",,"posterior",-7599.5,0.000010042
+15,"Boundary","endAnalysisUnit",,"posterior",-7499.5,0.000009135
+15,"Boundary","endAnalysisUnit",,"posterior",-7399.5,0.000007437
+15,"Boundary","endAnalysisUnit",,"posterior",-7299.5,0.000006906
+15,"Boundary","endAnalysisUnit",,"posterior",-7199.5,0.000006458
+15,"Boundary","endAnalysisUnit",,"posterior",-7099.5,0.000006187
+15,"Boundary","endAnalysisUnit",,"posterior",-6999.5,0.000006542
+15,"Boundary","endAnalysisUnit",,"posterior",-6899.5,0.000006333
+15,"Boundary","endAnalysisUnit",,"posterior",-6799.5,0.000005969
+15,"Boundary","endAnalysisUnit",,"posterior",-6699.5,0.000006156
+15,"Boundary","endAnalysisUnit",,"posterior",-6599.5,0.000004761
+15,"Boundary","endAnalysisUnit",,"posterior",-6499.5,0.000003792
+15,"Boundary","endAnalysisUnit",,"posterior",-6399.5,0.000004761
+15,"Boundary","endAnalysisUnit",,"posterior",-6299.5,0.000004615
+15,"Boundary","endAnalysisUnit",,"posterior",-6199.5,0.000004177
+15,"Boundary","endAnalysisUnit",,"posterior",-6099.5,0.000003698
+15,"Boundary","endAnalysisUnit",,"posterior",-5999.5,0.000003687
+15,"Boundary","endAnalysisUnit",,"posterior",-5899.5,0.000003812
+15,"Boundary","endAnalysisUnit",,"posterior",-5799.5,0.000003365
+15,"Boundary","endAnalysisUnit",,"posterior",-5699.5,0.00000349
+15,"Boundary","endAnalysisUnit",,"posterior",-5599.5,0.0000025314
+15,"Boundary","endAnalysisUnit",,"posterior",-5499.5,0.0000026146
+15,"Boundary","endAnalysisUnit",,"posterior",-5399.5,0.0000027499
+15,"Boundary","endAnalysisUnit",,"posterior",-5299.5,0.0000029063
+15,"Boundary","endAnalysisUnit",,"posterior",-5199.5,0.0000024166
+15,"Boundary","endAnalysisUnit",,"posterior",-5099.5,0.000002802
+15,"Boundary","endAnalysisUnit",,"posterior",-4999.5,0.0000022499
+15,"Boundary","endAnalysisUnit",,"posterior",-4899.5,0.0000027083
+15,"Boundary","endAnalysisUnit",,"posterior",-4799.5,0.0000017187
+15,"Boundary","endAnalysisUnit",,"posterior",-4699.5,0.000001552
+15,"Boundary","endAnalysisUnit",,"posterior",-4599.5,0.0000014791
+15,"Boundary","endAnalysisUnit",,"posterior",-4499.5,0.0000013751
+15,"Boundary","endAnalysisUnit",,"posterior",-4399.5,0.0000014791
+15,"Boundary","endAnalysisUnit",,"posterior",-4299.5,0.000001323
+15,"Boundary","endAnalysisUnit",,"posterior",-4199.5,0.0000014583
+15,"Boundary","endAnalysisUnit",,"posterior",-4099.5,0.0000013021
+15,"Boundary","endAnalysisUnit",,"posterior",-3999.5,0.0000016041
+15,"Boundary","endAnalysisUnit",,"posterior",-3899.5,8.438e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-3799.5,0.000001052
+15,"Boundary","endAnalysisUnit",,"posterior",-3699.5,9.896e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-3599.5,7.709e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-3499.5,7.395e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-3399.5,8.438e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-3299.5,0.0000012916
+15,"Boundary","endAnalysisUnit",,"posterior",-3199.5,5.313e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-3099.5,0.0000010418
+15,"Boundary","endAnalysisUnit",,"posterior",-2999.5,7.709e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-2899.5,8.959e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-2799.5,9.167e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-2699.5,6.771e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-2599.5,4.897e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-2499.5,5.834e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-2399.5,4.478e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-2299.5,5.105e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-2199.5,4.478e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-2099.5,3.96e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-1999.5,4.376e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-1899.5,4.168e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-1799.5,5.626e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-1699.5,2.9171e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-1599.5,6.874e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-1499.5,3.646e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-1399.5,5.729e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-1299.5,3.333e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-1199.5,3.0198e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-1099.5,4.376e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-999.5,3.23e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-899.5,3.0198e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-799.5,3.23e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-699.5,4.062e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-599.5,2.8118e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-499.5,2.1878e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-399.5,2.9171e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-299.5,1.9798e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-199.5,1.8745e-7
+15,"Boundary","endAnalysisUnit",,"posterior",-99.5,1.9798e-7
+15,"Boundary","endAnalysisUnit",,"posterior",0.5,9.373e-8
+15,"Boundary","endAnalysisUnit",,"posterior",100.5,1.8745e-7
+15,"Boundary","endAnalysisUnit",,"posterior",200.5,1.0425e-7
+15,"Boundary","endAnalysisUnit",,"posterior",300.5,1.4585e-7
+15,"Boundary","endAnalysisUnit",,"posterior",400.5,1.4585e-7
+15,"Boundary","endAnalysisUnit",,"posterior",500.5,1.9798e-7
+15,"Boundary","endAnalysisUnit",,"posterior",600.5,1.6665e-7
+15,"Boundary","endAnalysisUnit",,"posterior",700.5,1.3533e-7
+15,"Boundary","endAnalysisUnit",,"posterior",800.5,1.2505e-7
+15,"Boundary","endAnalysisUnit",,"posterior",900.5,2.1878e-7
+15,"Boundary","endAnalysisUnit",,"posterior",1000.5,3.438e-7
+15,"Boundary","endAnalysisUnit",,"posterior",1100.5,2.1878e-7
+15,"Boundary","endAnalysisUnit",,"posterior",1200.5,2.3958e-7
+15,"Boundary","endAnalysisUnit",,"posterior",1300.5,6.24e-8
+15,"Boundary","endAnalysisUnit",,"posterior",1400.5,1.9798e-7
+15,"Boundary","endAnalysisUnit",,"posterior",1500.5,1.2505e-7
+15,"Boundary","endAnalysisUnit",,"posterior",1600.5,2.0801e-8
+15,"Boundary","endAnalysisUnit",,"posterior",1700.5,1.2505e-7
+15,"Boundary","endAnalysisUnit",,"posterior",1800.5,1.2505e-7
+15,"Boundary","endAnalysisUnit",,"posterior",1900.5,1.1453e-7
+15,"Boundary","endAnalysisUnit",,"posterior",2000.5,1.1453e-7
+15,"Boundary","endAnalysisUnit",,"posterior",2100.5,1.0425e-7
+15,"Boundary","endAnalysisUnit",,"posterior",2200.5,1.2505e-7
+15,"Boundary","endAnalysisUnit",,"posterior",2300.5,1.6665e-7
+15,"Boundary","endAnalysisUnit",,"posterior",2400.5,1.3533e-7
+15,"Boundary","endAnalysisUnit",,"posterior",2500.5,9.373e-8
+15,"Boundary","endAnalysisUnit",,"posterior",2600.5,1.5613e-7
+15,"Boundary","endAnalysisUnit",,"posterior",2700.5,8.345e-8
+15,"Boundary","endAnalysisUnit",,"posterior",2800.5,5.213e-8
+15,"Boundary","endAnalysisUnit",,"posterior",2900.5,8.345e-8
+15,"Boundary","endAnalysisUnit",,"posterior",3000.5,6.24e-8
+15,"Boundary","endAnalysisUnit",,"posterior",3100.5,5.213e-8
+15,"Boundary","endAnalysisUnit",,"posterior",3200.5,8.345e-8
+15,"Boundary","endAnalysisUnit",,"posterior",3300.5,1.1453e-7
+15,"Boundary","endAnalysisUnit",,"posterior",3400.5,4.16e-8
+15,"Boundary","endAnalysisUnit",,"posterior",3500.5,5.213e-8
+15,"Boundary","endAnalysisUnit",,"posterior",3600.5,3.1324e-8
+15,"Boundary","endAnalysisUnit",,"posterior",3700.5,1.1453e-7
+15,"Boundary","endAnalysisUnit",,"posterior",3800.5,7.293e-8
+15,"Boundary","endAnalysisUnit",,"posterior",3900.5,1.2505e-7
+15,"Boundary","endAnalysisUnit",,"posterior",4000.5,6.24e-8
+15,"Boundary","endAnalysisUnit",,"posterior",4100.5,6.24e-8
+15,"Boundary","endAnalysisUnit",,"posterior",4200.5,2.0801e-8
+15,"Boundary","endAnalysisUnit",,"posterior",4300.5,1.0425e-7
+15,"Boundary","endAnalysisUnit",,"posterior",4400.5,1.2505e-7
+15,"Boundary","endAnalysisUnit",,"posterior",4500.5,8.345e-8
+15,"Boundary","endAnalysisUnit",,"posterior",4600.5,2.0801e-8
+15,"Boundary","endAnalysisUnit",,"posterior",4700.5,1.0523e-8
+15,"Boundary","endAnalysisUnit",,"posterior",4800.5,0
+15,"Boundary","endAnalysisUnit",,"posterior",4900.5,5.213e-8
+15,"Boundary","endAnalysisUnit",,"posterior",5000.5,8.345e-8
+15,"Boundary","endAnalysisUnit",,"posterior",5100.5,7.293e-8
+15,"Boundary","endAnalysisUnit",,"posterior",5200.5,6.24e-8
+15,"Boundary","endAnalysisUnit",,"posterior",5300.5,0
+15,"Boundary","endAnalysisUnit",,"posterior",5400.5,3.1324e-8
+15,"Boundary","endAnalysisUnit",,"posterior",5500.5,5.213e-8
+15,"Boundary","endAnalysisUnit",,"posterior",5600.5,4.16e-8
+15,"Boundary","endAnalysisUnit",,"posterior",5700.5,4.16e-8
+15,"Boundary","endAnalysisUnit",,"posterior",5800.5,3.1324e-8
+15,"Boundary","endAnalysisUnit",,"posterior",5900.5,6.24e-8
+15,"Boundary","endAnalysisUnit",,"posterior",6000.5,2.0801e-8
+15,"Boundary","endAnalysisUnit",,"posterior",6100.5,2.0801e-8
+15,"Boundary","endAnalysisUnit",,"posterior",6200.5,3.1324e-8
+15,"Boundary","endAnalysisUnit",,"posterior",6300.5,5.213e-8
+15,"Boundary","endAnalysisUnit",,"posterior",6400.5,4.16e-8
+15,"Boundary","endAnalysisUnit",,"posterior",6500.5,1.0523e-8
+15,"Boundary","endAnalysisUnit",,"posterior",6600.5,2.0801e-8
+15,"Boundary","endAnalysisUnit",,"posterior",6700.5,0
+15,"Boundary","endAnalysisUnit",,"posterior",6800.5,2.0801e-8
+15,"Boundary","endAnalysisUnit",,"posterior",6900.5,4.16e-8
+15,"Boundary","endAnalysisUnit",,"posterior",7000.5,3.1324e-8
+15,"Boundary","endAnalysisUnit",,"posterior",7100.5,1.0523e-8
+15,"Boundary","endAnalysisUnit",,"posterior",7200.5,2.0801e-8
+15,"Boundary","endAnalysisUnit",,"posterior",7300.5,2.0801e-8
+15,"Boundary","endAnalysisUnit",,"posterior",7400.5,5.213e-8
+15,"Boundary","endAnalysisUnit",,"posterior",7500.5,2.0801e-8
+15,"Boundary","endAnalysisUnit",,"posterior",7600.5,2.0801e-8
+15,"Boundary","endAnalysisUnit",,"posterior",7700.5,3.1324e-8
+15,"Boundary","endAnalysisUnit",,"posterior",7800.5,4.16e-8
+15,"Boundary","endAnalysisUnit",,"posterior",7900.5,2.0801e-8
+15,"Boundary","endAnalysisUnit",,"posterior",8000.5,2.0801e-8
+15,"Boundary","endAnalysisUnit",,"posterior",8100.5,0
+15,"Boundary","endAnalysisUnit",,"posterior",8200.5,3.1324e-8
+15,"Boundary","endAnalysisUnit",,"posterior",8300.5,3.1324e-8
+15,"Boundary","endAnalysisUnit",,"posterior",8400.5,4.16e-8
+15,"Boundary","endAnalysisUnit",,"posterior",8500.5,1.0523e-8
+15,"Boundary","endAnalysisUnit",,"posterior",8600.5,7.293e-8
+15,"Boundary","endAnalysisUnit",,"posterior",8700.5,5.213e-8
+15,"Boundary","endAnalysisUnit",,"posterior",8800.5,4.16e-8
+15,"Boundary","endAnalysisUnit",,"posterior",8900.5,0
+15,"Boundary","endAnalysisUnit",,"posterior",9000.5,1.0523e-8
+15,"Boundary","endAnalysisUnit",,"posterior",9100.5,3.1324e-8
+15,"Boundary","endAnalysisUnit",,"posterior",9200.5,0
+15,"Boundary","endAnalysisUnit",,"posterior",9300.5,1.0523e-8
+15,"Boundary","endAnalysisUnit",,"posterior",9400.5,3.1324e-8
+15,"Boundary","endAnalysisUnit",,"posterior",9500.5,1.0523e-8
+15,"Boundary","endAnalysisUnit",,"posterior",9600.5,3.1324e-8
+15,"Boundary","endAnalysisUnit",,"posterior",9700.5,5.213e-8
+15,"Boundary","endAnalysisUnit",,"posterior",9800.5,0
+15,"Boundary","endAnalysisUnit",,"posterior",9900.5,0

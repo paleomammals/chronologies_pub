@@ -1,0 +1,73 @@
+Options()
+ {
+  BCAD=FALSE;
+  Curve("IntCal20","IntCal20.14c");
+  Resolution=10000;
+ };
+ Plot()
+ {
+  Phase("Collection Unit 7237")
+  {
+    Sequence("AU 84444")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 84444")
+     {
+      R_Date('10743[QL-962]',48900,900);
+      C_Date('10742[66E1, Uranium series]',220000,80000);
+      C_Date('11471[66D2, Uranium series]', 51000,6400);
+      C_Date('11472[191D1, Uranium series]', 23400,1200);
+      C_Date('11473[191C1, Uranium series]', 78000,4000);
+      C_Date('11474[70B1, Uranium series]', 53000,6000);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 84445")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 84445")
+     {
+      R_Date('10746[QL-1430]',51000,1500);
+      C_Date('11475[189E1, Uranium series]',101000,12000);
+      C_Date('11476[189E3, Uranium series]', 88700,6400);
+      C_Date('11477[189E4, Uranium series]', 86000,7000);
+      C_Date('11478[189D1, Uranium series]', 76000,5000);
+      C_Date('11479[189B1, Uranium series]',157000,14000);
+      C_Date('11480[192E1, Uranium series]',147000,7000);
+      C_Date('11481[192D1, Uranium series]', 44000,20000);
+      C_Date('11482[192C1, Uranium series]',150000,9000);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 84446")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 84446")
+     {
+      R_Date('10748[SMU-96]',44040,2660);
+      C_Date('11483[69E1, Uranium series]',148000,10000);
+      C_Date('11484[69E2, Uranium series]',157000,8000);
+      C_Date('11485[69D1, Uranium series]', 19300,2000);
+      C_Date('11486[69B1, Uranium series]', 35400,2800);
+      C_Date('11487[186E1, Uranium series]', 39400,3000);
+      C_Date('11488[186E2, Uranium series]', 40300,3200);
+      C_Date('11489[186D1, Uranium series]', 43000,2000);
+      C_Date('11490[186B1, Uranium series]', 26000,1600);
+      C_Date('11491[187E1, Uranium series]', 74000,4200);
+      C_Date('11492[187E2, Uranium series]', 50000,2400);
+      C_Date('11493[187E3, Uranium series]', 38400,3000);
+      C_Date('11494[187D1, Uranium series]', 19600,800);
+      C_Date('11495[187B1, Uranium series]', 20300,800);
+      C_Date('11496[188E1, Uranium series]', 36800,2800);
+      C_Date('11497[188D1, Uranium series]', 19300,1600);
+      C_Date('11498[188B1, Uranium series]', 27700,1200);
+      C_Date('11499[92B1, Uranium series]', 59000,7000);
+      C_Date('11500[93B1, Uranium series]', 20000,3000);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+  };
+ };

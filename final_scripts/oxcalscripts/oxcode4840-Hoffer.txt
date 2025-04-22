@@ -1,0 +1,22 @@
+Options()
+ {
+  BCAD=FALSE;
+  Curve("IntCal20","IntCal20.14c");
+  Resolution=10;
+ };
+ Plot()
+ {
+  Phase("Collection Unit 4840")
+  {
+    Sequence("AU 80904")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 80904")
+     {
+      R_Date('7785[Beta-29148]',1905,55);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+  };
+ };

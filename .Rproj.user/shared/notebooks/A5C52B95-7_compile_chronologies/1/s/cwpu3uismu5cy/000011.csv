@@ -1,0 +1,3 @@
+"0","typeindex <- left_join(typeindex[c(""Var1"",""chroncontroltype"")],chroncontroltypes)
+"
+"2","Joining with `by = join_by(chroncontroltype)`"

@@ -1,0 +1,4 @@
+"0","i <- i + 1"
+"0","temp_order <- data.frame("
+"0","  meanage = rev(sort(by(multi[[i]]$age,multi[[i]]$analysisunitname,mean,na.rm = T)))"
+"0","  );temp_order"

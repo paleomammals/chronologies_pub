@@ -1,0 +1,11 @@
+"analysisunitid","chronology.agemodel","sampleages.age","sampleages.ageolder","sampleages.ageyounger"
+526614,"event",6400,6800,6000
+526611,"event",36300,44700,29300
+526612,"event",23900,25300,22500
+526613,"event",600,900,300
+526610,"event",6400,6700,6100
+526614,"bounds",NA,7800,5000
+526611,"bounds",NA,57600,16800
+526612,"bounds",NA,28300,19600
+526613,"bounds",NA,1600,-300
+526610,"bounds",NA,7500,5300

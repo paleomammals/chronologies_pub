@@ -1,0 +1,37 @@
+Options()
+ {
+  BCAD=FALSE;
+  Curve("IntCal20","IntCal20.14c");
+  Resolution=10;
+ };
+ Plot()
+ {
+  Phase("Collection Unit 4913")
+  {
+    Sequence("AU 91804")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 91804")
+     {
+      R_Date('7932[SMU-974]',170,50);
+      R_Date('7933[SMU-1169]',180,50);
+      R_Date('7934[SMU-971]',240,30);
+      R_Date('7935[SMU-1168]',350,40);
+      R_Date('7936[SMU-1197]',440,45);
+      R_Date('7937[SMU-1198]',470,50);
+      C_Date('7938[WUTL-101d, Thermoluminescence]',205,20);
+      C_Date('7939[WUTL-101c, Thermoluminescence]',245,35);
+      C_Date('7940[WUTL-101b, Thermoluminescence]',245,25);
+      C_Date('7941[WUTL-101a, Thermoluminescence]',280,25);
+      C_Date('7942[WUTL-101f, Thermoluminescence]',285,30);
+      C_Date('7943[WUTL-101e, Thermoluminescence]',305,30);
+      C_Date('7944[WUTL-101i, Thermoluminescence]',305,45);
+      C_Date('7945[WUTL-101j, Thermoluminescence]',360,35);
+      C_Date('7946[WUTL-101h, Thermoluminescence]',410,40);
+      C_Date('7947[WUTL-101g, Thermoluminescence]',440,40);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+  };
+ };

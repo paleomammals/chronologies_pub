@@ -1,0 +1,13 @@
+"analysisunitid","chronology.agemodel","sampleages.age","sampleages.ageolder","sampleages.ageyounger"
+81932,"event",394,524,264
+81933,"event",1954,2364,1534
+81934,"event",7004,7114,6874
+81935,"event",7704,7834,7584
+81936,"event",8744,8834,8664
+81937,"event",10304,10544,10064
+81932,"bounds",NA,824,-46
+81933,"bounds",NA,3034,864
+81934,"bounds",NA,7324,6614
+81935,"bounds",NA,8104,7314
+81936,"bounds",NA,8914,8594
+81937,"bounds",NA,10974,9654

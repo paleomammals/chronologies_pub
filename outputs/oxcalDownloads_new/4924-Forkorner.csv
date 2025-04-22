@@ -1,0 +1,1159 @@
+"index","op","name","z","type","value","probability"
+4,"Boundary","beginAnalysisUnit",,"posterior",1120.5,0
+4,"Boundary","beginAnalysisUnit",,"posterior",1130.5,0.0000011365
+4,"Boundary","beginAnalysisUnit",,"posterior",1140.5,0.000004167
+4,"Boundary","beginAnalysisUnit",,"posterior",1150.5,0.000004792
+4,"Boundary","beginAnalysisUnit",,"posterior",1160.5,0.000006251
+4,"Boundary","beginAnalysisUnit",,"posterior",1170.5,0.000008542
+4,"Boundary","beginAnalysisUnit",,"posterior",1180.5,0.000015304
+4,"Boundary","beginAnalysisUnit",,"posterior",1190.5,0.000009054
+4,"Boundary","beginAnalysisUnit",,"posterior",1200.5,0.000020002
+4,"Boundary","beginAnalysisUnit",,"posterior",1210.5,0.00001843
+4,"Boundary","beginAnalysisUnit",,"posterior",1220.5,0.000030097
+4,"Boundary","beginAnalysisUnit",,"posterior",1230.5,0.00003968
+4,"Boundary","beginAnalysisUnit",,"posterior",1240.5,0.00008073
+4,"Boundary","beginAnalysisUnit",,"posterior",1250.5,0.00008105
+4,"Boundary","beginAnalysisUnit",,"posterior",1260.5,0.00011416
+4,"Boundary","beginAnalysisUnit",,"posterior",1270.5,0.00015198
+4,"Boundary","beginAnalysisUnit",,"posterior",1280.5,0.00021697
+4,"Boundary","beginAnalysisUnit",,"posterior",1290.5,0.0003322
+4,"Boundary","beginAnalysisUnit",,"posterior",1300.5,0.0005526
+4,"Boundary","beginAnalysisUnit",,"posterior",1310.5,0.0006759
+4,"Boundary","beginAnalysisUnit",,"posterior",1320.5,0.0009138
+4,"Boundary","beginAnalysisUnit",,"posterior",1330.5,0.0011622
+4,"Boundary","beginAnalysisUnit",,"posterior",1340.5,0.0014851
+4,"Boundary","beginAnalysisUnit",,"posterior",1350.5,0.0017749
+4,"Boundary","beginAnalysisUnit",,"posterior",1360.5,0.0023257
+4,"Boundary","beginAnalysisUnit",,"posterior",1370.5,0.00338
+4,"Boundary","beginAnalysisUnit",,"posterior",1380.5,0.005433
+4,"Boundary","beginAnalysisUnit",,"posterior",1390.5,0.008396
+4,"Boundary","beginAnalysisUnit",,"posterior",1400.5,0.011999
+4,"Boundary","beginAnalysisUnit",,"posterior",1410.5,0.015444
+4,"Boundary","beginAnalysisUnit",,"posterior",1420.5,0.018941
+4,"Boundary","beginAnalysisUnit",,"posterior",1430.5,0.018351
+4,"Boundary","beginAnalysisUnit",,"posterior",1440.5,0.007512
+4,"Boundary","beginAnalysisUnit",,"posterior",1450.5,0.0005085
+4,"Boundary","beginAnalysisUnit",,"posterior",1460.5,0.000009793
+4,"Boundary","beginAnalysisUnit",,"posterior",1470.5,0
+4,"Boundary","beginAnalysisUnit",,"posterior",1480.5,0
+6,"R_Date","7997[SMU-1085]",,"likelihood",1290.5,0
+6,"R_Date","7997[SMU-1085]",,"likelihood",1300.5,0
+6,"R_Date","7997[SMU-1085]",,"likelihood",1310.5,0
+6,"R_Date","7997[SMU-1085]",,"likelihood",1320.5,6.366e-8
+6,"R_Date","7997[SMU-1085]",,"likelihood",1330.5,0.000004456
+6,"R_Date","7997[SMU-1085]",,"likelihood",1340.5,0.000003501
+6,"R_Date","7997[SMU-1085]",,"likelihood",1350.5,0.0000014961
+6,"R_Date","7997[SMU-1085]",,"likelihood",1360.5,3.183e-8
+6,"R_Date","7997[SMU-1085]",,"likelihood",1370.5,0
+6,"R_Date","7997[SMU-1085]",,"likelihood",1380.5,0
+6,"R_Date","7997[SMU-1085]",,"likelihood",1390.5,1.5916e-7
+6,"R_Date","7997[SMU-1085]",,"likelihood",1400.5,0.000029922
+6,"R_Date","7997[SMU-1085]",,"likelihood",1410.5,0.0008232
+6,"R_Date","7997[SMU-1085]",,"likelihood",1420.5,0.003482
+6,"R_Date","7997[SMU-1085]",,"likelihood",1430.5,0.01638
+6,"R_Date","7997[SMU-1085]",,"likelihood",1440.5,0.03183
+6,"R_Date","7997[SMU-1085]",,"likelihood",1450.5,0.028293
+6,"R_Date","7997[SMU-1085]",,"likelihood",1460.5,0.009213
+6,"R_Date","7997[SMU-1085]",,"likelihood",1470.5,0.005785
+6,"R_Date","7997[SMU-1085]",,"likelihood",1480.5,0.00163
+6,"R_Date","7997[SMU-1085]",,"likelihood",1490.5,0.0008103
+6,"R_Date","7997[SMU-1085]",,"likelihood",1500.5,0.0003466
+6,"R_Date","7997[SMU-1085]",,"likelihood",1510.5,0.00011934
+6,"R_Date","7997[SMU-1085]",,"likelihood",1520.5,0.00003836
+6,"R_Date","7997[SMU-1085]",,"likelihood",1530.5,8.913e-7
+6,"R_Date","7997[SMU-1085]",,"likelihood",1540.5,7.958e-7
+6,"R_Date","7997[SMU-1085]",,"likelihood",1550.5,0.0000018781
+6,"R_Date","7997[SMU-1085]",,"likelihood",1560.5,0.000009486
+6,"R_Date","7997[SMU-1085]",,"likelihood",1570.5,0.000009836
+6,"R_Date","7997[SMU-1085]",,"likelihood",1580.5,0.00003855
+6,"R_Date","7997[SMU-1085]",,"likelihood",1590.5,0.00008365
+6,"R_Date","7997[SMU-1085]",,"likelihood",1600.5,0.0004093
+6,"R_Date","7997[SMU-1085]",,"likelihood",1610.5,0.000552
+6,"R_Date","7997[SMU-1085]",,"likelihood",1620.5,0.00009311
+6,"R_Date","7997[SMU-1085]",,"likelihood",1630.5,0.000009168
+6,"R_Date","7997[SMU-1085]",,"likelihood",1640.5,6.366e-8
+6,"R_Date","7997[SMU-1085]",,"likelihood",1650.5,0
+6,"R_Date","7997[SMU-1085]",,"likelihood",1660.5,0
+6,"R_Date","7997[SMU-1085]",,"likelihood",1670.5,0
+6,"R_Date","7997[SMU-1085]",,"posterior",1370.5,0
+6,"R_Date","7997[SMU-1085]",,"posterior",1380.5,0
+6,"R_Date","7997[SMU-1085]",,"posterior",1390.5,1.2308e-7
+6,"R_Date","7997[SMU-1085]",,"posterior",1400.5,0.00002158
+6,"R_Date","7997[SMU-1085]",,"posterior",1410.5,0.0006351
+6,"R_Date","7997[SMU-1085]",,"posterior",1420.5,0.004993
+6,"R_Date","7997[SMU-1085]",,"posterior",1430.5,0.026185
+6,"R_Date","7997[SMU-1085]",,"posterior",1440.5,0.04103
+6,"R_Date","7997[SMU-1085]",,"posterior",1450.5,0.020827
+6,"R_Date","7997[SMU-1085]",,"posterior",1460.5,0.004525
+6,"R_Date","7997[SMU-1085]",,"posterior",1470.5,0.0013688
+6,"R_Date","7997[SMU-1085]",,"posterior",1480.5,0.00030606
+6,"R_Date","7997[SMU-1085]",,"posterior",1490.5,0.00008345
+6,"R_Date","7997[SMU-1085]",,"posterior",1500.5,0.000022195
+6,"R_Date","7997[SMU-1085]",,"posterior",1510.5,0.000004677
+6,"R_Date","7997[SMU-1085]",,"posterior",1520.5,0.0000010257
+6,"R_Date","7997[SMU-1085]",,"posterior",1530.5,1.2308e-7
+6,"R_Date","7997[SMU-1085]",,"posterior",1540.5,0
+6,"R_Date","7997[SMU-1085]",,"posterior",1550.5,0
+6,"R_Date","7997[SMU-1085]",,"posterior",1560.5,2.0513e-7
+7,"R_Date","7998[SMU-1100]",,"likelihood",1290.5,0
+7,"R_Date","7998[SMU-1100]",,"likelihood",1300.5,0
+7,"R_Date","7998[SMU-1100]",,"likelihood",1310.5,0
+7,"R_Date","7998[SMU-1100]",,"likelihood",1320.5,6.366e-8
+7,"R_Date","7998[SMU-1100]",,"likelihood",1330.5,0.000004456
+7,"R_Date","7998[SMU-1100]",,"likelihood",1340.5,0.000003501
+7,"R_Date","7998[SMU-1100]",,"likelihood",1350.5,0.0000014961
+7,"R_Date","7998[SMU-1100]",,"likelihood",1360.5,3.183e-8
+7,"R_Date","7998[SMU-1100]",,"likelihood",1370.5,0
+7,"R_Date","7998[SMU-1100]",,"likelihood",1380.5,0
+7,"R_Date","7998[SMU-1100]",,"likelihood",1390.5,1.5916e-7
+7,"R_Date","7998[SMU-1100]",,"likelihood",1400.5,0.000029922
+7,"R_Date","7998[SMU-1100]",,"likelihood",1410.5,0.0008232
+7,"R_Date","7998[SMU-1100]",,"likelihood",1420.5,0.003482
+7,"R_Date","7998[SMU-1100]",,"likelihood",1430.5,0.01638
+7,"R_Date","7998[SMU-1100]",,"likelihood",1440.5,0.03183
+7,"R_Date","7998[SMU-1100]",,"likelihood",1450.5,0.028293
+7,"R_Date","7998[SMU-1100]",,"likelihood",1460.5,0.009213
+7,"R_Date","7998[SMU-1100]",,"likelihood",1470.5,0.005785
+7,"R_Date","7998[SMU-1100]",,"likelihood",1480.5,0.00163
+7,"R_Date","7998[SMU-1100]",,"likelihood",1490.5,0.0008103
+7,"R_Date","7998[SMU-1100]",,"likelihood",1500.5,0.0003466
+7,"R_Date","7998[SMU-1100]",,"likelihood",1510.5,0.00011934
+7,"R_Date","7998[SMU-1100]",,"likelihood",1520.5,0.00003836
+7,"R_Date","7998[SMU-1100]",,"likelihood",1530.5,8.913e-7
+7,"R_Date","7998[SMU-1100]",,"likelihood",1540.5,7.958e-7
+7,"R_Date","7998[SMU-1100]",,"likelihood",1550.5,0.0000018781
+7,"R_Date","7998[SMU-1100]",,"likelihood",1560.5,0.000009486
+7,"R_Date","7998[SMU-1100]",,"likelihood",1570.5,0.000009836
+7,"R_Date","7998[SMU-1100]",,"likelihood",1580.5,0.00003855
+7,"R_Date","7998[SMU-1100]",,"likelihood",1590.5,0.00008365
+7,"R_Date","7998[SMU-1100]",,"likelihood",1600.5,0.0004093
+7,"R_Date","7998[SMU-1100]",,"likelihood",1610.5,0.000552
+7,"R_Date","7998[SMU-1100]",,"likelihood",1620.5,0.00009311
+7,"R_Date","7998[SMU-1100]",,"likelihood",1630.5,0.000009168
+7,"R_Date","7998[SMU-1100]",,"likelihood",1640.5,6.366e-8
+7,"R_Date","7998[SMU-1100]",,"likelihood",1650.5,0
+7,"R_Date","7998[SMU-1100]",,"likelihood",1660.5,0
+7,"R_Date","7998[SMU-1100]",,"likelihood",1670.5,0
+7,"R_Date","7998[SMU-1100]",,"posterior",1370.5,0
+7,"R_Date","7998[SMU-1100]",,"posterior",1380.5,0
+7,"R_Date","7998[SMU-1100]",,"posterior",1390.5,3.288e-7
+7,"R_Date","7998[SMU-1100]",,"posterior",1400.5,0.000022191
+7,"R_Date","7998[SMU-1100]",,"posterior",1410.5,0.0006377
+7,"R_Date","7998[SMU-1100]",,"posterior",1420.5,0.004977
+7,"R_Date","7998[SMU-1100]",,"posterior",1430.5,0.026244
+7,"R_Date","7998[SMU-1100]",,"posterior",1440.5,0.04109
+7,"R_Date","7998[SMU-1100]",,"posterior",1450.5,0.020791
+7,"R_Date","7998[SMU-1100]",,"posterior",1460.5,0.004468
+7,"R_Date","7998[SMU-1100]",,"posterior",1470.5,0.001369
+7,"R_Date","7998[SMU-1100]",,"posterior",1480.5,0.00028146
+7,"R_Date","7998[SMU-1100]",,"posterior",1490.5,0.00008042
+7,"R_Date","7998[SMU-1100]",,"posterior",1500.5,0.000026671
+7,"R_Date","7998[SMU-1100]",,"posterior",1510.5,0.000005712
+7,"R_Date","7998[SMU-1100]",,"posterior",1520.5,9.452e-7
+7,"R_Date","7998[SMU-1100]",,"posterior",1530.5,1.2328e-7
+7,"R_Date","7998[SMU-1100]",,"posterior",1540.5,1.2328e-7
+7,"R_Date","7998[SMU-1100]",,"posterior",1550.5,1.2328e-7
+7,"R_Date","7998[SMU-1100]",,"posterior",1560.5,0
+8,"R_Date","7999[SMU-801]",,"likelihood",1240.5,0
+8,"R_Date","7999[SMU-801]",,"likelihood",1250.5,0
+8,"R_Date","7999[SMU-801]",,"likelihood",1260.5,1.5948e-8
+8,"R_Date","7999[SMU-801]",,"likelihood",1270.5,2.0732e-7
+8,"R_Date","7999[SMU-801]",,"likelihood",1280.5,0.000013237
+8,"R_Date","7999[SMU-801]",,"likelihood",1290.5,0.00009199
+8,"R_Date","7999[SMU-801]",,"likelihood",1300.5,0.0004452
+8,"R_Date","7999[SMU-801]",,"likelihood",1310.5,0.0017717
+8,"R_Date","7999[SMU-801]",,"likelihood",1320.5,0.0028494
+8,"R_Date","7999[SMU-801]",,"likelihood",1330.5,0.007182
+8,"R_Date","7999[SMU-801]",,"likelihood",1340.5,0.006857
+8,"R_Date","7999[SMU-801]",,"likelihood",1350.5,0.005824
+8,"R_Date","7999[SMU-801]",,"likelihood",1360.5,0.0022642
+8,"R_Date","7999[SMU-801]",,"likelihood",1370.5,0.0005665
+8,"R_Date","7999[SMU-801]",,"likelihood",1380.5,0.0007382
+8,"R_Date","7999[SMU-801]",,"likelihood",1390.5,0.0031146
+8,"R_Date","7999[SMU-801]",,"likelihood",1400.5,0.010005
+8,"R_Date","7999[SMU-801]",,"likelihood",1410.5,0.015089
+8,"R_Date","7999[SMU-801]",,"likelihood",1420.5,0.015948
+8,"R_Date","7999[SMU-801]",,"likelihood",1430.5,0.013194
+8,"R_Date","7999[SMU-801]",,"likelihood",1440.5,0.00841
+8,"R_Date","7999[SMU-801]",,"likelihood",1450.5,0.003336
+8,"R_Date","7999[SMU-801]",,"likelihood",1460.5,0.0009099
+8,"R_Date","7999[SMU-801]",,"likelihood",1470.5,0.0006035
+8,"R_Date","7999[SMU-801]",,"likelihood",1480.5,0.0002244
+8,"R_Date","7999[SMU-801]",,"likelihood",1490.5,0.00013584
+8,"R_Date","7999[SMU-801]",,"likelihood",1500.5,0.00007478
+8,"R_Date","7999[SMU-801]",,"likelihood",1510.5,0.00003773
+8,"R_Date","7999[SMU-801]",,"likelihood",1520.5,0.000017941
+8,"R_Date","7999[SMU-801]",,"likelihood",1530.5,0.0000019775
+8,"R_Date","7999[SMU-801]",,"likelihood",1540.5,0.0000018181
+8,"R_Date","7999[SMU-801]",,"likelihood",1550.5,0.0000028866
+8,"R_Date","7999[SMU-801]",,"likelihood",1560.5,0.000007591
+8,"R_Date","7999[SMU-801]",,"likelihood",1570.5,0.000008038
+8,"R_Date","7999[SMU-801]",,"likelihood",1580.5,0.000017973
+8,"R_Date","7999[SMU-801]",,"likelihood",1590.5,0.00002936
+8,"R_Date","7999[SMU-801]",,"likelihood",1600.5,0.00008365
+8,"R_Date","7999[SMU-801]",,"likelihood",1610.5,0.0001027
+8,"R_Date","7999[SMU-801]",,"likelihood",1620.5,0.000031449
+8,"R_Date","7999[SMU-801]",,"likelihood",1630.5,0.0000074
+8,"R_Date","7999[SMU-801]",,"likelihood",1640.5,4.146e-7
+8,"R_Date","7999[SMU-801]",,"likelihood",1650.5,1.5948e-8
+8,"R_Date","7999[SMU-801]",,"likelihood",1660.5,0
+8,"R_Date","7999[SMU-801]",,"likelihood",1670.5,0
+8,"R_Date","7999[SMU-801]",,"posterior",1260.5,0
+8,"R_Date","7999[SMU-801]",,"posterior",1270.5,0
+8,"R_Date","7999[SMU-801]",,"posterior",1280.5,8.956e-8
+8,"R_Date","7999[SMU-801]",,"posterior",1290.5,9.254e-7
+8,"R_Date","7999[SMU-801]",,"posterior",1300.5,0.000008747
+8,"R_Date","7999[SMU-801]",,"posterior",1310.5,0.00003478
+8,"R_Date","7999[SMU-801]",,"posterior",1320.5,0.00009499
+8,"R_Date","7999[SMU-801]",,"posterior",1330.5,0.00027709
+8,"R_Date","7999[SMU-801]",,"posterior",1340.5,0.0003956
+8,"R_Date","7999[SMU-801]",,"posterior",1350.5,0.0004212
+8,"R_Date","7999[SMU-801]",,"posterior",1360.5,0.00024166
+8,"R_Date","7999[SMU-801]",,"posterior",1370.5,0.00009896
+8,"R_Date","7999[SMU-801]",,"posterior",1380.5,0.00019186
+8,"R_Date","7999[SMU-801]",,"posterior",1390.5,0.0010965
+8,"R_Date","7999[SMU-801]",,"posterior",1400.5,0.004629
+8,"R_Date","7999[SMU-801]",,"posterior",1410.5,0.01092
+8,"R_Date","7999[SMU-801]",,"posterior",1420.5,0.019499
+8,"R_Date","7999[SMU-801]",,"posterior",1430.5,0.029853
+8,"R_Date","7999[SMU-801]",,"posterior",1440.5,0.024521
+8,"R_Date","7999[SMU-801]",,"posterior",1450.5,0.006495
+8,"R_Date","7999[SMU-801]",,"posterior",1460.5,0.0008749
+8,"R_Date","7999[SMU-801]",,"posterior",1470.5,0.00025073
+8,"R_Date","7999[SMU-801]",,"posterior",1480.5,0.00006293
+8,"R_Date","7999[SMU-801]",,"posterior",1490.5,0.000022091
+8,"R_Date","7999[SMU-801]",,"posterior",1500.5,0.000006985
+8,"R_Date","7999[SMU-801]",,"posterior",1510.5,0.0000020897
+8,"R_Date","7999[SMU-801]",,"posterior",1520.5,8.359e-7
+8,"R_Date","7999[SMU-801]",,"posterior",1530.5,0
+8,"R_Date","7999[SMU-801]",,"posterior",1540.5,0
+8,"R_Date","7999[SMU-801]",,"posterior",1550.5,2.0897e-7
+8,"R_Date","7999[SMU-801]",,"posterior",1560.5,8.956e-8
+9,"R_Date","8000[SMU-1086]",,"likelihood",1140.5,0
+9,"R_Date","8000[SMU-1086]",,"likelihood",1150.5,0
+9,"R_Date","8000[SMU-1086]",,"likelihood",1160.5,0
+9,"R_Date","8000[SMU-1086]",,"likelihood",1170.5,2.8726e-8
+9,"R_Date","8000[SMU-1086]",,"likelihood",1180.5,7.66e-8
+9,"R_Date","8000[SMU-1086]",,"likelihood",1190.5,7.66e-8
+9,"R_Date","8000[SMU-1086]",,"likelihood",1200.5,4.788e-8
+9,"R_Date","8000[SMU-1086]",,"likelihood",1210.5,9.575e-8
+9,"R_Date","8000[SMU-1086]",,"likelihood",1220.5,0.0000012352
+9,"R_Date","8000[SMU-1086]",,"likelihood",1230.5,0.000007172
+9,"R_Date","8000[SMU-1086]",,"likelihood",1240.5,0.000009336
+9,"R_Date","8000[SMU-1086]",,"likelihood",1250.5,0.000006234
+9,"R_Date","8000[SMU-1086]",,"likelihood",1260.5,0.000010868
+9,"R_Date","8000[SMU-1086]",,"likelihood",1270.5,0.00005906
+9,"R_Date","8000[SMU-1086]",,"likelihood",1280.5,0.0005254
+9,"R_Date","8000[SMU-1086]",,"likelihood",1290.5,0.0016081
+9,"R_Date","8000[SMU-1086]",,"likelihood",1300.5,0.003364
+9,"R_Date","8000[SMU-1086]",,"likelihood",1310.5,0.006136
+9,"R_Date","8000[SMU-1086]",,"likelihood",1320.5,0.007279
+9,"R_Date","8000[SMU-1086]",,"likelihood",1330.5,0.009302
+9,"R_Date","8000[SMU-1086]",,"likelihood",1340.5,0.009229
+9,"R_Date","8000[SMU-1086]",,"likelihood",1350.5,0.008932
+9,"R_Date","8000[SMU-1086]",,"likelihood",1360.5,0.006693
+9,"R_Date","8000[SMU-1086]",,"likelihood",1370.5,0.003801
+9,"R_Date","8000[SMU-1086]",,"likelihood",1380.5,0.004273
+9,"R_Date","8000[SMU-1086]",,"likelihood",1390.5,0.007374
+9,"R_Date","8000[SMU-1086]",,"likelihood",1400.5,0.009575
+9,"R_Date","8000[SMU-1086]",,"likelihood",1410.5,0.008254
+9,"R_Date","8000[SMU-1086]",,"likelihood",1420.5,0.006621
+9,"R_Date","8000[SMU-1086]",,"likelihood",1430.5,0.003877
+9,"R_Date","8000[SMU-1086]",,"likelihood",1440.5,0.0019674
+9,"R_Date","8000[SMU-1086]",,"likelihood",1450.5,0.0006543
+9,"R_Date","8000[SMU-1086]",,"likelihood",1460.5,0.00016825
+9,"R_Date","8000[SMU-1086]",,"likelihood",1470.5,0.00011195
+9,"R_Date","8000[SMU-1086]",,"likelihood",1480.5,0.00004312
+9,"R_Date","8000[SMU-1086]",,"likelihood",1490.5,0.000026868
+9,"R_Date","8000[SMU-1086]",,"likelihood",1500.5,0.000015407
+9,"R_Date","8000[SMU-1086]",,"likelihood",1510.5,0.000008244
+9,"R_Date","8000[SMU-1086]",,"likelihood",1520.5,0.000004194
+9,"R_Date","8000[SMU-1086]",,"likelihood",1530.5,5.937e-7
+9,"R_Date","8000[SMU-1086]",,"likelihood",1540.5,5.554e-7
+9,"R_Date","8000[SMU-1086]",,"likelihood",1550.5,8.235e-7
+9,"R_Date","8000[SMU-1086]",,"likelihood",1560.5,0.0000019438
+9,"R_Date","8000[SMU-1086]",,"likelihood",1570.5,0.0000020491
+9,"R_Date","8000[SMU-1086]",,"likelihood",1580.5,0.000004204
+9,"R_Date","8000[SMU-1086]",,"likelihood",1590.5,0.00000655
+9,"R_Date","8000[SMU-1086]",,"likelihood",1600.5,0.000017082
+9,"R_Date","8000[SMU-1086]",,"likelihood",1610.5,0.000020673
+9,"R_Date","8000[SMU-1086]",,"likelihood",1620.5,0.000006971
+9,"R_Date","8000[SMU-1086]",,"likelihood",1630.5,0.0000018959
+9,"R_Date","8000[SMU-1086]",,"likelihood",1640.5,1.4363e-7
+9,"R_Date","8000[SMU-1086]",,"likelihood",1650.5,9.575e-9
+9,"R_Date","8000[SMU-1086]",,"likelihood",1660.5,0
+9,"R_Date","8000[SMU-1086]",,"likelihood",1670.5,0
+9,"R_Date","8000[SMU-1086]",,"posterior",1250.5,0
+9,"R_Date","8000[SMU-1086]",,"posterior",1260.5,0
+9,"R_Date","8000[SMU-1086]",,"posterior",1270.5,2.1272e-7
+9,"R_Date","8000[SMU-1086]",,"posterior",1280.5,0.000003749
+9,"R_Date","8000[SMU-1086]",,"posterior",1290.5,0.000014784
+9,"R_Date","8000[SMU-1086]",,"posterior",1300.5,0.0000502
+9,"R_Date","8000[SMU-1086]",,"posterior",1310.5,0.00012447
+9,"R_Date","8000[SMU-1086]",,"posterior",1320.5,0.00021198
+9,"R_Date","8000[SMU-1086]",,"posterior",1330.5,0.0003937
+9,"R_Date","8000[SMU-1086]",,"posterior",1340.5,0.0005778
+9,"R_Date","8000[SMU-1086]",,"posterior",1350.5,0.0007451
+9,"R_Date","8000[SMU-1086]",,"posterior",1360.5,0.0008052
+9,"R_Date","8000[SMU-1086]",,"posterior",1370.5,0.0007504
+9,"R_Date","8000[SMU-1086]",,"posterior",1380.5,0.001339
+9,"R_Date","8000[SMU-1086]",,"posterior",1390.5,0.003561
+9,"R_Date","8000[SMU-1086]",,"posterior",1400.5,0.007625
+9,"R_Date","8000[SMU-1086]",,"posterior",1410.5,0.012318
+9,"R_Date","8000[SMU-1086]",,"posterior",1420.5,0.019425
+9,"R_Date","8000[SMU-1086]",,"posterior",1430.5,0.02659
+9,"R_Date","8000[SMU-1086]",,"posterior",1440.5,0.020285
+9,"R_Date","8000[SMU-1086]",,"posterior",1450.5,0.00452
+9,"R_Date","8000[SMU-1086]",,"posterior",1460.5,0.0004983
+9,"R_Date","8000[SMU-1086]",,"posterior",1470.5,0.00011854
+9,"R_Date","8000[SMU-1086]",,"posterior",1480.5,0.000029887
+9,"R_Date","8000[SMU-1086]",,"posterior",1490.5,0.000006461
+9,"R_Date","8000[SMU-1086]",,"posterior",1500.5,0.000003217
+9,"R_Date","8000[SMU-1086]",,"posterior",1510.5,0.000001037
+9,"R_Date","8000[SMU-1086]",,"posterior",1520.5,1.0636e-7
+9,"R_Date","8000[SMU-1086]",,"posterior",1530.5,3.191e-7
+9,"R_Date","8000[SMU-1086]",,"posterior",1540.5,2.1272e-7
+9,"R_Date","8000[SMU-1086]",,"posterior",1550.5,3.191e-7
+10,"R_Date","8001[SMU-1102]",,"likelihood",230.5,0
+10,"R_Date","8001[SMU-1102]",,"likelihood",240.5,0
+10,"R_Date","8001[SMU-1102]",,"likelihood",250.5,2.6949e-9
+10,"R_Date","8001[SMU-1102]",,"likelihood",260.5,5.39e-9
+10,"R_Date","8001[SMU-1102]",,"likelihood",270.5,8.085e-9
+10,"R_Date","8001[SMU-1102]",,"likelihood",280.5,2.6949e-9
+10,"R_Date","8001[SMU-1102]",,"likelihood",290.5,2.6949e-9
+10,"R_Date","8001[SMU-1102]",,"likelihood",300.5,2.6949e-9
+10,"R_Date","8001[SMU-1102]",,"likelihood",310.5,2.6949e-9
+10,"R_Date","8001[SMU-1102]",,"likelihood",320.5,2.6949e-9
+10,"R_Date","8001[SMU-1102]",,"likelihood",330.5,2.6949e-9
+10,"R_Date","8001[SMU-1102]",,"likelihood",340.5,5.39e-9
+10,"R_Date","8001[SMU-1102]",,"likelihood",350.5,8.085e-9
+10,"R_Date","8001[SMU-1102]",,"likelihood",360.5,8.085e-9
+10,"R_Date","8001[SMU-1102]",,"likelihood",370.5,8.085e-9
+10,"R_Date","8001[SMU-1102]",,"likelihood",380.5,1.078e-8
+10,"R_Date","8001[SMU-1102]",,"likelihood",390.5,1.078e-8
+10,"R_Date","8001[SMU-1102]",,"likelihood",400.5,1.078e-8
+10,"R_Date","8001[SMU-1102]",,"likelihood",410.5,1.8864e-8
+10,"R_Date","8001[SMU-1102]",,"likelihood",420.5,4.312e-8
+10,"R_Date","8001[SMU-1102]",,"likelihood",430.5,6.737e-8
+10,"R_Date","8001[SMU-1102]",,"likelihood",440.5,1.1049e-7
+10,"R_Date","8001[SMU-1102]",,"likelihood",450.5,1.1588e-7
+10,"R_Date","8001[SMU-1102]",,"likelihood",460.5,1.051e-7
+10,"R_Date","8001[SMU-1102]",,"likelihood",470.5,8.085e-8
+10,"R_Date","8001[SMU-1102]",,"likelihood",480.5,1.1857e-7
+10,"R_Date","8001[SMU-1102]",,"likelihood",490.5,1.2935e-7
+10,"R_Date","8001[SMU-1102]",,"likelihood",500.5,9.432e-8
+10,"R_Date","8001[SMU-1102]",,"likelihood",510.5,9.163e-8
+10,"R_Date","8001[SMU-1102]",,"likelihood",520.5,8.085e-8
+10,"R_Date","8001[SMU-1102]",,"likelihood",530.5,9.163e-8
+10,"R_Date","8001[SMU-1102]",,"likelihood",540.5,1.6169e-7
+10,"R_Date","8001[SMU-1102]",,"likelihood",550.5,2.7488e-7
+10,"R_Date","8001[SMU-1102]",,"likelihood",560.5,3.449e-7
+10,"R_Date","8001[SMU-1102]",,"likelihood",570.5,4.716e-7
+10,"R_Date","8001[SMU-1102]",,"likelihood",580.5,6.01e-7
+10,"R_Date","8001[SMU-1102]",,"likelihood",590.5,6.926e-7
+10,"R_Date","8001[SMU-1102]",,"likelihood",600.5,9.89e-7
+10,"R_Date","8001[SMU-1102]",,"likelihood",610.5,0.0000016843
+10,"R_Date","8001[SMU-1102]",,"likelihood",620.5,0.0000016681
+10,"R_Date","8001[SMU-1102]",,"likelihood",630.5,0.0000013744
+10,"R_Date","8001[SMU-1102]",,"likelihood",640.5,0.0000018056
+10,"R_Date","8001[SMU-1102]",,"likelihood",650.5,0.000003514
+10,"R_Date","8001[SMU-1102]",,"likelihood",660.5,0.000006937
+10,"R_Date","8001[SMU-1102]",,"likelihood",670.5,0.000011798
+10,"R_Date","8001[SMU-1102]",,"likelihood",680.5,0.000016635
+10,"R_Date","8001[SMU-1102]",,"likelihood",690.5,0.000021125
+10,"R_Date","8001[SMU-1102]",,"likelihood",700.5,0.000021166
+10,"R_Date","8001[SMU-1102]",,"likelihood",710.5,0.000029148
+10,"R_Date","8001[SMU-1102]",,"likelihood",720.5,0.00002949
+10,"R_Date","8001[SMU-1102]",,"likelihood",730.5,0.000026059
+10,"R_Date","8001[SMU-1102]",,"likelihood",740.5,0.00002213
+10,"R_Date","8001[SMU-1102]",,"likelihood",750.5,0.000015477
+10,"R_Date","8001[SMU-1102]",,"likelihood",760.5,0.000017015
+10,"R_Date","8001[SMU-1102]",,"likelihood",770.5,0.000020815
+10,"R_Date","8001[SMU-1102]",,"likelihood",780.5,0.00007864
+10,"R_Date","8001[SMU-1102]",,"likelihood",790.5,0.00005281
+10,"R_Date","8001[SMU-1102]",,"likelihood",800.5,0.00004638
+10,"R_Date","8001[SMU-1102]",,"likelihood",810.5,0.00004808
+10,"R_Date","8001[SMU-1102]",,"likelihood",820.5,0.00004941
+10,"R_Date","8001[SMU-1102]",,"likelihood",830.5,0.00006395
+10,"R_Date","8001[SMU-1102]",,"likelihood",840.5,0.00007164
+10,"R_Date","8001[SMU-1102]",,"likelihood",850.5,0.00006717
+10,"R_Date","8001[SMU-1102]",,"likelihood",860.5,0.00006154
+10,"R_Date","8001[SMU-1102]",,"likelihood",870.5,0.00006254
+10,"R_Date","8001[SMU-1102]",,"likelihood",880.5,0.00007799
+10,"R_Date","8001[SMU-1102]",,"likelihood",890.5,0.00011848
+10,"R_Date","8001[SMU-1102]",,"likelihood",900.5,0.00017376
+10,"R_Date","8001[SMU-1102]",,"likelihood",910.5,0.00019452
+10,"R_Date","8001[SMU-1102]",,"likelihood",920.5,0.0001652
+10,"R_Date","8001[SMU-1102]",,"likelihood",930.5,0.00013659
+10,"R_Date","8001[SMU-1102]",,"likelihood",940.5,0.00013343
+10,"R_Date","8001[SMU-1102]",,"likelihood",950.5,0.00015045
+10,"R_Date","8001[SMU-1102]",,"likelihood",960.5,0.00017129
+10,"R_Date","8001[SMU-1102]",,"likelihood",970.5,0.00016907
+10,"R_Date","8001[SMU-1102]",,"likelihood",980.5,0.00020972
+10,"R_Date","8001[SMU-1102]",,"likelihood",990.5,0.00024221
+10,"R_Date","8001[SMU-1102]",,"likelihood",1000.5,0.0003899
+10,"R_Date","8001[SMU-1102]",,"likelihood",1010.5,0.0003399
+10,"R_Date","8001[SMU-1102]",,"likelihood",1020.5,0.0003968
+10,"R_Date","8001[SMU-1102]",,"likelihood",1030.5,0.0005677
+10,"R_Date","8001[SMU-1102]",,"likelihood",1040.5,0.0007326
+10,"R_Date","8001[SMU-1102]",,"likelihood",1050.5,0.0008804
+10,"R_Date","8001[SMU-1102]",,"likelihood",1060.5,0.0009892
+10,"R_Date","8001[SMU-1102]",,"likelihood",1070.5,0.0009678
+10,"R_Date","8001[SMU-1102]",,"likelihood",1080.5,0.0008838
+10,"R_Date","8001[SMU-1102]",,"likelihood",1090.5,0.0007651
+10,"R_Date","8001[SMU-1102]",,"likelihood",1100.5,0.0008117
+10,"R_Date","8001[SMU-1102]",,"likelihood",1110.5,0.0007418
+10,"R_Date","8001[SMU-1102]",,"likelihood",1120.5,0.0007757
+10,"R_Date","8001[SMU-1102]",,"likelihood",1130.5,0.0008305
+10,"R_Date","8001[SMU-1102]",,"likelihood",1140.5,0.0008237
+10,"R_Date","8001[SMU-1102]",,"likelihood",1150.5,0.0008385
+10,"R_Date","8001[SMU-1102]",,"likelihood",1160.5,0.001066
+10,"R_Date","8001[SMU-1102]",,"likelihood",1170.5,0.0012436
+10,"R_Date","8001[SMU-1102]",,"likelihood",1180.5,0.0013377
+10,"R_Date","8001[SMU-1102]",,"likelihood",1190.5,0.0013363
+10,"R_Date","8001[SMU-1102]",,"likelihood",1200.5,0.0012844
+10,"R_Date","8001[SMU-1102]",,"likelihood",1210.5,0.0013665
+10,"R_Date","8001[SMU-1102]",,"likelihood",1220.5,0.0016057
+10,"R_Date","8001[SMU-1102]",,"likelihood",1230.5,0.0018626
+10,"R_Date","8001[SMU-1102]",,"likelihood",1240.5,0.0018924
+10,"R_Date","8001[SMU-1102]",,"likelihood",1250.5,0.0018399
+10,"R_Date","8001[SMU-1102]",,"likelihood",1260.5,0.0019123
+10,"R_Date","8001[SMU-1102]",,"likelihood",1270.5,0.002141
+10,"R_Date","8001[SMU-1102]",,"likelihood",1280.5,0.0024273
+10,"R_Date","8001[SMU-1102]",,"likelihood",1290.5,0.002592
+10,"R_Date","8001[SMU-1102]",,"likelihood",1300.5,0.0026655
+10,"R_Date","8001[SMU-1102]",,"likelihood",1310.5,0.0026949
+10,"R_Date","8001[SMU-1102]",,"likelihood",1320.5,0.0026877
+10,"R_Date","8001[SMU-1102]",,"likelihood",1330.5,0.0026266
+10,"R_Date","8001[SMU-1102]",,"likelihood",1340.5,0.002632
+10,"R_Date","8001[SMU-1102]",,"likelihood",1350.5,0.0026485
+10,"R_Date","8001[SMU-1102]",,"likelihood",1360.5,0.0026922
+10,"R_Date","8001[SMU-1102]",,"likelihood",1370.5,0.0026764
+10,"R_Date","8001[SMU-1102]",,"likelihood",1380.5,0.002684
+10,"R_Date","8001[SMU-1102]",,"likelihood",1390.5,0.0026834
+10,"R_Date","8001[SMU-1102]",,"likelihood",1400.5,0.0025737
+10,"R_Date","8001[SMU-1102]",,"likelihood",1410.5,0.0024162
+10,"R_Date","8001[SMU-1102]",,"likelihood",1420.5,0.0022992
+10,"R_Date","8001[SMU-1102]",,"likelihood",1430.5,0.0020911
+10,"R_Date","8001[SMU-1102]",,"likelihood",1440.5,0.0018854
+10,"R_Date","8001[SMU-1102]",,"likelihood",1450.5,0.0016184
+10,"R_Date","8001[SMU-1102]",,"likelihood",1460.5,0.0013574
+10,"R_Date","8001[SMU-1102]",,"likelihood",1470.5,0.0012899
+10,"R_Date","8001[SMU-1102]",,"likelihood",1480.5,0.0011501
+10,"R_Date","8001[SMU-1102]",,"likelihood",1490.5,0.0010861
+10,"R_Date","8001[SMU-1102]",,"likelihood",1500.5,0.001013
+10,"R_Date","8001[SMU-1102]",,"likelihood",1510.5,0.0009438
+10,"R_Date","8001[SMU-1102]",,"likelihood",1520.5,0.0008685
+10,"R_Date","8001[SMU-1102]",,"likelihood",1530.5,0.0006961
+10,"R_Date","8001[SMU-1102]",,"likelihood",1540.5,0.0006904
+10,"R_Date","8001[SMU-1102]",,"likelihood",1550.5,0.0007187
+10,"R_Date","8001[SMU-1102]",,"likelihood",1560.5,0.0007939
+10,"R_Date","8001[SMU-1102]",,"likelihood",1570.5,0.0008022
+10,"R_Date","8001[SMU-1102]",,"likelihood",1580.5,0.0008684
+10,"R_Date","8001[SMU-1102]",,"likelihood",1590.5,0.0009149
+10,"R_Date","8001[SMU-1102]",,"likelihood",1600.5,0.0010254
+10,"R_Date","8001[SMU-1102]",,"likelihood",1610.5,0.0010491
+10,"R_Date","8001[SMU-1102]",,"likelihood",1620.5,0.0009217
+10,"R_Date","8001[SMU-1102]",,"likelihood",1630.5,0.0007911
+10,"R_Date","8001[SMU-1102]",,"likelihood",1640.5,0.0005817
+10,"R_Date","8001[SMU-1102]",,"likelihood",1650.5,0.0004218
+10,"R_Date","8001[SMU-1102]",,"likelihood",1660.5,0.0003243
+10,"R_Date","8001[SMU-1102]",,"likelihood",1670.5,0.00021025
+10,"R_Date","8001[SMU-1102]",,"likelihood",1680.5,0.00016262
+10,"R_Date","8001[SMU-1102]",,"likelihood",1690.5,0.00011321
+10,"R_Date","8001[SMU-1102]",,"likelihood",1700.5,0.00007663
+10,"R_Date","8001[SMU-1102]",,"likelihood",1710.5,0.00006721
+10,"R_Date","8001[SMU-1102]",,"likelihood",1720.5,0.00007242
+10,"R_Date","8001[SMU-1102]",,"likelihood",1730.5,0.00012294
+10,"R_Date","8001[SMU-1102]",,"likelihood",1740.5,0.00016449
+10,"R_Date","8001[SMU-1102]",,"likelihood",1750.5,0.00017543
+10,"R_Date","8001[SMU-1102]",,"likelihood",1760.5,0.00015456
+10,"R_Date","8001[SMU-1102]",,"likelihood",1770.5,0.00018953
+10,"R_Date","8001[SMU-1102]",,"likelihood",1780.5,0.00021172
+10,"R_Date","8001[SMU-1102]",,"likelihood",1790.5,0.00029595
+10,"R_Date","8001[SMU-1102]",,"likelihood",1800.5,0.00017422
+10,"R_Date","8001[SMU-1102]",,"likelihood",1810.5,0.00010409
+10,"R_Date","8001[SMU-1102]",,"likelihood",1820.5,0.00006843
+10,"R_Date","8001[SMU-1102]",,"likelihood",1830.5,0.00006585
+10,"R_Date","8001[SMU-1102]",,"likelihood",1840.5,0.00009148
+10,"R_Date","8001[SMU-1102]",,"likelihood",1850.5,0.00009113
+10,"R_Date","8001[SMU-1102]",,"likelihood",1860.5,0.00009267
+10,"R_Date","8001[SMU-1102]",,"likelihood",1870.5,0.00009225
+10,"R_Date","8001[SMU-1102]",,"likelihood",1880.5,0.00008568
+10,"R_Date","8001[SMU-1102]",,"likelihood",1890.5,0.00007279
+10,"R_Date","8001[SMU-1102]",,"likelihood",1900.5,0.00006233
+10,"R_Date","8001[SMU-1102]",,"likelihood",1910.5,0.00007956
+10,"R_Date","8001[SMU-1102]",,"likelihood",1920.5,0.0001064
+10,"R_Date","8001[SMU-1102]",,"likelihood",1930.5,0.00014495
+10,"R_Date","8001[SMU-1102]",,"likelihood",1940.5,0.00016773
+10,"R_Date","8001[SMU-1102]",,"likelihood",1950.5,0.0001595
+10,"R_Date","8001[SMU-1102]",,"posterior",1140.5,0
+10,"R_Date","8001[SMU-1102]",,"posterior",1150.5,9.763e-8
+10,"R_Date","8001[SMU-1102]",,"posterior",1160.5,0
+10,"R_Date","8001[SMU-1102]",,"posterior",1170.5,3.173e-7
+10,"R_Date","8001[SMU-1102]",,"posterior",1180.5,0.0000010495
+10,"R_Date","8001[SMU-1102]",,"posterior",1190.5,6.346e-7
+10,"R_Date","8001[SMU-1102]",,"posterior",1200.5,0.0000017817
+10,"R_Date","8001[SMU-1102]",,"posterior",1210.5,0.0000019769
+10,"R_Date","8001[SMU-1102]",,"posterior",1220.5,0.000003637
+10,"R_Date","8001[SMU-1102]",,"posterior",1230.5,0.000003441
+10,"R_Date","8001[SMU-1102]",,"posterior",1240.5,0.000005321
+10,"R_Date","8001[SMU-1102]",,"posterior",1250.5,0.000008762
+10,"R_Date","8001[SMU-1102]",,"posterior",1260.5,0.000011251
+10,"R_Date","8001[SMU-1102]",,"posterior",1270.5,0.000021453
+10,"R_Date","8001[SMU-1102]",,"posterior",1280.5,0.000031045
+10,"R_Date","8001[SMU-1102]",,"posterior",1290.5,0.00004845
+10,"R_Date","8001[SMU-1102]",,"posterior",1300.5,0.00007886
+10,"R_Date","8001[SMU-1102]",,"posterior",1310.5,0.0001173
+10,"R_Date","8001[SMU-1102]",,"posterior",1320.5,0.00016926
+10,"R_Date","8001[SMU-1102]",,"posterior",1330.5,0.00024968
+10,"R_Date","8001[SMU-1102]",,"posterior",1340.5,0.0003514
+10,"R_Date","8001[SMU-1102]",,"posterior",1350.5,0.0005035
+10,"R_Date","8001[SMU-1102]",,"posterior",1360.5,0.0007055
+10,"R_Date","8001[SMU-1102]",,"posterior",1370.5,0.0010545
+10,"R_Date","8001[SMU-1102]",,"posterior",1380.5,0.0016307
+10,"R_Date","8001[SMU-1102]",,"posterior",1390.5,0.0027755
+10,"R_Date","8001[SMU-1102]",,"posterior",1400.5,0.004622
+10,"R_Date","8001[SMU-1102]",,"posterior",1410.5,0.007721
+10,"R_Date","8001[SMU-1102]",,"posterior",1420.5,0.013724
+10,"R_Date","8001[SMU-1102]",,"posterior",1430.5,0.024058
+10,"R_Date","8001[SMU-1102]",,"posterior",1440.5,0.024407
+10,"R_Date","8001[SMU-1102]",,"posterior",1450.5,0.010404
+10,"R_Date","8001[SMU-1102]",,"posterior",1460.5,0.003679
+10,"R_Date","8001[SMU-1102]",,"posterior",1470.5,0.0017527
+10,"R_Date","8001[SMU-1102]",,"posterior",1480.5,0.0008219
+10,"R_Date","8001[SMU-1102]",,"posterior",1490.5,0.0004537
+10,"R_Date","8001[SMU-1102]",,"posterior",1500.5,0.00025844
+10,"R_Date","8001[SMU-1102]",,"posterior",1510.5,0.00013114
+10,"R_Date","8001[SMU-1102]",,"posterior",1520.5,0.00007407
+10,"R_Date","8001[SMU-1102]",,"posterior",1530.5,0.0000399
+10,"R_Date","8001[SMU-1102]",,"posterior",1540.5,0.00002448
+10,"R_Date","8001[SMU-1102]",,"posterior",1550.5,0.000018427
+10,"R_Date","8001[SMU-1102]",,"posterior",1560.5,0.000010739
+10,"R_Date","8001[SMU-1102]",,"posterior",1570.5,0.000006761
+10,"R_Date","8001[SMU-1102]",,"posterior",1580.5,0.000005516
+10,"R_Date","8001[SMU-1102]",,"posterior",1590.5,0.000003637
+10,"R_Date","8001[SMU-1102]",,"posterior",1600.5,0.000003441
+10,"R_Date","8001[SMU-1102]",,"posterior",1610.5,0.0000021966
+10,"R_Date","8001[SMU-1102]",,"posterior",1620.5,7.322e-7
+10,"R_Date","8001[SMU-1102]",,"posterior",1630.5,9.275e-7
+10,"R_Date","8001[SMU-1102]",,"posterior",1640.5,7.322e-7
+10,"R_Date","8001[SMU-1102]",,"posterior",1650.5,9.763e-8
+10,"R_Date","8001[SMU-1102]",,"posterior",1660.5,0
+10,"R_Date","8001[SMU-1102]",,"posterior",1670.5,2.1966e-7
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1250.5,0
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1260.5,0
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1270.5,0
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1280.5,9.974e-9
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1290.5,3.989e-8
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1300.5,1.2966e-7
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1310.5,3.989e-7
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1320.5,0.0000011968
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1330.5,0.000003341
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1340.5,0.000008817
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1350.5,0.000021812
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1360.5,0.00005073
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1370.5,0.0001108
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1380.5,0.00022734
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1390.5,0.0004382
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1400.5,0.0007935
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1410.5,0.0013498
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1420.5,0.0021569
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1430.5,0.003238
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1440.5,0.004566
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1450.5,0.006049
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1460.5,0.007528
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1470.5,0.008802
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1480.5,0.009667
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1490.5,0.009974
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1500.5,0.009667
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1510.5,0.008802
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1520.5,0.007528
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1530.5,0.006049
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1540.5,0.004566
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1550.5,0.003238
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1560.5,0.0021569
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1570.5,0.0013498
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1580.5,0.0007935
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1590.5,0.0004382
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1600.5,0.00022734
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1610.5,0.0001108
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1620.5,0.00005073
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1630.5,0.000021812
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1640.5,0.000008817
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1650.5,0.000003341
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1660.5,0.0000011968
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1670.5,3.989e-7
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1680.5,1.2966e-7
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1690.5,3.989e-8
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1700.5,9.974e-9
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1710.5,0
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"likelihood",1720.5,0
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1310.5,0
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1320.5,4.287e-7
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1330.5,5.145e-7
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1340.5,0.0000014577
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1350.5,0.000004059
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1360.5,0.000012919
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1370.5,0.00003802
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1380.5,0.00012657
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1390.5,0.0003708
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1400.5,0.0011101
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1410.5,0.0031439
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1420.5,0.008858
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1430.5,0.022367
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1440.5,0.028583
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1450.5,0.016612
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1460.5,0.008194
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1470.5,0.004636
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1480.5,0.0026082
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1490.5,0.0015438
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1500.5,0.0008734
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1510.5,0.0004426
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1520.5,0.00023387
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1530.5,0.00011668
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1540.5,0.0000648
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1550.5,0.000030612
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1560.5,0.000015406
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1570.5,0.00000626
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1580.5,0.0000020866
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1590.5,0.0000012576
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1600.5,5.145e-7
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1610.5,0
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1620.5,0
+11,"C_Date","8002[WUTL-89a, Thermoluminescence]",,"posterior",1630.5,1.1433e-7
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1210.5,0
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1220.5,0
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1230.5,0
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1240.5,8.865e-9
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1250.5,1.7731e-8
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1260.5,5.319e-8
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1270.5,1.6844e-7
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1280.5,4.521e-7
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1290.5,0.0000011968
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1300.5,0.0000029699
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1310.5,0.000007057
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1320.5,0.00001594
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1330.5,0.00003427
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1340.5,0.00007013
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1350.5,0.0001366
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1360.5,0.00025325
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1370.5,0.0004469
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1380.5,0.0007505
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1390.5,0.0011998
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1400.5,0.0018256
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1410.5,0.002644
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1420.5,0.003645
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1430.5,0.004782
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1440.5,0.005972
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1450.5,0.007099
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1460.5,0.008032
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1470.5,0.008649
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1480.5,0.008865
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1490.5,0.008649
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1500.5,0.008032
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1510.5,0.007099
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1520.5,0.005972
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1530.5,0.004782
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1540.5,0.003645
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1550.5,0.002644
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1560.5,0.0018256
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1570.5,0.0011998
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1580.5,0.0007505
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1590.5,0.0004469
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1600.5,0.00025325
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1610.5,0.0001366
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1620.5,0.00007013
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1630.5,0.00003427
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1640.5,0.00001594
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1650.5,0.000007057
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1660.5,0.0000029699
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1670.5,0.0000011968
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1680.5,4.521e-7
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1690.5,1.6844e-7
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1700.5,5.319e-8
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1710.5,1.7731e-8
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1720.5,8.865e-9
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1730.5,0
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"likelihood",1740.5,0
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1290.5,0
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1300.5,1.1146e-7
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1310.5,1.1146e-7
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1320.5,5.294e-7
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1330.5,0.0000028143
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1340.5,0.000007607
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1350.5,0.000018446
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1360.5,0.00004999
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1370.5,0.00012595
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1380.5,0.0002974
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1390.5,0.000731
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1400.5,0.0018221
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1410.5,0.004275
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1420.5,0.010322
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1430.5,0.023285
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1440.5,0.027864
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1450.5,0.015216
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1460.5,0.00724
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1470.5,0.003956
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1480.5,0.002131
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1490.5,0.0012457
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1500.5,0.0006708
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1510.5,0.0003549
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1520.5,0.00018875
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1530.5,0.00009583
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1540.5,0.00005041
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1550.5,0.000028227
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1560.5,0.000011675
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1570.5,0.000004988
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1580.5,0.0000019784
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1590.5,0.0000012539
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1600.5,1.9505e-7
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1610.5,0
+12,"C_Date","8003[WUTL-89b, Thermoluminescence]",,"posterior",1620.5,1.1146e-7
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1140.5,0
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1150.5,0
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1160.5,7.254e-9
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1170.5,1.4507e-8
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1180.5,4.352e-8
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1190.5,1.0155e-7
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1200.5,2.3937e-7
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1210.5,5.295e-7
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1220.5,0.0000011533
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1230.5,0.0000024299
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1240.5,0.000004954
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1250.5,0.000009756
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1260.5,0.000018583
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1270.5,0.00003426
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1280.5,0.00006109
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1290.5,0.00010541
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1300.5,0.00017596
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1310.5,0.00028417
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1320.5,0.000444
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1330.5,0.0006712
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1340.5,0.0009817
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1350.5,0.001389
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1360.5,0.0019015
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1370.5,0.0025184
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1380.5,0.003227
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1390.5,0.004001
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1400.5,0.004798
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1410.5,0.005568
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1420.5,0.006251
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1430.5,0.006789
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1440.5,0.007135
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1450.5,0.007254
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1460.5,0.007135
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1470.5,0.006789
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1480.5,0.006251
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1490.5,0.005568
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1500.5,0.004798
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1510.5,0.004001
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1520.5,0.003227
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1530.5,0.0025184
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1540.5,0.0019015
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1550.5,0.001389
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1560.5,0.0009817
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1570.5,0.0006712
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1580.5,0.000444
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1590.5,0.00028417
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1600.5,0.00017596
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1610.5,0.00010541
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1620.5,0.00006109
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1630.5,0.00003426
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1640.5,0.000018583
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1650.5,0.000009756
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1660.5,0.000004954
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1670.5,0.0000024299
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1680.5,0.0000011533
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1690.5,5.295e-7
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1700.5,2.3937e-7
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1710.5,1.0155e-7
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1720.5,4.352e-8
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1730.5,1.4507e-8
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1740.5,7.254e-9
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1750.5,0
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1760.5,0
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"likelihood",1770.5,0
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1240.5,0
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1250.5,1.0528e-7
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1260.5,0
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1270.5,2.1055e-7
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1280.5,5.264e-7
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1290.5,0.0000016581
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1300.5,0.000004264
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1310.5,0.000010422
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1320.5,0.000017292
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1330.5,0.00003458
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1340.5,0.00007209
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1350.5,0.00013604
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1360.5,0.00023363
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1370.5,0.0004495
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1380.5,0.0008279
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1390.5,0.001633
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1400.5,0.003199
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1410.5,0.00622
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1420.5,0.012354
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1430.5,0.024217
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1440.5,0.026319
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1450.5,0.013012
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1460.5,0.005519
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1470.5,0.0027334
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1480.5,0.0014277
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1490.5,0.0007673
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1500.5,0.0004021
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1510.5,0.00020479
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1520.5,0.00010386
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1530.5,0.00004719
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1540.5,0.00002853
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1550.5,0.000012607
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1560.5,0.000006053
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1570.5,0.000003132
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1580.5,0.0000013423
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1590.5,8.422e-7
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1600.5,2.1055e-7
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1610.5,0
+13,"C_Date","8004[WUTL-89c, Thermoluminescence]",,"posterior",1620.5,0
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",995.5,0
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1005.5,0
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1015.5,6.649e-9
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1025.5,1.3298e-8
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1035.5,2.6596e-8
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1045.5,5.319e-8
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1055.5,1.2633e-7
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1065.5,2.6596e-7
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1075.5,5.585e-7
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1085.5,0.0000011303
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1095.5,0.0000022274
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1105.5,0.000004282
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1115.5,0.000008005
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1125.5,0.000014541
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1135.5,0.000025705
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1145.5,0.00004418
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1155.5,0.00007386
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1165.5,0.0001201
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1175.5,0.00018994
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1185.5,0.00029214
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1195.5,0.000437
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1205.5,0.0006359
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1215.5,0.0008998
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1225.5,0.0012385
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1235.5,0.001658
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1245.5,0.0021586
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1255.5,0.0027335
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1265.5,0.003367
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1275.5,0.004033
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1285.5,0.004699
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1295.5,0.005324
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1305.5,0.005868
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1315.5,0.00629
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1325.5,0.006557
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1335.5,0.006649
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1345.5,0.006557
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1355.5,0.00629
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1365.5,0.005868
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1375.5,0.005324
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1385.5,0.004699
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1395.5,0.004033
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1405.5,0.003367
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1415.5,0.0027335
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1425.5,0.0021586
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1435.5,0.001658
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1445.5,0.0012385
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1455.5,0.0008998
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1465.5,0.0006359
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1475.5,0.000437
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1485.5,0.00029214
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1495.5,0.00018994
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1505.5,0.0001201
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1515.5,0.00007386
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1525.5,0.00004418
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1535.5,0.000025705
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1545.5,0.000014541
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1555.5,0.000008005
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1565.5,0.000004282
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1575.5,0.0000022274
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1585.5,0.0000011303
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1595.5,5.585e-7
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1605.5,2.6596e-7
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1615.5,1.2633e-7
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1625.5,5.319e-8
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1635.5,2.6596e-8
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1645.5,1.3298e-8
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1655.5,6.649e-9
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1665.5,0
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1675.5,0
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"likelihood",1685.5,0
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1145.5,0
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1155.5,0
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1165.5,1.0462e-7
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1175.5,1.0462e-7
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1185.5,5.231e-7
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1195.5,0
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1205.5,5.231e-7
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1215.5,8.37e-7
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1225.5,0.0000010462
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1235.5,0.000003217
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1245.5,0.000004786
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1255.5,0.000007402
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1265.5,0.000014281
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1275.5,0.000023645
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1285.5,0.00004541
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1295.5,0.00007072
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1305.5,0.00012374
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1315.5,0.00019313
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1325.5,0.000319
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1335.5,0.0004792
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1345.5,0.0006722
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1355.5,0.0009265
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1365.5,0.0013099
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1375.5,0.0018649
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1385.5,0.0029522
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1395.5,0.004676
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1405.5,0.007412
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1415.5,0.011586
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1425.5,0.019397
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1435.5,0.026156
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1445.5,0.015184
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1455.5,0.004362
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1465.5,0.0014053
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1475.5,0.0005027
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1485.5,0.00019292
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1495.5,0.00007125
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1505.5,0.000027176
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1515.5,0.000009678
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1525.5,0.0000027202
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1535.5,0.0000011508
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1545.5,3.1387e-7
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1555.5,1.0462e-7
+14,"C_Date","8006[WUTL-89c, Thermoluminescence]",,"posterior",1565.5,0
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1090.5,0
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1100.5,0
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1110.5,7.254e-9
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1120.5,1.4507e-8
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1130.5,4.352e-8
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1140.5,1.0155e-7
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1150.5,2.3937e-7
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1160.5,5.295e-7
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1170.5,0.0000011533
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1180.5,0.0000024299
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1190.5,0.000004954
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1200.5,0.000009756
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1210.5,0.000018583
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1220.5,0.00003426
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1230.5,0.00006109
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1240.5,0.00010541
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1250.5,0.00017596
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1260.5,0.00028417
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1270.5,0.000444
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1280.5,0.0006712
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1290.5,0.0009817
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1300.5,0.001389
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1310.5,0.0019015
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1320.5,0.0025184
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1330.5,0.003227
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1340.5,0.004001
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1350.5,0.004798
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1360.5,0.005568
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1370.5,0.006251
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1380.5,0.006789
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1390.5,0.007135
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1400.5,0.007254
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1410.5,0.007135
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1420.5,0.006789
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1430.5,0.006251
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1440.5,0.005568
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1450.5,0.004798
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1460.5,0.004001
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1470.5,0.003227
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1480.5,0.0025184
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1490.5,0.0019015
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1500.5,0.001389
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1510.5,0.0009817
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1520.5,0.0006712
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1530.5,0.000444
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1540.5,0.00028417
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1550.5,0.00017596
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1560.5,0.00010541
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1570.5,0.00006109
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1580.5,0.00003426
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1590.5,0.000018583
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1600.5,0.000009756
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1610.5,0.000004954
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1620.5,0.0000024299
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1630.5,0.0000011533
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1640.5,5.295e-7
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1650.5,2.3937e-7
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1660.5,1.0155e-7
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1670.5,4.352e-8
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1680.5,1.4507e-8
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1690.5,7.254e-9
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1700.5,0
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1710.5,0
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"likelihood",1720.5,0
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1230.5,0
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1240.5,5.183e-7
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1250.5,7.404e-7
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1260.5,0.0000012586
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1270.5,0.0000031343
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1280.5,0.000005207
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1290.5,0.000008119
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1300.5,0.000019793
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1310.5,0.00004302
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1320.5,0.00007895
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1330.5,0.00014822
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1340.5,0.00023406
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1350.5,0.000386
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1360.5,0.0006143
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1370.5,0.000999
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1380.5,0.0015812
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1390.5,0.0027125
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1400.5,0.004663
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1410.5,0.007971
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1420.5,0.013984
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1430.5,0.024529
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1440.5,0.024679
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1450.5,0.010619
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1460.5,0.00381
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1470.5,0.0016114
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1480.5,0.0007106
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1490.5,0.0003266
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1500.5,0.00015042
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1510.5,0.00006281
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1520.5,0.000028011
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1530.5,0.000013129
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1540.5,0.000003949
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1550.5,0.0000012586
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1560.5,6.17e-7
+15,"C_Date","8007[WUTL-89f, Thermoluminescence]",,"posterior",1570.5,9.872e-8
+16,"Calculate","Event",,"posterior",1150.5,0
+16,"Calculate","Event",,"posterior",1160.5,5.24e-7
+16,"Calculate","Event",,"posterior",1170.5,9.483e-7
+16,"Calculate","Event",,"posterior",1180.5,9.483e-7
+16,"Calculate","Event",,"posterior",1190.5,0.0000016719
+16,"Calculate","Event",,"posterior",1200.5,0.0000017718
+16,"Calculate","Event",,"posterior",1210.5,0.0000024954
+16,"Calculate","Event",,"posterior",1220.5,0.000003544
+16,"Calculate","Event",,"posterior",1230.5,0.000004068
+16,"Calculate","Event",,"posterior",1240.5,0.000006887
+16,"Calculate","Event",,"posterior",1250.5,0.000008959
+16,"Calculate","Event",,"posterior",1260.5,0.000014898
+16,"Calculate","Event",,"posterior",1270.5,0.000019689
+16,"Calculate","Event",,"posterior",1280.5,0.00002478
+16,"Calculate","Event",,"posterior",1290.5,0.00003803
+16,"Calculate","Event",,"posterior",1300.5,0.00005854
+16,"Calculate","Event",,"posterior",1310.5,0.00009241
+16,"Calculate","Event",,"posterior",1320.5,0.00014177
+16,"Calculate","Event",,"posterior",1330.5,0.00021074
+16,"Calculate","Event",,"posterior",1340.5,0.00029187
+16,"Calculate","Event",,"posterior",1350.5,0.0004099
+16,"Calculate","Event",,"posterior",1360.5,0.0005843
+16,"Calculate","Event",,"posterior",1370.5,0.0008424
+16,"Calculate","Event",,"posterior",1380.5,0.0013314
+16,"Calculate","Event",,"posterior",1390.5,0.0021928
+16,"Calculate","Event",,"posterior",1400.5,0.003804
+16,"Calculate","Event",,"posterior",1410.5,0.00666
+16,"Calculate","Event",,"posterior",1420.5,0.012428
+16,"Calculate","Event",,"posterior",1430.5,0.02347
+16,"Calculate","Event",,"posterior",1440.5,0.024954
+16,"Calculate","Event",,"posterior",1450.5,0.011854
+16,"Calculate","Event",,"posterior",1460.5,0.004929
+16,"Calculate","Event",,"posterior",1470.5,0.0024545
+16,"Calculate","Event",,"posterior",1480.5,0.0013234
+16,"Calculate","Event",,"posterior",1490.5,0.0007436
+16,"Calculate","Event",,"posterior",1500.5,0.0004269
+16,"Calculate","Event",,"posterior",1510.5,0.00025501
+16,"Calculate","Event",,"posterior",1520.5,0.00014271
+16,"Calculate","Event",,"posterior",1530.5,0.00009323
+16,"Calculate","Event",,"posterior",1540.5,0.00006239
+16,"Calculate","Event",,"posterior",1550.5,0.00003958
+16,"Calculate","Event",,"posterior",1560.5,0.000023657
+16,"Calculate","Event",,"posterior",1570.5,0.00001647
+16,"Calculate","Event",,"posterior",1580.5,0.000010107
+16,"Calculate","Event",,"posterior",1590.5,0.000005839
+16,"Calculate","Event",,"posterior",1600.5,0.000004267
+16,"Calculate","Event",,"posterior",1610.5,0.000003344
+16,"Calculate","Event",,"posterior",1620.5,0.0000028198
+16,"Calculate","Event",,"posterior",1630.5,0.0000016719
+16,"Calculate","Event",,"posterior",1640.5,0.0000015721
+16,"Calculate","Event",,"posterior",1650.5,0.0000011479
+16,"Calculate","Event",,"posterior",1660.5,8.235e-7
+16,"Calculate","Event",,"posterior",1670.5,4.242e-7
+16,"Calculate","Event",,"posterior",1680.5,3.244e-7
+16,"Calculate","Event",,"posterior",1690.5,0
+16,"Calculate","Event",,"posterior",1700.5,9.982e-8
+16,"Calculate","Event",,"posterior",1710.5,0
+16,"Calculate","Event",,"posterior",1720.5,1.9964e-7
+16,"Calculate","Event",,"posterior",1730.5,3.244e-7
+16,"Calculate","Event",,"posterior",1740.5,0
+16,"Calculate","Event",,"posterior",1750.5,0
+16,"Calculate","Event",,"posterior",1760.5,9.982e-8
+16,"Calculate","Event",,"posterior",1770.5,9.982e-8
+16,"Calculate","Event",,"posterior",1780.5,9.982e-8
+16,"Calculate","Event",,"posterior",1790.5,9.982e-8
+16,"Calculate","Event",,"posterior",1800.5,0
+16,"Calculate","Event",,"posterior",1810.5,9.982e-8
+16,"Calculate","Event",,"posterior",1820.5,9.982e-8
+17,"Boundary","endAnalysisUnit",,"posterior",1390.5,0
+17,"Boundary","endAnalysisUnit",,"posterior",1400.5,0
+17,"Boundary","endAnalysisUnit",,"posterior",1410.5,0.000006881
+17,"Boundary","endAnalysisUnit",,"posterior",1420.5,0.0003165
+17,"Boundary","endAnalysisUnit",,"posterior",1430.5,0.00564
+17,"Boundary","endAnalysisUnit",,"posterior",1440.5,0.021804
+17,"Boundary","endAnalysisUnit",,"posterior",1450.5,0.02667
+17,"Boundary","endAnalysisUnit",,"posterior",1460.5,0.016726
+17,"Boundary","endAnalysisUnit",,"posterior",1470.5,0.01037
+17,"Boundary","endAnalysisUnit",,"posterior",1480.5,0.0063
+17,"Boundary","endAnalysisUnit",,"posterior",1490.5,0.004154
+17,"Boundary","endAnalysisUnit",,"posterior",1500.5,0.0028451
+17,"Boundary","endAnalysisUnit",,"posterior",1510.5,0.0017733
+17,"Boundary","endAnalysisUnit",,"posterior",1520.5,0.0010999
+17,"Boundary","endAnalysisUnit",,"posterior",1530.5,0.0007125
+17,"Boundary","endAnalysisUnit",,"posterior",1540.5,0.0005186
+17,"Boundary","endAnalysisUnit",,"posterior",1550.5,0.0003441
+17,"Boundary","endAnalysisUnit",,"posterior",1560.5,0.00021688
+17,"Boundary","endAnalysisUnit",,"posterior",1570.5,0.00016511
+17,"Boundary","endAnalysisUnit",,"posterior",1580.5,0.00008668
+17,"Boundary","endAnalysisUnit",,"posterior",1590.5,0.00008729
+17,"Boundary","endAnalysisUnit",,"posterior",1600.5,0.00003907
+17,"Boundary","endAnalysisUnit",,"posterior",1610.5,0.000029284
+17,"Boundary","endAnalysisUnit",,"posterior",1620.5,0.000022696
+17,"Boundary","endAnalysisUnit",,"posterior",1630.5,0.000012908
+17,"Boundary","endAnalysisUnit",,"posterior",1640.5,0.000010428
+17,"Boundary","endAnalysisUnit",,"posterior",1650.5,0.000013122
+17,"Boundary","endAnalysisUnit",,"posterior",1660.5,0.000005201
+17,"Boundary","endAnalysisUnit",,"posterior",1670.5,0.000008854
+17,"Boundary","endAnalysisUnit",,"posterior",1680.5,0.000005414
+17,"Boundary","endAnalysisUnit",,"posterior",1690.5,0.0000026137
+17,"Boundary","endAnalysisUnit",,"posterior",1700.5,0.0000024003
+17,"Boundary","endAnalysisUnit",,"posterior",1710.5,0.0000011468
+17,"Boundary","endAnalysisUnit",,"posterior",1720.5,0.0000010401
+17,"Boundary","endAnalysisUnit",,"posterior",1730.5,0.0000018669
+17,"Boundary","endAnalysisUnit",,"posterior",1740.5,7.201e-7
+17,"Boundary","endAnalysisUnit",,"posterior",1750.5,8.268e-7
+17,"Boundary","endAnalysisUnit",,"posterior",1760.5,0.0000012535
+17,"Boundary","endAnalysisUnit",,"posterior",1770.5,4.267e-7
+17,"Boundary","endAnalysisUnit",,"posterior",1780.5,4.267e-7
+17,"Boundary","endAnalysisUnit",,"posterior",1790.5,4.267e-7
+17,"Boundary","endAnalysisUnit",,"posterior",1800.5,4.267e-7
+17,"Boundary","endAnalysisUnit",,"posterior",1810.5,3.2e-7
+17,"Boundary","endAnalysisUnit",,"posterior",1820.5,2.1336e-7
+17,"Boundary","endAnalysisUnit",,"posterior",1830.5,3.2e-7
+17,"Boundary","endAnalysisUnit",,"posterior",1840.5,3.2e-7
+17,"Boundary","endAnalysisUnit",,"posterior",1850.5,0
+17,"Boundary","endAnalysisUnit",,"posterior",1860.5,1.0668e-7
+17,"Boundary","endAnalysisUnit",,"posterior",1870.5,0
+17,"Boundary","endAnalysisUnit",,"posterior",1880.5,0
+17,"Boundary","endAnalysisUnit",,"posterior",1890.5,1.0668e-7
+17,"Boundary","endAnalysisUnit",,"posterior",1900.5,0
+17,"Boundary","endAnalysisUnit",,"posterior",1910.5,0
+17,"Boundary","endAnalysisUnit",,"posterior",1920.5,2.1336e-7
+17,"Boundary","endAnalysisUnit",,"posterior",1930.5,0
+17,"Boundary","endAnalysisUnit",,"posterior",1940.5,0
+17,"Boundary","endAnalysisUnit",,"posterior",1950.5,0
+17,"Boundary","endAnalysisUnit",,"posterior",1960.5,0
+17,"Boundary","endAnalysisUnit",,"posterior",1970.5,0
+17,"Boundary","endAnalysisUnit",,"posterior",1980.5,6.134e-7
+17,"Boundary","endAnalysisUnit",,"posterior",1990.5,0
+17,"Boundary","endAnalysisUnit",,"posterior",2000.5,0
+17,"Boundary","endAnalysisUnit",,"posterior",2010.5,3.2e-7
+17,"Boundary","endAnalysisUnit",,"posterior",2020.5,0

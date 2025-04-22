@@ -1,0 +1,24 @@
+Options()
+ {
+  BCAD=FALSE;
+  Curve("IntCal20","IntCal20.14c");
+  Resolution=10;
+ };
+ Plot()
+ {
+  Phase("Collection Unit 4564")
+  {
+    Sequence("AU 80452")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 80452")
+     {
+      R_Date('52228[AA-2831]',9880,90);
+      C_Date('52229[Shfd-18025, Optically stimulated luminescence]',10800,700);
+      C_Date('52230[Shfd-18026, Optically stimulated luminescence]',10900,700);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+  };
+ };

@@ -1,0 +1,1811 @@
+"index","op","name","z","type","value","probability"
+4,"Boundary","beginAnalysisUnit",,"posterior",-327.5,0
+4,"Boundary","beginAnalysisUnit",,"posterior",-317.5,6.25e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-307.5,0.00000125
+4,"Boundary","beginAnalysisUnit",,"posterior",-297.5,0.00000125
+4,"Boundary","beginAnalysisUnit",,"posterior",-287.5,8.32e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-277.5,8.32e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-267.5,0.0000010431
+4,"Boundary","beginAnalysisUnit",,"posterior",-257.5,6.25e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-247.5,8.32e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-237.5,0.0000016681
+4,"Boundary","beginAnalysisUnit",,"posterior",-227.5,6.25e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-217.5,0.00000125
+4,"Boundary","beginAnalysisUnit",,"posterior",-207.5,8.32e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-197.5,6.25e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-187.5,0.00000125
+4,"Boundary","beginAnalysisUnit",,"posterior",-177.5,0.0000010431
+4,"Boundary","beginAnalysisUnit",,"posterior",-167.5,0.0000016681
+4,"Boundary","beginAnalysisUnit",,"posterior",-157.5,0.0000022932
+4,"Boundary","beginAnalysisUnit",,"posterior",-147.5,4.181e-7
+4,"Boundary","beginAnalysisUnit",,"posterior",-137.5,0.000001457
+4,"Boundary","beginAnalysisUnit",,"posterior",-127.5,0.0000016681
+4,"Boundary","beginAnalysisUnit",,"posterior",-117.5,0.000003332
+4,"Boundary","beginAnalysisUnit",,"posterior",-107.5,0.0000018751
+4,"Boundary","beginAnalysisUnit",,"posterior",-97.5,0.0000025001
+4,"Boundary","beginAnalysisUnit",,"posterior",-87.5,0.00000125
+4,"Boundary","beginAnalysisUnit",,"posterior",-77.5,0.0000010431
+4,"Boundary","beginAnalysisUnit",,"posterior",-67.5,0.000002707
+4,"Boundary","beginAnalysisUnit",,"posterior",-57.5,0.000002707
+4,"Boundary","beginAnalysisUnit",,"posterior",-47.5,0.000003957
+4,"Boundary","beginAnalysisUnit",,"posterior",-37.5,0.0000029182
+4,"Boundary","beginAnalysisUnit",,"posterior",-27.5,0.0000016681
+4,"Boundary","beginAnalysisUnit",,"posterior",-17.5,0.0000029182
+4,"Boundary","beginAnalysisUnit",,"posterior",-7.5,0.000008332
+4,"Boundary","beginAnalysisUnit",,"posterior",2.5,0.000005418
+4,"Boundary","beginAnalysisUnit",,"posterior",12.5,0.000003543
+4,"Boundary","beginAnalysisUnit",,"posterior",22.5,0.000005625
+4,"Boundary","beginAnalysisUnit",,"posterior",32.5,0.000005832
+4,"Boundary","beginAnalysisUnit",,"posterior",42.5,0.000004793
+4,"Boundary","beginAnalysisUnit",,"posterior",52.5,0.000007918
+4,"Boundary","beginAnalysisUnit",,"posterior",62.5,0.000006668
+4,"Boundary","beginAnalysisUnit",,"posterior",72.5,0.000006457
+4,"Boundary","beginAnalysisUnit",,"posterior",82.5,0.00000875
+4,"Boundary","beginAnalysisUnit",,"posterior",92.5,0.000005207
+4,"Boundary","beginAnalysisUnit",,"posterior",102.5,0.000008957
+4,"Boundary","beginAnalysisUnit",,"posterior",112.5,0.000011875
+4,"Boundary","beginAnalysisUnit",,"posterior",122.5,0.000009375
+4,"Boundary","beginAnalysisUnit",,"posterior",132.5,0.000008957
+4,"Boundary","beginAnalysisUnit",,"posterior",142.5,0.000012707
+4,"Boundary","beginAnalysisUnit",,"posterior",152.5,0.000012919
+4,"Boundary","beginAnalysisUnit",,"posterior",162.5,0.000011043
+4,"Boundary","beginAnalysisUnit",,"posterior",172.5,0.000014169
+4,"Boundary","beginAnalysisUnit",,"posterior",182.5,0.000014582
+4,"Boundary","beginAnalysisUnit",,"posterior",192.5,0.000018751
+4,"Boundary","beginAnalysisUnit",,"posterior",202.5,0.000014582
+4,"Boundary","beginAnalysisUnit",,"posterior",212.5,0.000023958
+4,"Boundary","beginAnalysisUnit",,"posterior",222.5,0.000029165
+4,"Boundary","beginAnalysisUnit",,"posterior",232.5,0.000024165
+4,"Boundary","beginAnalysisUnit",,"posterior",242.5,0.000025626
+4,"Boundary","beginAnalysisUnit",,"posterior",252.5,0.000027083
+4,"Boundary","beginAnalysisUnit",,"posterior",262.5,0.00003229
+4,"Boundary","beginAnalysisUnit",,"posterior",272.5,0.00003271
+4,"Boundary","beginAnalysisUnit",,"posterior",282.5,0.000030415
+4,"Boundary","beginAnalysisUnit",,"posterior",292.5,0.00004896
+4,"Boundary","beginAnalysisUnit",,"posterior",302.5,0.00004354
+4,"Boundary","beginAnalysisUnit",,"posterior",312.5,0.00005042
+4,"Boundary","beginAnalysisUnit",,"posterior",322.5,0.00005292
+4,"Boundary","beginAnalysisUnit",,"posterior",332.5,0.00006937
+4,"Boundary","beginAnalysisUnit",,"posterior",342.5,0.00009479
+4,"Boundary","beginAnalysisUnit",,"posterior",352.5,0.00007292
+4,"Boundary","beginAnalysisUnit",,"posterior",362.5,0.00008667
+4,"Boundary","beginAnalysisUnit",,"posterior",372.5,0.00010312
+4,"Boundary","beginAnalysisUnit",,"posterior",382.5,0.00011229
+4,"Boundary","beginAnalysisUnit",,"posterior",392.5,0.00013875
+4,"Boundary","beginAnalysisUnit",,"posterior",402.5,0.00012979
+4,"Boundary","beginAnalysisUnit",,"posterior",412.5,0.00017167
+4,"Boundary","beginAnalysisUnit",,"posterior",422.5,0.00016792
+4,"Boundary","beginAnalysisUnit",,"posterior",432.5,0.0002325
+4,"Boundary","beginAnalysisUnit",,"posterior",442.5,0.0002425
+4,"Boundary","beginAnalysisUnit",,"posterior",452.5,0.00026958
+4,"Boundary","beginAnalysisUnit",,"posterior",462.5,0.00028833
+4,"Boundary","beginAnalysisUnit",,"posterior",472.5,0.0003406
+4,"Boundary","beginAnalysisUnit",,"posterior",482.5,0.0003744
+4,"Boundary","beginAnalysisUnit",,"posterior",492.5,0.0004319
+4,"Boundary","beginAnalysisUnit",,"posterior",502.5,0.0004581
+4,"Boundary","beginAnalysisUnit",,"posterior",512.5,0.0005179
+4,"Boundary","beginAnalysisUnit",,"posterior",522.5,0.0006575
+4,"Boundary","beginAnalysisUnit",,"posterior",532.5,0.000725
+4,"Boundary","beginAnalysisUnit",,"posterior",542.5,0.0008304
+4,"Boundary","beginAnalysisUnit",,"posterior",552.5,0.0010167
+4,"Boundary","beginAnalysisUnit",,"posterior",562.5,0.0011183
+4,"Boundary","beginAnalysisUnit",,"posterior",572.5,0.0012567
+4,"Boundary","beginAnalysisUnit",,"posterior",582.5,0.0014352
+4,"Boundary","beginAnalysisUnit",,"posterior",592.5,0.0015567
+4,"Boundary","beginAnalysisUnit",,"posterior",602.5,0.0017748
+4,"Boundary","beginAnalysisUnit",,"posterior",612.5,0.0020081
+4,"Boundary","beginAnalysisUnit",,"posterior",622.5,0.0022733
+4,"Boundary","beginAnalysisUnit",,"posterior",632.5,0.0023742
+4,"Boundary","beginAnalysisUnit",,"posterior",642.5,0.002629
+4,"Boundary","beginAnalysisUnit",,"posterior",652.5,0.0029252
+4,"Boundary","beginAnalysisUnit",,"posterior",662.5,0.0028515
+4,"Boundary","beginAnalysisUnit",,"posterior",672.5,0.0030606
+4,"Boundary","beginAnalysisUnit",,"posterior",682.5,0.00338
+4,"Boundary","beginAnalysisUnit",,"posterior",692.5,0.003468
+4,"Boundary","beginAnalysisUnit",,"posterior",702.5,0.003542
+4,"Boundary","beginAnalysisUnit",,"posterior",712.5,0.003754
+4,"Boundary","beginAnalysisUnit",,"posterior",722.5,0.003797
+4,"Boundary","beginAnalysisUnit",,"posterior",732.5,0.003999
+4,"Boundary","beginAnalysisUnit",,"posterior",742.5,0.004147
+4,"Boundary","beginAnalysisUnit",,"posterior",752.5,0.004223
+4,"Boundary","beginAnalysisUnit",,"posterior",762.5,0.003672
+4,"Boundary","beginAnalysisUnit",,"posterior",772.5,0.003575
+4,"Boundary","beginAnalysisUnit",,"posterior",782.5,0.003575
+4,"Boundary","beginAnalysisUnit",,"posterior",792.5,0.003326
+4,"Boundary","beginAnalysisUnit",,"posterior",802.5,0.003219
+4,"Boundary","beginAnalysisUnit",,"posterior",812.5,0.0031038
+4,"Boundary","beginAnalysisUnit",,"posterior",822.5,0.0026363
+4,"Boundary","beginAnalysisUnit",,"posterior",832.5,0.0023958
+4,"Boundary","beginAnalysisUnit",,"posterior",842.5,0.0023817
+4,"Boundary","beginAnalysisUnit",,"posterior",852.5,0.0020204
+4,"Boundary","beginAnalysisUnit",,"posterior",862.5,0.0015333
+4,"Boundary","beginAnalysisUnit",,"posterior",872.5,0.0009471
+4,"Boundary","beginAnalysisUnit",,"posterior",882.5,0.0007717
+4,"Boundary","beginAnalysisUnit",,"posterior",892.5,0.0006504
+4,"Boundary","beginAnalysisUnit",,"posterior",902.5,0.000474
+4,"Boundary","beginAnalysisUnit",,"posterior",912.5,0.000545
+4,"Boundary","beginAnalysisUnit",,"posterior",922.5,0.0003971
+4,"Boundary","beginAnalysisUnit",,"posterior",932.5,0.0004275
+4,"Boundary","beginAnalysisUnit",,"posterior",942.5,0.00021167
+4,"Boundary","beginAnalysisUnit",,"posterior",952.5,0.00010562
+4,"Boundary","beginAnalysisUnit",,"posterior",962.5,0.00017854
+4,"Boundary","beginAnalysisUnit",,"posterior",972.5,0.00004458
+4,"Boundary","beginAnalysisUnit",,"posterior",982.5,0.000012919
+4,"Boundary","beginAnalysisUnit",,"posterior",992.5,0.000011875
+4,"Boundary","beginAnalysisUnit",,"posterior",1002.5,0
+6,"R_Date","10278[Beta-10759]",,"likelihood",410.5,0
+6,"R_Date","10278[Beta-10759]",,"likelihood",420.5,0
+6,"R_Date","10278[Beta-10759]",,"likelihood",430.5,0
+6,"R_Date","10278[Beta-10759]",,"likelihood",440.5,8.888e-9
+6,"R_Date","10278[Beta-10759]",,"likelihood",450.5,8.888e-9
+6,"R_Date","10278[Beta-10759]",,"likelihood",460.5,4.444e-9
+6,"R_Date","10278[Beta-10759]",,"likelihood",470.5,4.444e-9
+6,"R_Date","10278[Beta-10759]",,"likelihood",480.5,8.888e-9
+6,"R_Date","10278[Beta-10759]",,"likelihood",490.5,1.3332e-8
+6,"R_Date","10278[Beta-10759]",,"likelihood",500.5,4.444e-9
+6,"R_Date","10278[Beta-10759]",,"likelihood",510.5,4.444e-9
+6,"R_Date","10278[Beta-10759]",,"likelihood",520.5,4.444e-9
+6,"R_Date","10278[Beta-10759]",,"likelihood",530.5,4.444e-9
+6,"R_Date","10278[Beta-10759]",,"likelihood",540.5,2.6663e-8
+6,"R_Date","10278[Beta-10759]",,"likelihood",550.5,1.5553e-7
+6,"R_Date","10278[Beta-10759]",,"likelihood",560.5,3.244e-7
+6,"R_Date","10278[Beta-10759]",,"likelihood",570.5,8.488e-7
+6,"R_Date","10278[Beta-10759]",,"likelihood",580.5,0.0000017553
+6,"R_Date","10278[Beta-10759]",,"likelihood",590.5,0.0000026485
+6,"R_Date","10278[Beta-10759]",,"likelihood",600.5,0.000007199
+6,"R_Date","10278[Beta-10759]",,"likelihood",610.5,0.000029005
+6,"R_Date","10278[Beta-10759]",,"likelihood",620.5,0.000028258
+6,"R_Date","10278[Beta-10759]",,"likelihood",630.5,0.000017215
+6,"R_Date","10278[Beta-10759]",,"likelihood",640.5,0.0000341
+6,"R_Date","10278[Beta-10759]",,"likelihood",650.5,0.00016057
+6,"R_Date","10278[Beta-10759]",,"likelihood",660.5,0.0006045
+6,"R_Date","10278[Beta-10759]",,"likelihood",670.5,0.0013986
+6,"R_Date","10278[Beta-10759]",,"likelihood",680.5,0.0021641
+6,"R_Date","10278[Beta-10759]",,"likelihood",690.5,0.0027883
+6,"R_Date","10278[Beta-10759]",,"likelihood",700.5,0.0027935
+6,"R_Date","10278[Beta-10759]",,"likelihood",710.5,0.003615
+6,"R_Date","10278[Beta-10759]",,"likelihood",720.5,0.00365
+6,"R_Date","10278[Beta-10759]",,"likelihood",730.5,0.003345
+6,"R_Date","10278[Beta-10759]",,"likelihood",740.5,0.0029152
+6,"R_Date","10278[Beta-10759]",,"likelihood",750.5,0.0019966
+6,"R_Date","10278[Beta-10759]",,"likelihood",760.5,0.0022268
+6,"R_Date","10278[Beta-10759]",,"likelihood",770.5,0.0026768
+6,"R_Date","10278[Beta-10759]",,"likelihood",780.5,0.0041
+6,"R_Date","10278[Beta-10759]",,"likelihood",790.5,0.004435
+6,"R_Date","10278[Beta-10759]",,"likelihood",800.5,0.004415
+6,"R_Date","10278[Beta-10759]",,"likelihood",810.5,0.004432
+6,"R_Date","10278[Beta-10759]",,"likelihood",820.5,0.004444
+6,"R_Date","10278[Beta-10759]",,"likelihood",830.5,0.004373
+6,"R_Date","10278[Beta-10759]",,"likelihood",840.5,0.004245
+6,"R_Date","10278[Beta-10759]",,"likelihood",850.5,0.004334
+6,"R_Date","10278[Beta-10759]",,"likelihood",860.5,0.004411
+6,"R_Date","10278[Beta-10759]",,"likelihood",870.5,0.004399
+6,"R_Date","10278[Beta-10759]",,"likelihood",880.5,0.004107
+6,"R_Date","10278[Beta-10759]",,"likelihood",890.5,0.0030001
+6,"R_Date","10278[Beta-10759]",,"likelihood",900.5,0.0017453
+6,"R_Date","10278[Beta-10759]",,"likelihood",910.5,0.0014106
+6,"R_Date","10278[Beta-10759]",,"likelihood",920.5,0.0019044
+6,"R_Date","10278[Beta-10759]",,"likelihood",930.5,0.0025352
+6,"R_Date","10278[Beta-10759]",,"likelihood",940.5,0.0026127
+6,"R_Date","10278[Beta-10759]",,"likelihood",950.5,0.0022082
+6,"R_Date","10278[Beta-10759]",,"likelihood",960.5,0.0017891
+6,"R_Date","10278[Beta-10759]",,"likelihood",970.5,0.0018174
+6,"R_Date","10278[Beta-10759]",,"likelihood",980.5,0.0011932
+6,"R_Date","10278[Beta-10759]",,"likelihood",990.5,0.0008819
+6,"R_Date","10278[Beta-10759]",,"likelihood",1000.5,0.00018726
+6,"R_Date","10278[Beta-10759]",,"likelihood",1010.5,0.00031015
+6,"R_Date","10278[Beta-10759]",,"likelihood",1020.5,0.00017891
+6,"R_Date","10278[Beta-10759]",,"likelihood",1030.5,0.000034
+6,"R_Date","10278[Beta-10759]",,"likelihood",1040.5,0.000007128
+6,"R_Date","10278[Beta-10759]",,"likelihood",1050.5,0.0000019908
+6,"R_Date","10278[Beta-10759]",,"likelihood",1060.5,6.799e-7
+6,"R_Date","10278[Beta-10759]",,"likelihood",1070.5,8.266e-7
+6,"R_Date","10278[Beta-10759]",,"likelihood",1080.5,0.0000018175
+6,"R_Date","10278[Beta-10759]",,"likelihood",1090.5,0.000005266
+6,"R_Date","10278[Beta-10759]",,"likelihood",1100.5,0.000003431
+6,"R_Date","10278[Beta-10759]",,"likelihood",1110.5,0.000006519
+6,"R_Date","10278[Beta-10759]",,"likelihood",1120.5,0.000004777
+6,"R_Date","10278[Beta-10759]",,"likelihood",1130.5,0.0000028885
+6,"R_Date","10278[Beta-10759]",,"likelihood",1140.5,0.0000030796
+6,"R_Date","10278[Beta-10759]",,"likelihood",1150.5,0.000002693
+6,"R_Date","10278[Beta-10759]",,"likelihood",1160.5,3.644e-7
+6,"R_Date","10278[Beta-10759]",,"likelihood",1170.5,6.666e-8
+6,"R_Date","10278[Beta-10759]",,"likelihood",1180.5,3.1107e-8
+6,"R_Date","10278[Beta-10759]",,"likelihood",1190.5,3.1107e-8
+6,"R_Date","10278[Beta-10759]",,"likelihood",1200.5,4.888e-8
+6,"R_Date","10278[Beta-10759]",,"likelihood",1210.5,2.2219e-8
+6,"R_Date","10278[Beta-10759]",,"likelihood",1220.5,4.444e-9
+6,"R_Date","10278[Beta-10759]",,"likelihood",1230.5,0
+6,"R_Date","10278[Beta-10759]",,"likelihood",1240.5,0
+6,"R_Date","10278[Beta-10759]",,"posterior",580.5,0
+6,"R_Date","10278[Beta-10759]",,"posterior",590.5,4.146e-7
+6,"R_Date","10278[Beta-10759]",,"posterior",600.5,0.0000010422
+6,"R_Date","10278[Beta-10759]",,"posterior",610.5,0.000003334
+6,"R_Date","10278[Beta-10759]",,"posterior",620.5,0.000004584
+6,"R_Date","10278[Beta-10759]",,"posterior",630.5,0.000005626
+6,"R_Date","10278[Beta-10759]",,"posterior",640.5,0.000009789
+6,"R_Date","10278[Beta-10759]",,"posterior",650.5,0.00005
+6,"R_Date","10278[Beta-10759]",,"posterior",660.5,0.00016437
+6,"R_Date","10278[Beta-10759]",,"posterior",670.5,0.0004265
+6,"R_Date","10278[Beta-10759]",,"posterior",680.5,0.0007621
+6,"R_Date","10278[Beta-10759]",,"posterior",690.5,0.0010508
+6,"R_Date","10278[Beta-10759]",,"posterior",700.5,0.0011806
+6,"R_Date","10278[Beta-10759]",,"posterior",710.5,0.0015994
+6,"R_Date","10278[Beta-10759]",,"posterior",720.5,0.0017925
+6,"R_Date","10278[Beta-10759]",,"posterior",730.5,0.0018256
+6,"R_Date","10278[Beta-10759]",,"posterior",740.5,0.0017369
+6,"R_Date","10278[Beta-10759]",,"posterior",750.5,0.001416
+6,"R_Date","10278[Beta-10759]",,"posterior",760.5,0.0015552
+6,"R_Date","10278[Beta-10759]",,"posterior",770.5,0.0023365
+6,"R_Date","10278[Beta-10759]",,"posterior",780.5,0.003427
+6,"R_Date","10278[Beta-10759]",,"posterior",790.5,0.003841
+6,"R_Date","10278[Beta-10759]",,"posterior",800.5,0.00404
+6,"R_Date","10278[Beta-10759]",,"posterior",810.5,0.004258
+6,"R_Date","10278[Beta-10759]",,"posterior",820.5,0.004656
+6,"R_Date","10278[Beta-10759]",,"posterior",830.5,0.004736
+6,"R_Date","10278[Beta-10759]",,"posterior",840.5,0.004798
+6,"R_Date","10278[Beta-10759]",,"posterior",850.5,0.005087
+6,"R_Date","10278[Beta-10759]",,"posterior",860.5,0.005475
+6,"R_Date","10278[Beta-10759]",,"posterior",870.5,0.005603
+6,"R_Date","10278[Beta-10759]",,"posterior",880.5,0.005407
+6,"R_Date","10278[Beta-10759]",,"posterior",890.5,0.004081
+6,"R_Date","10278[Beta-10759]",,"posterior",900.5,0.0025817
+6,"R_Date","10278[Beta-10759]",,"posterior",910.5,0.0021944
+6,"R_Date","10278[Beta-10759]",,"posterior",920.5,0.0027733
+6,"R_Date","10278[Beta-10759]",,"posterior",930.5,0.003725
+6,"R_Date","10278[Beta-10759]",,"posterior",940.5,0.003872
+6,"R_Date","10278[Beta-10759]",,"posterior",950.5,0.003407
+6,"R_Date","10278[Beta-10759]",,"posterior",960.5,0.0029112
+6,"R_Date","10278[Beta-10759]",,"posterior",970.5,0.002794
+6,"R_Date","10278[Beta-10759]",,"posterior",980.5,0.0019383
+6,"R_Date","10278[Beta-10759]",,"posterior",990.5,0.0012665
+6,"R_Date","10278[Beta-10759]",,"posterior",1000.5,0.0004073
+6,"R_Date","10278[Beta-10759]",,"posterior",1010.5,0.0004331
+6,"R_Date","10278[Beta-10759]",,"posterior",1020.5,0.00026729
+6,"R_Date","10278[Beta-10759]",,"posterior",1030.5,0.00005458
+6,"R_Date","10278[Beta-10759]",,"posterior",1040.5,0.000010417
+6,"R_Date","10278[Beta-10759]",,"posterior",1050.5,0.0000027064
+6,"R_Date","10278[Beta-10759]",,"posterior",1060.5,0.0000014569
+6,"R_Date","10278[Beta-10759]",,"posterior",1070.5,6.276e-7
+6,"R_Date","10278[Beta-10759]",,"posterior",1080.5,0.0000027064
+6,"R_Date","10278[Beta-10759]",,"posterior",1090.5,0.0000031267
+6,"R_Date","10278[Beta-10759]",,"posterior",1100.5,0.000004169
+6,"R_Date","10278[Beta-10759]",,"posterior",1110.5,0.00000604
+6,"R_Date","10278[Beta-10759]",,"posterior",1120.5,0.000004376
+6,"R_Date","10278[Beta-10759]",,"posterior",1130.5,0.0000024991
+6,"R_Date","10278[Beta-10759]",,"posterior",1140.5,0.0000027064
+6,"R_Date","10278[Beta-10759]",,"posterior",1150.5,0.0000018771
+6,"R_Date","10278[Beta-10759]",,"posterior",1160.5,4.146e-7
+6,"R_Date","10278[Beta-10759]",,"posterior",1170.5,0
+6,"R_Date","10278[Beta-10759]",,"posterior",1180.5,0
+6,"R_Date","10278[Beta-10759]",,"posterior",1190.5,2.0732e-7
+7,"R_Date","10279[Beta-17760]",,"likelihood",620.5,0
+7,"R_Date","10279[Beta-17760]",,"likelihood",630.5,0
+7,"R_Date","10279[Beta-17760]",,"likelihood",640.5,0
+7,"R_Date","10279[Beta-17760]",,"likelihood",650.5,1.9516e-8
+7,"R_Date","10279[Beta-17760]",,"likelihood",660.5,7.026e-7
+7,"R_Date","10279[Beta-17760]",,"likelihood",670.5,0.000009231
+7,"R_Date","10279[Beta-17760]",,"likelihood",680.5,0.00004081
+7,"R_Date","10279[Beta-17760]",,"likelihood",690.5,0.00010106
+7,"R_Date","10279[Beta-17760]",,"likelihood",700.5,0.00010181
+7,"R_Date","10279[Beta-17760]",,"likelihood",710.5,0.0003253
+7,"R_Date","10279[Beta-17760]",,"likelihood",720.5,0.0003342
+7,"R_Date","10279[Beta-17760]",,"likelihood",730.5,0.00021703
+7,"R_Date","10279[Beta-17760]",,"likelihood",740.5,0.00011913
+7,"R_Date","10279[Beta-17760]",,"likelihood",750.5,0.000027595
+7,"R_Date","10279[Beta-17760]",,"likelihood",760.5,0.0000425
+7,"R_Date","10279[Beta-17760]",,"likelihood",770.5,0.00012476
+7,"R_Date","10279[Beta-17760]",,"likelihood",780.5,0.003994
+7,"R_Date","10279[Beta-17760]",,"likelihood",790.5,0.0018417
+7,"R_Date","10279[Beta-17760]",,"likelihood",800.5,0.0013155
+7,"R_Date","10279[Beta-17760]",,"likelihood",810.5,0.0014495
+7,"R_Date","10279[Beta-17760]",,"likelihood",820.5,0.0015551
+7,"R_Date","10279[Beta-17760]",,"likelihood",830.5,0.0027751
+7,"R_Date","10279[Beta-17760]",,"likelihood",840.5,0.003419
+7,"R_Date","10279[Beta-17760]",,"likelihood",850.5,0.0030497
+7,"R_Date","10279[Beta-17760]",,"likelihood",860.5,0.0025695
+7,"R_Date","10279[Beta-17760]",,"likelihood",870.5,0.002655
+7,"R_Date","10279[Beta-17760]",,"likelihood",880.5,0.003929
+7,"R_Date","10279[Beta-17760]",,"likelihood",890.5,0.006178
+7,"R_Date","10279[Beta-17760]",,"likelihood",900.5,0.006187
+7,"R_Date","10279[Beta-17760]",,"likelihood",910.5,0.005676
+7,"R_Date","10279[Beta-17760]",,"likelihood",920.5,0.006342
+7,"R_Date","10279[Beta-17760]",,"likelihood",930.5,0.006465
+7,"R_Date","10279[Beta-17760]",,"likelihood",940.5,0.006437
+7,"R_Date","10279[Beta-17760]",,"likelihood",950.5,0.006505
+7,"R_Date","10279[Beta-17760]",,"likelihood",960.5,0.006238
+7,"R_Date","10279[Beta-17760]",,"likelihood",970.5,0.006319
+7,"R_Date","10279[Beta-17760]",,"likelihood",980.5,0.005241
+7,"R_Date","10279[Beta-17760]",,"likelihood",990.5,0.004237
+7,"R_Date","10279[Beta-17760]",,"likelihood",1000.5,0.0010834
+7,"R_Date","10279[Beta-17760]",,"likelihood",1010.5,0.0017923
+7,"R_Date","10279[Beta-17760]",,"likelihood",1020.5,0.0010313
+7,"R_Date","10279[Beta-17760]",,"likelihood",1030.5,0.00015931
+7,"R_Date","10279[Beta-17760]",,"likelihood",1040.5,0.000022664
+7,"R_Date","10279[Beta-17760]",,"likelihood",1050.5,0.000004378
+7,"R_Date","10279[Beta-17760]",,"likelihood",1060.5,9.888e-7
+7,"R_Date","10279[Beta-17760]",,"likelihood",1070.5,0.0000012946
+7,"R_Date","10279[Beta-17760]",,"likelihood",1080.5,0.00000378
+7,"R_Date","10279[Beta-17760]",,"likelihood",1090.5,0.0000153
+7,"R_Date","10279[Beta-17760]",,"likelihood",1100.5,0.00000873
+7,"R_Date","10279[Beta-17760]",,"likelihood",1110.5,0.000020186
+7,"R_Date","10279[Beta-17760]",,"likelihood",1120.5,0.000013472
+7,"R_Date","10279[Beta-17760]",,"likelihood",1130.5,0.000006954
+7,"R_Date","10279[Beta-17760]",,"likelihood",1140.5,0.000007559
+7,"R_Date","10279[Beta-17760]",,"likelihood",1150.5,0.000006336
+7,"R_Date","10279[Beta-17760]",,"likelihood",1160.5,4.293e-7
+7,"R_Date","10279[Beta-17760]",,"likelihood",1170.5,3.903e-8
+7,"R_Date","10279[Beta-17760]",,"likelihood",1180.5,1.3011e-8
+7,"R_Date","10279[Beta-17760]",,"likelihood",1190.5,1.3011e-8
+7,"R_Date","10279[Beta-17760]",,"likelihood",1200.5,2.6021e-8
+7,"R_Date","10279[Beta-17760]",,"likelihood",1210.5,6.505e-9
+7,"R_Date","10279[Beta-17760]",,"likelihood",1220.5,0
+7,"R_Date","10279[Beta-17760]",,"likelihood",1230.5,0
+7,"R_Date","10279[Beta-17760]",,"likelihood",1240.5,0
+7,"R_Date","10279[Beta-17760]",,"posterior",650.5,0
+7,"R_Date","10279[Beta-17760]",,"posterior",660.5,4.189e-7
+7,"R_Date","10279[Beta-17760]",,"posterior",670.5,0.0000016687
+7,"R_Date","10279[Beta-17760]",,"posterior",680.5,0.000013545
+7,"R_Date","10279[Beta-17760]",,"posterior",690.5,0.00003396
+7,"R_Date","10279[Beta-17760]",,"posterior",700.5,0.00005208
+7,"R_Date","10279[Beta-17760]",,"posterior",710.5,0.00013104
+7,"R_Date","10279[Beta-17760]",,"posterior",720.5,0.00016
+7,"R_Date","10279[Beta-17760]",,"posterior",730.5,0.00012084
+7,"R_Date","10279[Beta-17760]",,"posterior",740.5,0.00005812
+7,"R_Date","10279[Beta-17760]",,"posterior",750.5,0.000021874
+7,"R_Date","10279[Beta-17760]",,"posterior",760.5,0.000029792
+7,"R_Date","10279[Beta-17760]",,"posterior",770.5,0.00019209
+7,"R_Date","10279[Beta-17760]",,"posterior",780.5,0.0021062
+7,"R_Date","10279[Beta-17760]",,"posterior",790.5,0.0015154
+7,"R_Date","10279[Beta-17760]",,"posterior",800.5,0.0011617
+7,"R_Date","10279[Beta-17760]",,"posterior",810.5,0.0011819
+7,"R_Date","10279[Beta-17760]",,"posterior",820.5,0.0014194
+7,"R_Date","10279[Beta-17760]",,"posterior",830.5,0.0024117
+7,"R_Date","10279[Beta-17760]",,"posterior",840.5,0.0030075
+7,"R_Date","10279[Beta-17760]",,"posterior",850.5,0.0028673
+7,"R_Date","10279[Beta-17760]",,"posterior",860.5,0.0025712
+7,"R_Date","10279[Beta-17760]",,"posterior",870.5,0.0027508
+7,"R_Date","10279[Beta-17760]",,"posterior",880.5,0.004113
+7,"R_Date","10279[Beta-17760]",,"posterior",890.5,0.006242
+7,"R_Date","10279[Beta-17760]",,"posterior",900.5,0.006413
+7,"R_Date","10279[Beta-17760]",,"posterior",910.5,0.006023
+7,"R_Date","10279[Beta-17760]",,"posterior",920.5,0.006581
+7,"R_Date","10279[Beta-17760]",,"posterior",930.5,0.006778
+7,"R_Date","10279[Beta-17760]",,"posterior",940.5,0.006932
+7,"R_Date","10279[Beta-17760]",,"posterior",950.5,0.006982
+7,"R_Date","10279[Beta-17760]",,"posterior",960.5,0.006772
+7,"R_Date","10279[Beta-17760]",,"posterior",970.5,0.006696
+7,"R_Date","10279[Beta-17760]",,"posterior",980.5,0.005739
+7,"R_Date","10279[Beta-17760]",,"posterior",990.5,0.004267
+7,"R_Date","10279[Beta-17760]",,"posterior",1000.5,0.0016071
+7,"R_Date","10279[Beta-17760]",,"posterior",1010.5,0.0016954
+7,"R_Date","10279[Beta-17760]",,"posterior",1020.5,0.0010362
+7,"R_Date","10279[Beta-17760]",,"posterior",1030.5,0.00020625
+7,"R_Date","10279[Beta-17760]",,"posterior",1040.5,0.000028751
+7,"R_Date","10279[Beta-17760]",,"posterior",1050.5,0.00000583
+7,"R_Date","10279[Beta-17760]",,"posterior",1060.5,0.0000010403
+7,"R_Date","10279[Beta-17760]",,"posterior",1070.5,6.284e-7
+7,"R_Date","10279[Beta-17760]",,"posterior",1080.5,0.000005418
+7,"R_Date","10279[Beta-17760]",,"posterior",1090.5,0.000013126
+7,"R_Date","10279[Beta-17760]",,"posterior",1100.5,0.000011248
+7,"R_Date","10279[Beta-17760]",,"posterior",1110.5,0.000012295
+7,"R_Date","10279[Beta-17760]",,"posterior",1120.5,0.000012707
+7,"R_Date","10279[Beta-17760]",,"posterior",1130.5,0.000006249
+7,"R_Date","10279[Beta-17760]",,"posterior",1140.5,0.000008336
+7,"R_Date","10279[Beta-17760]",,"posterior",1150.5,0.0000029184
+7,"R_Date","10279[Beta-17760]",,"posterior",1160.5,6.284e-7
+7,"R_Date","10279[Beta-17760]",,"posterior",1170.5,0
+8,"R_Date","10280[Beta-7503]",,"likelihood",180.5,0
+8,"R_Date","10280[Beta-7503]",,"likelihood",190.5,0
+8,"R_Date","10280[Beta-7503]",,"likelihood",200.5,0
+8,"R_Date","10280[Beta-7503]",,"likelihood",210.5,5.856e-9
+8,"R_Date","10280[Beta-7503]",,"likelihood",220.5,2.3423e-8
+8,"R_Date","10280[Beta-7503]",,"likelihood",230.5,2.9279e-8
+8,"R_Date","10280[Beta-7503]",,"likelihood",240.5,1.1712e-7
+8,"R_Date","10280[Beta-7503]",,"likelihood",250.5,4.86e-7
+8,"R_Date","10280[Beta-7503]",,"likelihood",260.5,0.0000026234
+8,"R_Date","10280[Beta-7503]",,"likelihood",270.5,0.000006605
+8,"R_Date","10280[Beta-7503]",,"likelihood",280.5,0.0000020261
+8,"R_Date","10280[Beta-7503]",,"likelihood",290.5,6.617e-7
+8,"R_Date","10280[Beta-7503]",,"likelihood",300.5,3.455e-7
+8,"R_Date","10280[Beta-7503]",,"likelihood",310.5,4.333e-7
+8,"R_Date","10280[Beta-7503]",,"likelihood",320.5,6.617e-7
+8,"R_Date","10280[Beta-7503]",,"likelihood",330.5,0.0000016045
+8,"R_Date","10280[Beta-7503]",,"likelihood",340.5,0.0000030216
+8,"R_Date","10280[Beta-7503]",,"likelihood",350.5,0.000005469
+8,"R_Date","10280[Beta-7503]",,"likelihood",360.5,0.000006758
+8,"R_Date","10280[Beta-7503]",,"likelihood",370.5,0.00000852
+8,"R_Date","10280[Beta-7503]",,"likelihood",380.5,0.000010511
+8,"R_Date","10280[Beta-7503]",,"likelihood",390.5,0.000012871
+8,"R_Date","10280[Beta-7503]",,"likelihood",400.5,0.000013422
+8,"R_Date","10280[Beta-7503]",,"likelihood",410.5,0.00003276
+8,"R_Date","10280[Beta-7503]",,"likelihood",420.5,0.00010451
+8,"R_Date","10280[Beta-7503]",,"likelihood",430.5,0.00020734
+8,"R_Date","10280[Beta-7503]",,"likelihood",440.5,0.0003857
+8,"R_Date","10280[Beta-7503]",,"likelihood",450.5,0.0004197
+8,"R_Date","10280[Beta-7503]",,"likelihood",460.5,0.0003685
+8,"R_Date","10280[Beta-7503]",,"likelihood",470.5,0.00026323
+8,"R_Date","10280[Beta-7503]",,"likelihood",480.5,0.0004275
+8,"R_Date","10280[Beta-7503]",,"likelihood",490.5,0.000479
+8,"R_Date","10280[Beta-7503]",,"likelihood",500.5,0.0003206
+8,"R_Date","10280[Beta-7503]",,"likelihood",510.5,0.00030777
+8,"R_Date","10280[Beta-7503]",,"likelihood",520.5,0.00026581
+8,"R_Date","10280[Beta-7503]",,"likelihood",530.5,0.00031068
+8,"R_Date","10280[Beta-7503]",,"likelihood",540.5,0.0006144
+8,"R_Date","10280[Beta-7503]",,"likelihood",550.5,0.0011048
+8,"R_Date","10280[Beta-7503]",,"likelihood",560.5,0.0013937
+8,"R_Date","10280[Beta-7503]",,"likelihood",570.5,0.0018625
+8,"R_Date","10280[Beta-7503]",,"likelihood",580.5,0.0022917
+8,"R_Date","10280[Beta-7503]",,"likelihood",590.5,0.0025646
+8,"R_Date","10280[Beta-7503]",,"likelihood",600.5,0.00331
+8,"R_Date","10280[Beta-7503]",,"likelihood",610.5,0.004479
+8,"R_Date","10280[Beta-7503]",,"likelihood",620.5,0.004456
+8,"R_Date","10280[Beta-7503]",,"likelihood",630.5,0.004034
+8,"R_Date","10280[Beta-7503]",,"likelihood",640.5,0.004635
+8,"R_Date","10280[Beta-7503]",,"likelihood",650.5,0.005723
+8,"R_Date","10280[Beta-7503]",,"likelihood",660.5,0.005856
+8,"R_Date","10280[Beta-7503]",,"likelihood",670.5,0.005083
+8,"R_Date","10280[Beta-7503]",,"likelihood",680.5,0.004259
+8,"R_Date","10280[Beta-7503]",,"likelihood",690.5,0.003594
+8,"R_Date","10280[Beta-7503]",,"likelihood",700.5,0.003588
+8,"R_Date","10280[Beta-7503]",,"likelihood",710.5,0.0026916
+8,"R_Date","10280[Beta-7503]",,"likelihood",720.5,0.0026534
+8,"R_Date","10280[Beta-7503]",,"likelihood",730.5,0.0029958
+8,"R_Date","10280[Beta-7503]",,"likelihood",740.5,0.003459
+8,"R_Date","10280[Beta-7503]",,"likelihood",750.5,0.004438
+8,"R_Date","10280[Beta-7503]",,"likelihood",760.5,0.004192
+8,"R_Date","10280[Beta-7503]",,"likelihood",770.5,0.003708
+8,"R_Date","10280[Beta-7503]",,"likelihood",780.5,0.0006531
+8,"R_Date","10280[Beta-7503]",,"likelihood",790.5,0.0012988
+8,"R_Date","10280[Beta-7503]",,"likelihood",800.5,0.0015346
+8,"R_Date","10280[Beta-7503]",,"likelihood",810.5,0.0014647
+8,"R_Date","10280[Beta-7503]",,"likelihood",820.5,0.00141
+8,"R_Date","10280[Beta-7503]",,"likelihood",830.5,0.0009579
+8,"R_Date","10280[Beta-7503]",,"likelihood",840.5,0.0007861
+8,"R_Date","10280[Beta-7503]",,"likelihood",850.5,0.0008739
+8,"R_Date","10280[Beta-7503]",,"likelihood",860.5,0.0010137
+8,"R_Date","10280[Beta-7503]",,"likelihood",870.5,0.0009874
+8,"R_Date","10280[Beta-7503]",,"likelihood",880.5,0.0006714
+8,"R_Date","10280[Beta-7503]",,"likelihood",890.5,0.00026902
+8,"R_Date","10280[Beta-7503]",,"likelihood",900.5,0.00009654
+8,"R_Date","10280[Beta-7503]",,"likelihood",910.5,0.0000684
+8,"R_Date","10280[Beta-7503]",,"likelihood",920.5,0.00011202
+8,"R_Date","10280[Beta-7503]",,"likelihood",930.5,0.00019091
+8,"R_Date","10280[Beta-7503]",,"likelihood",940.5,0.00020264
+8,"R_Date","10280[Beta-7503]",,"likelihood",950.5,0.00014562
+8,"R_Date","10280[Beta-7503]",,"likelihood",960.5,0.00010057
+8,"R_Date","10280[Beta-7503]",,"likelihood",970.5,0.0001019
+8,"R_Date","10280[Beta-7503]",,"likelihood",980.5,0.00005225
+8,"R_Date","10280[Beta-7503]",,"likelihood",990.5,0.00003461
+8,"R_Date","10280[Beta-7503]",,"likelihood",1000.5,0.000004532
+8,"R_Date","10280[Beta-7503]",,"likelihood",1010.5,0.000008397
+8,"R_Date","10280[Beta-7503]",,"likelihood",1020.5,0.000004322
+8,"R_Date","10280[Beta-7503]",,"likelihood",1030.5,6.5e-7
+8,"R_Date","10280[Beta-7503]",,"likelihood",1040.5,1.2297e-7
+8,"R_Date","10280[Beta-7503]",,"likelihood",1050.5,3.514e-8
+8,"R_Date","10280[Beta-7503]",,"likelihood",1060.5,1.1712e-8
+8,"R_Date","10280[Beta-7503]",,"likelihood",1070.5,1.1712e-8
+8,"R_Date","10280[Beta-7503]",,"likelihood",1080.5,2.9279e-8
+8,"R_Date","10280[Beta-7503]",,"likelihood",1090.5,9.369e-8
+8,"R_Date","10280[Beta-7503]",,"likelihood",1100.5,5.856e-8
+8,"R_Date","10280[Beta-7503]",,"likelihood",1110.5,1.1126e-7
+8,"R_Date","10280[Beta-7503]",,"likelihood",1120.5,8.198e-8
+8,"R_Date","10280[Beta-7503]",,"likelihood",1130.5,4.685e-8
+8,"R_Date","10280[Beta-7503]",,"likelihood",1140.5,5.27e-8
+8,"R_Date","10280[Beta-7503]",,"likelihood",1150.5,4.685e-8
+8,"R_Date","10280[Beta-7503]",,"likelihood",1160.5,5.856e-9
+8,"R_Date","10280[Beta-7503]",,"likelihood",1170.5,0
+8,"R_Date","10280[Beta-7503]",,"likelihood",1180.5,0
+8,"R_Date","10280[Beta-7503]",,"likelihood",1190.5,0
+8,"R_Date","10280[Beta-7503]",,"posterior",400.5,0
+8,"R_Date","10280[Beta-7503]",,"posterior",410.5,4.179e-7
+8,"R_Date","10280[Beta-7503]",,"posterior",420.5,0.0000016655
+8,"R_Date","10280[Beta-7503]",,"posterior",430.5,0.0000029191
+8,"R_Date","10280[Beta-7503]",,"posterior",440.5,0.000006044
+8,"R_Date","10280[Beta-7503]",,"posterior",450.5,0.000009999
+8,"R_Date","10280[Beta-7503]",,"posterior",460.5,0.000008127
+8,"R_Date","10280[Beta-7503]",,"posterior",470.5,0.000009169
+8,"R_Date","10280[Beta-7503]",,"posterior",480.5,0.00001396
+8,"R_Date","10280[Beta-7503]",,"posterior",490.5,0.000015831
+8,"R_Date","10280[Beta-7503]",,"posterior",500.5,0.000010623
+8,"R_Date","10280[Beta-7503]",,"posterior",510.5,0.000009999
+8,"R_Date","10280[Beta-7503]",,"posterior",520.5,0.000016873
+8,"R_Date","10280[Beta-7503]",,"posterior",530.5,0.000015831
+8,"R_Date","10280[Beta-7503]",,"posterior",540.5,0.000045
+8,"R_Date","10280[Beta-7503]",,"posterior",550.5,0.00007646
+8,"R_Date","10280[Beta-7503]",,"posterior",560.5,0.00012917
+8,"R_Date","10280[Beta-7503]",,"posterior",570.5,0.00020916
+8,"R_Date","10280[Beta-7503]",,"posterior",580.5,0.00026167
+8,"R_Date","10280[Beta-7503]",,"posterior",590.5,0.0003623
+8,"R_Date","10280[Beta-7503]",,"posterior",600.5,0.0005312
+8,"R_Date","10280[Beta-7503]",,"posterior",610.5,0.0007585
+8,"R_Date","10280[Beta-7503]",,"posterior",620.5,0.0008308
+8,"R_Date","10280[Beta-7503]",,"posterior",630.5,0.0009727
+8,"R_Date","10280[Beta-7503]",,"posterior",640.5,0.001249
+8,"R_Date","10280[Beta-7503]",,"posterior",650.5,0.0017362
+8,"R_Date","10280[Beta-7503]",,"posterior",660.5,0.00207
+8,"R_Date","10280[Beta-7503]",,"posterior",670.5,0.0020694
+8,"R_Date","10280[Beta-7503]",,"posterior",680.5,0.0020254
+8,"R_Date","10280[Beta-7503]",,"posterior",690.5,0.0020842
+8,"R_Date","10280[Beta-7503]",,"posterior",700.5,0.0022552
+8,"R_Date","10280[Beta-7503]",,"posterior",710.5,0.0020192
+8,"R_Date","10280[Beta-7503]",,"posterior",720.5,0.002275
+8,"R_Date","10280[Beta-7503]",,"posterior",730.5,0.002944
+8,"R_Date","10280[Beta-7503]",,"posterior",740.5,0.003941
+8,"R_Date","10280[Beta-7503]",,"posterior",750.5,0.005539
+8,"R_Date","10280[Beta-7503]",,"posterior",760.5,0.006056
+8,"R_Date","10280[Beta-7503]",,"posterior",770.5,0.005508
+8,"R_Date","10280[Beta-7503]",,"posterior",780.5,0.0018648
+8,"R_Date","10280[Beta-7503]",,"posterior",790.5,0.0027763
+8,"R_Date","10280[Beta-7503]",,"posterior",800.5,0.003839
+8,"R_Date","10280[Beta-7503]",,"posterior",810.5,0.004356
+8,"R_Date","10280[Beta-7503]",,"posterior",820.5,0.004426
+8,"R_Date","10280[Beta-7503]",,"posterior",830.5,0.003623
+8,"R_Date","10280[Beta-7503]",,"posterior",840.5,0.00329
+8,"R_Date","10280[Beta-7503]",,"posterior",850.5,0.004026
+8,"R_Date","10280[Beta-7503]",,"posterior",860.5,0.004994
+8,"R_Date","10280[Beta-7503]",,"posterior",870.5,0.005176
+8,"R_Date","10280[Beta-7503]",,"posterior",880.5,0.003758
+8,"R_Date","10280[Beta-7503]",,"posterior",890.5,0.001801
+8,"R_Date","10280[Beta-7503]",,"posterior",900.5,0.000771
+8,"R_Date","10280[Beta-7503]",,"posterior",910.5,0.0006
+8,"R_Date","10280[Beta-7503]",,"posterior",920.5,0.0008871
+8,"R_Date","10280[Beta-7503]",,"posterior",930.5,0.0015646
+8,"R_Date","10280[Beta-7503]",,"posterior",940.5,0.0017133
+8,"R_Date","10280[Beta-7503]",,"posterior",950.5,0.0013498
+8,"R_Date","10280[Beta-7503]",,"posterior",960.5,0.0009954
+8,"R_Date","10280[Beta-7503]",,"posterior",970.5,0.0010069
+8,"R_Date","10280[Beta-7503]",,"posterior",980.5,0.0005865
+8,"R_Date","10280[Beta-7503]",,"posterior",990.5,0.0003283
+8,"R_Date","10280[Beta-7503]",,"posterior",1000.5,0.00007542
+8,"R_Date","10280[Beta-7503]",,"posterior",1010.5,0.00007229
+8,"R_Date","10280[Beta-7503]",,"posterior",1020.5,0.00003583
+8,"R_Date","10280[Beta-7503]",,"posterior",1030.5,0.000006874
+8,"R_Date","10280[Beta-7503]",,"posterior",1040.5,0.0000027071
+8,"R_Date","10280[Beta-7503]",,"posterior",1050.5,2.0591e-7
+8,"R_Date","10280[Beta-7503]",,"posterior",1060.5,0
+8,"R_Date","10280[Beta-7503]",,"posterior",1070.5,4.179e-7
+8,"R_Date","10280[Beta-7503]",,"posterior",1080.5,6.238e-7
+8,"R_Date","10280[Beta-7503]",,"posterior",1090.5,4.179e-7
+8,"R_Date","10280[Beta-7503]",,"posterior",1100.5,8.358e-7
+8,"R_Date","10280[Beta-7503]",,"posterior",1110.5,2.0591e-7
+8,"R_Date","10280[Beta-7503]",,"posterior",1120.5,2.0591e-7
+8,"R_Date","10280[Beta-7503]",,"posterior",1130.5,2.0591e-7
+8,"R_Date","10280[Beta-7503]",,"posterior",1140.5,2.0591e-7
+8,"R_Date","10280[Beta-7503]",,"posterior",1150.5,0
+9,"R_Date","10281[Beta-7504]",,"likelihood",680.5,0
+9,"R_Date","10281[Beta-7504]",,"likelihood",690.5,5.762e-9
+9,"R_Date","10281[Beta-7504]",,"likelihood",700.5,5.762e-9
+9,"R_Date","10281[Beta-7504]",,"likelihood",710.5,2.8812e-8
+9,"R_Date","10281[Beta-7504]",,"likelihood",720.5,2.8812e-8
+9,"R_Date","10281[Beta-7504]",,"likelihood",730.5,1.7287e-8
+9,"R_Date","10281[Beta-7504]",,"likelihood",740.5,5.762e-9
+9,"R_Date","10281[Beta-7504]",,"likelihood",750.5,0
+9,"R_Date","10281[Beta-7504]",,"likelihood",760.5,0
+9,"R_Date","10281[Beta-7504]",,"likelihood",770.5,1.1525e-8
+9,"R_Date","10281[Beta-7504]",,"likelihood",780.5,0.000005647
+9,"R_Date","10281[Beta-7504]",,"likelihood",790.5,8.413e-7
+9,"R_Date","10281[Beta-7504]",,"likelihood",800.5,3.63e-7
+9,"R_Date","10281[Beta-7504]",,"likelihood",810.5,4.552e-7
+9,"R_Date","10281[Beta-7504]",,"likelihood",820.5,5.301e-7
+9,"R_Date","10281[Beta-7504]",,"likelihood",830.5,0.0000021897
+9,"R_Date","10281[Beta-7504]",,"likelihood",840.5,0.000003803
+9,"R_Date","10281[Beta-7504]",,"likelihood",850.5,0.0000026795
+9,"R_Date","10281[Beta-7504]",,"likelihood",860.5,0.0000017345
+9,"R_Date","10281[Beta-7504]",,"likelihood",870.5,0.0000018843
+9,"R_Date","10281[Beta-7504]",,"likelihood",880.5,0.000005687
+9,"R_Date","10281[Beta-7504]",,"likelihood",890.5,0.00003616
+9,"R_Date","10281[Beta-7504]",,"likelihood",900.5,0.00017418
+9,"R_Date","10281[Beta-7504]",,"likelihood",910.5,0.00026657
+9,"R_Date","10281[Beta-7504]",,"likelihood",920.5,0.00014328
+9,"R_Date","10281[Beta-7504]",,"likelihood",930.5,0.00006756
+9,"R_Date","10281[Beta-7504]",,"likelihood",940.5,0.00006124
+9,"R_Date","10281[Beta-7504]",,"likelihood",950.5,0.0000986
+9,"R_Date","10281[Beta-7504]",,"likelihood",960.5,0.00016457
+9,"R_Date","10281[Beta-7504]",,"likelihood",970.5,0.00015256
+9,"R_Date","10281[Beta-7504]",,"likelihood",980.5,0.0003443
+9,"R_Date","10281[Beta-7504]",,"likelihood",990.5,0.0005887
+9,"R_Date","10281[Beta-7504]",,"likelihood",1000.5,0.0022588
+9,"R_Date","10281[Beta-7504]",,"likelihood",1010.5,0.0015931
+9,"R_Date","10281[Beta-7504]",,"likelihood",1020.5,0.0023562
+9,"R_Date","10281[Beta-7504]",,"likelihood",1030.5,0.004568
+9,"R_Date","10281[Beta-7504]",,"likelihood",1040.5,0.00569
+9,"R_Date","10281[Beta-7504]",,"likelihood",1050.5,0.005567
+9,"R_Date","10281[Beta-7504]",,"likelihood",1060.5,0.005046
+9,"R_Date","10281[Beta-7504]",,"likelihood",1070.5,0.005178
+9,"R_Date","10281[Beta-7504]",,"likelihood",1080.5,0.005579
+9,"R_Date","10281[Beta-7504]",,"likelihood",1090.5,0.005753
+9,"R_Date","10281[Beta-7504]",,"likelihood",1100.5,0.005757
+9,"R_Date","10281[Beta-7504]",,"likelihood",1110.5,0.005714
+9,"R_Date","10281[Beta-7504]",,"likelihood",1120.5,0.005762
+9,"R_Date","10281[Beta-7504]",,"likelihood",1130.5,0.005731
+9,"R_Date","10281[Beta-7504]",,"likelihood",1140.5,0.005742
+9,"R_Date","10281[Beta-7504]",,"likelihood",1150.5,0.005716
+9,"R_Date","10281[Beta-7504]",,"likelihood",1160.5,0.004501
+9,"R_Date","10281[Beta-7504]",,"likelihood",1170.5,0.0031278
+9,"R_Date","10281[Beta-7504]",,"likelihood",1180.5,0.0024446
+9,"R_Date","10281[Beta-7504]",,"likelihood",1190.5,0.0024546
+9,"R_Date","10281[Beta-7504]",,"likelihood",1200.5,0.0028247
+9,"R_Date","10281[Beta-7504]",,"likelihood",1210.5,0.0022448
+9,"R_Date","10281[Beta-7504]",,"likelihood",1220.5,0.0010395
+9,"R_Date","10281[Beta-7504]",,"likelihood",1230.5,0.00030786
+9,"R_Date","10281[Beta-7504]",,"likelihood",1240.5,0.00026691
+9,"R_Date","10281[Beta-7504]",,"likelihood",1250.5,0.0003501
+9,"R_Date","10281[Beta-7504]",,"likelihood",1260.5,0.00023977
+9,"R_Date","10281[Beta-7504]",,"likelihood",1270.5,0.00005836
+9,"R_Date","10281[Beta-7504]",,"likelihood",1280.5,0.000005929
+9,"R_Date","10281[Beta-7504]",,"likelihood",1290.5,3.688e-7
+9,"R_Date","10281[Beta-7504]",,"likelihood",1300.5,5.186e-8
+9,"R_Date","10281[Beta-7504]",,"likelihood",1310.5,0
+9,"R_Date","10281[Beta-7504]",,"likelihood",1320.5,0
+9,"R_Date","10281[Beta-7504]",,"likelihood",1330.5,0
+9,"R_Date","10281[Beta-7504]",,"likelihood",1340.5,0
+9,"R_Date","10281[Beta-7504]",,"likelihood",1350.5,0
+9,"R_Date","10281[Beta-7504]",,"likelihood",1360.5,0
+9,"R_Date","10281[Beta-7504]",,"likelihood",1370.5,2.8812e-8
+9,"R_Date","10281[Beta-7504]",,"likelihood",1380.5,1.7287e-8
+9,"R_Date","10281[Beta-7504]",,"likelihood",1390.5,0
+9,"R_Date","10281[Beta-7504]",,"likelihood",1400.5,0
+9,"R_Date","10281[Beta-7504]",,"likelihood",1410.5,0
+9,"R_Date","10281[Beta-7504]",,"posterior",790.5,0
+9,"R_Date","10281[Beta-7504]",,"posterior",800.5,2.0616e-7
+9,"R_Date","10281[Beta-7504]",,"posterior",810.5,0
+9,"R_Date","10281[Beta-7504]",,"posterior",820.5,0.000001039
+9,"R_Date","10281[Beta-7504]",,"posterior",830.5,0.0000022925
+9,"R_Date","10281[Beta-7504]",,"posterior",840.5,0.000004164
+9,"R_Date","10281[Beta-7504]",,"posterior",850.5,0.000003958
+9,"R_Date","10281[Beta-7504]",,"posterior",860.5,0.0000029192
+9,"R_Date","10281[Beta-7504]",,"posterior",870.5,0.0000022925
+9,"R_Date","10281[Beta-7504]",,"posterior",880.5,0.000006457
+9,"R_Date","10281[Beta-7504]",,"posterior",890.5,0.00007
+9,"R_Date","10281[Beta-7504]",,"posterior",900.5,0.00024209
+9,"R_Date","10281[Beta-7504]",,"posterior",910.5,0.0003606
+9,"R_Date","10281[Beta-7504]",,"posterior",920.5,0.00023208
+9,"R_Date","10281[Beta-7504]",,"posterior",930.5,0.00012979
+9,"R_Date","10281[Beta-7504]",,"posterior",940.5,0.00011188
+9,"R_Date","10281[Beta-7504]",,"posterior",950.5,0.00016208
+9,"R_Date","10281[Beta-7504]",,"posterior",960.5,0.00027
+9,"R_Date","10281[Beta-7504]",,"posterior",970.5,0.0003285
+9,"R_Date","10281[Beta-7504]",,"posterior",980.5,0.0006015
+9,"R_Date","10281[Beta-7504]",,"posterior",990.5,0.001164
+9,"R_Date","10281[Beta-7504]",,"posterior",1000.5,0.003208
+9,"R_Date","10281[Beta-7504]",,"posterior",1010.5,0.0029017
+9,"R_Date","10281[Beta-7504]",,"posterior",1020.5,0.003948
+9,"R_Date","10281[Beta-7504]",,"posterior",1030.5,0.00702
+9,"R_Date","10281[Beta-7504]",,"posterior",1040.5,0.008246
+9,"R_Date","10281[Beta-7504]",,"posterior",1050.5,0.007836
+9,"R_Date","10281[Beta-7504]",,"posterior",1060.5,0.00687
+9,"R_Date","10281[Beta-7504]",,"posterior",1070.5,0.006587
+9,"R_Date","10281[Beta-7504]",,"posterior",1080.5,0.006657
+9,"R_Date","10281[Beta-7504]",,"posterior",1090.5,0.006369
+9,"R_Date","10281[Beta-7504]",,"posterior",1100.5,0.005908
+9,"R_Date","10281[Beta-7504]",,"posterior",1110.5,0.005379
+9,"R_Date","10281[Beta-7504]",,"posterior",1120.5,0.00498
+9,"R_Date","10281[Beta-7504]",,"posterior",1130.5,0.004502
+9,"R_Date","10281[Beta-7504]",,"posterior",1140.5,0.00406
+9,"R_Date","10281[Beta-7504]",,"posterior",1150.5,0.003623
+9,"R_Date","10281[Beta-7504]",,"posterior",1160.5,0.0025048
+9,"R_Date","10281[Beta-7504]",,"posterior",1170.5,0.0016073
+9,"R_Date","10281[Beta-7504]",,"posterior",1180.5,0.0010721
+9,"R_Date","10281[Beta-7504]",,"posterior",1190.5,0.0009729
+9,"R_Date","10281[Beta-7504]",,"posterior",1200.5,0.0009196
+9,"R_Date","10281[Beta-7504]",,"posterior",1210.5,0.0006269
+9,"R_Date","10281[Beta-7504]",,"posterior",1220.5,0.00025792
+9,"R_Date","10281[Beta-7504]",,"posterior",1230.5,0.000085
+9,"R_Date","10281[Beta-7504]",,"posterior",1240.5,0.00006063
+9,"R_Date","10281[Beta-7504]",,"posterior",1250.5,0.00006021
+9,"R_Date","10281[Beta-7504]",,"posterior",1260.5,0.00003396
+9,"R_Date","10281[Beta-7504]",,"posterior",1270.5,0.000008337
+9,"R_Date","10281[Beta-7504]",,"posterior",1280.5,4.206e-7
+9,"R_Date","10281[Beta-7504]",,"posterior",1290.5,0
+9,"R_Date","10281[Beta-7504]",,"posterior",1300.5,0
+9,"R_Date","10281[Beta-7504]",,"posterior",1310.5,0
+10,"R_Date","10282[Beta-7505]",,"likelihood",620.5,0
+10,"R_Date","10282[Beta-7505]",,"likelihood",630.5,0
+10,"R_Date","10282[Beta-7505]",,"likelihood",640.5,0
+10,"R_Date","10282[Beta-7505]",,"likelihood",650.5,1.0479e-7
+10,"R_Date","10282[Beta-7505]",,"likelihood",660.5,0.000003119
+10,"R_Date","10282[Beta-7505]",,"likelihood",670.5,0.00003214
+10,"R_Date","10282[Beta-7505]",,"likelihood",680.5,0.0001208
+10,"R_Date","10282[Beta-7505]",,"likelihood",690.5,0.00026978
+10,"R_Date","10282[Beta-7505]",,"likelihood",700.5,0.00027152
+10,"R_Date","10282[Beta-7505]",,"likelihood",710.5,0.0007355
+10,"R_Date","10282[Beta-7505]",,"likelihood",720.5,0.0007551
+10,"R_Date","10282[Beta-7505]",,"likelihood",730.5,0.0005234
+10,"R_Date","10282[Beta-7505]",,"likelihood",740.5,0.00031205
+10,"R_Date","10282[Beta-7505]",,"likelihood",750.5,0.00008671
+10,"R_Date","10282[Beta-7505]",,"likelihood",760.5,0.00012635
+10,"R_Date","10282[Beta-7505]",,"likelihood",770.5,0.00030694
+10,"R_Date","10282[Beta-7505]",,"likelihood",780.5,0.005139
+10,"R_Date","10282[Beta-7505]",,"likelihood",790.5,0.0029691
+10,"R_Date","10282[Beta-7505]",,"likelihood",800.5,0.0023181
+10,"R_Date","10282[Beta-7505]",,"likelihood",810.5,0.0024939
+10,"R_Date","10282[Beta-7505]",,"likelihood",820.5,0.0026315
+10,"R_Date","10282[Beta-7505]",,"likelihood",830.5,0.004016
+10,"R_Date","10282[Beta-7505]",,"likelihood",840.5,0.004634
+10,"R_Date","10282[Beta-7505]",,"likelihood",850.5,0.004302
+10,"R_Date","10282[Beta-7505]",,"likelihood",860.5,0.003813
+10,"R_Date","10282[Beta-7505]",,"likelihood",870.5,0.003903
+10,"R_Date","10282[Beta-7505]",,"likelihood",880.5,0.005067
+10,"R_Date","10282[Beta-7505]",,"likelihood",890.5,0.006164
+10,"R_Date","10282[Beta-7505]",,"likelihood",900.5,0.004779
+10,"R_Date","10282[Beta-7505]",,"likelihood",910.5,0.004051
+10,"R_Date","10282[Beta-7505]",,"likelihood",920.5,0.005073
+10,"R_Date","10282[Beta-7505]",,"likelihood",930.5,0.005886
+10,"R_Date","10282[Beta-7505]",,"likelihood",940.5,0.005951
+10,"R_Date","10282[Beta-7505]",,"likelihood",950.5,0.005546
+10,"R_Date","10282[Beta-7505]",,"likelihood",960.5,0.004866
+10,"R_Date","10282[Beta-7505]",,"likelihood",970.5,0.004952
+10,"R_Date","10282[Beta-7505]",,"likelihood",980.5,0.003522
+10,"R_Date","10282[Beta-7505]",,"likelihood",990.5,0.0026138
+10,"R_Date","10282[Beta-7505]",,"likelihood",1000.5,0.0004458
+10,"R_Date","10282[Beta-7505]",,"likelihood",1010.5,0.0008279
+10,"R_Date","10282[Beta-7505]",,"likelihood",1020.5,0.0004231
+10,"R_Date","10282[Beta-7505]",,"likelihood",1030.5,0.00004719
+10,"R_Date","10282[Beta-7505]",,"likelihood",1040.5,0.000005147
+10,"R_Date","10282[Beta-7505]",,"likelihood",1050.5,8.383e-7
+10,"R_Date","10282[Beta-7505]",,"likelihood",1060.5,1.6026e-7
+10,"R_Date","10282[Beta-7505]",,"likelihood",1070.5,2.1574e-7
+10,"R_Date","10282[Beta-7505]",,"likelihood",1080.5,7.027e-7
+10,"R_Date","10282[Beta-7505]",,"likelihood",1090.5,0.00000331
+10,"R_Date","10282[Beta-7505]",,"likelihood",1100.5,0.0000017691
+10,"R_Date","10282[Beta-7505]",,"likelihood",1110.5,0.000004512
+10,"R_Date","10282[Beta-7505]",,"likelihood",1120.5,0.0000028724
+10,"R_Date","10282[Beta-7505]",,"likelihood",1130.5,0.0000013746
+10,"R_Date","10282[Beta-7505]",,"likelihood",1140.5,0.0000015102
+10,"R_Date","10282[Beta-7505]",,"likelihood",1150.5,0.000001239
+10,"R_Date","10282[Beta-7505]",,"likelihood",1160.5,6.78e-8
+10,"R_Date","10282[Beta-7505]",,"likelihood",1170.5,6.164e-9
+10,"R_Date","10282[Beta-7505]",,"likelihood",1180.5,0
+10,"R_Date","10282[Beta-7505]",,"likelihood",1190.5,0
+10,"R_Date","10282[Beta-7505]",,"posterior",650.5,0
+10,"R_Date","10282[Beta-7505]",,"posterior",660.5,0.0000012528
+10,"R_Date","10282[Beta-7505]",,"posterior",670.5,0.000010416
+10,"R_Date","10282[Beta-7505]",,"posterior",680.5,0.00004896
+10,"R_Date","10282[Beta-7505]",,"posterior",690.5,0.00009521
+10,"R_Date","10282[Beta-7505]",,"posterior",700.5,0.00013312
+10,"R_Date","10282[Beta-7505]",,"posterior",710.5,0.0003171
+10,"R_Date","10282[Beta-7505]",,"posterior",720.5,0.0003613
+10,"R_Date","10282[Beta-7505]",,"posterior",730.5,0.00026062
+10,"R_Date","10282[Beta-7505]",,"posterior",740.5,0.00017937
+10,"R_Date","10282[Beta-7505]",,"posterior",750.5,0.00006562
+10,"R_Date","10282[Beta-7505]",,"posterior",760.5,0.00009292
+10,"R_Date","10282[Beta-7505]",,"posterior",770.5,0.0003723
+10,"R_Date","10282[Beta-7505]",,"posterior",780.5,0.0029669
+10,"R_Date","10282[Beta-7505]",,"posterior",790.5,0.0024596
+10,"R_Date","10282[Beta-7505]",,"posterior",800.5,0.0019677
+10,"R_Date","10282[Beta-7505]",,"posterior",810.5,0.0020794
+10,"R_Date","10282[Beta-7505]",,"posterior",820.5,0.0024248
+10,"R_Date","10282[Beta-7505]",,"posterior",830.5,0.003625
+10,"R_Date","10282[Beta-7505]",,"posterior",840.5,0.00421
+10,"R_Date","10282[Beta-7505]",,"posterior",850.5,0.004165
+10,"R_Date","10282[Beta-7505]",,"posterior",860.5,0.003873
+10,"R_Date","10282[Beta-7505]",,"posterior",870.5,0.004145
+10,"R_Date","10282[Beta-7505]",,"posterior",880.5,0.005367
+10,"R_Date","10282[Beta-7505]",,"posterior",890.5,0.006368
+10,"R_Date","10282[Beta-7505]",,"posterior",900.5,0.005225
+10,"R_Date","10282[Beta-7505]",,"posterior",910.5,0.00459
+10,"R_Date","10282[Beta-7505]",,"posterior",920.5,0.005507
+10,"R_Date","10282[Beta-7505]",,"posterior",930.5,0.006377
+10,"R_Date","10282[Beta-7505]",,"posterior",940.5,0.006559
+10,"R_Date","10282[Beta-7505]",,"posterior",950.5,0.006094
+10,"R_Date","10282[Beta-7505]",,"posterior",960.5,0.005651
+10,"R_Date","10282[Beta-7505]",,"posterior",970.5,0.005504
+10,"R_Date","10282[Beta-7505]",,"posterior",980.5,0.00403
+10,"R_Date","10282[Beta-7505]",,"posterior",990.5,0.0027667
+10,"R_Date","10282[Beta-7505]",,"posterior",1000.5,0.0007835
+10,"R_Date","10282[Beta-7505]",,"posterior",1010.5,0.0007898
+10,"R_Date","10282[Beta-7505]",,"posterior",1020.5,0.0004425
+10,"R_Date","10282[Beta-7505]",,"posterior",1030.5,0.00006812
+10,"R_Date","10282[Beta-7505]",,"posterior",1040.5,0.000007497
+10,"R_Date","10282[Beta-7505]",,"posterior",1050.5,8.33e-7
+10,"R_Date","10282[Beta-7505]",,"posterior",1060.5,2.0989e-7
+10,"R_Date","10282[Beta-7505]",,"posterior",1070.5,2.0989e-7
+10,"R_Date","10282[Beta-7505]",,"posterior",1080.5,4.198e-7
+10,"R_Date","10282[Beta-7505]",,"posterior",1090.5,0.0000014561
+10,"R_Date","10282[Beta-7505]",,"posterior",1100.5,0.0000018759
+10,"R_Date","10282[Beta-7505]",,"posterior",1110.5,0.000004375
+10,"R_Date","10282[Beta-7505]",,"posterior",1120.5,0.0000031222
+10,"R_Date","10282[Beta-7505]",,"posterior",1130.5,8.33e-7
+10,"R_Date","10282[Beta-7505]",,"posterior",1140.5,0.0000010429
+10,"R_Date","10282[Beta-7505]",,"posterior",1150.5,0.0000010429
+10,"R_Date","10282[Beta-7505]",,"posterior",1160.5,0
+10,"R_Date","10282[Beta-7505]",,"posterior",1170.5,0
+10,"R_Date","10282[Beta-7505]",,"posterior",1180.5,0
+11,"R_Date","10283[Beta-7506]",,"likelihood",570.5,0
+11,"R_Date","10283[Beta-7506]",,"likelihood",580.5,0
+11,"R_Date","10283[Beta-7506]",,"likelihood",590.5,0
+11,"R_Date","10283[Beta-7506]",,"likelihood",600.5,1.0339e-8
+11,"R_Date","10283[Beta-7506]",,"likelihood",610.5,5.169e-8
+11,"R_Date","10283[Beta-7506]",,"likelihood",620.5,4.653e-8
+11,"R_Date","10283[Beta-7506]",,"likelihood",630.5,2.5847e-8
+11,"R_Date","10283[Beta-7506]",,"likelihood",640.5,6.203e-8
+11,"R_Date","10283[Beta-7506]",,"likelihood",650.5,5.066e-7
+11,"R_Date","10283[Beta-7506]",,"likelihood",660.5,0.000003825
+11,"R_Date","10283[Beta-7506]",,"likelihood",670.5,0.000016692
+11,"R_Date","10283[Beta-7506]",,"likelihood",680.5,0.00004085
+11,"R_Date","10283[Beta-7506]",,"likelihood",690.5,0.00007304
+11,"R_Date","10283[Beta-7506]",,"likelihood",700.5,0.00007339
+11,"R_Date","10283[Beta-7506]",,"likelihood",710.5,0.00015676
+11,"R_Date","10283[Beta-7506]",,"likelihood",720.5,0.00016024
+11,"R_Date","10283[Beta-7506]",,"likelihood",730.5,0.00012021
+11,"R_Date","10283[Beta-7506]",,"likelihood",740.5,0.00008144
+11,"R_Date","10283[Beta-7506]",,"likelihood",750.5,0.0000331
+11,"R_Date","10283[Beta-7506]",,"likelihood",760.5,0.00004259
+11,"R_Date","10283[Beta-7506]",,"likelihood",770.5,0.00007716
+11,"R_Date","10283[Beta-7506]",,"likelihood",780.5,0.0011607
+11,"R_Date","10283[Beta-7506]",,"likelihood",790.5,0.0005626
+11,"R_Date","10283[Beta-7506]",,"likelihood",800.5,0.0004291
+11,"R_Date","10283[Beta-7506]",,"likelihood",810.5,0.0004628
+11,"R_Date","10283[Beta-7506]",,"likelihood",820.5,0.0004895
+11,"R_Date","10283[Beta-7506]",,"likelihood",830.5,0.000808
+11,"R_Date","10283[Beta-7506]",,"likelihood",840.5,0.00099
+11,"R_Date","10283[Beta-7506]",,"likelihood",850.5,0.0008816
+11,"R_Date","10283[Beta-7506]",,"likelihood",860.5,0.0007512
+11,"R_Date","10283[Beta-7506]",,"likelihood",870.5,0.0007741
+11,"R_Date","10283[Beta-7506]",,"likelihood",880.5,0.0011461
+11,"R_Date","10283[Beta-7506]",,"likelihood",890.5,0.0021792
+11,"R_Date","10283[Beta-7506]",,"likelihood",900.5,0.003441
+11,"R_Date","10283[Beta-7506]",,"likelihood",910.5,0.003828
+11,"R_Date","10283[Beta-7506]",,"likelihood",920.5,0.003267
+11,"R_Date","10283[Beta-7506]",,"likelihood",930.5,0.0026218
+11,"R_Date","10283[Beta-7506]",,"likelihood",940.5,0.0025464
+11,"R_Date","10283[Beta-7506]",,"likelihood",950.5,0.0029462
+11,"R_Date","10283[Beta-7506]",,"likelihood",960.5,0.003392
+11,"R_Date","10283[Beta-7506]",,"likelihood",970.5,0.003356
+11,"R_Date","10283[Beta-7506]",,"likelihood",980.5,0.004089
+11,"R_Date","10283[Beta-7506]",,"likelihood",990.5,0.004489
+11,"R_Date","10283[Beta-7506]",,"likelihood",1000.5,0.005169
+11,"R_Date","10283[Beta-7506]",,"likelihood",1010.5,0.005158
+11,"R_Date","10283[Beta-7506]",,"likelihood",1020.5,0.005146
+11,"R_Date","10283[Beta-7506]",,"likelihood",1030.5,0.004317
+11,"R_Date","10283[Beta-7506]",,"likelihood",1040.5,0.0031492
+11,"R_Date","10283[Beta-7506]",,"likelihood",1050.5,0.0022153
+11,"R_Date","10283[Beta-7506]",,"likelihood",1060.5,0.0016419
+11,"R_Date","10283[Beta-7506]",,"likelihood",1070.5,0.0017436
+11,"R_Date","10283[Beta-7506]",,"likelihood",1080.5,0.0021889
+11,"R_Date","10283[Beta-7506]",,"likelihood",1090.5,0.0029266
+11,"R_Date","10283[Beta-7506]",,"likelihood",1100.5,0.0026208
+11,"R_Date","10283[Beta-7506]",,"likelihood",1110.5,0.0030848
+11,"R_Date","10283[Beta-7506]",,"likelihood",1120.5,0.0028556
+11,"R_Date","10283[Beta-7506]",,"likelihood",1130.5,0.0025027
+11,"R_Date","10283[Beta-7506]",,"likelihood",1140.5,0.0025454
+11,"R_Date","10283[Beta-7506]",,"likelihood",1150.5,0.002454
+11,"R_Date","10283[Beta-7506]",,"likelihood",1160.5,0.0013213
+11,"R_Date","10283[Beta-7506]",,"likelihood",1170.5,0.0007506
+11,"R_Date","10283[Beta-7506]",,"likelihood",1180.5,0.0005478
+11,"R_Date","10283[Beta-7506]",,"likelihood",1190.5,0.0005506
+11,"R_Date","10283[Beta-7506]",,"likelihood",1200.5,0.0006579
+11,"R_Date","10283[Beta-7506]",,"likelihood",1210.5,0.0004923
+11,"R_Date","10283[Beta-7506]",,"likelihood",1220.5,0.0002118
+11,"R_Date","10283[Beta-7506]",,"likelihood",1230.5,0.00006316
+11,"R_Date","10283[Beta-7506]",,"likelihood",1240.5,0.00005528
+11,"R_Date","10283[Beta-7506]",,"likelihood",1250.5,0.00007128
+11,"R_Date","10283[Beta-7506]",,"likelihood",1260.5,0.00005006
+11,"R_Date","10283[Beta-7506]",,"likelihood",1270.5,0.00001418
+11,"R_Date","10283[Beta-7506]",,"likelihood",1280.5,0.0000019954
+11,"R_Date","10283[Beta-7506]",,"likelihood",1290.5,2.2746e-7
+11,"R_Date","10283[Beta-7506]",,"likelihood",1300.5,4.653e-8
+11,"R_Date","10283[Beta-7506]",,"likelihood",1310.5,5.169e-9
+11,"R_Date","10283[Beta-7506]",,"likelihood",1320.5,0
+11,"R_Date","10283[Beta-7506]",,"likelihood",1330.5,0
+11,"R_Date","10283[Beta-7506]",,"likelihood",1340.5,0
+11,"R_Date","10283[Beta-7506]",,"likelihood",1350.5,0
+11,"R_Date","10283[Beta-7506]",,"likelihood",1360.5,5.169e-9
+11,"R_Date","10283[Beta-7506]",,"likelihood",1370.5,3.1017e-8
+11,"R_Date","10283[Beta-7506]",,"likelihood",1380.5,2.0678e-8
+11,"R_Date","10283[Beta-7506]",,"likelihood",1390.5,0
+11,"R_Date","10283[Beta-7506]",,"likelihood",1400.5,0
+11,"R_Date","10283[Beta-7506]",,"likelihood",1410.5,0
+11,"R_Date","10283[Beta-7506]",,"posterior",640.5,0
+11,"R_Date","10283[Beta-7506]",,"posterior",650.5,0
+11,"R_Date","10283[Beta-7506]",,"posterior",660.5,0.0000010413
+11,"R_Date","10283[Beta-7506]",,"posterior",670.5,0.000006041
+11,"R_Date","10283[Beta-7506]",,"posterior",680.5,0.000014998
+11,"R_Date","10283[Beta-7506]",,"posterior",690.5,0.000027086
+11,"R_Date","10283[Beta-7506]",,"posterior",700.5,0.00003292
+11,"R_Date","10283[Beta-7506]",,"posterior",710.5,0.00007146
+11,"R_Date","10283[Beta-7506]",,"posterior",720.5,0.00008666
+11,"R_Date","10283[Beta-7506]",,"posterior",730.5,0.00006375
+11,"R_Date","10283[Beta-7506]",,"posterior",740.5,0.00004625
+11,"R_Date","10283[Beta-7506]",,"posterior",750.5,0.000019998
+11,"R_Date","10283[Beta-7506]",,"posterior",760.5,0.000029789
+11,"R_Date","10283[Beta-7506]",,"posterior",770.5,0.00008937
+11,"R_Date","10283[Beta-7506]",,"posterior",780.5,0.0006506
+11,"R_Date","10283[Beta-7506]",,"posterior",790.5,0.0005223
+11,"R_Date","10283[Beta-7506]",,"posterior",800.5,0.000396
+11,"R_Date","10283[Beta-7506]",,"posterior",810.5,0.0004244
+11,"R_Date","10283[Beta-7506]",,"posterior",820.5,0.0004683
+11,"R_Date","10283[Beta-7506]",,"posterior",830.5,0.0007223
+11,"R_Date","10283[Beta-7506]",,"posterior",840.5,0.0009354
+11,"R_Date","10283[Beta-7506]",,"posterior",850.5,0.0009102
+11,"R_Date","10283[Beta-7506]",,"posterior",860.5,0.0007794
+11,"R_Date","10283[Beta-7506]",,"posterior",870.5,0.0008704
+11,"R_Date","10283[Beta-7506]",,"posterior",880.5,0.0013281
+11,"R_Date","10283[Beta-7506]",,"posterior",890.5,0.0023825
+11,"R_Date","10283[Beta-7506]",,"posterior",900.5,0.003704
+11,"R_Date","10283[Beta-7506]",,"posterior",910.5,0.004052
+11,"R_Date","10283[Beta-7506]",,"posterior",920.5,0.003575
+11,"R_Date","10283[Beta-7506]",,"posterior",930.5,0.00301
+11,"R_Date","10283[Beta-7506]",,"posterior",940.5,0.0029644
+11,"R_Date","10283[Beta-7506]",,"posterior",950.5,0.003332
+11,"R_Date","10283[Beta-7506]",,"posterior",960.5,0.00373
+11,"R_Date","10283[Beta-7506]",,"posterior",970.5,0.003965
+11,"R_Date","10283[Beta-7506]",,"posterior",980.5,0.004629
+11,"R_Date","10283[Beta-7506]",,"posterior",990.5,0.005204
+11,"R_Date","10283[Beta-7506]",,"posterior",1000.5,0.005916
+11,"R_Date","10283[Beta-7506]",,"posterior",1010.5,0.005873
+11,"R_Date","10283[Beta-7506]",,"posterior",1020.5,0.005795
+11,"R_Date","10283[Beta-7506]",,"posterior",1030.5,0.004881
+11,"R_Date","10283[Beta-7506]",,"posterior",1040.5,0.003486
+11,"R_Date","10283[Beta-7506]",,"posterior",1050.5,0.0024827
+11,"R_Date","10283[Beta-7506]",,"posterior",1060.5,0.0018283
+11,"R_Date","10283[Beta-7506]",,"posterior",1070.5,0.0018004
+11,"R_Date","10283[Beta-7506]",,"posterior",1080.5,0.002166
+11,"R_Date","10283[Beta-7506]",,"posterior",1090.5,0.0025867
+11,"R_Date","10283[Beta-7506]",,"posterior",1100.5,0.0024735
+11,"R_Date","10283[Beta-7506]",,"posterior",1110.5,0.0025006
+11,"R_Date","10283[Beta-7506]",,"posterior",1120.5,0.0021681
+11,"R_Date","10283[Beta-7506]",,"posterior",1130.5,0.0018746
+11,"R_Date","10283[Beta-7506]",,"posterior",1140.5,0.0016542
+11,"R_Date","10283[Beta-7506]",,"posterior",1150.5,0.0014127
+11,"R_Date","10283[Beta-7506]",,"posterior",1160.5,0.0007608
+11,"R_Date","10283[Beta-7506]",,"posterior",1170.5,0.0003796
+11,"R_Date","10283[Beta-7506]",,"posterior",1180.5,0.00024479
+11,"R_Date","10283[Beta-7506]",,"posterior",1190.5,0.00022542
+11,"R_Date","10283[Beta-7506]",,"posterior",1200.5,0.00020687
+11,"R_Date","10283[Beta-7506]",,"posterior",1210.5,0.00013917
+11,"R_Date","10283[Beta-7506]",,"posterior",1220.5,0.00005312
+11,"R_Date","10283[Beta-7506]",,"posterior",1230.5,0.000014164
+11,"R_Date","10283[Beta-7506]",,"posterior",1240.5,0.000010419
+11,"R_Date","10283[Beta-7506]",,"posterior",1250.5,0.000013336
+11,"R_Date","10283[Beta-7506]",,"posterior",1260.5,0.000003958
+11,"R_Date","10283[Beta-7506]",,"posterior",1270.5,0.0000018755
+11,"R_Date","10283[Beta-7506]",,"posterior",1280.5,4.142e-7
+11,"R_Date","10283[Beta-7506]",,"posterior",1290.5,0
+12,"R_Date","10284[Beta-7507]",,"likelihood",680.5,0
+12,"R_Date","10284[Beta-7507]",,"likelihood",690.5,0
+12,"R_Date","10284[Beta-7507]",,"likelihood",700.5,0
+12,"R_Date","10284[Beta-7507]",,"likelihood",710.5,5.575e-9
+12,"R_Date","10284[Beta-7507]",,"likelihood",720.5,5.575e-9
+12,"R_Date","10284[Beta-7507]",,"likelihood",730.5,5.575e-9
+12,"R_Date","10284[Beta-7507]",,"likelihood",740.5,0
+12,"R_Date","10284[Beta-7507]",,"likelihood",750.5,0
+12,"R_Date","10284[Beta-7507]",,"likelihood",760.5,0
+12,"R_Date","10284[Beta-7507]",,"likelihood",770.5,0
+12,"R_Date","10284[Beta-7507]",,"likelihood",780.5,0.0000016001
+12,"R_Date","10284[Beta-7507]",,"likelihood",790.5,2.0628e-7
+12,"R_Date","10284[Beta-7507]",,"likelihood",800.5,8.363e-8
+12,"R_Date","10284[Beta-7507]",,"likelihood",810.5,1.0593e-7
+12,"R_Date","10284[Beta-7507]",,"likelihood",820.5,1.2265e-7
+12,"R_Date","10284[Beta-7507]",,"likelihood",830.5,5.798e-7
+12,"R_Date","10284[Beta-7507]",,"likelihood",840.5,0.0000010481
+12,"R_Date","10284[Beta-7507]",,"likelihood",850.5,7.136e-7
+12,"R_Date","10284[Beta-7507]",,"likelihood",860.5,4.516e-7
+12,"R_Date","10284[Beta-7507]",,"likelihood",870.5,4.906e-7
+12,"R_Date","10284[Beta-7507]",,"likelihood",880.5,0.0000016224
+12,"R_Date","10284[Beta-7507]",,"likelihood",890.5,0.000012087
+12,"R_Date","10284[Beta-7507]",,"likelihood",900.5,0.0000689
+12,"R_Date","10284[Beta-7507]",,"likelihood",910.5,0.00011111
+12,"R_Date","10284[Beta-7507]",,"likelihood",920.5,0.00005542
+12,"R_Date","10284[Beta-7507]",,"likelihood",930.5,0.000024146
+12,"R_Date","10284[Beta-7507]",,"likelihood",940.5,0.000021659
+12,"R_Date","10284[Beta-7507]",,"likelihood",950.5,0.00003656
+12,"R_Date","10284[Beta-7507]",,"likelihood",960.5,0.00006465
+12,"R_Date","10284[Beta-7507]",,"likelihood",970.5,0.00005906
+12,"R_Date","10284[Beta-7507]",,"likelihood",980.5,0.00014761
+12,"R_Date","10284[Beta-7507]",,"likelihood",990.5,0.00027566
+12,"R_Date","10284[Beta-7507]",,"likelihood",1000.5,0.0013333
+12,"R_Date","10284[Beta-7507]",,"likelihood",1010.5,0.0008724
+12,"R_Date","10284[Beta-7507]",,"likelihood",1020.5,0.0014096
+12,"R_Date","10284[Beta-7507]",,"likelihood",1030.5,0.003374
+12,"R_Date","10284[Beta-7507]",,"likelihood",1040.5,0.004966
+12,"R_Date","10284[Beta-7507]",,"likelihood",1050.5,0.005544
+12,"R_Date","10284[Beta-7507]",,"likelihood",1060.5,0.005505
+12,"R_Date","10284[Beta-7507]",,"likelihood",1070.5,0.005551
+12,"R_Date","10284[Beta-7507]",,"likelihood",1080.5,0.005575
+12,"R_Date","10284[Beta-7507]",,"likelihood",1090.5,0.005176
+12,"R_Date","10284[Beta-7507]",,"likelihood",1100.5,0.005404
+12,"R_Date","10284[Beta-7507]",,"likelihood",1110.5,0.005031
+12,"R_Date","10284[Beta-7507]",,"likelihood",1120.5,0.005236
+12,"R_Date","10284[Beta-7507]",,"likelihood",1130.5,0.005471
+12,"R_Date","10284[Beta-7507]",,"likelihood",1140.5,0.005448
+12,"R_Date","10284[Beta-7507]",,"likelihood",1150.5,0.005494
+12,"R_Date","10284[Beta-7507]",,"likelihood",1160.5,0.005209
+12,"R_Date","10284[Beta-7507]",,"likelihood",1170.5,0.004148
+12,"R_Date","10284[Beta-7507]",,"likelihood",1180.5,0.003465
+12,"R_Date","10284[Beta-7507]",,"likelihood",1190.5,0.003475
+12,"R_Date","10284[Beta-7507]",,"likelihood",1200.5,0.003853
+12,"R_Date","10284[Beta-7507]",,"likelihood",1210.5,0.003254
+12,"R_Date","10284[Beta-7507]",,"likelihood",1220.5,0.0017431
+12,"R_Date","10284[Beta-7507]",,"likelihood",1230.5,0.0006349
+12,"R_Date","10284[Beta-7507]",,"likelihood",1240.5,0.0005601
+12,"R_Date","10284[Beta-7507]",,"likelihood",1250.5,0.0007074
+12,"R_Date","10284[Beta-7507]",,"likelihood",1260.5,0.0005105
+12,"R_Date","10284[Beta-7507]",,"likelihood",1270.5,0.00014754
+12,"R_Date","10284[Beta-7507]",,"likelihood",1280.5,0.000018331
+12,"R_Date","10284[Beta-7507]",,"likelihood",1290.5,0.0000014886
+12,"R_Date","10284[Beta-7507]",,"likelihood",1300.5,2.2858e-7
+12,"R_Date","10284[Beta-7507]",,"likelihood",1310.5,1.6725e-8
+12,"R_Date","10284[Beta-7507]",,"likelihood",1320.5,5.575e-9
+12,"R_Date","10284[Beta-7507]",,"likelihood",1330.5,0
+12,"R_Date","10284[Beta-7507]",,"likelihood",1340.5,0
+12,"R_Date","10284[Beta-7507]",,"likelihood",1350.5,0
+12,"R_Date","10284[Beta-7507]",,"likelihood",1360.5,1.115e-8
+12,"R_Date","10284[Beta-7507]",,"likelihood",1370.5,1.338e-7
+12,"R_Date","10284[Beta-7507]",,"likelihood",1380.5,8.363e-8
+12,"R_Date","10284[Beta-7507]",,"likelihood",1390.5,5.575e-9
+12,"R_Date","10284[Beta-7507]",,"likelihood",1400.5,0
+12,"R_Date","10284[Beta-7507]",,"likelihood",1410.5,0
+12,"R_Date","10284[Beta-7507]",,"likelihood",1420.5,0
+12,"R_Date","10284[Beta-7507]",,"posterior",850.5,0
+12,"R_Date","10284[Beta-7507]",,"posterior",860.5,2.0668e-7
+12,"R_Date","10284[Beta-7507]",,"posterior",870.5,0.000001042
+12,"R_Date","10284[Beta-7507]",,"posterior",880.5,0.0000027126
+12,"R_Date","10284[Beta-7507]",,"posterior",890.5,0.000021038
+12,"R_Date","10284[Beta-7507]",,"posterior",900.5,0.00012771
+12,"R_Date","10284[Beta-7507]",,"posterior",910.5,0.00019875
+12,"R_Date","10284[Beta-7507]",,"posterior",920.5,0.00010979
+12,"R_Date","10284[Beta-7507]",,"posterior",930.5,0.00006083
+12,"R_Date","10284[Beta-7507]",,"posterior",940.5,0.0000525
+12,"R_Date","10284[Beta-7507]",,"posterior",950.5,0.00008417
+12,"R_Date","10284[Beta-7507]",,"posterior",960.5,0.00013146
+12,"R_Date","10284[Beta-7507]",,"posterior",970.5,0.00020125
+12,"R_Date","10284[Beta-7507]",,"posterior",980.5,0.00031042
+12,"R_Date","10284[Beta-7507]",,"posterior",990.5,0.0007367
+12,"R_Date","10284[Beta-7507]",,"posterior",1000.5,0.0022115
+12,"R_Date","10284[Beta-7507]",,"posterior",1010.5,0.0019469
+12,"R_Date","10284[Beta-7507]",,"posterior",1020.5,0.0028737
+12,"R_Date","10284[Beta-7507]",,"posterior",1030.5,0.005804
+12,"R_Date","10284[Beta-7507]",,"posterior",1040.5,0.008098
+12,"R_Date","10284[Beta-7507]",,"posterior",1050.5,0.008611
+12,"R_Date","10284[Beta-7507]",,"posterior",1060.5,0.008092
+12,"R_Date","10284[Beta-7507]",,"posterior",1070.5,0.007704
+12,"R_Date","10284[Beta-7507]",,"posterior",1080.5,0.00717
+12,"R_Date","10284[Beta-7507]",,"posterior",1090.5,0.006314
+12,"R_Date","10284[Beta-7507]",,"posterior",1100.5,0.005802
+12,"R_Date","10284[Beta-7507]",,"posterior",1110.5,0.005129
+12,"R_Date","10284[Beta-7507]",,"posterior",1120.5,0.004833
+12,"R_Date","10284[Beta-7507]",,"posterior",1130.5,0.004427
+12,"R_Date","10284[Beta-7507]",,"posterior",1140.5,0.00403
+12,"R_Date","10284[Beta-7507]",,"posterior",1150.5,0.003624
+12,"R_Date","10284[Beta-7507]",,"posterior",1160.5,0.0030538
+12,"R_Date","10284[Beta-7507]",,"posterior",1170.5,0.0021917
+12,"R_Date","10284[Beta-7507]",,"posterior",1180.5,0.0015448
+12,"R_Date","10284[Beta-7507]",,"posterior",1190.5,0.0013404
+12,"R_Date","10284[Beta-7507]",,"posterior",1200.5,0.0012756
+12,"R_Date","10284[Beta-7507]",,"posterior",1210.5,0.0009606
+12,"R_Date","10284[Beta-7507]",,"posterior",1220.5,0.0004531
+12,"R_Date","10284[Beta-7507]",,"posterior",1230.5,0.00015979
+12,"R_Date","10284[Beta-7507]",,"posterior",1240.5,0.00012333
+12,"R_Date","10284[Beta-7507]",,"posterior",1250.5,0.00009875
+12,"R_Date","10284[Beta-7507]",,"posterior",1260.5,0.00007209
+12,"R_Date","10284[Beta-7507]",,"posterior",1270.5,0.000014373
+12,"R_Date","10284[Beta-7507]",,"posterior",1280.5,0.0000027126
+12,"R_Date","10284[Beta-7507]",,"posterior",1290.5,2.0668e-7
+12,"R_Date","10284[Beta-7507]",,"posterior",1300.5,0
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",624.5,0
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",634.5,4.156e-9
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",644.5,4.156e-9
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",654.5,8.311e-9
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",664.5,1.2467e-8
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",674.5,2.0778e-8
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",684.5,3.325e-8
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",694.5,5.402e-8
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",704.5,8.727e-8
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",714.5,1.3714e-7
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",724.5,2.2025e-7
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",734.5,3.491e-7
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",744.5,5.444e-7
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",754.5,8.394e-7
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",764.5,0.0000012841
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",774.5,0.0000019407
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",784.5,0.0000029006
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",794.5,0.000004289
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",804.5,0.000006279
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",814.5,0.000009088
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",824.5,0.00001302
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",834.5,0.000018443
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",844.5,0.000025844
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",854.5,0.00003583
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",864.5,0.00004913
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",874.5,0.00006665
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",884.5,0.00008943
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",894.5,0.00011871
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",904.5,0.00015587
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",914.5,0.00020245
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",924.5,0.00026013
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",934.5,0.0003306
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",944.5,0.0004157
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",954.5,0.000517
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",964.5,0.000636
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",974.5,0.0007741
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",984.5,0.0009319
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",994.5,0.0011098
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1004.5,0.0013074
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1014.5,0.0015235
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1024.5,0.0017562
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1034.5,0.0020026
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1044.5,0.0022589
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1054.5,0.0025205
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1064.5,0.0027821
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1074.5,0.0030377
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1084.5,0.003281
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1094.5,0.003505
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1104.5,0.003705
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1114.5,0.003873
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1124.5,0.004006
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1134.5,0.004098
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1144.5,0.004148
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1154.5,0.004152
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1164.5,0.004112
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1174.5,0.004028
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1184.5,0.003903
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1194.5,0.003741
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1204.5,0.003548
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1214.5,0.003328
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1224.5,0.0030875
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1234.5,0.0028339
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1244.5,0.002573
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1254.5,0.002311
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1264.5,0.0020532
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1274.5,0.0018045
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1284.5,0.0015688
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1294.5,0.0013491
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1304.5,0.0011477
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1314.5,0.0009659
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1324.5,0.000804
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1334.5,0.0006621
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1344.5,0.0005393
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1354.5,0.0004346
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1364.5,0.0003464
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1374.5,0.00027315
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1384.5,0.00021305
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1394.5,0.00016438
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1404.5,0.00012546
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1414.5,0.00009472
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1424.5,0.00007075
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1434.5,0.00005227
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1444.5,0.0000382
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1454.5,0.000027614
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1464.5,0.000019748
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1474.5,0.000013971
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1484.5,0.000009774
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1494.5,0.000006765
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1504.5,0.000004634
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1514.5,0.0000031375
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1524.5,0.0000021028
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1534.5,0.0000013921
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1544.5,9.142e-7
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1554.5,5.943e-7
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1564.5,3.823e-7
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1574.5,2.4103e-7
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1584.5,1.496e-7
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1594.5,9.558e-8
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1604.5,5.818e-8
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1614.5,3.325e-8
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1624.5,2.0778e-8
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1634.5,1.2467e-8
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1644.5,8.311e-9
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1654.5,4.156e-9
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1664.5,4.156e-9
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1674.5,0
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"likelihood",1684.5,0
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",734.5,0
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",744.5,4.186e-7
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",754.5,6.252e-7
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",764.5,0.0000018757
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",774.5,0.000003958
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",784.5,0.000005627
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",794.5,0.000006666
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",804.5,0.000009998
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",814.5,0.000015419
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",824.5,0.000020415
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",834.5,0.00003438
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",844.5,0.00005583
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",854.5,0.00007396
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",864.5,0.00011
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",874.5,0.00013875
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",884.5,0.00018521
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",894.5,0.00027354
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",904.5,0.0003523
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",914.5,0.0004823
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",924.5,0.0005981
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",934.5,0.000759
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",944.5,0.0009731
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",954.5,0.0012106
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",964.5,0.0014873
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",974.5,0.0018127
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",984.5,0.0022081
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",994.5,0.0025902
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1004.5,0.0029788
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1014.5,0.003498
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1024.5,0.004031
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1034.5,0.004429
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1044.5,0.004939
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1054.5,0.005191
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1064.5,0.005324
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1074.5,0.00543
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1084.5,0.005437
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1094.5,0.005355
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1104.5,0.005078
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1114.5,0.004859
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1124.5,0.004512
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1134.5,0.00409
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1144.5,0.003567
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1154.5,0.003238
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1164.5,0.0027638
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1174.5,0.0023521
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1184.5,0.0019748
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1194.5,0.0015938
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1204.5,0.0012879
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1214.5,0.0010894
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1224.5,0.000824
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1234.5,0.0006617
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1244.5,0.0005144
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1254.5,0.0004033
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1264.5,0.00029437
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1274.5,0.00023208
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1284.5,0.00017229
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1294.5,0.000115
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1304.5,0.00009584
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1314.5,0.00007167
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1324.5,0.00005271
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1334.5,0.00003792
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1344.5,0.000027293
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1354.5,0.000022085
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1364.5,0.000015207
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1374.5,0.000010836
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1384.5,0.000006252
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1394.5,0.0000031262
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1404.5,0.000003539
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1414.5,0.0000018757
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1424.5,0.000002501
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1434.5,0.0000014571
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1444.5,6.252e-7
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1454.5,6.252e-7
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1464.5,2.066e-7
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1474.5,4.186e-7
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1484.5,8.318e-7
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1494.5,0
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1504.5,0
+13,"C_Date","10285[Alpha-881, Thermoluminescence]",,"posterior",1514.5,0
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",-1.5,0
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",8.5,2.8094e-9
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",18.5,2.8094e-9
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",28.5,2.8094e-9
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",38.5,5.619e-9
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",48.5,5.619e-9
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",58.5,8.428e-9
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",68.5,1.4047e-8
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",78.5,1.9666e-8
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",88.5,2.8095e-8
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",98.5,3.933e-8
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",108.5,5.338e-8
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",118.5,7.305e-8
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",128.5,1.0114e-7
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",138.5,1.4047e-7
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",148.5,1.9104e-7
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",158.5,2.6128e-7
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",168.5,3.512e-7
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",178.5,4.72e-7
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",188.5,6.321e-7
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",198.5,8.428e-7
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",208.5,0.0000011154
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",218.5,0.0000014693
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",228.5,0.0000019273
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",238.5,0.0000025173
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",248.5,0.000003267
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",258.5,0.000004223
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",268.5,0.000005431
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",278.5,0.000006948
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",288.5,0.000008844
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",298.5,0.000011207
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",308.5,0.000014126
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",318.5,0.000017719
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",328.5,0.000022119
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",338.5,0.000027471
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",348.5,0.00003395
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",358.5,0.00004175
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",368.5,0.00005109
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",378.5,0.0000622
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",388.5,0.00007536
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",398.5,0.00009086
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",408.5,0.00010899
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",418.5,0.00013011
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",428.5,0.00015454
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",438.5,0.00018265
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",448.5,0.0002148
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",458.5,0.00025137
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",468.5,0.00029271
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",478.5,0.0003392
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",488.5,0.000391
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",498.5,0.0004486
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",508.5,0.0005121
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",518.5,0.0005818
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",528.5,0.0006576
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",538.5,0.0007396
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",548.5,0.0008277
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",558.5,0.0009218
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",568.5,0.0010214
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",578.5,0.0011262
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",588.5,0.0012357
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",598.5,0.0013491
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",608.5,0.0014655
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",618.5,0.0015842
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",628.5,0.001704
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",638.5,0.0018238
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",648.5,0.0019424
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",658.5,0.0020584
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",668.5,0.0021706
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",678.5,0.0022776
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",688.5,0.002378
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",698.5,0.0024706
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",708.5,0.002554
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",718.5,0.0026273
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",728.5,0.0026892
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",738.5,0.002739
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",748.5,0.0027759
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",758.5,0.0027994
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",768.5,0.0028092
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",778.5,0.002805
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",788.5,0.002787
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",798.5,0.0027554
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",808.5,0.0027106
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",818.5,0.0026534
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",828.5,0.0025846
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",838.5,0.0025051
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",848.5,0.002416
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",858.5,0.0023186
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",868.5,0.0022141
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",878.5,0.0021038
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",888.5,0.0019892
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",898.5,0.0018715
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",908.5,0.001752
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",918.5,0.0016321
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",928.5,0.0015128
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",938.5,0.0013953
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",948.5,0.0012806
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",958.5,0.0011695
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",968.5,0.0010628
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",978.5,0.000961
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",988.5,0.0008646
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",998.5,0.0007741
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1008.5,0.0006896
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1018.5,0.0006113
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1028.5,0.0005392
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1038.5,0.0004733
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1048.5,0.0004134
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1058.5,0.0003592
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1068.5,0.00031066
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1078.5,0.00026732
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1088.5,0.00022888
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1098.5,0.000195
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1108.5,0.00016532
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1118.5,0.00013946
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1128.5,0.00011706
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1138.5,0.00009778
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1148.5,0.00008126
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1158.5,0.0000672
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1168.5,0.0000553
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1178.5,0.00004529
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1188.5,0.0000369
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1198.5,0.000029915
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1208.5,0.000024136
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1218.5,0.000019374
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1228.5,0.000015477
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1238.5,0.0000123
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1248.5,0.000009729
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1258.5,0.000007656
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1268.5,0.000005995
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1278.5,0.000004672
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1288.5,0.000003621
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1298.5,0.0000027954
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1308.5,0.0000021464
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1318.5,0.0000016379
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1328.5,0.0000012474
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1338.5,9.412e-7
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1348.5,7.08e-7
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1358.5,5.31e-7
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1368.5,3.961e-7
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1378.5,2.9218e-7
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1388.5,2.1633e-7
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1398.5,1.6014e-7
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1408.5,1.1519e-7
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1418.5,8.428e-8
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1428.5,6.181e-8
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1438.5,4.495e-8
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1448.5,3.0904e-8
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1458.5,2.2476e-8
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1468.5,1.6857e-8
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1478.5,1.1238e-8
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1488.5,8.428e-9
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1498.5,5.619e-9
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1508.5,2.8094e-9
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1518.5,2.8094e-9
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1528.5,2.8094e-9
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"likelihood",1538.5,0
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",338.5,0
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",348.5,6.25e-7
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",358.5,6.25e-7
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",368.5,8.32e-7
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",378.5,8.32e-7
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",388.5,8.32e-7
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",398.5,0.0000010429
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",408.5,0.0000016679
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",418.5,0.0000024999
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",428.5,0.0000022928
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",438.5,0.000003543
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",448.5,0.000006668
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",458.5,0.000005625
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",468.5,0.000010417
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",478.5,0.000012499
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",488.5,0.000011667
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",498.5,0.000017499
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",508.5,0.000022085
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",518.5,0.00002396
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",528.5,0.00004125
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",538.5,0.00005688
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",548.5,0.00006396
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",558.5,0.00007917
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",568.5,0.00009979
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",578.5,0.0001125
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",588.5,0.00016104
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",598.5,0.00019292
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",608.5,0.00024104
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",618.5,0.00029438
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",628.5,0.0003819
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",638.5,0.0004406
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",648.5,0.000575
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",658.5,0.0006417
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",668.5,0.0007596
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",678.5,0.0008994
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",688.5,0.0010779
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",698.5,0.0011975
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",708.5,0.0013708
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",718.5,0.0015446
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",728.5,0.0017956
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",738.5,0.0019919
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",748.5,0.0022175
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",758.5,0.0024304
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",768.5,0.0026792
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",778.5,0.0029135
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",788.5,0.0030044
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",798.5,0.003293
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",808.5,0.003446
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",818.5,0.003531
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",828.5,0.003717
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",838.5,0.003723
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",848.5,0.003834
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",858.5,0.003772
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",868.5,0.003729
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",878.5,0.003637
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",888.5,0.003532
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",898.5,0.003384
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",908.5,0.003308
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",918.5,0.0031442
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",928.5,0.0029163
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",938.5,0.0027085
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",948.5,0.0025023
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",958.5,0.0023071
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",968.5,0.0022325
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",978.5,0.0019529
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",988.5,0.001731
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",998.5,0.00159
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1008.5,0.0013617
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1018.5,0.0012163
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1028.5,0.0010546
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1038.5,0.0009085
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1048.5,0.0007867
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1058.5,0.0006675
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1068.5,0.0005527
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1078.5,0.0004423
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1088.5,0.000384
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1098.5,0.0003
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1108.5,0.00022833
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1118.5,0.00018396
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1128.5,0.00013604
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1138.5,0.00010521
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1148.5,0.00008042
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1158.5,0.00006146
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1168.5,0.00004333
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1178.5,0.00003167
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1188.5,0.000023124
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1198.5,0.000014999
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1208.5,0.000009792
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1218.5,0.000009375
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1228.5,0.00000875
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1238.5,0.000002082
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1248.5,0.0000018749
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1258.5,0.000001457
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1268.5,0.0000012499
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1278.5,0.0000010429
+14,"C_Date","10286[Alpha-882, Thermoluminescence]",,"posterior",1288.5,4.179e-7
+15,"Calculate","Event",,"posterior",82.5,0
+15,"Calculate","Event",,"posterior",92.5,6.26e-7
+15,"Calculate","Event",,"posterior",102.5,0.000001459
+15,"Calculate","Event",,"posterior",112.5,0.0000016659
+15,"Calculate","Event",,"posterior",122.5,0.0000012495
+15,"Calculate","Event",,"posterior",132.5,8.33e-7
+15,"Calculate","Event",,"posterior",142.5,0.0000020824
+15,"Calculate","Event",,"posterior",152.5,0.0000010425
+15,"Calculate","Event",,"posterior",162.5,0.0000012495
+15,"Calculate","Event",,"posterior",172.5,0.0000012495
+15,"Calculate","Event",,"posterior",182.5,0.0000016659
+15,"Calculate","Event",,"posterior",192.5,0.0000016659
+15,"Calculate","Event",,"posterior",202.5,0.0000020824
+15,"Calculate","Event",,"posterior",212.5,0.0000029154
+15,"Calculate","Event",,"posterior",222.5,0.0000029154
+15,"Calculate","Event",,"posterior",232.5,0.0000022919
+15,"Calculate","Event",,"posterior",242.5,0.000003334
+15,"Calculate","Event",,"posterior",252.5,0.0000031249
+15,"Calculate","Event",,"posterior",262.5,0.000006043
+15,"Calculate","Event",,"posterior",272.5,0.000004791
+15,"Calculate","Event",,"posterior",282.5,0.000003958
+15,"Calculate","Event",,"posterior",292.5,0.000004167
+15,"Calculate","Event",,"posterior",302.5,0.000005417
+15,"Calculate","Event",,"posterior",312.5,0.000005833
+15,"Calculate","Event",,"posterior",322.5,0.000005624
+15,"Calculate","Event",,"posterior",332.5,0.000005
+15,"Calculate","Event",,"posterior",342.5,0.000010208
+15,"Calculate","Event",,"posterior",352.5,0.000008542
+15,"Calculate","Event",,"posterior",362.5,0.000009584
+15,"Calculate","Event",,"posterior",372.5,0.000010208
+15,"Calculate","Event",,"posterior",382.5,0.000010834
+15,"Calculate","Event",,"posterior",392.5,0.00001729
+15,"Calculate","Event",,"posterior",402.5,0.000015418
+15,"Calculate","Event",,"posterior",412.5,0.000017916
+15,"Calculate","Event",,"posterior",422.5,0.000022707
+15,"Calculate","Event",,"posterior",432.5,0.000019999
+15,"Calculate","Event",,"posterior",442.5,0.000026875
+15,"Calculate","Event",,"posterior",452.5,0.000031042
+15,"Calculate","Event",,"posterior",462.5,0.000030416
+15,"Calculate","Event",,"posterior",472.5,0.00003458
+15,"Calculate","Event",,"posterior",482.5,0.00003875
+15,"Calculate","Event",,"posterior",492.5,0.00004083
+15,"Calculate","Event",,"posterior",502.5,0.00004708
+15,"Calculate","Event",,"posterior",512.5,0.00005542
+15,"Calculate","Event",,"posterior",522.5,0.00006521
+15,"Calculate","Event",,"posterior",532.5,0.00007188
+15,"Calculate","Event",,"posterior",542.5,0.00008979
+15,"Calculate","Event",,"posterior",552.5,0.00010354
+15,"Calculate","Event",,"posterior",562.5,0.00012062
+15,"Calculate","Event",,"posterior",572.5,0.00013167
+15,"Calculate","Event",,"posterior",582.5,0.00016479
+15,"Calculate","Event",,"posterior",592.5,0.00018854
+15,"Calculate","Event",,"posterior",602.5,0.00021416
+15,"Calculate","Event",,"posterior",612.5,0.00024583
+15,"Calculate","Event",,"posterior",622.5,0.00028479
+15,"Calculate","Event",,"posterior",632.5,0.00032
+15,"Calculate","Event",,"posterior",642.5,0.0003675
+15,"Calculate","Event",,"posterior",652.5,0.000421
+15,"Calculate","Event",,"posterior",662.5,0.0004733
+15,"Calculate","Event",,"posterior",672.5,0.0005356
+15,"Calculate","Event",,"posterior",682.5,0.0006054
+15,"Calculate","Event",,"posterior",692.5,0.000651
+15,"Calculate","Event",,"posterior",702.5,0.0006998
+15,"Calculate","Event",,"posterior",712.5,0.0008315
+15,"Calculate","Event",,"posterior",722.5,0.0009152
+15,"Calculate","Event",,"posterior",732.5,0.0010029
+15,"Calculate","Event",,"posterior",742.5,0.0010983
+15,"Calculate","Event",,"posterior",752.5,0.0011833
+15,"Calculate","Event",,"posterior",762.5,0.0013077
+15,"Calculate","Event",,"posterior",772.5,0.001384
+15,"Calculate","Event",,"posterior",782.5,0.0014694
+15,"Calculate","Event",,"posterior",792.5,0.001585
+15,"Calculate","Event",,"posterior",802.5,0.0016529
+15,"Calculate","Event",,"posterior",812.5,0.0017856
+15,"Calculate","Event",,"posterior",822.5,0.0018112
+15,"Calculate","Event",,"posterior",832.5,0.0019427
+15,"Calculate","Event",,"posterior",842.5,0.0019852
+15,"Calculate","Event",,"posterior",852.5,0.0021154
+15,"Calculate","Event",,"posterior",862.5,0.0021823
+15,"Calculate","Event",,"posterior",872.5,0.0022035
+15,"Calculate","Event",,"posterior",882.5,0.002236
+15,"Calculate","Event",,"posterior",892.5,0.0023092
+15,"Calculate","Event",,"posterior",902.5,0.0022912
+15,"Calculate","Event",,"posterior",912.5,0.002314
+15,"Calculate","Event",,"posterior",922.5,0.0023498
+15,"Calculate","Event",,"posterior",932.5,0.0024504
+15,"Calculate","Event",,"posterior",942.5,0.0024458
+15,"Calculate","Event",,"posterior",952.5,0.0024448
+15,"Calculate","Event",,"posterior",962.5,0.0024298
+15,"Calculate","Event",,"posterior",972.5,0.0025242
+15,"Calculate","Event",,"posterior",982.5,0.0025048
+15,"Calculate","Event",,"posterior",992.5,0.0024875
+15,"Calculate","Event",,"posterior",1002.5,0.0024446
+15,"Calculate","Event",,"posterior",1012.5,0.0024262
+15,"Calculate","Event",,"posterior",1022.5,0.0024192
+15,"Calculate","Event",,"posterior",1032.5,0.0024358
+15,"Calculate","Event",,"posterior",1042.5,0.0023215
+15,"Calculate","Event",,"posterior",1052.5,0.0022579
+15,"Calculate","Event",,"posterior",1062.5,0.0022031
+15,"Calculate","Event",,"posterior",1072.5,0.00212
+15,"Calculate","Event",,"posterior",1082.5,0.0020337
+15,"Calculate","Event",,"posterior",1092.5,0.0019229
+15,"Calculate","Event",,"posterior",1102.5,0.0017848
+15,"Calculate","Event",,"posterior",1112.5,0.0016415
+15,"Calculate","Event",,"posterior",1122.5,0.0015412
+15,"Calculate","Event",,"posterior",1132.5,0.0013902
+15,"Calculate","Event",,"posterior",1142.5,0.0012352
+15,"Calculate","Event",,"posterior",1152.5,0.0011396
+15,"Calculate","Event",,"posterior",1162.5,0.0009592
+15,"Calculate","Event",,"posterior",1172.5,0.0008823
+15,"Calculate","Event",,"posterior",1182.5,0.000754
+15,"Calculate","Event",,"posterior",1192.5,0.0006494
+15,"Calculate","Event",,"posterior",1202.5,0.0005667
+15,"Calculate","Event",,"posterior",1212.5,0.0004856
+15,"Calculate","Event",,"posterior",1222.5,0.0004048
+15,"Calculate","Event",,"posterior",1232.5,0.0003477
+15,"Calculate","Event",,"posterior",1242.5,0.00029792
+15,"Calculate","Event",,"posterior",1252.5,0.00024521
+15,"Calculate","Event",,"posterior",1262.5,0.00021292
+15,"Calculate","Event",,"posterior",1272.5,0.00017562
+15,"Calculate","Event",,"posterior",1282.5,0.00015604
+15,"Calculate","Event",,"posterior",1292.5,0.00013417
+15,"Calculate","Event",,"posterior",1302.5,0.00011
+15,"Calculate","Event",,"posterior",1312.5,0.00009187
+15,"Calculate","Event",,"posterior",1322.5,0.00008167
+15,"Calculate","Event",,"posterior",1332.5,0.00007396
+15,"Calculate","Event",,"posterior",1342.5,0.00006187
+15,"Calculate","Event",,"posterior",1352.5,0.00005104
+15,"Calculate","Event",,"posterior",1362.5,0.00004167
+15,"Calculate","Event",,"posterior",1372.5,0.00004271
+15,"Calculate","Event",,"posterior",1382.5,0.00003729
+15,"Calculate","Event",,"posterior",1392.5,0.00003458
+15,"Calculate","Event",,"posterior",1402.5,0.000029793
+15,"Calculate","Event",,"posterior",1412.5,0.000025416
+15,"Calculate","Event",,"posterior",1422.5,0.000024166
+15,"Calculate","Event",,"posterior",1432.5,0.000020415
+15,"Calculate","Event",,"posterior",1442.5,0.000018333
+15,"Calculate","Event",,"posterior",1452.5,0.000014375
+15,"Calculate","Event",,"posterior",1462.5,0.000015001
+15,"Calculate","Event",,"posterior",1472.5,0.000011876
+15,"Calculate","Event",,"posterior",1482.5,0.000010417
+15,"Calculate","Event",,"posterior",1492.5,0.000010417
+15,"Calculate","Event",,"posterior",1502.5,0.000007916
+15,"Calculate","Event",,"posterior",1512.5,0.000007083
+15,"Calculate","Event",,"posterior",1522.5,0.000006459
+15,"Calculate","Event",,"posterior",1532.5,0.000006459
+15,"Calculate","Event",,"posterior",1542.5,0.000005
+15,"Calculate","Event",,"posterior",1552.5,0.000005833
+15,"Calculate","Event",,"posterior",1562.5,0.000003958
+15,"Calculate","Event",,"posterior",1572.5,0.0000029154
+15,"Calculate","Event",,"posterior",1582.5,0.0000027084
+15,"Calculate","Event",,"posterior",1592.5,0.0000029154
+15,"Calculate","Event",,"posterior",1602.5,0.000004167
+15,"Calculate","Event",,"posterior",1612.5,0.000003541
+15,"Calculate","Event",,"posterior",1622.5,0.0000031249
+15,"Calculate","Event",,"posterior",1632.5,0.0000018755
+15,"Calculate","Event",,"posterior",1642.5,0.0000029154
+15,"Calculate","Event",,"posterior",1652.5,0.0000020824
+15,"Calculate","Event",,"posterior",1662.5,0.0000016659
+15,"Calculate","Event",,"posterior",1672.5,0.0000012495
+15,"Calculate","Event",,"posterior",1682.5,4.165e-7
+15,"Calculate","Event",,"posterior",1692.5,0.0000016659
+15,"Calculate","Event",,"posterior",1702.5,0.0000020824
+15,"Calculate","Event",,"posterior",1712.5,0.000001459
+15,"Calculate","Event",,"posterior",1722.5,0.0000012495
+15,"Calculate","Event",,"posterior",1732.5,8.33e-7
+15,"Calculate","Event",,"posterior",1742.5,0.0000012495
+15,"Calculate","Event",,"posterior",1752.5,6.26e-7
+15,"Calculate","Event",,"posterior",1762.5,0.0000016659
+15,"Calculate","Event",,"posterior",1772.5,4.165e-7
+15,"Calculate","Event",,"posterior",1782.5,8.33e-7
+15,"Calculate","Event",,"posterior",1792.5,8.33e-7
+15,"Calculate","Event",,"posterior",1802.5,0
+15,"Calculate","Event",,"posterior",1812.5,0
+15,"Calculate","Event",,"posterior",1822.5,4.165e-7
+15,"Calculate","Event",,"posterior",1832.5,6.26e-7
+16,"Boundary","endAnalysisUnit",,"posterior",950.5,0
+16,"Boundary","endAnalysisUnit",,"posterior",960.5,0.0000020835
+16,"Boundary","endAnalysisUnit",,"posterior",970.5,0.00005833
+16,"Boundary","endAnalysisUnit",,"posterior",980.5,0.000025002
+16,"Boundary","endAnalysisUnit",,"posterior",990.5,0.000021044
+16,"Boundary","endAnalysisUnit",,"posterior",1000.5,0.00013042
+16,"Boundary","endAnalysisUnit",,"posterior",1010.5,0.00022062
+16,"Boundary","endAnalysisUnit",,"posterior",1020.5,0.00026187
+16,"Boundary","endAnalysisUnit",,"posterior",1030.5,0.0004425
+16,"Boundary","endAnalysisUnit",,"posterior",1040.5,0.0009694
+16,"Boundary","endAnalysisUnit",,"posterior",1050.5,0.0016054
+16,"Boundary","endAnalysisUnit",,"posterior",1060.5,0.0020733
+16,"Boundary","endAnalysisUnit",,"posterior",1070.5,0.0025375
+16,"Boundary","endAnalysisUnit",,"posterior",1080.5,0.0031213
+16,"Boundary","endAnalysisUnit",,"posterior",1090.5,0.003405
+16,"Boundary","endAnalysisUnit",,"posterior",1100.5,0.004004
+16,"Boundary","endAnalysisUnit",,"posterior",1110.5,0.004296
+16,"Boundary","endAnalysisUnit",,"posterior",1120.5,0.004799
+16,"Boundary","endAnalysisUnit",,"posterior",1130.5,0.005398
+16,"Boundary","endAnalysisUnit",,"posterior",1140.5,0.005431
+16,"Boundary","endAnalysisUnit",,"posterior",1150.5,0.005497
+16,"Boundary","endAnalysisUnit",,"posterior",1160.5,0.005331
+16,"Boundary","endAnalysisUnit",,"posterior",1170.5,0.005391
+16,"Boundary","endAnalysisUnit",,"posterior",1180.5,0.004845
+16,"Boundary","endAnalysisUnit",,"posterior",1190.5,0.004617
+16,"Boundary","endAnalysisUnit",,"posterior",1200.5,0.004301
+16,"Boundary","endAnalysisUnit",,"posterior",1210.5,0.003811
+16,"Boundary","endAnalysisUnit",,"posterior",1220.5,0.003724
+16,"Boundary","endAnalysisUnit",,"posterior",1230.5,0.003196
+16,"Boundary","endAnalysisUnit",,"posterior",1240.5,0.0027858
+16,"Boundary","endAnalysisUnit",,"posterior",1250.5,0.00221
+16,"Boundary","endAnalysisUnit",,"posterior",1260.5,0.0020762
+16,"Boundary","endAnalysisUnit",,"posterior",1270.5,0.0017152
+16,"Boundary","endAnalysisUnit",,"posterior",1280.5,0.0015073
+16,"Boundary","endAnalysisUnit",,"posterior",1290.5,0.0012398
+16,"Boundary","endAnalysisUnit",,"posterior",1300.5,0.0010406
+16,"Boundary","endAnalysisUnit",,"posterior",1310.5,0.0009323
+16,"Boundary","endAnalysisUnit",,"posterior",1320.5,0.0007935
+16,"Boundary","endAnalysisUnit",,"posterior",1330.5,0.0007025
+16,"Boundary","endAnalysisUnit",,"posterior",1340.5,0.000694
+16,"Boundary","endAnalysisUnit",,"posterior",1350.5,0.0005733
+16,"Boundary","endAnalysisUnit",,"posterior",1360.5,0.0004717
+16,"Boundary","endAnalysisUnit",,"posterior",1370.5,0.0004377
+16,"Boundary","endAnalysisUnit",,"posterior",1380.5,0.0003487
+16,"Boundary","endAnalysisUnit",,"posterior",1390.5,0.0003285
+16,"Boundary","endAnalysisUnit",,"posterior",1400.5,0.00026625
+16,"Boundary","endAnalysisUnit",,"posterior",1410.5,0.00021333
+16,"Boundary","endAnalysisUnit",,"posterior",1420.5,0.00021604
+16,"Boundary","endAnalysisUnit",,"posterior",1430.5,0.00018396
+16,"Boundary","endAnalysisUnit",,"posterior",1440.5,0.00016208
+16,"Boundary","endAnalysisUnit",,"posterior",1450.5,0.00016583
+16,"Boundary","endAnalysisUnit",,"posterior",1460.5,0.00014646
+16,"Boundary","endAnalysisUnit",,"posterior",1470.5,0.00010834
+16,"Boundary","endAnalysisUnit",,"posterior",1480.5,0.00012208
+16,"Boundary","endAnalysisUnit",,"posterior",1490.5,0.00010333
+16,"Boundary","endAnalysisUnit",,"posterior",1500.5,0.00007687
+16,"Boundary","endAnalysisUnit",,"posterior",1510.5,0.00008292
+16,"Boundary","endAnalysisUnit",,"posterior",1520.5,0.00006563
+16,"Boundary","endAnalysisUnit",,"posterior",1530.5,0.00006229
+16,"Boundary","endAnalysisUnit",,"posterior",1540.5,0.00005333
+16,"Boundary","endAnalysisUnit",,"posterior",1550.5,0.00004271
+16,"Boundary","endAnalysisUnit",,"posterior",1560.5,0.00003625
+16,"Boundary","endAnalysisUnit",,"posterior",1570.5,0.000035
+16,"Boundary","endAnalysisUnit",,"posterior",1580.5,0.00004229
+16,"Boundary","endAnalysisUnit",,"posterior",1590.5,0.00003604
+16,"Boundary","endAnalysisUnit",,"posterior",1600.5,0.00003604
+16,"Boundary","endAnalysisUnit",,"posterior",1610.5,0.000019581
+16,"Boundary","endAnalysisUnit",,"posterior",1620.5,0.000026876
+16,"Boundary","endAnalysisUnit",,"posterior",1630.5,0.000017707
+16,"Boundary","endAnalysisUnit",,"posterior",1640.5,0.000016041
+16,"Boundary","endAnalysisUnit",,"posterior",1650.5,0.000023748
+16,"Boundary","endAnalysisUnit",,"posterior",1660.5,0.00001896
+16,"Boundary","endAnalysisUnit",,"posterior",1670.5,0.000016041
+16,"Boundary","endAnalysisUnit",,"posterior",1680.5,0.000018333
+16,"Boundary","endAnalysisUnit",,"posterior",1690.5,0.000015832
+16,"Boundary","endAnalysisUnit",,"posterior",1700.5,0.000013128
+16,"Boundary","endAnalysisUnit",,"posterior",1710.5,0.000013331
+16,"Boundary","endAnalysisUnit",,"posterior",1720.5,0.000018333
+16,"Boundary","endAnalysisUnit",,"posterior",1730.5,0.000008961
+16,"Boundary","endAnalysisUnit",,"posterior",1740.5,0.000007498
+16,"Boundary","endAnalysisUnit",,"posterior",1750.5,0.000014584
+16,"Boundary","endAnalysisUnit",,"posterior",1760.5,0.000007086
+16,"Boundary","endAnalysisUnit",,"posterior",1770.5,0.000007086
+16,"Boundary","endAnalysisUnit",,"posterior",1780.5,0.000006877
+16,"Boundary","endAnalysisUnit",,"posterior",1790.5,0.000005624
+16,"Boundary","endAnalysisUnit",,"posterior",1800.5,0.0000031225
+16,"Boundary","endAnalysisUnit",,"posterior",1810.5,0.000006877
+16,"Boundary","endAnalysisUnit",,"posterior",1820.5,0.000011044
+16,"Boundary","endAnalysisUnit",,"posterior",1830.5,0.000005624
+16,"Boundary","endAnalysisUnit",,"posterior",1840.5,0.000006877
+16,"Boundary","endAnalysisUnit",,"posterior",1850.5,0.000004585
+16,"Boundary","endAnalysisUnit",,"posterior",1860.5,0.000004585
+16,"Boundary","endAnalysisUnit",,"posterior",1870.5,0.0000029191
+16,"Boundary","endAnalysisUnit",,"posterior",1880.5,0.000003958
+16,"Boundary","endAnalysisUnit",,"posterior",1890.5,0.000004376
+16,"Boundary","endAnalysisUnit",,"posterior",1900.5,0.000004167
+16,"Boundary","endAnalysisUnit",,"posterior",1910.5,0.0000018746
+16,"Boundary","endAnalysisUnit",,"posterior",1920.5,0.000004167
+16,"Boundary","endAnalysisUnit",,"posterior",1930.5,0.000003331
+16,"Boundary","endAnalysisUnit",,"posterior",1940.5,0.0000022924
+16,"Boundary","endAnalysisUnit",,"posterior",1950.5,0.0000020835
+16,"Boundary","endAnalysisUnit",,"posterior",1960.5,0.0000027102
+16,"Boundary","endAnalysisUnit",,"posterior",1970.5,0.0000031225
+16,"Boundary","endAnalysisUnit",,"posterior",1980.5,0.0000027102
+16,"Boundary","endAnalysisUnit",,"posterior",1990.5,0.0000022924
+16,"Boundary","endAnalysisUnit",,"posterior",2000.5,0.0000020835
+16,"Boundary","endAnalysisUnit",,"posterior",2010.5,0.0000016657
+16,"Boundary","endAnalysisUnit",,"posterior",2020.5,0.0000012479
+16,"Boundary","endAnalysisUnit",,"posterior",2030.5,0.000001039
+16,"Boundary","endAnalysisUnit",,"posterior",2040.5,0.0000018746
+16,"Boundary","endAnalysisUnit",,"posterior",2050.5,0.0000020835
+16,"Boundary","endAnalysisUnit",,"posterior",2060.5,4.178e-7

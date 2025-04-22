@@ -1,0 +1,420 @@
+"site_name","site_identifier","siteid.x","sitename","lab_number","age","errorolder","erroryounger","measured_age","ma_sigma","normalized_age","na_sigma"
+"Goldstream","AKFAI-VP",23605,"Cripple Creek [AKFAI-VP]","AA-17509",36137,1100,1100,NA,NA,36137,783
+"Colorado Creek","AKOPH-VP",13138,"Colorado Creek","Beta-5691",15120,170,170,NA,NA,15090,170
+"Trail Creek Cave 9","AKBEN001",16030,"Trail Creek Cave B [AKBEN001]","Beta-20027",14720,950,950,NA,NA,14270,950
+"Deering","AKKTZ023",26998,"Deering 299, [KTZ-00299]","Beta-138562",1250,40,40,NA,NA,1230,40
+"Broken Mammoth","AKXBD131",23601,"Broken Mammoth [AKIKR-VP]","CAMS-7203",11060,90,90,NA,NA,11040,80
+"Broken Mammoth","AKXBD131",23601,"Broken Mammoth [AKIKR-VP]","CAMS-8261",11500,80,80,NA,NA,11500,80
+"Broken Mammoth","AKXBD131",23601,"Broken Mammoth [AKIKR-VP]","CAMS-8261",11420,70,70,NA,NA,11500,80
+"Goldstream","AKFAI-VP",23605,"Eva Creek [AKFAI-VP]","I-2116",24400,650,650,NA,NA,24000,650
+"Trail Creek Cave 9","AKBEN001",16030,"Trail Creek Caves, [BEN-001]","K-979",2810,110,110,2810,110,2890,110
+"Trail Creek Cave 9","AKBEN001",16030,"Trail Creek Caves, [BEN-001]","K-980",9070,150,150,9070,150,9150,150
+"Trail Creek Cave 9","AKBEN001",16030,"Trail Creek Caves, [BEN-001]","K-982",1100,100,100,1100,100,1180,100
+"Trail Creek Cave 9","AKBEN001",16030,"Trail Creek Caves, [BEN-001]","K-983",2700,110,110,2700,110,2780,110
+"Trail Creek Cave 9","AKBEN001",16030,"Trail Creek Caves, [BEN-001]","K-1210",15750,350,350,15750,350,15830,350
+"Trail Creek Cave 9","AKBEN001",16030,"Trail Creek Caves, [BEN-001]","K-1289",2160,110,110,2160,110,2240,110
+"Trail Creek Cave 9","AKBEN001",16030,"Trail Creek Caves, [BEN-001]","K-1290",2770,110,110,2770,110,2850,110
+"Trail Creek Cave 9","AKBEN001",16030,"Trail Creek Caves, [BEN-001]","K-1291",510,100,100,510,100,590,100
+"Trail Creek Cave 9","AKBEN001",16030,"Trail Creek Caves, [BEN-001]","K-1327",13010,350,350,13070,280,13150,280
+"Trail Creek Cave 9","AKBEN001",16030,"Trail Creek Caves, [BEN-001]","K-1327",13070,280,280,13070,280,13150,280
+"Choris","AKKTZ007",22713,"Choris [AKKTZ007]","P-175",2244,133,133,2244,133,2324,133
+"Goldstream","AKFAI-VP",23605,"Cripple Creek [AKFAI-VP]","QC-672",26350,6030,6030,NA,NA,26950,NA
+"Hahanudan Lake (RkIk-4)","AKMLZ012",27396,"Hahanudan Lake (RkIk-4), [MLZ-00012]","S-921",765,455,455,765,460,845,460
+"Hahanudan Lake (RkIk-5)","AKMLZ013",27397,"Hahanudan Lake (RkIk-5), [MLZ-00013], [Two House Site]","S-975",285,95,95,290,100,290,100
+"Lost Chicken Creek","AKEAG200",21496,"Lost Chicken Creek","SI-355",26760,300,300,26760,300,26840,300
+"Hungry Fox","KIR-00289",11845,"Hungry Fox Site [KIR-289]","Beta-288563",400,40,40,400,NA,470,40
+"Matcharak","AMR-00186",13661,"Matcharak Lake, [AMR-186]","Beta-252176",3530,40,40,3530,NA,3510,40
+"Matcharak","AMR-00186",13661,"Matcharak Lake, [AMR-186]","Beta-252177",3580,40,40,3580,NA,3510,40
+"Matcharak","AMR-00186",13661,"Matcharak Lake, [AMR-186]","Beta-252179",4010,40,40,4010,NA,4020,40
+"Matcharak","AMR-00186",13661,"Matcharak Lake, [AMR-186]","Beta-252180",3610,40,40,3610,NA,3680,40
+"Matcharak","AMR-00186",13661,"Matcharak Lake, [AMR-186]","Beta-252181",3470,40,40,3470,NA,3580,40
+"Matcharak","AMR-00186",13661,"Matcharak Lake, [AMR-186]","Beta-252182",3380,40,40,3380,NA,3430,40
+"Matcharak","AMR-00186",13661,"Matcharak Lake, [AMR-186]","Beta-252183",3420,40,40,3420,NA,3520,40
+"Banks","3CT16",5444,"Banks","M-916",425,150,150,425,75,670,85
+"Ventana Cave","Z:12:5(ASM)",4675,"Ventana Cave [AZ Z:12:5]","A-203",11290,1200,1200,NA,NA,11300,NA
+"Ventana Cave","Z:12:5(ASM)",4675,"Ventana Cave [AZ Z:12:5]","A-1081",8980,300,300,NA,NA,8975,NA
+"Stanton's Cave","C:5:3",4586,"Stanton's Cave [Ariz C:5:3]","A-1132",13770,500,500,NA,NA,13700,NA
+"Stanton's Cave","C:5:3",4586,"Rampart Cave","AA-1843",12370,130,130,NA,NA,12370,NA
+"Stanton's Cave","C:5:3",4586,"Rampart Cave","AA-1843",19980,210,210,NA,NA,12370,NA
+"Hance Canyon","C:",4733,"Tse'an Bida Cave Midden 1C","A-1794",12600,540,540,NA,NA,10110,NA
+"Hance Canyon","C:",4733,"Tse'An Kaetan Cave-Grand Canyon","A-2371",10290,1400,1400,NA,NA,18290,NA
+"Tinajas Altas","X:12:2(ASM)",4635,"Tinajas Atlas Mountains","USGS-958",10300,110,110,NA,NA,10950,NA
+"Tinajas Altas","X:12:2(ASM)",4635,"Tinajas Atlas Mountains","USGS-958",10950,90,90,NA,NA,10950,NA
+"Lehner Ranch","EE:12:1",4612,"Lehner [Lehner Ranch] [UALP14]","A-33",10410,190,190,NA,NA,7133,NA
+"Daisey Cave","CA-SMI-261",4936,"Daisy Cave [SMI-261]","Beta-15619",2990,90,90,2990,90,3430,90
+"Stampede","DjOn-26",16261,"Stampede [DjOn-26]","S-731",7245,225,225,7245,255,7245,255
+"Crowsnest Dance Hall","DjPp-3",14363,"Crowsnest Dancehall [DjPp-3]","RL-401",2450,100,100,2450,100,2530,100
+"Crowsnest Dance Hall","DjPp-3",14363,"Crowsnest Dancehall [DjPp-3]","RL-400",3070,100,100,3070,100,3150,100
+"Crowsnest Dance Hall","DjPp-3",14363,"Crowsnest Dancehall [DjPp-3]","RL-367",3830,140,140,3830,140,3910,140
+"Crowsnest Dance Hall","DjPp-3",14363,"Crowsnest Dancehall [DjPp-3]","RL-399",5360,160,160,5360,160,5440,160
+"Eagle Cave","DjPp-100",3587,"Eagle Cave [DjPp-100]","S-1963",33000,NA,NA,NA,NA,0,NA
+"Cactus Flower","EbOp-16",14342,"Cactus Flower Local Fauna [EbOp-16]","S-1011",2770,95,95,2770,95,2850,95
+"Cactus Flower","EbOp-16",14342,"Cactus Flower Local Fauna [EbOp-16]","S-1012",3480,70,70,3480,70,3560,75
+"Cactus Flower","EbOp-16",14342,"Cactus Flower Local Fauna [EbOp-16]","S-784",3625,80,80,3625,80,3705,80
+"Cactus Flower","EbOp-16",14342,"Cactus Flower Local Fauna [EbOp-16]","S-820",3890,160,160,3890,160,3970,160
+"Hawkwood","EgPm-179",16238,"Hawkwood [EgPm-179]","RL-1277",6820,280,280,6820,280,6900,280
+"Hawkwood","EgPm-179",16238,"Hawkwood [EgPm-179]","RL-1276",7030,210,210,7030,210,7275,215
+"Hawkwood","EgPm-179",16238,"Hawkwood [EgPm-179]","RL-1554",8250,330,330,8250,330,8330,330
+"Vermilion Lakes Loc. A (153R)","EhPv-8",16109,"Vermilion Lakes Site Locality A [EhPv-8]","SFU-317",9400,400,400,9490,390,9490,390
+"Vermilion Lakes Loc. A (153R)","EhPv-8",16109,"Vermilion Lakes Site Locality A [EhPv-8]","SFU-316",11500,300,300,11500,240,11500,240
+"Vermilion Lakes Loc. A (153R)","EhPv-8",16109,"Vermilion Lakes Site Locality A [EhPv-8]","SFU-346",11700,290,290,11700,350,11700,350
+"Winter","EjPb-?",14349,"Winter site","RIDDL-681",22200,220,220,NA,NA,22200,320
+"Winter","EjPb-?",14349,"Winter site","RIDDL-681",22000,320,320,NA,NA,22200,320
+"Winter","EjPb-?",14349,"Churchers Prairie Dog","RIDDL-681",22200,220,220,NA,NA,22200,320
+"Winter","EjPb-?",14349,"Churchers Prairie Dog","RIDDL-681",22000,320,320,NA,NA,22200,320
+"Whitemud Creek","FiPj-?-1",14393,"Whitemud Creek","S-1795",3255,90,90,3255,90,3335,90
+"Whitemud Creek","FiPj-?-1",14393,"Whitemud Creek","S-1794",3200,90,90,3200,90,3280,90
+"Pendleton Passage","BgDr-38",22076,"Pendleton Passage [BgDr-38]","Beta-8199",1620,70,70,1620,70,2030,100
+"Minister's Island","BgDs-10",23892,"Minister's Island [BgDs-10]","GSC-1445",650,130,130,650,130,1060,190
+"Hillsborough Mastodon","BlDd-?",16522,"Hillsborough Mastodon [BlDd-VP]","GSC-1680",43000,NA,NA,0,NA,0,NA
+"Wintemberg","CbDd-2",23724,"Wintemberg [CdDd-2]","Beta-43150",180,60,60,180,60,610,60
+"","DjPq-2",23451,"DjPq-2","RL-1557",340,110,110,NA,NA,420,110
+"","DjPq-2",23451,"DjPq-2","RL-1664",1640,120,120,NA,NA,1720,120
+"","DjPq-2",23451,"DjPq-2","RL-1556",2650,120,120,NA,NA,2730,120
+"Harbour House","DfRu-3",23727,"Harbour House [DfRu-3]","Beta-68071",2210,60,60,NA,NA,2620,60
+"Harbour House","DfRu-3",23727,"Harbour House [DfRu-3]","Beta-65247",2430,60,60,NA,NA,2840,60
+"Harbour House","DfRu-3",23727,"Harbour House [DfRu-3]","Beta-65246",2500,60,60,NA,NA,2910,60
+"Harbour House","DfRu-3",23727,"Harbour House [DfRu-3]","Beta-68831",2510,60,60,NA,NA,2920,60
+"Bell","EeRk-4",16649,"Bell [EeRk-4]","S-659",1515,90,90,NA,NA,1930,70
+"Farrell Creek","HaRk-1",23575,"Farrell Creek [HaRk-1]","DAL-328",3790,95,95,NA,NA,2790,95
+"Charlie Lake Cave","HbRf-39",4766,"Charlie Lake Cave [HbRf39]","RIDDL-392",10100,210,210,NA,NA,10100,210
+"Charlie Lake Cave","HbRf-39",4766,"Charlie Lake Cave [HbRf39]","RIDDL-392",9990,150,150,NA,NA,10100,210
+"Papegnies","DiLw-6",22060,"Papegnies [DiLw-6]","Beta-62706",870,70,70,870,70,950,75
+"Wapiti Sakihtaw","DiLw-12",16115,"Wapiti Sakihtaw [DiLw-12]","Beta-59415",1140,70,70,1140,70,1220,75
+"Wapiti Sakihtaw","DiLw-12",16115,"Wapiti Sakihtaw [DiLw-12]","Beta-59414",1580,70,70,1580,70,1660,75
+"Stendall","DkMh-1",16253,"Stendall [DkMh-1]","S-785",755,60,60,755,60,835,65
+"Stendall","DkMh-1",16253,"Stendall [DkMh-1]","S-690",850,80,80,850,80,930,80
+"Stendall","DkMh-1",16253,"Stendall [DkMh-1]","S-786",965,70,70,965,70,1045,75
+"Stott","DlMa-1",16337,"Stott [DlMa-1]","S-2318",1040,90,90,1040,90,1120,90
+"Stott","DlMa-1",16337,"Stott [DlMa-1]","S-2319",1050,95,95,1050,95,1130,95
+"Stott","DlMa-1",16337,"Stott [DlMa-1]","SFU-229",1100,150,150,1100,150,1180,150
+"Stott","DlMa-1",16337,"Stott [DlMa-1]","SFU-224",1100,150,150,1100,150,1180,150
+"Bjorklund","EaLa-3",17843,"Bjorklund [EaLa-3]","GX-4144",2705,120,120,2705,120,2785,120
+"Bjorklund","EaLa-3",17843,"Bjorklund [EaLa-3]","GaK-4713",2750,95,95,2750,95,2830,95
+"Bjorklund","EaLa-3",17843,"Bjorklund [EaLa-3]","GX-4149",2840,130,130,2840,130,2920,130
+"Bjorklund","EaLa-3",17843,"Bjorklund [EaLa-3]","GX-4150",2945,160,160,2945,160,3025,160
+"Bjorklund","EaLa-3",17843,"Bjorklund [EaLa-3]","GX-4147",3105,105,105,3105,105,3185,105
+"Bjorklund","EaLa-3",17843,"Bjorklund [EaLa-3]","GX-4145",3125,135,135,3125,135,3205,135
+"Lockport","EaLf-1",21470,"Tipperary Creek [FbNp-1]","S-2850",470,270,270,470,270,470,270
+"Lockport","EaLf-1",21470,"Tipperary Creek [FbNp-1]","S-2850",100,270,270,470,270,470,270
+"Lockport","EaLf-1",21470,"Lockport [EaLf-1]","GX-10865",1410,290,290,1410,290,1490,290
+"Lockport","EaLf-1",21470,"Lockport [EaLf-1]","GX-10864",2315,85,85,2315,85,2395,85
+"Lockport","EaLf-1",21470,"Lockport [EaLf-1]","GX-10863",2512,140,140,2515,140,2595,140
+"Minnedosa River","EcLx-?",21761,"Minnedosa River Section [EcLx-VP, KJ-52-64]","GSC-297",31300,NA,NA,0,NA,0,NA
+"Pas Reserve","FkMh-5",22063,"Pas Reserve [FkMh-5]","A-1368",1560,50,50,1590,50,1590,50
+"Kame Hills","HiLp-1",22455,"Kame Hills [HiLp-1]","S-1077",3510,90,90,3510,90,3590,90
+"Dawson Loc. 28","KkVh-?-28",23415,"Dawson Locality 28 [Schmidt's Mine] [KkVh-VP-28]","Beta-81133",15190,130,130,15190,130,15240,130
+"Dawson Loc. 29","KkVh-?-29",23736,"Dawson Locality 29 [Sailer's Claim] [KkVh-VP-29]","Beta-89988",47170,NA,NA,0,NA,0,NA
+"Dawson Loc. 29","KkVh-?-29",23736,"Dawson Locality 29 [Sailer's Claim] [KkVh-VP-29]","Beta-8865",27680,650,650,27680,650,27760,650
+"Lapointe","MkPk-7",21342,"Lapointe [MkPk-7]","S-467",2730,90,90,2730,90,2810,90
+"Lapointe","MkPk-7",21342,"Lapointe [MkPk-7]","GX-1702",3140,120,120,3140,120,3220,120
+"","MiTt-?",21762,"MiTt-VP","GSC-1814",9500,90,90,9500,90,9490,90
+"Klo-kut","MjVl-1",22441,"Klo-kut [MjVl-1]","GSC-789",460,140,140,460,140,540,140
+"Klo-kut","MjVl-1",22441,"Klo-kut [MjVl-1]","S-511",775,100,100,775,100,855,100
+"Klo-kut","MjVl-1",22441,"Klo-kut [MjVl-1]","S-513",810,160,160,810,160,890,160
+"Klo-kut","MjVl-1",22441,"Klo-kut [MjVl-1]","S-514",830,150,150,830,150,910,150
+"Klo-kut","MjVl-1",22441,"Klo-kut [MjVl-1]","S-515",855,120,120,855,120,935,120
+"Klo-kut","MjVl-1",22441,"Klo-kut [MjVl-1]","S-512",895,150,150,895,150,975,150
+"Old Crow Loc. CRH-44","NbVm-4",16603,"Old Crow Basin Locality CRH-44 [NbVm-4]","I-4228",39900,NA,NA,0,NA,0,NA
+"Old Crow Loc. CRH-44","NbVm-4",16603,"Old Crow Basin Locality CRH-44 [NbVm-4]","I-4223",39000,NA,NA,0,NA,0,NA
+"Old Crow Loc. CRH-44","NbVm-4",16603,"Old Crow Basin Locality CRH-44 [NbVm-4]","GSC-2066",54000,NA,NA,0,NA,0,NA
+"Bison Skull","OaRw-2",23597,"Bison Skull [OaRw-2]","Beta-94896",190,50,50,190,50,280,50
+"Rita-Claire","OaRw-3",23731,"Rita Claire [OaRw-3]","Beta-94897",200,100,100,200,100,300,100
+"Rita-Claire","OaRw-3",23731,"Rita Claire [OaRw-3]","Beta-94898",220,70,70,220,70,320,70
+"Crane","ObRv-1",17782,"Crane [ObRv-1]","S-3036",2535,140,140,2535,140,2615,140
+"Crane","ObRv-1",17782,"Crane [ObRv-1]","S-2999",2805,140,140,2805,140,2885,140
+"Lagoon","OjRl-3",21238,"Lagoon [OjRl-3]","RL-765",2320,120,120,2320,120,2400,120
+"Lagoon","OjRl-3",21238,"Lagoon [OjRl-3]","RL-766",2290,120,120,2290,120,2370,120
+"Lagoon","OjRl-3",21238,"Lagoon [OjRl-3]","RL-767",2390,110,110,2390,110,2470,110
+"Tanfield","KdDq-7",22426,"Tanfield [KdDq-7]","GSC-820",2350,140,140,2350,140,2370,145
+"Tanfield","KdDq-7",22426,"Tanfield [KdDq-7]","M-1528",2390,150,150,2390,150,2410,155
+"Tanfield","KdDq-7",22426,"Tanfield [KdDq-7]","P-698",2608,50,50,2608,50,2628,60
+"Nanook","KdDq-9",22032,"Nanook [KdDq-9]","M-1535",2410,120,120,2410,120,2430,125
+"Nanook","KdDq-9",22032,"Nanook [KdDq-9]","GaK-1284",2380,80,80,2380,80,2460,80
+"Nadlok","MbNs-1",23720,"Nadlok [MbNs-1]","S-2773",160,105,105,160,105,240,105
+"Nadlok","MbNs-1",23720,"Nadlok [MbNs-1]","S-2845",480,105,105,480,95,560,95
+"Tulloch Point","NdLd-21",16077,"Tulloch Point [NdLd-21]","S-2199",480,60,60,480,60,560,65
+"99-225 H.17","NcPd-2",21232,"Lady Franklin Point [NcPd-2]","GSC-650",1130,130,130,1330,130,1350,135
+"Beulah","NcPf-12",17002,"Beulah [NcPf-12]","S-3369",850,70,70,770,70,850,75
+"Thom Bay 1","OaJn-2",22432,"Tom Bay 1 [OaJn-2]","S-2200",840,105,105,840,105,920,105
+"Thom Bay 1","OaJn-2",22432,"Tom Bay 1 [OaJn-2]","S-2201",1260,160,160,1260,160,1420,160
+"Saatut II","PeHa-1",16409,"Saatut [PeHa-1]","S-881",1325,90,90,1325,90,1405,90
+"Saatut II","PeHa-1",16409,"Saatut [PeHa-1]","S-755",1530,80,80,1530,80,1610,80
+"Saatut II","PeHa-1",16409,"Saatut [PeHa-1]","S-2189",1545,155,155,1545,155,1625,155
+"Saatut II","PeHa-1",16409,"Saatut [PeHa-1]","S-850",1180,90,90,1180,90,1260,90
+"Saatut II","PeHa-1",16409,"Saatut [PeHa-1]","S-2190",1315,80,80,1315,80,1395,80
+"Saatut II","PeHa-1",16409,"Saatut [PeHa-1]","S-756",1925,70,70,1925,70,2005,75
+"Nunguvik","PgHb-1",16539,"Nunguvik [PgHb-1]","S-882",850,100,100,850,100,930,100
+"Nunguvik","PgHb-1",16539,"Nunguvik [PgHb-1]","S-1205",1090,90,90,1090,90,1170,90
+"Nunguvik","PgHb-1",16539,"Nunguvik [PgHb-1]","S-1207",1280,60,60,1280,60,1360,65
+"Nunguvik","PgHb-1",16539,"Nunguvik [PgHb-1]","GaK-2339",1290,120,120,1290,120,1370,120
+"Nunguvik","PgHb-1",16539,"Nunguvik [PgHb-1]","S-879",1320,90,90,1320,90,1400,90
+"Nunguvik","PgHb-1",16539,"Nunguvik [PgHb-1]","S-849",1520,70,70,1520,70,1600,75
+"Nunguvik","PgHb-1",16539,"Nunguvik [PgHb-1]","S-848",1590,100,100,1590,100,1670,100
+"Nunguvik","PgHb-1",16539,"Nunguvik [PgHb-1]","S-847",1690,150,150,1690,150,1770,150
+"Nunguvik","PgHb-1",16539,"Nunguvik [PgHb-1]","S-1444",1860,120,120,1860,120,1940,120
+"Nunguvik","PgHb-1",16539,"Nunguvik [PgHb-1]","S-880",1880,90,90,1880,90,1960,90
+"Nunguvik","PgHb-1",16539,"Nunguvik [PgHb-1]","S-1613",2320,20,20,2320,50,2400,55
+"Port Refuge","RbJu-1",22358,"Port Refuge [RbJu-1]","S-1689",2070,50,50,2070,50,2230,55
+"Port Refuge","RbJu-1",22358,"Port Refuge [RbJu-1]","CRNL-1259",2605,370,370,2605,370,2685,370
+"Port Refuge","RbJu-1",22358,"Port Refuge [RbJu-1]","S-1661",3430,60,60,3430,60,3590,65
+"Port Refuge","RbJu-1",22358,"Port Refuge [RbJu-1]","S-1662",3790,60,60,3790,60,3950,65
+"Port Refuge","RbJu-1",22358,"Port Refuge [RbJu-1]","CRNL-1230",4360,1160,1160,4360,1160,4440,1160
+"Port Refuge","RbJu-1",22358,"Port Refuge [RbJu-1]","S-1660",4450,60,60,4450,60,4610,65
+"Skraeling Island","SfFk-4",16444,"Skraeling Island [SfFk-4]","GSC-2922",810,70,70,810,70,780,70
+"Skraeling Island","SfFk-4",16444,"Skraeling Island [SfFk-4]","GSC-3174",600,60,60,600,60,550,60
+"Skraeling Island","SfFk-4",16444,"Skraeling Island [SfFk-4]","GSC-3156",660,60,60,660,60,630,60
+"Skraeling Island","SfFk-4",16444,"Skraeling Island [SfFk-4]","GSC-2924",700,70,70,700,70,640,70
+"Skraeling Island","SfFk-4",16444,"Skraeling Island [SfFk-4]","GSC-2938",840,60,60,840,60,760,60
+"Skraeling Island","SfFk-4",16444,"Skraeling Island [SfFk-4]","GSC-3003",830,50,50,830,50,790,50
+"Skraeling Island","SfFk-4",16444,"Skraeling Island [SfFk-4]","GSC-3197",860,50,50,860,50,810,50
+"Skraeling Island","SfFk-4",16444,"Skraeling Island [SfFk-4]","GSC-3098",1000,100,100,1000,100,970,100
+"Sverdrup","SfFk-5",22419,"Sverdrup [SfFk-5]","GSC-3561",620,50,50,620,50,590,50
+"Eskimobyen","SgFm-4",23546,"Eskimobyen [SgFm-4]","GSC-3396",760,70,70,760,70,730,70
+"Ridge","SgFm-6",22396,"Ridge [SgFm-6]","GSC-2827",2690,60,60,2690,60,2710,60
+"Bight","SgFm-16",17504,"Bight [SgFm-16]","GSC-3268",3770,360,360,3770,360,3790,360
+"Bennett","AiGx-___1",16723,"Bennett [AiGx-1]","M-1527",690,130,130,670,100,670,100
+"Liahn I","AcHo-___1",21404,"Liahn I [AcHo-1]","DIC-1007",400,70,70,NA,NA,400,60
+"Bruce Boyd","AdHc-4",21273,"Bruce Boyd [AdHc-4]","S-1288",2470,65,65,2470,65,2550,70
+"Calvert","AfHg-___1",19545,"Calvert [AfHg-1]","I-12176",900,80,80,NA,NA,900,75
+"Knechtel I","BbHj-___2A",16324,"The Knechtel 1 Site [BbHj-2A]","S-1709",3130,50,50,3130,50,3210,55
+"Knechtel I","BbHj-___2A",16324,"The Knechtel 1 Site [BbHj-2A]","S-1707",4080,60,60,4080,60,4355,80
+"Knechtel I","BbHj-___2A",16324,"The Knechtel 1 Site [BbHj-2A]","S-1708",4210,60,60,4210,60,4485,80
+"Nodwell","BcHi-___3",22653,"Nodwell Site [BcHi-3]","S-1719",90,50,50,90,50,335,70
+"Nodwell","BcHi-___3",22653,"Nodwell Site [BcHi-3]","S-1710",710,40,40,710,40,790,45
+"Nodwell","BcHi-___3",22653,"Nodwell Site [BcHi-3]","S-1717",780,120,120,780,120,860,120
+"Nodwell","BcHi-___3",22653,"Nodwell Site [BcHi-3]","S-1712",800,40,40,800,40,880,45
+"Nodwell","BcHi-___3",22653,"Nodwell Site [BcHi-3]","S-1714",900,40,40,900,40,980,45
+"Nodwell","BcHi-___3",22653,"Nodwell Site [BcHi-3]","S-1718",910,110,110,910,110,990,110
+"Nodwell","BcHi-___3",22653,"Nodwell Site [BcHi-3]","S-1711",920,70,70,920,70,1000,75
+"Nodwell","BcHi-___3",22653,"Nodwell Site [BcHi-3]","S-1720",790,60,60,790,60,1035,80
+"Nodwell","BcHi-___3",22653,"Nodwell Site [BcHi-3]","S-1713",1460,50,50,1460,50,1540,55
+"Nodwell","BcHi-___3",22653,"Nodwell Site [BcHi-3]","S-1715",1850,50,50,1850,50,2125,70
+"Nodwell","BcHi-___3",22653,"Nodwell Site [BcHi-3]","S-1716",2700,70,70,2700,70,2780,75
+"Nunaingok 1","JcDe-1",16537,"Nunaingok 1 [JcDe-1]","BGS-2008",577,90,90,577,90,585,90
+"Mad Dog","DgMs-53",21513,"Mad Dog [DgMs-53]","S-2966",1180,80,80,1180,80,1260,80
+"Oxbow Dam","DhMn-1",22057,"Oxbow Dam [DhMn-1]","S-3648",3760,80,80,3760,80,3870,80
+"Sanderson","DhMs-12",16412,"Sanderson [DhMs-12]","S-2967",310,75,75,310,75,390,80
+"Newo Asiniak","FbNp-16",22044,"Newo Asiniak [FbNp-16]","S-2532",4320,85,85,4320,85,4400,85
+"Lebret","EeMw-26",23611,"Lebret [EeMv-26]","S-2801",400,255,255,400,255,480,255
+"Lebret","EeMw-26",23611,"Lebret [EeMv-26]","S-2792",1205,100,100,1205,100,1285,100
+"Lebret","EeMw-26",23611,"Lebret [EeMv-26]","S-2691",1260,115,115,1260,115,1340,115
+"Lebret","EeMw-26",23611,"Lebret [EeMv-26]","S-2799",1530,105,105,1530,105,1610,105
+"Lebret","EeMw-26",23611,"Lebret [EeMv-26]","S-2797",1635,105,105,1635,105,1715,105
+"Lebret","EeMw-26",23611,"Lebret [EeMv-26]","S-2798",2585,290,290,2585,290,2665,290
+"Lebret","EeMw-26",23611,"Lebret [EeMv-26]","S-2791",2980,105,105,2980,105,3060,105
+"Lebret","EeMw-26",23611,"Lebret [EeMv-26]","S-2793",2990,115,115,2990,115,3070,115
+"Sjovold","EiNs-4",23638,"Sjovold [EiNs-4]","S-1759",950,190,190,950,190,1030,190
+"Avonlea","EaNg-1",14375,"Avonlea [EaNg-1]","S-45",1500,100,100,1500,100,1580,100
+"Avonlea","EaNg-1",14375,"Avonlea [EaNg-1]","S-2623",1565,205,205,1565,205,1645,205
+"Garratt","EcNj-7",23522,"Garratt [EcNj-7]","S-409",1990,70,70,1990,75,1990,75
+"Sjovold","EiNs-4",23638,"Sjovold [EiNs-4]","S-1757",580,190,190,580,190,660,190
+"Lake Midden","EfNg-1",21261,"Lake Midden [EfNg-1]","S-2246",380,100,100,380,100,460,100
+"Sjovold","EiNs-4",23638,"Sjovold [EiNs-4]","S-1758",730,190,190,730,190,810,190
+"Sjovold","EiNs-4",23638,"Sjovold [EiNs-4]","S-1760",1320,190,190,1320,190,1400,190
+"Sjovold","EiNs-4",23638,"Sjovold [EiNs-4]","S-1761",1340,190,190,1340,190,1420,190
+"Sjovold","EiNs-4",23638,"Sjovold [EiNs-4]","S-1762",1380,200,200,1380,200,1460,200
+"Sjovold","EiNs-4",23638,"Sjovold [EiNs-4]","S-1763",1380,190,190,1380,190,1460,190
+"Sjovold","EiNs-4",23638,"Sjovold [EiNs-4]","S-1764",1630,200,200,1630,200,1710,200
+"Sjovold","EiNs-4",23638,"Sjovold [EiNs-4]","S-1765",1860,200,200,1860,200,1940,200
+"Sjovold","EiNs-4",23638,"Sjovold [EiNs-4]","S-1767",2090,165,165,2090,165,2170,165
+"Sjovold","EiNs-4",23638,"Sjovold [EiNs-4]","S-2059",2355,105,105,2355,105,2435,105
+"Amisk","FbNp-17",14367,"Amisk [FbNp-17]","S-2531",480,65,65,480,65,560,70
+"Sjovold","EiNs-4",23638,"Sjovold [EiNs-4]","S-2060",2500,85,85,2500,85,2580,85
+"Sjovold","EiNs-4",23638,"Sjovold [EiNs-4]","S-2058",2505,90,90,2505,90,2585,90
+"Sjovold","EiNs-4",23638,"Sjovold [EiNs-4]","S-1768",2680,165,165,2680,165,2760,165
+"Sjovold","EiNs-4",23638,"Sjovold [EiNs-4]","S-1769",3275,160,160,3275,160,3355,160
+"Sjovold","EiNs-4",23638,"Sjovold [EiNs-4]","S-2062",3530,115,115,3530,115,3610,115
+"Sjovold","EiNs-4",23638,"Sjovold [EiNs-4]","S-2061",3595,150,150,3595,150,3675,150
+"Crown","FhNa-86",22722,"Crown [FhNa-86]","S-2292",3330,110,110,3330,110,3410,110
+"Heron Eden","EeOi-11",23654,"Heron Eden [EeOi-11]","S-3208",8160,200,200,8160,200,8240,200
+"Heron Eden","EeOi-11",23654,"Heron Eden [EeOi-11]","S-3309",8920,130,130,8920,130,9000,130
+"Heron Eden","EeOi-11",23654,"Heron Eden [EeOi-11]","S-3114",8930,120,120,8930,120,9010,120
+"Newo Asiniak","FbNp-16",22044,"Newo Asiniak [FbNp-16]","S-2533",915,70,70,915,70,995,75
+"Newo Asiniak","FbNp-16",22044,"Newo Asiniak [FbNp-16]","S-2528",1540,70,70,1540,70,1620,75
+"Norby","FaNq-56",16529,"Norby [FaNq-56]","S-3206",5560,120,120,5560,120,5640,120
+"Norby","FaNq-56",16529,"Norby [FaNq-56]","S-3205",5710,110,110,5740,110,5820,110
+"Norby","FaNq-56",16529,"Norby [FaNq-56]","S-3006",5885,265,265,5885,265,5965,265
+"Newo Asiniak","FbNp-16",22044,"Newo Asiniak [FbNp-16]","S-2530",2235,70,70,2235,70,2315,75
+"Tipperary Creek","FbNp-1",16204,"Tipperary Creek [FbNp-1]","S-2806",380,70,70,380,70,460,75
+"Tipperary Creek","FbNp-1",16204,"Tipperary Creek [FbNp-1]","S-2809",510,70,70,510,70,590,75
+"Tipperary Creek","FbNp-1",16204,"Tipperary Creek [FbNp-1]","S-2810",790,135,135,790,135,870,135
+"Tipperary Creek","FbNp-1",16204,"Tipperary Creek [FbNp-1]","S-2812",880,70,70,880,70,960,75
+"Tipperary Creek","FbNp-1",16204,"Tipperary Creek [FbNp-1]","S-2813",945,135,135,945,135,1025,135
+"Newo Asiniak","FbNp-16",22044,"Newo Asiniak [FbNp-16]","S-2765",2525,210,210,2525,210,2605,210
+"Tipperary Creek","FbNp-1",16204,"Tipperary Creek [FbNp-1]","S-2814",1155,75,75,1155,75,1235,80
+"Tipperary Creek","FbNp-1",16204,"Tipperary Creek [FbNp-1]","S-2815",1235,75,75,1235,75,1315,80
+"Tipperary Creek","FbNp-1",16204,"Tipperary Creek [FbNp-1]","S-2885",1535,75,75,1535,75,1615,80
+"Tipperary Creek","FbNp-1",16204,"Tipperary Creek [FbNp-1]","S-2816",1790,75,75,1790,75,1870,80
+"Newo Asiniak","FbNp-16",22044,"Newo Asiniak [FbNp-16]","S-2764",3025,250,250,3025,250,3105,250
+"Newo Asiniak","FbNp-16",22044,"Newo Asiniak [FbNp-16]","S-2766",3455,230,230,3455,230,3535,230
+"Red Tail","FbNp-10",23637,"Red Tail [FbNp-10]","S-3373",3470,80,80,3470,80,3570,80
+"Red Tail","FbNp-10",23637,"Red Tail [FbNp-10]","S-3372",3480,80,80,3480,80,3580,80
+"Red Tail","FbNp-10",23637,"Red Tail [FbNp-10]","S-3008",3660,75,75,3660,75,3740,80
+"Red Tail","FbNp-10",23637,"Red Tail [FbNp-10]","S-3374",3860,70,70,3860,70,3965,70
+"Red Tail","FbNp-10",23637,"Red Tail [FbNp-10]","S-3375",3880,70,70,3880,70,3980,70
+"Red Tail","FbNp-10",23637,"Red Tail [FbNp-10]","S-3009",4280,80,80,4280,80,4360,80
+"Red Tail","FbNp-10",23637,"Red Tail [FbNp-10]","S-3007",5010,90,90,5010,90,5090,90
+"Newo Asiniak","FbNp-16",22044,"Newo Asiniak [FbNp-16]","S-2763",185,190,190,185,190,265,190
+"Newo Asiniak","FbNp-16",22044,"Newo Asiniak [FbNp-16]","S-2529",750,70,70,750,70,830,75
+"Amisk","FbNp-17",14367,"Amisk [FbNp-17]","S-2770",635,85,85,635,85,715,85
+"Amisk","FbNp-17",14367,"Amisk [FbNp-17]","S-2769",3055,70,70,3055,70,3135,75
+"Amisk","FbNp-17",14367,"Amisk [FbNp-17]","S-2767",3530,110,110,3530,110,3610,110
+"Amisk","FbNp-17",14367,"Amisk [FbNp-17]","S-2534",3895,195,195,3895,195,3975,195
+"Amisk","FbNp-17",14367,"Amisk [FbNp-17]","S-2536",4015,195,195,4015,195,4095,195
+"Amisk","FbNp-17",14367,"Amisk [FbNp-17]","S-2535",4120,190,190,4120,190,4200,190
+"Amisk","FbNp-17",14367,"Amisk [FbNp-17]","Beta-97670",4490,60,60,4490,60,4580,60
+"Amisk","FbNp-17",14367,"Amisk [FbNp-17]","S-2768",5340,120,120,5340,120,5420,120
+"Harder","FbNs-1",3649,"Harder [FbNs-1]","S-490",3360,120,120,3360,120,3440,120
+"Harder","FbNs-1",3649,"Harder [FbNs-1]","S-490",3440,120,120,3360,120,3440,120
+"Harder","FbNs-1",3649,"Harder [FbNs-1]","S-668",3425,105,105,3425,105,3505,105
+"Lloyd","FhNa-35",23612,"Lloyd [FhNa-35]","S-2396",195,70,70,195,70,275,75
+"Lloyd","FhNa-35",23612,"Lloyd [FhNa-35]","S-2274",385,155,155,385,155,465,155
+"Lloyd","FhNa-35",23612,"Lloyd [FhNa-35]","S-2275",535,100,100,535,100,615,100
+"Lloyd","FhNa-35",23612,"Lloyd [FhNa-35]","S-2276",610,100,100,610,100,690,100
+"Eastcott Flat","FhNa-69",23528,"Eastcott Flat [FhNa-69]","S-2497",390,85,85,390,85,470,85
+"Eastcott Flat","FhNa-69",23528,"Eastcott Flat [FhNa-69]","S-2496",1245,85,85,1245,85,1325,85
+"Eastcott Flat","FhNa-69",23528,"Eastcott Flat [FhNa-69]","S-1330",2490,90,90,2490,90,2570,90
+"Crown","FhNa-86",22722,"Crown [FhNa-86]","S-2527",645,70,70,645,70,725,75
+"Crown","FhNa-86",22722,"Crown [FhNa-86]","S-2555",785,155,155,785,155,865,155
+"Crown","FhNa-86",22722,"Crown [FhNa-86]","S-2557",2010,100,100,2010,100,2090,100
+"Crown","FhNa-86",22722,"Crown [FhNa-86]","S-2291",3425,105,105,3425,105,3505,105
+"Crown","FhNa-86",22722,"Crown [FhNa-86]","S-2554",3600,80,80,3600,80,3680,80
+"Crown","FhNa-86",22722,"Crown [FhNa-86]","S-2556",3605,120,120,3605,120,3685,120
+"Crown","FhNa-86",22722,"Crown [FhNa-86]","S-2524",3610,105,105,3610,105,3690,105
+"Crown","FhNa-86",22722,"Crown [FhNa-86]","S-2369",3825,90,90,3825,90,3905,90
+"Crown","FhNa-86",22722,"Crown [FhNa-86]","S-2521",3825,75,75,3825,75,3905,80
+"Crown","FhNa-86",22722,"Crown [FhNa-86]","S-2526",3995,80,80,3995,80,4075,80
+"Crown","FhNa-86",22722,"Crown [FhNa-86]","S-2290",4180,115,115,4180,115,4260,115
+"Crown","FhNa-86",22722,"Crown [FhNa-86]","S-2525",4295,85,85,4295,85,4375,85
+"Crown","FhNa-86",22722,"Crown [FhNa-86]","S-2520",4330,115,115,4330,115,4410,115
+"Stott","DlMa-1",16337,"Stott [DlMa-1]","GX-5139G",1080,135,135,1080,135,1200,135
+"Stott","DlMa-1",16337,"Stott [DlMa-1]","GX-5142G",1080,135,135,1080,135,1200,135
+"Boys","AlGs-__10",16780,"Boys [AlGs-10]","I-7322",985,20,20,NA,NA,985,120
+"Vandenbygaard","AhHl-__15",16090,"Vandenbygaard [AhHl-15]","DIC-425",1280,80,80,1280,80,1360,80
+"Charlie Lake Cave","HbRf-39",4766,"Charlie Lake Cave [HbRf39]","CAMS-2317",10290,100,100,NA,NA,9490,140
+"Cement Creek Cave","5GN?",13755,"Cement Creek Cave","UCIAMS-126396",44400,NA,NA,NA,NA,44000,NA
+"Meigs Pasture","8OK102",5238,"Meig's Pasture [8OK102]","Beta-21253",3700,80,80,3700,80,4100,80
+"Meigs Pasture","8OK102",5238,"Meig's Pasture [8OK102]","Beta-21254",3670,80,80,3670,80,4070,80
+"Meigs Pasture","8OK102",5238,"Meig's Pasture [8OK102]","Beta-21255",3630,90,90,3630,90,4030,90
+"Hontoon Island","8VO202",5098,"Hontoon Island [8VO202]","UM-2602",190,50,50,NA,NA,200,50
+"Hontoon Island","8VO202",5098,"Hontoon Island [8VO202]","UM-2604",250,50,50,NA,NA,260,50
+"Hontoon Island","8VO202",5098,"Hontoon Island [8VO202]","UM-2605",350,55,55,NA,NA,400,70
+"Hontoon Island","8VO202",5098,"Hontoon Island [8VO202]","UM-2608",1040,50,50,NA,NA,1020,50
+"Hontoon Island","8VO202",5098,"Hontoon Island [8VO202]","UM-2609",1140,45,45,NA,NA,1120,50
+"Hontoon Island","8VO202",5098,"Hontoon Island [8VO202]","UM-2610",1110,80,80,NA,NA,1140,70
+"Waubonsie","13ML-VP",4079,"Waubonsie","DIC-1688",14830,1060,1060,NA,NA,14830,1060
+"Wittrock","13OB4",4056,"Wittrock [13OB4]","M-1065",525,150,150,525,75,525,75
+"Wittrock","13OB4",4056,"Wittrock [13OB4]","WIS-51",440,80,80,440,80,520,80
+"Johnson Farm 1","13ML128",4033,"Johnson-1 [13ML128]","WIS-565",790,50,50,NA,NA,790,55
+"Hadfield's Cave","13JN3",4064,"Hadfield's Cave [13JN3]","WIS-589",1655,55,55,NA,NA,1655,65
+"Hadfield's Cave","13JN3",4064,"Hadfield's Cave [13JN3]","WIS-596",1260,60,60,NA,NA,1220,60
+"Kuhl 4","13ML139",4035,"KuhL-4 [13ML139]","WIS-700",835,45,45,NA,NA,835,55
+"Cherokee Sewer","13CK405",4076,"Cherokee Sewer [13CK405]","WIS-888",7490,89,89,NA,NA,7490,80
+"Petitt","11AX253",5799,"Petitt [11AX253]","Beta-16936",1610,80,80,1610,80,1580,80
+"Petitt","11AX253",5799,"Petitt [11AX253]","Beta-23414",630,100,100,630,100,612,100
+"Modoc Rockshelter","11RA501",6330,"Modoc Rock Shelter [11RA501]","C-904",10947,900,900,10947,900,10947,900
+"Modoc Rockshelter","11RA501",6330,"Modoc Rock Shelter [11RA501]","C-904",7800,900,900,10947,900,10947,900
+"Florence Street","11S458",6258,"Florence Street [11S458]","ISGS-616",2400,75,75,NA,NA,2400,80
+"BBB Motor","11MS595",6248,"BBB Motor [11MS595]","ISGS-637",745,75,75,NA,NA,750,80
+"BBB Motor","11MS595",6248,"BBB Motor [11MS595]","ISGS-708",930,75,75,NA,NA,930,80
+"Columbia Quarry","11S629",6251,"Columbia Quarry [11S629]","ISGS-741",1570,75,75,NA,NA,1570,80
+"Columbia Quarry","11S629",6251,"Columbia Quarry [11S629]","ISGS-745",1570,75,75,NA,NA,1570,80
+"Cypress Land","11GE119",6290,"Cypress Land [11GE119]","ISGS-790",4810,75,75,NA,NA,4810,70
+"Napoleon Hollow","11PK500",6282,"Napoleon Hollow [11PK500]","ISGS-834",1840,75,75,NA,NA,1840,70
+"Smiling Dan","11ST123",5641,"Smiling Dan [11ST123]","ISGS-841",1780,75,75,NA,NA,1780,70
+"Smiling Dan","11ST123",5641,"Smiling Dan [11ST123]","ISGS-843",1050,75,75,NA,NA,1050,70
+"Smiling Dan","11ST123",5641,"Smiling Dan [11ST123]","ISGS-854",2020,75,75,NA,NA,2020,70
+"Smiling Dan","11ST123",5641,"Smiling Dan [11ST123]","ISGS-856",1110,75,75,NA,NA,1110,70
+"Fish Lake","11MO608",6254,"Fish Lake [11MO608]","ISGS-1047",1170,110,110,NA,NA,1170,100
+"Smiling Dan","11ST123",5641,"Smiling Dan [11ST123]","ISGS-1094",1910,40,40,NA,NA,1910,70
+"Modoc Rockshelter","11RA501",6330,"Modoc Rock Shelter [11RA501]","ISGS-1389",6510,80,80,NA,NA,6510,80
+"Modoc Rockshelter","11RA501",6330,"Modoc Rock Shelter [11RA501]","ISGS-1389",7210,70,70,NA,NA,6510,80
+"Steuben","11MA213",5376,"Steuben Village","M-440",1325,200,200,1325,100,1325,100
+"Steuben","11MA213",5376,"Steuben Village","M-441",1275,200,200,1275,100,1275,100
+"Steuben","11MA213",5376,"Steuben Village","M-545",1900,200,200,1900,100,1900,100
+"Steuben","11MA213",5376,"Steuben Village","M-548",2010,200,200,2010,100,2010,100
+"Prairie Creek","12DA9",3596,"Prairie Creek [12Da9]","ISGS-269",2535,75,75,2540,80,2540,80
+"Prairie Creek","12DA9",3596,"Prairie Creek [12Da9]","ISGS-270",3535,90,90,3540,90,3540,90
+"Budenbender","14PO4",4261,"Budenbender [14PO4]","M-869",760,150,150,760,75,760,75
+"Indian Knoll","15OH2",3606,"Indian Knoll [15OH-2]","C-741",4043,365,365,3963,350,4043,350
+"St. Gabriel","16IV128",5936,"St. Gabriel [16IV128]","UGa-1696",930,90,90,970,80,970,80
+"Sleeping Bear","20LU-?",5330,"Sleeping Bear Dune","M-208",730,250,250,730,125,730,125
+"Feeheley","20SA128",5375,"Feeheley [20SA128]","M-1139",3930,300,300,3930,150,3930,150
+"Juntunen (Arrowhead Drive ossuary)","20MK1",3641,"Juntunen [20MK1]","M-1140",890,150,150,890,75,890,75
+"Juntunen (Arrowhead Drive ossuary)","20MK1",3641,"Juntunen [20MK1]","M-1141",1050,150,150,1050,75,1050,75
+"Juntunen (Arrowhead Drive ossuary)","20MK1",3641,"Juntunen [20MK1]","M-1142",1125,150,150,1125,75,1125,75
+"Juntunen (Arrowhead Drive ossuary)","20MK1",3641,"Juntunen [20MK1]","M-1188",630,150,150,630,75,630,75
+"Brynjulfson Cave 1","23BO-?",3566,"Brynjulfson Cave #2","ISGS-66",2460,230,230,2460,230,2540,230
+"Brynjulfson Cave 1","23BO-?",3566,"Brynjulfson Cave #1","ISGS-70",9440,760,760,9440,760,9520,760
+"Fisher-Gabert","23SA128",6084,"Fisher-Gabert [23SA128]","N-1049",1820,105,105,1820,100,1880,105
+"Fisher-Gabert","23SA128",6084,"Fisher-Gabert [23SA128]","N-1050",1630,100,100,1630,100,1680,105
+"Fisher-Gabert","23SA128",6084,"Fisher-Gabert [23SA128]","N-1051",1630,100,100,1630,100,1680,105
+"Fisher-Gabert","23SA128",6084,"Fisher-Gabert [23SA128]","N-1052",1560,100,100,1560,100,1600,105
+"Blacktail Cave","24LC151",4118,"Blacktail Cave [24LC151]","GX-21557",11240,80,80,NA,NA,11240,40
+"Blacktail Cave","24LC151",4118,"Blacktail Cave [24LC151]","GX-21558",10270,115,115,NA,NA,27200,370
+"Blacktail Cave","24LC151",4118,"Blacktail Cave [24LC151]","GX-21558",27200,370,370,NA,NA,27200,370
+"South Cannonball Village","32SI19",4011,"South Cannonball [32SI19]","WIS-1097",570,65,65,NA,NA,570,70
+"South Cannonball Village","32SI19",4011,"South Cannonball [32SI19]","WIS-1103",560,55,55,NA,NA,560,60
+"South Cannonball Village","32SI19",4011,"South Cannonball [32SI19]","WIS-1104",600,65,65,NA,NA,600,70
+"South Cannonball Village","32SI19",4011,"South Cannonball [32SI19]","WIS-1105",625,55,55,NA,NA,630,60
+"South Cannonball Village","32SI19",4011,"South Cannonball [32SI19]","WIS-1106",665,70,70,NA,NA,660,70
+"Logan Creek","25BT3",3975,"Logan Creek [25BT3]","M-837",6633,300,300,6633,150,6633,150
+"","25FT70",3974,"25FT70","M-844",500,200,200,500,100,500,100
+"Logan Creek","25BT3",3975,"Logan Creek [25BT3]","M-1081",7250,300,300,7250,150,7250,150
+"Spring Creek","25FT31",4327,"Spring Creek [25FT31]","M-1364",5860,160,160,5860,160,5860,160
+"","25FT70",3974,"25FT70","SI-47",796,65,65,NA,NA,790,65
+"Upper Republican","25FT80",4325,"25FT80","UM-463",3395,295,295,3395,295,3670,300
+"Doyle (Red Willow)","25RW28",4322,"Doyle [25RW28]","UM-469",4950,120,120,4950,120,5225,130
+"Hulme","25HL28",4088,"Hulme [25HL28]","WIS-2154",870,50,50,NA,NA,870,40
+"Henderson","LA1549",5448,"Henderson [LA-1549]","Beta-3332",540,30,30,540,30,550,30
+"Henderson","LA1549",5448,"Henderson [LA-1549]","Beta-3333",570,30,30,570,30,1000,40
+"Henderson","LA1549",5448,"Henderson [LA-1549]","Beta-3334",980,40,40,980,40,700,30
+"Henderson","LA1549",5448,"Henderson [LA-1549]","Beta-3335",710,30,30,710,30,530,30
+"Henderson","LA1549",5448,"Henderson [LA-1549]","Beta-3336",530,30,30,530,30,740,30
+"Henderson","LA1549",5448,"Henderson [LA-1549]","Beta-3337",730,30,30,730,30,640,40
+"Garnsey Spring","LA18400",5031,"Garnsey Spring Campsite [LA 18400]","Beta-6605",930,40,40,930,40,1100,40
+"Garnsey Spring","LA18400",5031,"Garnsey Spring Campsite [LA 18400]","Beta-6693",320,50,50,320,50,280,50
+"Henderson","LA1549",5448,"Henderson [LA-1549]","Beta-8320",660,40,40,660,40,630,40
+"Henderson","LA1549",5448,"Henderson [LA-1549]","Beta-14067",610,40,40,610,40,630,40
+"Henderson","LA1549",5448,"Henderson [LA-1549]","Beta-14069",670,40,40,670,40,750,40
+"Henderson","LA1549",5448,"Henderson [LA-1549]","Beta-14070",820,40,40,820,40,850,40
+"Henderson","LA1549",5448,"Henderson [LA-1549]","Beta-14071",850,40,40,850,40,880,40
+"Henderson","LA1549",5448,"Henderson [LA-1549]","Beta-14072",650,40,40,650,40,690,40
+"Sackett","NYSM-1397",5743,"Sackett [Canandaigua] [Can-1]","M-1076",820,150,150,820,75,820,75
+"Maxon-Derby","06705.000006",5744,"Maxon-Derby [Bwv 13-3]","M-1077",860,150,150,860,75,860,75
+"Domebo","34CD50",3807,"Domebo","SI-172",11220,500,500,11220,500,11300,500
+"Breeden","39ST16",4147,"Breeden [39ST16]","M-608",1240,150,150,1240,75,1240,75
+"Helb","39CA208",3927,"Helb [39CA208]","NWU-38",900,90,90,900,90,1050,90
+"Helb","39CA208",3927,"Helb [39CA208]","NWU-39",930,100,100,930,100,1020,100
+"Helb","39CA208",3927,"Helb [39CA208]","NWU-46",910,80,80,910,80,1040,80
+"Walth Bay","39WW203",3953,"Walth Bay [39WW203]","RL-308",8030,1100,1100,8030,1100,8110,1100
+"Walth Bay","39WW203",3953,"Walth Bay [39WW203]","RL-309",7010,210,210,7010,210,7090,210
+"Jandreau","39LM225",3943,"Jandreau [39LM225]","SI-377",1100,120,120,NA,NA,1100,150
+"Mitchell","39DV2",3923,"Mitchell [39DV2]","WIS-512",965,55,55,NA,NA,965,50
+"Blaine","39CU1144",16598,"Blaine site [39CU1144]","Beta-74815",2490,60,60,2490,60,2500,40
+"Blaine","39CU1144",16598,"Blaine site [39CU1144]","Beta-74816",3160,60,60,3160,60,3140,60
+"Blaine","39CU1144",16598,"Blaine site [39CU1144]","Beta-74817",2560,60,60,2560,60,2550,60
+"Blaine","39CU1144",16598,"Blaine site [39CU1144]","Beta-74818",3120,60,60,3120,60,3090,60
+"Blaine","39CU1144",16598,"Blaine site [39CU1144]","Beta-74819",6950,80,80,6950,80,6940,90
+"Chucalissa","40SY1",5445,"Chucalissa [Fuller/Shelby] [40SY1]","M-583",930,200,200,930,100,930,100
+"Chucalissa","40SY1",5445,"Chucalissa [Fuller/Shelby] [40SY1]","M-584",510,200,200,510,100,510,100
+"Chucalissa","40SY1",5445,"Chucalissa [Fuller/Shelby] [40SY1]","M-787",350,200,200,350,100,350,100
+"Chucalissa","40SY1",5445,"Chucalissa [Fuller/Shelby] [40SY1]","M-788",360,150,150,360,75,360,75
+"Chucalissa","40SY1",5445,"Chucalissa [Fuller/Shelby] [40SY1]","M-789",510,200,200,510,100,510,100
+"Seminole Sink","41VV620",5843,"Seminole Sink [41VV620]","AA-946",490,150,150,NA,NA,470,150
+"Rex Rodgers","41BI42",3541,"Rex Rodgers [41BI42]","SMU-274",8985,83,83,8985,83,9118,83
+"Lubbock Lake","41LU1",3543,"Lubbock Lake [41LU1]","SMU-275",9960,275,275,9960,80,9960,80
+"Lubbock Lake","41LU1",3543,"Lubbock Lake [41LU1]","SMU-314",720,40,40,720,45,720,45
+"Lubbock Lake","41LU1",3543,"Lubbock Lake [41LU1]","SMU-715",400,100,100,400,110,400,110
+"Aubrey","41DN479",5463,"Aubrey [41DN479]","SMU-2194",10946,87,87,NA,NA,10940,80
+"Aubrey","41DN479",5463,"Aubrey [41DN479]","SMU-2338",10724,90,90,NA,NA,10720,90
+"Cowboy Cave","42WN420",4599,"Cowboy Cave [45WN420]","SI-2418",8875,80,80,NA,NA,8275,80
+"Cowboy Cave","42WN420",4599,"Cowboy Cave [45WN420]","UGa-1548",1555,70,70,1555,70,1775,70
+"Trestle","45WT2",4712,"45WT2","WSU-170",7300,180,180,7575,185,7300,185
+"Marmes Rockshelter","45FR50",4570,"Marmes Rockshelter [45FR50]","WSU-205",1300,300,300,1300,60,1300,60
+"Marmes Rockshelter","45FR50",4570,"Marmes Rockshelter [45FR50]","WSU-206",1110,300,300,1110,50,1110,50
+"Marmes Rockshelter","45FR50",4570,"Marmes Rockshelter [45FR50]","WSU-212",1300,300,300,1300,140,1300,140
+"Raddatz Rockshelter","47SK5",3579,"Raddatz Rockshelter [SK5]","M-813",5191,300,300,5200,200,5200,200
+"Horner","48PA29",3757,"Horner [48PA29]","UCLA-697A",8750,120,120,8750,120,8830,120
+"Mummy Cave","48PA201",4314,"Mummy Cave","AA-45706",9248,79,79,NA,NA,9248,78

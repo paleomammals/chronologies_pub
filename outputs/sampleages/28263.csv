@@ -1,0 +1,7 @@
+"analysisunitid","chronology.agemodel","sampleages.age","sampleages.ageolder","sampleages.ageyounger"
+253339,"event",204,364,74
+253340,"event",314,474,144
+253341,"event",704,814,614
+253339,"bounds",NA,604,-156
+253340,"bounds",NA,774,-146
+253341,"bounds",NA,1014,414

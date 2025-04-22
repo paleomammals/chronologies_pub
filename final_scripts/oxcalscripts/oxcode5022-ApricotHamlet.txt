@@ -1,0 +1,25 @@
+Options()
+ {
+  BCAD=FALSE;
+  Curve("IntCal20","IntCal20.14c");
+  Resolution=10;
+ };
+ Plot()
+ {
+  Phase("Collection Unit 5022")
+  {
+    Sequence("AU 81125")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 81125")
+     {
+      R_Date('8219[TX3877]',2000,60);
+      R_Date('8220[TX3878]',1661,60);
+      C_Date('8217[TEMP97, Archaeomagnetic]',300,45);
+      C_Date('8218[TEMP98, Archaeomagnetic]',240,25);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+  };
+ };

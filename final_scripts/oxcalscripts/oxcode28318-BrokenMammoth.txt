@@ -1,0 +1,73 @@
+Options()
+ {
+  BCAD=FALSE;
+  Curve("IntCal20","IntCal20.14c");
+  Resolution=10;
+ };
+ Plot()
+ {
+  Phase("Collection Unit 28318")
+  {
+    Sequence("AU 255849")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 255849")
+     {
+      R_Date('29152[AA-17601]',11540,140);
+      R_Date('29153[CAMS-8261]',11500,80);
+      R_Date('29155[CAMS-7204]',11060,90);
+      R_Date('29156[CAMS-9898]',15830,70);
+      R_Date('29157[Beta-67690]',15830,70);
+      C_Date('29154[CAMS-7203, Argon-argon]',11060,90);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 255850")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 255850")
+     {
+      R_Date('29158[CAMS-5358]',10290,70);
+      R_Date('29160[UGa-6256 D]', 9690,960);
+      R_Date('29161[WSU-4263]',10270,110);
+      R_Date('29162[WSU-4019]',10790,230);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 255852")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 255852")
+     {
+      R_Date('29159[CAMS-8261]',11420,70);
+      R_Date('29164[WSU-4265]',11280,190);
+      R_Date('29165[WSU-4262]',11510,120);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 255851")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 255851")
+     {
+      R_Date('29163[UGa-6257 D]',11040,260);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 255853")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 255853")
+     {
+      R_Date('29166[WSU-4364]',11770,220);
+      R_Date('29167[WSU-4351]',11770,210);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+  };
+ };

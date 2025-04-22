@@ -1,0 +1,2 @@
+"0","fakelabnumbers <- paste0(""TEMP"",1:length(which(is.na(alldates$labnumber))))"
+"0","alldates[which(is.na(alldates$labnumber)),""labnumber""] <- fakelabnumbers"

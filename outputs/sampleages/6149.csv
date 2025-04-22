@@ -1,0 +1,9 @@
+"analysisunitid","chronology.agemodel","sampleages.age","sampleages.ageolder","sampleages.ageyounger"
+91880,"event",3774,4854,2794
+91881,"event",8654,9044,8304
+91882,"event",9124,9634,8644
+83026,"event",14094,14894,13314
+91880,"bounds",NA,6884,764
+91881,"bounds",NA,9774,7564
+91882,"bounds",NA,10694,7594
+83026,"bounds",NA,16174,12074

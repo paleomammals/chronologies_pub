@@ -1,0 +1,308 @@
+Options()
+ {
+  BCAD=FALSE;
+  Curve("IntCal20","IntCal20.14c");
+  Resolution=10;
+ };
+ Plot()
+ {
+  Phase("Collection Unit 4426")
+  {
+    Sequence("AU 80075")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 80075")
+     {
+      R_Date('7156[SMU-251]',10060,70);
+      R_Date('7157[SI-3200]',10360,80);
+      R_Date('7158[SI-4976]',10195,165);
+      R_Date('7159[SMU-547]',10540,100);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 80076")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 80076")
+     {
+      R_Date('7160[SI-4975]',9905,140);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 80078")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 80078")
+     {
+      R_Date('7161[SMU-1094f]',6240,40);
+      R_Date('7162[SMU-544]',6400,80);
+      R_Date('7163[SI-4178]',6705,95);
+      R_Date('7164[SMU-262]',7970,80);
+      R_Date('7165[SMU-302]',7890,100);
+      R_Date('900060[SMU-759]',9330,70);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 80079")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 80079")
+     {
+      R_Date('7166[SI-3204]',7255,75);
+      R_Date('7167[SMU-830f]',8210,240);
+      R_Date('7168[SI-4177]',8655,90);
+      R_Date('7169[SMU-1089]',8130,80);
+      R_Date('7170[SI-5499]',8585,145);
+      R_Date('7171[SMU-1116]',9550,90);
+      R_Date('7172[SMU-1118]',9550,100);
+      R_Date('7173[SMU-275]',9960,275);
+      R_Date('7174[SMU-828]',9870,140);
+      R_Date('7175[SI-4974]',9605,195);
+      R_Date('7176[SMU-728]',9990,100);
+      R_Date('7177[SI-4179]',9075,100);
+      R_Date('7178[SMU-829f]',9170,80);
+      R_Date('900061[SMU-827]',7980,180);
+      R_Date('900062[SMU-830]',8210,240);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 80081")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 80081")
+     {
+      R_Date('7179[SMU-1261f]',9950,120);
+      R_Date('7180[SMU-699]',9780,100);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 80080")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 80080")
+     {
+      R_Date('7181[SMU-1192f]',8730,240);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 80082")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 80082")
+     {
+      R_Date('7182[SMU-531]',4900,60);
+      R_Date('7183[SMU-1093f]',5220,50);
+      R_Date('900063[SI-4172]',5475,75);
+      R_Date('900064[SI-3197]',6115,75);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 80083")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 80083")
+     {
+      R_Date('7184[SMU-1200f]',5270,150);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 80084")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 80084")
+     {
+      R_Date('7185[SMU-492]',4960,50);
+      R_Date('7186[SI-4171]',4700,65);
+      R_Date('7187[SMU-1191f]',2070,130);
+      R_Date('7188[SMU-1177f]',1550,50);
+      R_Date('7189[SMU-651]', 890,70);
+      R_Date('7190[SMU-534]', 870,40);
+      R_Date('7191[SI-4174]',1955,75);
+      R_Date('7192[SI-3201]',1215,65);
+      R_Date('7193[SI-4169]', 880,70);
+      R_Date('7194[SMU-1090f]',1270,40);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 80085")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 80085")
+     {
+      R_Date('7195[SI-4588]', 980,60);
+      R_Date('7196[SI-4971]',1910,75);
+      R_Date('7197[SI-4970]',5010,95);
+      R_Date('7198[SMU-697]',2600,50);
+      R_Date('7199[SI-4972]',2500,165);
+      R_Date('7200[SI-3206]',3925,80);
+      R_Date('7201[SI-3205]',5545,100);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 80086")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 80086")
+     {
+      R_Date('7202[SMU-314]',720,40);
+      R_Date('7203[SMU-968]',440,40);
+      R_Date('7204[SMU-970]',380,50);
+      R_Date('7205[SMU-893f]',450,50);
+      R_Date('7206[SMU-345]',300,60);
+      R_Date('7207[SI-2700]',380,40);
+      R_Date('7208[SI-2701]',505,55);
+      R_Date('7209[SI-3208]',640,75);
+      R_Date('7210[SI-2704]',315,50);
+      R_Date('7211[SI-2703]',285,60);
+      R_Date('7212[SMU-546]',320,60);
+      R_Date('7213[SMU-555]',220,50);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 80088")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 80088")
+     {
+      R_Date('7214[SMU-343]',160,60);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 80089")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 80089")
+     {
+      R_Date('7215[SMU-716]',210,40);
+      R_Date('7216[SMU-831f]',390,50);
+      R_Date('7217[SMU-715]',400,110);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 80090")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 80090")
+     {
+      R_Date('7218[SMU-698]',600,50);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 80092")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 80092")
+     {
+      R_Date('7219[SMU-263]',11100,80);
+      R_Date('7220[SMU-548]',11100,100);
+      R_Date('900066[LL-308]',12650,250);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 513696")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 513696")
+     {
+      R_Date('50455[I-246]',12650,250);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 513701")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 513701")
+     {
+      R_Date('50460[L-283 G]',9700,450);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 513697")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 513697")
+     {
+      R_Date('50458[C-558]',9883,350);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 513698")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 513698")
+     {
+      R_Date('50457[NSRL-10973]',9600,55);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 513700")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 513700")
+     {
+      R_Date('50461[SMU-545]',5770,80);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 513699")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 513699")
+     {
+      R_Date('50459[SMU-1093]',5220,50);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 513704")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 513704")
+     {
+      R_Date('50463[SI-3203]',10015,75);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 513702")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 513702")
+     {
+      R_Date('50462[SI-4175]',3175,85);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 513703")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 513703")
+     {
+      R_Date('50456[SMU-1109]',9660,100);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+  };
+ };

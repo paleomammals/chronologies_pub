@@ -1,0 +1,62 @@
+Options()
+ {
+  BCAD=FALSE;
+  Curve("IntCal20","IntCal20.14c");
+  Resolution=10;
+ };
+ Plot()
+ {
+  Phase("Collection Unit 6236")
+  {
+    Sequence("AU 83216")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 83216")
+     {
+      R_Date('10035[UM-2602]',200,50);
+      R_Date('10036[UM-2604]',260,50);
+      R_Date('10037[UM-2605]',400,70);
+      C_Date('10038[TEMP255, Thermoluminescence]',440,100);
+      C_Date('10039[TEMP256, Thermoluminescence]',420,90);
+      C_Date('10040[TEMP257, Thermoluminescence]',400,90);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 83217")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 83217")
+     {
+      R_Date('10041[Beta-2518]', 550,60);
+      R_Date('10042[Beta-2519]', 760,70);
+      R_Date('10043[Dicarb1993]', 730,50);
+      R_Date('10044[Dicarb1991]', 720,55);
+      R_Date('10045[Dicarb2011]', 640,135);
+      R_Date('10046[UM-2606]', 870,55);
+      R_Date('10047[UM-2607]', 860,55);
+      R_Date('10048[UM-2608]',1020,50);
+      R_Date('10049[UM-2609]',1120,50);
+      R_Date('10050[UM-2610]',1140,70);
+      R_Date('10051[UM-2611]',1020,45);
+      R_Date('10067[TEMP261]',2120,100);
+      R_Date('10070[TEMP264]',2020,60);
+      R_Date('10071[TEMP265]',2080,60);
+      C_Date('10052[TEMP267, Thermoluminescence]',1310,200);
+      C_Date('10053[TEMP268, Thermoluminescence]',1260,190);
+      C_Date('10054[TEMP269, Thermoluminescence]',1200,180);
+      C_Date('10055[TEMP270, Thermoluminescence]',2040,200);
+      C_Date('10056[TEMP271, Thermoluminescence]',1990,190);
+      C_Date('10057[TEMP272, Thermoluminescence]',1920,70);
+      C_Date('10058[TEMP273, Thermoluminescence]',2690,240);
+      C_Date('10059[TEMP274, Thermoluminescence]',2600,230);
+      C_Date('10060[TEMP275, Thermoluminescence]',2500,210);
+      C_Date('10061[TEMP276, Thermoluminescence]',1850,160);
+      C_Date('10062[TEMP277, Thermoluminescence]',1750,150);
+      C_Date('10063[TEMP278, Thermoluminescence]',1700,140);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+  };
+ };

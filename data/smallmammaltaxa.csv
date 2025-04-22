@@ -1,0 +1,1430 @@
+"","taxonid","taxoncode","taxonname","author","valid","highertaxonid","extinct","taxagroupid","publicationid","validatorid","validatedate","notes"
+"67",6261,"Myc.co","Myocastor coypus",NA,TRUE,6867,FALSE,"MAM",1531,NA,NA,NA
+"325",6262,"Myc.sp","Myocastor sp.",NA,TRUE,6867,FALSE,"MAM",1531,NA,NA,NA
+"388",6263,"Mycdae","Myocastoridae",NA,TRUE,6462,FALSE,"MAM",1531,NA,NA,NA
+"2756",52880,"Nes","Nesoryzomys","Heller, 1904",TRUE,6835,FALSE,"MAM",NA,NA,NA,NA
+"5314",5828,"Ali.sp","Alilepus sp.","Dice, 1931",TRUE,6760,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"5315",5829,"Ali.va","Alilepus vagus","Gazin, 1934",TRUE,6760,TRUE,"MAM",5064,44,"2012-06-14T00:00:00.000Z",NA
+"5316",5830,"Ali.wi","Alilepus wilsoni","White, 1991",TRUE,6760,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"5317",5831,"All.pl","Allophaiomys pliocaenicus","Kormos, 1932",TRUE,5832,TRUE,"MAM",1536,44,"2012-07-20T00:00:00.000Z","McKenna and Bell (1997) synonymyze Allophaiomys with Microtus. [ECG 25 Jul 2007]"
+"5318",5832,"All","Allophaiomys","Kormos, 1932",TRUE,6711,TRUE,"MAM",1536,44,"2012-07-20T00:00:00.000Z","McKenna and Bell (1997) synonymyze Allophaiomys with Microtus. [ECG 25 Jul 2007]"
+"5321",5835,"Amm.ha","Ammospermophilus harrisii","(Audubon & Bachman, 1854)",TRUE,6761,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"5322",5836,"Amm.in","Ammospermophilus interpres","(Merriam, 1890)",TRUE,6761,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"5323",5837,"Amm.le","Ammospermophilus leucurus","(Merriam, 1889)",TRUE,6761,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"5324",5838,"Amm.ne","Ammospermophilus nelsoni","(Merriam, 1893)",TRUE,6761,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"5325",5839,"Amm.sp","Ammospermophilus sp.","Merriam, 1892",TRUE,6761,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"5332",5846,"Apl.ru","Aplodontia rufa",NA,TRUE,6765,FALSE,"MAM",1518,NA,NA,NA
+"5333",5847,"Apl.sp","Aplodontia sp.",NA,TRUE,6765,FALSE,"MAM",1518,NA,NA,NA
+"5334",5848,"Apldae","Aplodontiidae",NA,TRUE,6462,FALSE,"MAM",1518,NA,NA,NA
+"5340",5854,"Ato.te","Atopomys texensis",NA,TRUE,6768,TRUE,"MAM",1539,NA,NA,NA
+"5341",5855,"Azt.ag","Aztlanolagus agilis","Russell & Harris, 1986",TRUE,6769,TRUE,"MAM",5064,44,"2012-10-31T00:00:00.000Z",NA
+"5343",5857,"Bai.sp","Baiomys sp.","True, 1894",TRUE,6770,FALSE,"MAM",1524,44,"2012-11-27T00:00:00.000Z",NA
+"5344",5858,"Bai.ta","Baiomys taylori","(Thomas, 1887)",TRUE,6770,FALSE,"MAM",1524,44,"2012-11-27T00:00:00.000Z",NA
+"5356",5875,"Bla.br","Blarina brevicauda","(Say, 1823)",TRUE,6775,FALSE,"MAM",1522,44,"2012-11-28T00:00:00.000Z",NA
+"5357",5876,"Bla.ca","Blarina carolinensis","(Bachman, 1837)",TRUE,6775,FALSE,"MAM",1522,44,"2012-11-28T00:00:00.000Z",NA
+"5358",5877,"Bla.hy","Blarina hylophaga","Elliot, 1899",TRUE,6775,FALSE,"MAM",1522,44,"2012-11-28T00:00:00.000Z",NA
+"5360",5879,"Bla.sp","Blarina sp.","Gray, 1838",TRUE,6775,FALSE,"MAM",1522,44,"2012-11-28T00:00:00.000Z",NA
+"5375",5890,"Bra.id","Brachylagus idahoensis","(Merriam, 1891)",TRUE,6782,FALSE,"MAM",1520,44,"2012-10-31T00:00:00.000Z",NA
+"5385",5900,"Cal.sp","Calomys sp.","Waterhouse, 1837",TRUE,6786,FALSE,"MAM",1524,44,"2012-06-06T00:00:00.000Z",NA
+"5412",5927,"Cas.ca","Castor californicus","Kellogg, 1911",TRUE,6792,TRUE,"MAM",5062,44,"2012-11-30T00:00:00.000Z",NA
+"5413",5928,"Cas.cn","Castor canadensis","Kuhl, 1820",TRUE,6792,FALSE,"MAM",1519,44,"2012-11-30T00:00:00.000Z",NA
+"5414",5929,"Cas.sp","Castor sp.","Linnaeus, 1758",TRUE,6792,FALSE,"MAM",1519,44,"2012-11-30T00:00:00.000Z",NA
+"5415",5930,"Casdae","Castoridae","Hemprich, 1820",TRUE,6462,FALSE,"MAM",1519,44,"2012-11-30T00:00:00.000Z",NA
+"5416",5931,"Css.le","Castoroides leiseyorum","Morgan & White, 1995",TRUE,6793,TRUE,"MAM",1566,44,"2012-06-26T00:00:00.000Z",NA
+"5417",5932,"Css.oh","Castoroides ohioensis","Foster, 1838",TRUE,6793,TRUE,"MAM",1541,44,"2012-06-26T00:00:00.000Z",NA
+"5424",5947,"Cnd.cr","Condylura cristata","(Linnaeus, 1758)",TRUE,6798,FALSE,"MAM",1522,44,"2013-02-20T00:00:00.000Z",NA
+"5425",5948,"Cnd.sp","Condylura sp.","Illiger, 1811",TRUE,6798,FALSE,"MAM",1522,44,"2013-02-20T00:00:00.000Z",NA
+"5429",5952,"Cra.sp","Cratogeomys sp.","Merriam, 1895",TRUE,6800,FALSE,"MAM",1525,44,"2012-06-18T00:00:00.000Z",NA
+"5430",5953,"Crcdae","Cricetidae","Fischer, 1817",TRUE,6462,FALSE,"MAM",1524,44,"2012-07-30T00:00:00.000Z",NA
+"5431",5954,"Crp.pa","Cryptotis parva","(Say, 1823)",TRUE,6801,FALSE,"MAM",1522,44,"2012-11-28T00:00:00.000Z",NA
+"5432",5955,"Crp.sp","Cryptotis sp.","Pomel, 1848",TRUE,6801,FALSE,"MAM",1522,44,"2012-11-28T00:00:00.000Z",NA
+"5437",5960,"Cyn.gu","Cynomys gunnisoni","(Baird, 1855)",TRUE,6804,FALSE,"MAM",1530,44,"2012-08-10T00:00:00.000Z",NA
+"5438",5961,"Cyn.le","Cynomys leucurus","Merriam, 1890",TRUE,6804,FALSE,"MAM",1530,44,"2012-08-10T00:00:00.000Z",NA
+"5439",5962,"Cyn.lu","Cynomys ludovicianus","Ord, 1815",TRUE,6804,FALSE,"MAM",1530,44,"2012-08-10T00:00:00.000Z",NA
+"5440",5963,"Cyn.sp","Cynomys sp.","Rafinesque, 1817",TRUE,6804,FALSE,"MAM",1530,44,"2012-08-10T00:00:00.000Z",NA
+"5441",5964,"Cyn.pa","Cynomys parvidens","J.A. Allen, 1905",TRUE,6804,FALSE,"MAM",1530,44,"2012-08-10T00:00:00.000Z",NA
+"5443",5966,"Das.be","Dasypus bellus",NA,TRUE,6806,FALSE,"MAM",1541,NA,NA,NA
+"5444",5967,"Das.no","Dasypus novemcinctus",NA,TRUE,6806,FALSE,"MAM",1513,NA,NA,NA
+"5445",5968,"Das.sp","Dasypus sp.",NA,TRUE,6806,FALSE,"MAM",1513,NA,NA,NA
+"5451",5974,"Dcx.gr","Dicrostonyx groenlandicus","(Traill, 1823)",TRUE,6710,FALSE,"MAM",1524,44,"2012-11-07T00:00:00.000Z",NA
+"5452",5975,"Dcx.hu","Dicrostonyx hudsonius","(Pallas, 1778)",TRUE,6710,FALSE,"MAM",1524,44,"2012-11-07T00:00:00.000Z",NA
+"5453",5976,"Dcx.sp","Dicrostonyx sp.","Gloger, 1841",TRUE,6710,FALSE,"MAM",1524,44,"2012-11-07T00:00:00.000Z",NA
+"5457",5977,"Dcx.to","Dicrostonyx torquatus","(Pallas, 1778)",TRUE,6710,FALSE,"MAM",1524,44,"2012-11-07T00:00:00.000Z","According to Musser & Carleton (in Wilson & Reeder, 2005), Dicrostonyx torquatus was ""once believed to encompass most or all New World populations...but karyotypic and breeding evidence...supports strict application of D. torquatus for only Eurasian populations."" Thus, D. torquatus identified from North American sites is probably another species. Fulton et al. (2013, Molecular Ecology) used aDNA to indentify D.richardsoni from two sites in South Dakota and Iowa. The specimens from the Iowa site were previously assigned to D. torquatus. [E.C. Grimm, 1 Apr 2013]
+"
+"5458",5978,"Diddae","Didelphidae",NA,TRUE,6712,FALSE,"MAM",1514,NA,NA,NA
+"5459",5979,"Did.sp","Didelphis sp.",NA,TRUE,6713,TRUE,"MAM",1514,NA,NA,NA
+"5460",5980,"Did.ma","Didelphis marsupialis",NA,TRUE,6713,FALSE,"MAM",1514,NA,NA,NA
+"5461",5981,"Did.vi","Didelphis virginiana",NA,TRUE,6713,FALSE,"MAM",1514,NA,NA,NA
+"5467",5987,"Dip.ag","Dipodomys agilis","Gambel, 1848",TRUE,6717,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"5468",5988,"Dip.ca","Dipodomys californicus","Merriam, 1890",TRUE,6717,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"5469",5989,"Dip.co","Dipodomys compactus","True, 1889",TRUE,6717,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"5470",5990,"Dip.de","Dipodomys deserti","Stephens, 1887",TRUE,6717,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"5471",5991,"Dip.el","Dipodomys elator","Merriam, 1894",TRUE,6717,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"5473",5993,"Dip.he","Dipodomys heermanni","LeConte, 1853",TRUE,6717,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"5474",5994,"Dip.hi","Dipodomys hibbardi","Zakrzewski, 1981",TRUE,6717,TRUE,"MAM",1572,44,"2012-08-17T00:00:00.000Z",NA
+"5475",5995,"Dip.in","Dipodomys ingens","(Merriam, 1904)",TRUE,6717,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"5476",5996,"Dip.me","Dipodomys merriami","Mearns, 1890",TRUE,6717,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"5477",5997,"Dip.mi","Dipodomys microps","(Merriam, 1904)",TRUE,6717,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"5480",5999,"Dip.ni","Dipodomys nitratoides","Merriam, 1894",TRUE,6717,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"5481",6000,"Dip.or","Dipodomys ordii","Woodhouse, 1853",TRUE,6717,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"5482",6001,"Dip.pa","Dipodomys panamintinus","(Merriam, 1894)",TRUE,6717,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"5483",6002,"Dip.sp","Dipodomys sp.","Gray, 1841",TRUE,6717,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"5484",6003,"Dip.de/sp","Dipodomys deserti/D. spectabilis","Stephens, 1887|Merriam, 1890",TRUE,6717,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"5485",6004,"Dip.ss","Dipodomys spectabilis","Merriam, 1890",TRUE,6717,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"5486",6005,"Dip.st","Dipodomys stephensi","(Merriam, 1907)",TRUE,6717,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"5487",6006,"Dip.ve","Dipodomys venustus","(Merriam, 1904)",TRUE,6717,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"5529",6046,"Erz.po","Erethizon poyeri","Hulbert, 1997",TRUE,6727,TRUE,"MAM",5067,44,"2012-05-25T00:00:00.000Z",NA
+"5530",6047,"Erz.do","Erethizon dorsata","(Linnaeus, 1758)",TRUE,6727,FALSE,"MAM",1531,44,"2012-11-09T00:00:00.000Z",NA
+"5532",6049,"Erz.sp","Erethizon sp.","F. Cuvier, 1823",TRUE,6727,FALSE,"MAM",1531,44,"2012-05-25T00:00:00.000Z",NA
+"5533",6050,"Erzdae","Erethizontidae","Bonaparte, 1845",TRUE,6462,FALSE,"MAM",1531,44,"2012-11-09T00:00:00.000Z",NA
+"5541",6062,"Eut.sp","Eutamias sp.",NA,TRUE,6733,FALSE,"MAM",1530,44,"2012-05-25T00:00:00.000Z","Based on molecular phylogeny, Piaggio and Spicer (2001) argue that Tamias should be divided into three genera: Eutamias, which includes only Eutamias sibiricus (northern Eurasia); Tamias, which includes only Tamias striatus (eastern North America); and Neotamias, which includes all other species (western North American and Mexico). Thorington & Hoffmann (in Wilson & Reeder, 2005), follow Piaggio and Spicer (2001), but place the three groups as subgenera of Tamias. According to the molecular evidence, the western North American species Tamias minimus (recognized as Eutamias minimus by Kurten and Anderson 1980) is closely related to other western North American chipmunks and should be grouped with them, whether in Tamias or Neotamias. Thus, all species in North America recognized as Eutamias should be referred to Tamias. [ECG, 1 Apr 2013]"
+"5553",6078,"Geodae","Geomyidae","Bonaparte, 1845",TRUE,6462,FALSE,"MAM",1525,44,"2012-06-18T00:00:00.000Z",NA
+"5554",6079,"Geo.an","Geomys anzensis","Becker and White, 1981",TRUE,6753,TRUE,"MAM",5063,44,"2012-06-15T00:00:00.000Z",NA
+"5555",6080,"Geo.ar","Geomys arenarius","Merriam, 1895",TRUE,6956,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"5556",6081,"Geo.bu","Geomys bursarius","(Shaw, 1800)",TRUE,6956,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"5557",6082,"Geo.ga","Geomys garbanii","White and Downs, 1961",TRUE,6753,TRUE,"MAM",5063,44,"2012-06-15T00:00:00.000Z",NA
+"5558",6083,"Geo.pa","Geomys paenebursarius","Strain, 1966",TRUE,6753,TRUE,"MAM",5063,44,"2012-06-15T00:00:00.000Z",NA
+"5559",6084,"Geo.pe","Geomys personatus","True, 1889",TRUE,6956,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"5560",6085,"Geo.pi","Geomys pinetis","Rafinesque, 1817",TRUE,6956,FALSE,"MAM",1525,44,"2012-06-15T00:00:00.000Z",NA
+"5561",6086,"Geo.sp","Geomys sp.","Rafinesque, 1817",TRUE,6752,FALSE,"MAM",1525,44,"2012-06-15T00:00:00.000Z",NA
+"5562",6087,"Geo.to","Geomys tobinensis","(Hibbard, 1944)",TRUE,6956,TRUE,"MAM",5063,44,"2012-06-15T00:00:00.000Z",NA
+"5564",6089,"Gla.sa","Glaucomys sabrinus","(Shaw, 1801)",TRUE,6813,FALSE,"MAM",1530,44,"2012-11-01T00:00:00.000Z",NA
+"5565",6090,"Gla.sp","Glaucomys sp.","Thomas, 1908",TRUE,6813,FALSE,"MAM",1530,44,"2012-11-01T00:00:00.000Z",NA
+"5566",6091,"Gla.vo","Glaucomys volans","(Linnaeus, 1758)",TRUE,6813,FALSE,"MAM",1530,44,"2012-11-01T00:00:00.000Z",NA
+"5584",6159,"Lep.sp","Lepus sp.","Linnaeus, 1758",TRUE,6840,FALSE,"MAM",1520,44,"2012-09-27T00:00:00.000Z",NA
+"5585",6160,"Lep.ti","Lepus timidus","Linnaeus, 1758",TRUE,6840,FALSE,"MAM",1520,44,"2012-09-27T00:00:00.000Z",NA
+"5588",6113,"Hetdae","Heteromyidae","Gray, 1868",TRUE,6462,FALSE,"MAM",1526,44,"2012-05-25T00:00:00.000Z",NA
+"5595",6120,"Hpl.sp","Hypolagus sp.","Dice, 1917",TRUE,6826,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"5596",6121,"Hpl.ri","Hypolagus ringoldensis","Gustafson, 1978",TRUE,6826,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z","See also Gustafson (1978) and White and Morgan (1995). [ECG, 23 May 2012]"
+"5597",6122,"Hpl.ed","Hypolagus edensis","Frick, 1921",TRUE,6826,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"5598",6123,"Hpl.fu","Hypolagus furlongi","Gazin, 1934",TRUE,6826,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"5599",6124,"Hpl.gi","Hypolagus gidleyi","White, 1987",TRUE,6826,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"5600",6125,"Hpl.ve","Hypolagus vetus","(Kellogg, 1910)",TRUE,6826,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"5602",6127,"Hyd.sp.","Hydrochoerus sp.",NA,TRUE,6827,FALSE,"MAM",1531,NA,NA,"Sometimes spelled ""Hydrochaeris""; however, ""Hydrochoerus"" is the correct spelling (Woods and Kilpatrick 2005). [ECG, 25 Jul 2007]"
+"5603",6128,"Hyd.ho","Hydrochoerus holmesi",NA,TRUE,6827,TRUE,"MAM",1541,NA,NA,"=Neochoerus aesopi (see PBDB)."
+"5610",6136,"Lgopha","Lagomorpha","Brandt, 1855",TRUE,6171,FALSE,"MAM",1520,44,"2012-09-27T00:00:00.000Z",NA
+"5611",6137,"Lag.sp","Lagurus sp.","Gloger, 1841",TRUE,6832,FALSE,"MAM",1524,44,"2012-12-14T00:00:00.000Z","In North America, Lagurus = Lemmiscus. However, Lagurus is a valid genus, and Lagurus is extant  in Europe (Musser and Carleton 2005). [ECG, 21 Jul 2007]"
+"5614",6140,"Lss.de","Lasiopodomys deceitensis","(Guthrie & Matthews, 1971)",TRUE,6836,TRUE,"MAM",1597,44,"2012-07-20T00:00:00.000Z","See also Repenning (1992) and Bell and Barnosky (2000)."
+"5622",6148,"Lem.si","Lemmus sibiricus","(Kerr, 1792)",TRUE,6838,FALSE,"MAM",1524,44,"2013-01-31T00:00:00.000Z",NA
+"5623",6149,"Lem.sp","Lemmus sp.","Link, 1795",TRUE,6838,FALSE,"MAM",1524,44,"2013-01-31T00:00:00.000Z",NA
+"5625",6151,"Lepdae","Leporidae","Fischer, 1817",TRUE,6136,FALSE,"MAM",1520,44,"2012-06-06T00:00:00.000Z",NA
+"5628",6154,"Lep.al","Lepus alleni","Mearns, 1890",TRUE,6840,FALSE,"MAM",1520,44,"2012-09-27T00:00:00.000Z",NA
+"5629",6155,"Lep.am","Lepus americanus","Erxleben, 1777",TRUE,6840,FALSE,"MAM",1520,44,"2012-09-27T00:00:00.000Z",NA
+"5630",6156,"Lep.ca","Lepus californicus","Gray, 1837",TRUE,6840,FALSE,"MAM",1520,44,"2012-09-27T00:00:00.000Z",NA
+"5631",6157,"Lep.cl","Lepus callotis","Wagler, 1830",TRUE,6840,FALSE,"MAM",1520,44,"2012-09-27T00:00:00.000Z",NA
+"5632",6158,"Lep.eu","Lepus europaeus","Pallas, 1778",TRUE,6840,FALSE,"MAM",1520,44,"2012-09-27T00:00:00.000Z",NA
+"5633",6161,"Lep.to","Lepus townsendii","Bachman, 1839",TRUE,6840,FALSE,"MAM",1520,44,"2012-09-27T00:00:00.000Z",NA
+"5634",6162,"Lio.ir","Liomys irroratus","(Gray, 1868)",TRUE,6841,FALSE,"MAM",1526,44,"2012-11-08T00:00:00.000Z",NA
+"5635",6163,"Lio.sp","Liomys sp.","Merriam, 1902",TRUE,6841,FALSE,"MAM",1526,44,"2012-11-08T00:00:00.000Z",NA
+"5654",6182,"Mar.ca","Marmota caligata","(Eschscholtz, 1829)",TRUE,6849,FALSE,"MAM",1530,44,"2013-01-30T00:00:00.000Z",NA
+"5655",6183,"Mar.fl","Marmota flaviventris","(Audubon & Bachman, 1841)",TRUE,6849,FALSE,"MAM",1530,44,"2013-01-30T00:00:00.000Z",NA
+"5656",6184,"Mar.mo","Marmota monax","(Linnaeus, 1758)",TRUE,6849,FALSE,"MAM",1530,44,"2013-01-30T00:00:00.000Z",NA
+"5657",6185,"Mar.ol","Marmota olympus","(Merriam, 1898)",TRUE,6849,FALSE,"MAM",1530,44,"2013-01-30T00:00:00.000Z",NA
+"5658",6186,"Mar.sp","Marmota sp.","Blumenbach, 1779",TRUE,6849,FALSE,"MAM",1530,44,"2013-01-30T00:00:00.000Z",NA
+"5659",6187,"Mar.va","Marmota vancouverensis","Swarth, 1911",TRUE,6849,FALSE,"MAM",1530,44,"2013-01-30T00:00:00.000Z",NA
+"5668",6202,"Mdp.me","Microdipodops megacephalus",NA,TRUE,6852,FALSE,"MAM",1526,NA,NA,NA
+"5669",6203,"Mdp.pa","Microdipodops pallidus",NA,TRUE,6852,FALSE,"MAM",1526,NA,NA,NA
+"5670",6204,"Mdp.sp","Microdipodops sp.",NA,TRUE,6852,FALSE,"MAM",1526,NA,NA,NA
+"5671",6205,"Mic.au","Microtus australis","Martin, 1995",TRUE,7473,TRUE,"MAM",1605,44,"2012-12-04T00:00:00.000Z",NA
+"5672",6206,"Mic.ab","Microtus abbreviatus","Miller, 1899",TRUE,6853,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"5673",6207,"Mic.ca","Microtus californicus","(Peale, 1848)",TRUE,6853,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"5674",6208,"Mic.ch","Microtus chrotorrhinus","(Miller, 1894)",TRUE,6853,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"5676",6210,"Mic.ll","Microtus llanensis","Hibbard, 1944",TRUE,7473,TRUE,"MAM",1605,44,"2012-06-27T00:00:00.000Z","Microtus llanensis is an early form of M. ochrogaster in a phyletic sequence (Martin 1995) [ECG, 23 Jul 2007]"
+"5677",6211,"Mic.lo","Microtus longicaudus","(Merriam, 1888)",TRUE,6853,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"5678",6212,"Mic.lo/mn","Microtus longicaudus/M. montanus","(Merriam, 1888)|(Peale, 1848)",TRUE,6853,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"5681",6215,"Mic.mx","Microtus mexicanus","(Saussure, 1861)",TRUE,6853,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"5682",6216,"Mic.mi","Microtus miurus","Osgood, 1901",TRUE,6853,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"5683",6217,"Mic.mn","Microtus montanus","(Peale, 1848)",TRUE,7472,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"5684",6218,"Mic.oc","Microtus ochrogaster","(Wagner, 1842)",TRUE,7473,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"5685",6219,"Mic.oc/pt","Microtus ochrogaster/M. pinetorum","(Wagner, 1842)|(Le Conte, 1830)",TRUE,6853,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"5686",6220,"Mic.oe","Microtus oeconomus","(Pallas, 1776)",TRUE,7475,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"5687",6221,"Mic.or","Microtus oregoni","(Bachman, 1839)",TRUE,7472,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"5688",6222,"Mic.pa","Microtus paroperarius","Hibbard, 1944",TRUE,6853,TRUE,"MAM",1607,44,"2012-12-04T00:00:00.000Z",NA
+"5689",6223,"Mic.pn","Microtus pennsylvanicus","(Ord, 1815)",TRUE,7472,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"5691",6224,"Mic.pt","Microtus pinetorum","(Le Conte, 1830)",TRUE,7474,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"5692",6225,"Mic.ri","Microtus richardsoni","(DeKay, 1842)",TRUE,6853,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"5693",6226,"Mic.sp","Microtus sp.","Schrank, 1798",TRUE,6853,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"5694",6227,"Mic.to","Microtus townsendii","(Bachman, 1839)",TRUE,7472,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"5695",6228,"Mic.xa","Microtus xanthognathus","(Leach, 1815)",TRUE,6853,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"5701",6237,"Oph.pn","Ophiomys panacaensis","(Mou, 1997)",TRUE,13409,TRUE,"MAM",5069,6706,"2017-10-30T00:00:00.000Z",NA
+"5702",6239,"Mim.vi","Mimomys virginianus","Repenning & Grady, 1988",TRUE,6860,TRUE,"MAM",1597,44,"2012-07-30T00:00:00.000Z",NA
+"5707",6244,"Murdae","Muridae",NA,TRUE,6462,FALSE,"MAM",1524,NA,NA,"Muridae is a problematic taxon, and individual reports must be consulted to determine the universe of species included. McKenna and Bell (1997) include all the ""muroid"" rodents in the Muridae; whereas Musser and Carleton (2005) place the muroids in the superfamily Muroidea and limit the Muridae to a much smaller group of Old World true mice, rats, gerbils, and hamsters. Inasmuch as the Muridae of Musser and Carleton (2005) is Old World, ""Muridae"" in New World sites probably refers to the muroid rodents in the broad sense. [ECG, 24 Jul 2007]"
+"5708",6245,"Mus.mu","Mus musculus",NA,TRUE,6862,FALSE,"MAM",1524,NA,NA,NA
+"5709",6246,"Mus.sp","Mus sp.",NA,TRUE,6862,FALSE,"MAM",1524,NA,NA,NA
+"5743",6282,"Npz.in","Napaeozapus insignis","(Miller, 1891)",TRUE,6871,FALSE,"MAM",1521,44,"2013-02-20T00:00:00.000Z",NA
+"5744",6283,"Npz.sp","Napaeozapus sp.","Preble, 1899",TRUE,6871,FALSE,"MAM",1521,44,"2013-02-20T00:00:00.000Z",NA
+"5748",6288,"Nch.pi","Neochoerus pinckneyi","(Hay, 1923)",TRUE,6876,TRUE,"MAM",5067,44,"2012-05-25T00:00:00.000Z",NA
+"5749",6289,"Nch.sp","Neochoerus sp.","Hay, 1926",TRUE,6876,TRUE,"MAM",5067,44,"2012-05-25T00:00:00.000Z",NA
+"5750",6290,"Nfb.al","Neofiber alleni",NA,TRUE,6879,FALSE,"MAM",1524,NA,NA,NA
+"5751",6291,"Nfb.sp","Neofiber sp.",NA,TRUE,6879,FALSE,"MAM",1524,NA,NA,NA
+"5752",6292,"Nfb.le","Neofiber leonardi","Hibbard, 1943",TRUE,6879,TRUE,"MAM",1541,44,"2012-05-25T00:00:00.000Z",NA
+"5753",6293,"Nkl.sp","Nekrolagus sp.","Hibbard, 1939",TRUE,6880,TRUE,"MAM",1534,44,"2012-10-31T00:00:00.000Z",NA
+"5754",6294,"Ntm.al","Neotoma albigula","Hartley, 1894",TRUE,7003,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"5755",6295,"Ntm.ci","Neotoma cinerea","(Ord, 1815)",TRUE,7004,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"5756",6296,"Ntm.fi","Neotoma findleyi","Harris, 1984",TRUE,6881,TRUE,"MAM",1543,NA,NA,"Subgenus not assigned. According to Harris (1984), N. findleyi seems to be allied with N. cinerea (subg. Teonoma) or N. mexicana (subg. Neotoma). However, Zakrzewski (1993) argues agains the N. cinerea relationship. [ECG, 6 Aug 2007]"
+"5757",6297,"Ntm.fl","Neotoma floridana","(Ord, 1818)",TRUE,7003,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"5758",6298,"Ntm.fu","Neotoma fuscipes","Baird, 1857",TRUE,7003,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"5759",6299,"Ntm.go","Neotoma goldmani","Merriam, 1903",TRUE,7003,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"5760",6300,"Ntm.le","Neotoma lepida","Thomas, 1893",TRUE,7003,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"5761",6301,"Ntm.mx","Neotoma mexicana","Baird, 1855",TRUE,7003,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"5762",6302,"Ntm.mi","Neotoma micropus","Baird, 1855",TRUE,7003,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"5763",6303,"Ntm.py","Neotoma pygmaea","Harris, 1984",TRUE,6881,TRUE,"MAM",1543,44,"2012-08-03T00:00:00.000Z","Subgenus not assigned. However, Harris (1984) probably ancestral to N. goldmani, which is subgenus Neotoma. [ECG, 6 Aug 2007]"
+"5764",6304,"Ntm.sp","Neotoma sp.","Say and Ord, 1825",TRUE,6881,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"5765",6305,"Ntm.sl","Neotoma spelaea","Gidley & Gazin, 1933",TRUE,6881,TRUE,"MAM",1541,44,"2012-08-03T00:00:00.000Z","Subgenus not assigned. [ECG, 7 Aug 2007]"
+"5766",6306,"Ntm.st","Neotoma stephensi","Goldman, 1905",TRUE,7003,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"5767",6307,"Neu.gi","Neurotrichus gibbsii",NA,TRUE,6883,FALSE,"MAM",1522,NA,NA,NA
+"5768",6308,"Neu.sp","Neurotrichus sp.",NA,TRUE,6883,FALSE,"MAM",1522,NA,NA,NA
+"5772",6312,"Nsx.cr","Notiosorex crawfordi","Baird, in Coues, 1877",TRUE,6885,FALSE,"MAM",1522,44,"2012-07-24T00:00:00.000Z",NA
+"5773",6313,"Nsx.ja","Notiosorex jacksoni","Hibbard, 1950",TRUE,6885,TRUE,"MAM",1541,44,"2012-07-24T00:00:00.000Z",NA
+"5774",6314,"Nsx.sp","Notiosorex sp.","Baird, in Coues, 1877",TRUE,6885,FALSE,"MAM",1522,44,"2012-07-24T00:00:00.000Z",NA
+"5780",6319,"Och.co","Ochotona collaris","(Nelson, 1893)",TRUE,6888,FALSE,"MAM",1520,44,"2012-11-02T00:00:00.000Z",NA
+"5781",6320,"Och.pr","Ochotona princeps","(Richardson, 1828)",TRUE,6888,FALSE,"MAM",1520,44,"2012-11-02T00:00:00.000Z",NA
+"5782",6321,"Och.sp","Ochotona sp.","Link, 1795",TRUE,6888,FALSE,"MAM",1520,44,"2012-11-02T00:00:00.000Z",NA
+"5783",6322,"Ochdae","Ochotonidae","Thomas, 1897",TRUE,6136,FALSE,"MAM",1520,44,"2012-11-16T00:00:00.000Z",NA
+"5784",6323,"Ocm.nu","Ochrotomys nuttalli",NA,TRUE,6889,FALSE,"MAM",1524,NA,NA,NA
+"5785",6324,"Ocm.sp","Ochrotomys sp.",NA,TRUE,6889,FALSE,"MAM",1524,NA,NA,NA
+"5786",6325,"Ony.le","Onychomys leucogaster","(Wied-Neuwied, 1841)",TRUE,6890,FALSE,"MAM",1524,44,"2012-11-27T00:00:00.000Z",NA
+"5787",6326,"Ony.sp","Onychomys sp.","Baird, 1858",TRUE,6890,FALSE,"MAM",1524,44,"2012-11-27T00:00:00.000Z",NA
+"5794",6333,"Ond.sp","Ondatra sp.","Link, 1795",TRUE,6894,FALSE,"MAM",1524,44,"2012-08-02T00:00:00.000Z",NA
+"5795",6334,"Ond.zi","Ondatra zibethicus","Linnaeus, 1766",TRUE,6894,FALSE,"MAM",1524,44,"2012-08-02T00:00:00.000Z",NA
+"5796",6335,"Ond.zi/an","Ondatra zibethicus /annectens","(Brown, 1908)",TRUE,6334,TRUE,"MAM",1616,44,"2012-08-02T00:00:00.000Z",NA
+"5797",6336,"Ond.zi/id","Ondatra zibethicus /idahoensis","(Wilson, 1933)",TRUE,6334,TRUE,"MAM",1616,44,"2012-08-02T00:00:00.000Z",NA
+"5798",6338,"Ony.pe","Onychomys pedroensis","Gidley, 1922",TRUE,6890,TRUE,"MAM",5071,44,"2012-11-27T00:00:00.000Z",NA
+"5799",6339,"Ony.to","Onychomys torridus","(Coues, 1874)",TRUE,6890,FALSE,"MAM",1524,44,"2012-11-27T00:00:00.000Z",NA
+"5803",6344,"Orz.pa","Oryzomys palustris","(Harlan, 1837)",TRUE,6897,FALSE,"MAM",1524,44,"2013-01-25T00:00:00.000Z",NA
+"5804",6345,"Orz.sp","Oryzomys sp.","Baird, 1858",TRUE,6897,FALSE,"MAM",1524,44,"2013-01-25T00:00:00.000Z",NA
+"5813",6354,"Orl.cu","Oryctolagus cuniculus",NA,TRUE,6900,FALSE,"MAM",1520,NA,NA,NA
+"5825",6366,"Ppg.sp","Pappogeomys sp.","Merriam, 1895",TRUE,6906,FALSE,"MAM",1525,44,"2012-06-18T00:00:00.000Z",NA
+"5827",6368,"Prs.br","Parascalops breweri",NA,TRUE,6908,FALSE,"MAM",1522,NA,NA,NA
+"5828",6369,"Prs.sp","Parascalops sp.",NA,TRUE,6908,FALSE,"MAM",1522,NA,NA,NA
+"5829",6371,"Prg.al","Perognathus alticolus","Rhoads, 1894",TRUE,6910,FALSE,"MAM",1526,44,"2012-08-06T00:00:00.000Z",NA
+"5830",6372,"Prg.am","Perognathus amplus","Osgood, 1900",TRUE,6910,FALSE,"MAM",1526,44,"2012-08-06T00:00:00.000Z",NA
+"5834",6376,"Prg.fs","Perognathus fasciatus","Wied-Neuwied, 1839",TRUE,6910,FALSE,"MAM",1526,44,"2012-08-06T00:00:00.000Z",NA
+"5835",6377,"Prg.fl","Perognathus flavescens","Merriam, 1889",TRUE,6910,FALSE,"MAM",1526,44,"2012-08-06T00:00:00.000Z",NA
+"5836",6378,"Prg.fv","Perognathus flavus","Baird, 1855",TRUE,6910,FALSE,"MAM",1526,44,"2012-08-06T00:00:00.000Z",NA
+"5839",6381,"Prg.in","Perognathus inornatus","Merriam, 1889",TRUE,6910,FALSE,"MAM",1526,44,"2012-08-06T00:00:00.000Z",NA
+"5841",6383,"Prg.lo","Perognathus longimembris","(Coues, 1875)",TRUE,6910,FALSE,"MAM",1526,44,"2012-08-06T00:00:00.000Z",NA
+"5842",6384,"Prg.me","Perognathus merriami","J.A. Allen, 1892",TRUE,6910,FALSE,"MAM",1526,44,"2012-08-06T00:00:00.000Z",NA
+"5844",6386,"Prg.pa","Perognathus parvus","(Peale, 1848)",TRUE,6910,FALSE,"MAM",1526,44,"2012-08-06T00:00:00.000Z",NA
+"5846",6388,"Prg.sp","Perognathus sp.","Wied-Neuwied, 1839",TRUE,6910,FALSE,"MAM",1526,44,"2015-03-21T00:00:00.000Z","Inasmuch as modern taxonomic treatments have split Perognathus into Perognathus and Chaetodipus, Perognathus sp. in many paleontolgoical datasets is better treated as  Perognathinae sp. [ECG, 26 Jul 2007]"
+"5849",6391,"Per.an","Peromyscus anyapahensis","White, 1966",TRUE,6912,TRUE,"MAM",1541,44,"2012-08-17T00:00:00.000Z",NA
+"5850",6392,"Per.at","Peromyscus attwateri","J.A. Allen, 1895",TRUE,6912,FALSE,"MAM",1524,44,"2012-08-17T00:00:00.000Z",NA
+"5851",6393,"Per.bo","Peromyscus boylii","(Baird, 1855)",TRUE,6912,FALSE,"MAM",1524,44,"2012-08-17T00:00:00.000Z",NA
+"5852",6394,"Per.ca","Peromyscus californicus","(Gambel, 1848)",TRUE,6912,FALSE,"MAM",1524,44,"2012-08-17T00:00:00.000Z",NA
+"5853",6395,"Per.co","Peromyscus cochrani","Hibbard, 1955",TRUE,6912,TRUE,"MAM",1541,44,"2012-08-16T00:00:00.000Z",NA
+"5854",6396,"Per.cg","Peromyscus cragini","Hibbard, 1944",TRUE,6912,TRUE,"MAM",5071,44,"2012-08-16T00:00:00.000Z",NA
+"5855",6397,"Per.cn","Peromyscus crinitus","(Merriam, 1891)",TRUE,6912,FALSE,"MAM",1524,44,"2012-08-17T00:00:00.000Z",NA
+"5856",6398,"Per.cu","Peromyscus cumberlandensis","Guilday & Handley, 1967",TRUE,6912,TRUE,"MAM",1541,44,"2012-08-17T00:00:00.000Z",NA
+"5857",6399,"Per.di","Peromyscus difficilis","(J.A. Allen, 1891)",TRUE,6912,FALSE,"MAM",1524,44,"2012-08-17T00:00:00.000Z",NA
+"5858",6400,"Per.er","Peromyscus eremicus","(Baird, 1858)",TRUE,6912,FALSE,"MAM",1524,44,"2012-08-17T00:00:00.000Z",NA
+"5859",6401,"Per.go","Peromyscus gossypinus","(LeConte, 1853)",TRUE,6912,FALSE,"MAM",1524,44,"2012-08-17T00:00:00.000Z",NA
+"5860",6402,"Per.im","Peromyscus imperfectus","Dice, 1925",TRUE,6912,TRUE,"MAM",1541,44,"2012-08-17T00:00:00.000Z",NA
+"5861",6403,"Per.le","Peromyscus leucopus","(Rafinesque, 1818)",TRUE,6912,FALSE,"MAM",1524,44,"2012-08-14T00:00:00.000Z",NA
+"5862",6404,"Per.le/ma","Peromyscus leucopus/P. maniculatus","(Rafinesque, 1818)|(Wagner, 1845)",TRUE,6912,FALSE,"MAM",1524,44,"2012-08-14T00:00:00.000Z",NA
+"5863",6405,"Per.ma","Peromyscus maniculatus","(Wagner, 1845)",TRUE,6912,FALSE,"MAM",1524,44,"2012-08-14T00:00:00.000Z",NA
+"5864",6406,"Per.me","Peromyscus merriami","Mearns, 1896",TRUE,6912,FALSE,"MAM",1524,44,"2012-08-16T00:00:00.000Z",NA
+"5865",6407,"Per.ne","Peromyscus nesodytes","Wilson, 1936",TRUE,6912,TRUE,"MAM",1541,44,"2012-08-17T00:00:00.000Z",NA
+"5867",6409,"Per.pe","Peromyscus pectoralis","Osgood, 1904",TRUE,6912,FALSE,"MAM",1524,44,"2012-08-17T00:00:00.000Z",NA
+"5868",6410,"Per.po","Peromyscus polionotus","(Wagner, 1843)",TRUE,6912,FALSE,"MAM",1524,44,"2012-08-17T00:00:00.000Z","See also Ruez (2001). [ECG, 30 Jul 2007]"
+"5869",6411,"Per.pr","Peromyscus progressus","Hibbard, 1960",TRUE,6912,TRUE,"MAM",1541,44,"2012-08-16T00:00:00.000Z",NA
+"5871",6413,"Per.sp","Peromyscus sp.","Gloger, 1841",TRUE,6912,FALSE,"MAM",1524,44,"2012-08-17T00:00:00.000Z",NA
+"5872",6414,"Per.tr","Peromyscus truei","(Shufeldt, 1885)",TRUE,6912,FALSE,"MAM",1524,44,"2012-08-17T00:00:00.000Z",NA
+"5873",6415,"Pwl.da","Pewelagus dawsonae",NA,TRUE,6918,TRUE,"MAM",1618,NA,NA,NA
+"5876",6418,"Phn.in","Phenacomys intermedius","Merriam, 1889",TRUE,6919,FALSE,"MAM",1524,44,"2012-08-02T00:00:00.000Z",NA
+"5878",6420,"Phn.sp","Phenacomys sp.","Merriam, 1889",TRUE,6923,FALSE,"MAM",1524,NA,NA,"Because of disagreement as to whether some arvicoline species should be placed in Phenacomys or Arborimus (see description of Arborimus in Musser and Carleton 2005), species identified as Phenacomys sp. in the fossil record could be either Phenacomys or Arborimus as defined by Musser and Carleton. Thus, Phenacomys sp. is better treated as Phenacomys/Arborimus sp. [ECG, 27 Jul 2007]"
+"5902",6445,"Ond.zi/mi","Ondatra zibethicus /minor","(Wilson, 1933)",TRUE,6334,TRUE,"MAM",1541,44,"2012-08-02T00:00:00.000Z",NA
+"5903",6446,"Pod.sp","Podomys sp.","Osgood, 1909",TRUE,6913,FALSE,"MAM",1524,44,"2012-08-16T00:00:00.000Z",NA
+"5904",6447,"Pod.fl","Podomys floridanus","(Chapman, 1889)",TRUE,6913,FALSE,"MAM",1524,44,"2012-08-13T00:00:00.000Z",NA
+"5906",6449,"Pcs.id","Procastoroides idahoensis","Shotwell, 1970",TRUE,6945,TRUE,"MAM",1541,44,"2012-06-26T00:00:00.000Z",NA
+"5913",6456,"Prd.ce","Prodipodomys centralis","(Hibbard, 1941)",TRUE,6719,TRUE,"MAM",5063,44,"2012-05-25T00:00:00.000Z",NA
+"5914",6457,"Prd.sp","Prodipodomys sp.","Hibbard, 1939",TRUE,6719,TRUE,"MAM",5063,44,"2012-05-30T00:00:00.000Z",NA
+"5919",6462,"Rodtia","Rodentia","Bowdich, 1821",TRUE,6171,FALSE,"MAM",1512,44,"2012-07-30T00:00:00.000Z",NA
+"5923",6466,"Rat.no","Rattus norvegicus",NA,TRUE,6953,FALSE,"MAM",1524,NA,NA,NA
+"5924",6467,"Rat.ra","Rattus rattus",NA,TRUE,6953,FALSE,"MAM",1524,NA,NA,NA
+"5925",6468,"Rat.sp","Rattus sp.",NA,TRUE,6953,FALSE,"MAM",1524,NA,NA,NA
+"5926",6469,"Rei.fu","Reithrodontomys fulvescens","J.A. Allen, 1894",TRUE,6954,FALSE,"MAM",1524,44,"2012-12-11T00:00:00.000Z",NA
+"5927",6470,"Rei.hu","Reithrodontomys humulis","(Audubon & Bachman, 1841)",TRUE,6954,FALSE,"MAM",1524,44,"2012-12-11T00:00:00.000Z","See also Ruez (2001). [ECG, 30 Jul 2007]"
+"5928",6471,"Rei.me","Reithrodontomys megalotis","(Baird, 1858)",TRUE,6954,FALSE,"MAM",1524,44,"2012-12-11T00:00:00.000Z",NA
+"5929",6472,"Rei.mr","Reithrodontomys moorei","(Hibbard, 1944)",TRUE,6954,TRUE,"MAM",1622,44,"2012-12-11T00:00:00.000Z",NA
+"5930",6473,"Rei.mn","Reithrodontomys montanus","(Baird, 1855)",TRUE,6954,FALSE,"MAM",1524,44,"2012-12-11T00:00:00.000Z",NA
+"5931",6474,"Rei.ra","Reithrodontomys raviventris","Dixon, 1908",TRUE,6954,FALSE,"MAM",1524,44,"2012-12-11T00:00:00.000Z",NA
+"5932",6475,"Rei.sp","Reithrodontomys sp.","Giglioli, 1874",TRUE,6954,FALSE,"MAM",1524,44,"2012-12-11T00:00:00.000Z",NA
+"5933",6476,"Rpm.sp","Repomys sp.","May, 1981",TRUE,6955,FALSE,"MAM",5071,44,"2013-01-18T00:00:00.000Z",NA
+"5937",6480,"Scl.aq","Scalopus aquaticus","(Linnaeus, 1758)",TRUE,6958,FALSE,"MAM",1522,44,"2012-11-13T00:00:00.000Z",NA
+"5938",6481,"Scl.sp","Scalopus sp.","É. Geoffroy Saint-Hilaire, 1803",TRUE,6958,FALSE,"MAM",1522,44,"2012-11-13T00:00:00.000Z",NA
+"5939",6482,"Scp.la","Scapanus latimanus","(Bachman, 1842)",TRUE,6959,FALSE,"MAM",1522,44,"2013-01-17T00:00:00.000Z",NA
+"5940",6483,"Scp.ma","Scapanus malatinus","Hutchison, 1987",TRUE,6959,TRUE,"MAM",1625,44,"2013-01-17T00:00:00.000Z",NA
+"5941",6484,"Scp.or","Scapanus orarius","True, 1896",TRUE,6959,FALSE,"MAM",1522,44,"2013-01-17T00:00:00.000Z",NA
+"5942",6485,"Scp.sp","Scapanus sp.","Pomel, 1848",TRUE,6959,FALSE,"MAM",1522,44,"2013-01-17T00:00:00.000Z",NA
+"5943",6486,"Scp.to","Scapanus townsendii","(Bachman, 1839)",TRUE,6959,FALSE,"MAM",1522,44,"2013-01-17T00:00:00.000Z",NA
+"5945",6488,"Scidae","Sciuridae","Hemprich, 1820",TRUE,6462,FALSE,"MAM",1530,44,"2012-11-14T00:00:00.000Z",NA
+"5946",6489,"Sci.ab","Sciurus aberti",NA,TRUE,6916,FALSE,"MAM",1530,NA,NA,NA
+"5947",6490,"Sci.ab/az","Sciurus aberti/S. arizonensis",NA,TRUE,6916,FALSE,"MAM",1530,NA,NA,NA
+"5948",6491,"Sci.al","Sciurus alleni",NA,TRUE,6916,FALSE,"MAM",1530,NA,NA,NA
+"5949",6492,"Sci.az","Sciurus arizonensis",NA,TRUE,6916,FALSE,"MAM",1530,NA,NA,NA
+"5950",6493,"Sci.ca","Sciurus carolinensis",NA,TRUE,6916,FALSE,"MAM",1530,NA,NA,NA
+"5951",6494,"Sci.gr","Sciurus griseus",NA,TRUE,6916,FALSE,"MAM",1530,NA,NA,NA
+"5952",6495,"Sci.ny","Sciurus nayaritensis",NA,TRUE,6916,FALSE,"MAM",1530,NA,NA,NA
+"5953",6496,"Sci.ng","Sciurus niger",NA,TRUE,6916,FALSE,"MAM",1530,NA,NA,NA
+"5954",6497,"Sci.sp","Sciurus sp.",NA,TRUE,6916,FALSE,"MAM",1530,NA,NA,NA
+"5955",6498,"Sig.ba","Sigmodon bakeri","Martin, 1974",TRUE,6962,TRUE,"MAM",5071,44,"2012-08-10T00:00:00.000Z",NA
+"5956",6499,"Sig.cu","Sigmodon curtisi","Gidley, 1922",TRUE,6962,TRUE,"MAM",5071,44,"2012-08-10T00:00:00.000Z","See also Peláez-Campomanes and Martin (2005). [ECG, 30 Jul 2007]"
+"5958",6500,"Sig.fu","Sigmodon fulviventer","J.A. Allen, 1889",TRUE,6962,FALSE,"MAM",1524,44,"2012-08-10T00:00:00.000Z",NA
+"5959",6501,"Sig.hi","Sigmodon hispidus","Say & Ord, 1825",TRUE,6962,FALSE,"MAM",1524,44,"2012-08-10T00:00:00.000Z",NA
+"5960",6502,"Sig.hu","Sigmodon hudspethensis","Strain, 1966",TRUE,6962,TRUE,"MAM",5071,44,"2012-08-10T00:00:00.000Z",NA
+"5961",6503,"Sig.lb","Sigmodon libitinus","Martin, 1979",TRUE,6962,TRUE,"MAM",5071,44,"2012-08-10T00:00:00.000Z","See also Martin (1986) and Peláez-Campomanes and Martin (2005). [ECG, 30 Jul 2007]"
+"5962",6504,"Sig.ln","Sigmodon lindsayi","Martin & Prince, 1989",TRUE,6962,TRUE,"MAM",5071,44,"2012-08-10T00:00:00.000Z",NA
+"5963",6505,"Sig.mi","Sigmodon minor","Gidley, 1922",TRUE,6962,TRUE,"MAM",5071,44,"2012-08-10T00:00:00.000Z","See also Martin (1986) and Martin, Hurt, Honey, and Peláez-Campomanes (2003), and Peláez-Campomanes and Martin (2005). Kurtén and Anderson (1980) synonymize Sigmodon minor with S. medius. However, the above authors consider these two forms as chronomorphs S. minor /minor and S. minor /medius. [ECG, 30 Jul 2005]"
+"5964",6506,"Sig.oc","Sigmodon ochrognathus","Bailey, 1902",TRUE,6962,FALSE,"MAM",1524,44,"2012-08-10T00:00:00.000Z",NA
+"5965",6507,"Sig.sp","Sigmodon sp.","Say & Ord, 1825",TRUE,6962,FALSE,"MAM",1524,44,"2012-08-10T00:00:00.000Z",NA
+"5972",6514,"Sor.ar","Sorex arcticus","Kerr, 1792",TRUE,7461,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"5973",6515,"Sor.az","Sorex arizonae","Diersing & Hoffmeister, 1977",TRUE,6965,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"5974",6516,"Sor.be","Sorex bendirii","(Merriam, 1884)",TRUE,7460,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"5975",6517,"Sor.ci","Sorex cinereus","Kerr, 1792",TRUE,7460,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"5976",6518,"Sor.cu","Sorex cudahyensis","Hibbard, 1944",TRUE,6965,TRUE,"MAM",1541,44,"2012-07-25T00:00:00.000Z",NA
+"5977",6519,"Sor.di","Sorex dispar","Batchelder, 1911",TRUE,7460,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"5979",6521,"Sor.fu","Sorex fumeus","G.M. Miller, 1895",TRUE,7460,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"5980",6522,"Sor.ga","Sorex gaspensis","Anthony & Goodwin, 1924",TRUE,7460,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"5981",6523,"Sor.ha","Sorex haydeni","Baird, 1857",TRUE,7460,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"5982",6524,"Sor.ho","Sorex hoyi","Baird, 1857",TRUE,7460,FALSE,"MAM",1522,44,"2012-07-24T00:00:00.000Z",NA
+"5984",6526,"Sor.ja","Sorex jacksoni","Hall & Gilmore, 1932",TRUE,7460,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"5985",6527,"Sor.ka","Sorex kansasensis","McMullen, 1975",TRUE,6965,TRUE,"MAM",1541,44,"2012-07-25T00:00:00.000Z",NA
+"5986",6528,"Sor.la","Sorex lacustris","Hibbard, 1944",TRUE,6965,TRUE,"MAM",1541,44,"2012-07-25T00:00:00.000Z",NA
+"5987",6529,"Sor.lo","Sorex longirostris","Bachman, 1837",TRUE,7460,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"5988",6530,"Sor.ly","Sorex lyelli","Merriam, 1902",TRUE,7460,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"5989",6531,"Sor.mg","Sorex megapalustris","Paulson, 1961",TRUE,6965,TRUE,"MAM",1541,44,"2012-07-25T00:00:00.000Z",NA
+"5990",6532,"Sor.ml","Sorex meltoni","Hibbard & Bjork, 1971",TRUE,6965,TRUE,"MAM",1541,44,"2012-07-25T00:00:00.000Z",NA
+"5991",6533,"Sor.mr","Sorex merriami","Dobson, 1890",TRUE,6965,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"5992",6534,"Sor.mo","Sorex monticolus","Merriam, 1890",TRUE,7460,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"5993",6535,"Sor.mo/va","Sorex monticolus/S. vagrans","Merriam, 1890|Baird, 1857",TRUE,7460,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"5994",6536,"Sor.na","Sorex nanus","Merriam, 1895",TRUE,7460,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"5995",6537,"Sor.or","Sorex ornatus","Merriam, 1895",TRUE,7460,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"5996",6538,"Sor.pc","Sorex pacificus","Coues, 1877",TRUE,7460,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"5997",6539,"Sor.pl","Sorex palustris","Richardson, 1828",TRUE,7460,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"5998",6540,"Sor.pr","Sorex pratensis","(Hibbard, 1944)",TRUE,6965,TRUE,"MAM",1631,44,"2012-07-25T00:00:00.000Z","Kurtén and Anderson (1980) combine as Micorsorex pratensis. According to Hutterer (2005), Microsorex is a synonym of Sorex subgenus Otisorex. [ECG, 30 Jul 2007]"
+"5999",6541,"Sor.pb","Sorex preblei","Jackson, 1922",TRUE,7460,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6000",6542,"Sor.sc","Sorex scottensis","Jammot, 1972",TRUE,6965,TRUE,"MAM",1541,44,"2012-07-25T00:00:00.000Z",NA
+"6002",6544,"Sor.sp","Sorex sp.","Linnaeus, 1758",TRUE,6965,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6003",6545,"Sor.te","Sorex tenellus","Merriam, 1895",TRUE,7460,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6004",6546,"Sor.tr","Sorex trowbridgii","Baird, 1857",TRUE,6965,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6005",6547,"Sor.tu","Sorex tundrensis","Merriam, 1900",TRUE,7461,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6006",6548,"Sor.va","Sorex vagrans","Baird, 1857",TRUE,7460,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6007",6549,"Sordae","Soricidae","G. Fischer, 1814",TRUE,6829,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6008",6550,"Spr.ar","Spermophilus armatus","Kennicott, 1863",TRUE,7512,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6009",6551,"Spr.be","Spermophilus beecheyi","(Richardson, 1829)",TRUE,7513,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6010",6552,"Spr.bl","Spermophilus beldingi","Merriam, 1888",TRUE,7512,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6011",6553,"Spr.bl/el","Spermophilus beldingi/S. elegans","Merriam, 1888|Kennicott, 1863",TRUE,7512,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6012",6554,"Spr.br","Spermophilus brunneus","(A. H. Howell, 1928)",TRUE,7512,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6013",6555,"Spr.cr","Spermophilus cragini","(Hibbard, 1941)",TRUE,7512,TRUE,"MAM",5092,44,"2012-08-13T00:00:00.000Z",NA
+"6014",6556,"Spr.co","Spermophilus columbianus","(Ord, 1815)",TRUE,6917,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6015",6557,"Spr.el","Spermophilus elegans","Kennicott, 1863",TRUE,7512,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6016",6558,"Spr.ho","Spermophilus howelli","(Hibbard, 1941)",TRUE,6917,TRUE,"MAM",5072,44,"2012-08-10T00:00:00.000Z",NA
+"6017",6559,"Spr.fi","Spermophilus finlayensis","(Strain, 1966)",TRUE,6917,TRUE,"MAM",5092,44,"2012-08-13T00:00:00.000Z",NA
+"6018",6560,"Spr.fr","Spermophilus franklinii","(Sabine, 1822)",TRUE,7514,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6019",6561,"Spr.la","Spermophilus lateralis","(Say, 1823)",TRUE,7515,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6020",6562,"Spr.me","Spermophilus meadensis","(Hibbard 1941)",TRUE,6917,TRUE,"MAM",1541,44,"2012-08-13T00:00:00.000Z",NA
+"6021",6563,"Spr.mc","Spermophilus mcgheei","(Strain, 1966)",TRUE,6917,TRUE,"MAM",1541,44,"2012-08-13T00:00:00.000Z",NA
+"6022",6564,"Spr.mx","Spermophilus mexicanus","(Erxleben, 1777)",TRUE,7516,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6023",6565,"Spr.mo","Spermophilus mohavensis","Merriam, 1889",TRUE,7511,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6024",6566,"Spr.pa","Spermophilus parryii","(Richardson, 1825)",TRUE,6917,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6025",6567,"Spr.ri","Spermophilus richardsonii","(Sabine, 1822)",TRUE,7512,FALSE,"MAM",1530,44,"2012-08-10T00:00:00.000Z",NA
+"6026",6568,"Spr.ru","Spermophilus russelli","Gustafson, 1978",TRUE,6917,TRUE,"MAM",5092,44,"2012-08-10T00:00:00.000Z","Gustafson's (1978) generic assignment of russelli was provisionally  to Spermophilus?. He noted relationships to Marmota as well.  [ECG, 6 Aug 2007]"
+"6027",6569,"Spr.sp","Spermophilus sp.","F. Cuvier, 1825",TRUE,6917,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6028",6570,"Spr.sl","Spermophilus spilosoma","Bennett, 1833",TRUE,7516,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6029",6571,"Spr.te","Spermophilus tereticaudus","Baird, 1858",TRUE,7511,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6030",6572,"Spr.to","Spermophilus townsendii","Bachman, 1839",TRUE,7512,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6031",6573,"Spr.tr","Spermophilus tridecemlineatus","(Mitchill, 1821)",TRUE,7516,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6032",6574,"Spr.va","Spermophilus variegatus","(Erxleben, 1777)",TRUE,7513,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6033",6575,"Spr.wa","Spermophilus washingtoni","(A.H. Howell, 1938)",TRUE,7512,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6048",6590,"Syl.aq","Sylvilagus aquaticus","(Bachman, 1837)",TRUE,6975,FALSE,"MAM",1520,44,"2012-11-01T00:00:00.000Z",NA
+"6049",6591,"Syl.au","Sylvilagus audubonii","(Baird, 1858)",TRUE,6975,FALSE,"MAM",1520,44,"2012-11-01T00:00:00.000Z",NA
+"6050",6592,"Syl.au/fl","Sylvilagus audubonii/S. floridanus","(Baird, 1858)|(J. A. Allen, 1890)",TRUE,6975,FALSE,"MAM",1520,44,"2012-11-01T00:00:00.000Z",NA
+"6051",6593,"Syl.ba","Sylvilagus bachmani","(Waterhouse, 1839)",TRUE,6975,FALSE,"MAM",1520,44,"2012-11-01T00:00:00.000Z",NA
+"6052",6594,"Syl.fl","Sylvilagus floridanus","(J.A. Allen, 1890)",TRUE,6975,FALSE,"MAM",1520,44,"2012-11-01T00:00:00.000Z",NA
+"6053",6595,"Syl.hi","Sylvilagus hibbardi","White, 1984",TRUE,6975,TRUE,"MAM",5064,44,"2012-11-01T00:00:00.000Z",NA
+"6055",6597,"Syl.le","Sylvilagus leonensis","Cushing, 1945",TRUE,6975,TRUE,"MAM",1633,44,"2012-11-01T00:00:00.000Z",NA
+"6056",6598,"Syl.nu","Sylvilagus nuttallii","(Bachman, 1837)",TRUE,6975,FALSE,"MAM",1520,44,"2012-10-31T00:00:00.000Z",NA
+"6057",6599,"Syl.pa","Sylvilagus palustris","(Bachman, 1837)",TRUE,6975,FALSE,"MAM",1520,44,"2012-11-01T00:00:00.000Z",NA
+"6058",6600,"Syl.sp","Sylvilagus sp.","Gray, 1867",TRUE,6975,FALSE,"MAM",1520,44,"2012-11-01T00:00:00.000Z",NA
+"6059",6601,"Syl.tr","Sylvilagus transitionalis","(Bangs, 1895)",TRUE,6975,FALSE,"MAM",1520,44,"2012-11-01T00:00:00.000Z",NA
+"6062",6604,"Syn.au","Synaptomys australis","Simpson, 1928",TRUE,6857,TRUE,"MAM",1634,44,"2012-11-28T00:00:00.000Z","Synaptomys australis is closely related to Synaptomys cooperi and may be conspecific with it (Martin et al. 2003). [ECG 23 Jul 2007]"
+"6063",6605,"Syn.bo","Synaptomys borealis","(Richardson, 1828)",TRUE,6856,FALSE,"MAM",1524,44,"2012-11-28T00:00:00.000Z",NA
+"6064",6606,"Syn.co","Synaptomys cooperi","Baird, 1857",TRUE,6857,FALSE,"MAM",1524,44,"2012-11-28T00:00:00.000Z",NA
+"6065",6607,"Syn.me","Synaptomys meltoni","Paulson, 1961",TRUE,6856,TRUE,"MAM",1541,44,"2012-07-20T00:00:00.000Z","Recognized as Mictomys meltoni by Fejfar and Repenning (1998) and Bell and Barnosky (2000)."
+"6066",6608,"Syn.sp","Synaptomys sp.","Baird, 1858",TRUE,7005,FALSE,"MAM",1524,44,"2012-11-28T00:00:00.000Z",NA
+"6070",6612,"Taldae","Talpidae","G. Fischer, 1814",TRUE,6829,FALSE,"MAM",1522,44,"2013-01-17T00:00:00.000Z",NA
+"6071",6613,"Tam.al","Tamias alpinus","Merriam, 1893",TRUE,6997,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6072",6614,"Tam.am","Tamias amoenus","J.A. Allen, 1890",TRUE,6997,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6073",6615,"Tam.ar","Tamias aristus","Ray, 1965",TRUE,6998,TRUE,"MAM",13968,44,"2018-08-18T00:00:00.000Z",NA
+"6074",6616,"Tam.ca","Tamias canipes","(V. Bailey, 1902)",TRUE,6997,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6075",6617,"Tam.ci","Tamias cinereicollis","J.A. Allen, 1890",TRUE,6997,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6076",6618,"Tam.do","Tamias dorsalis","Baird, 1855",TRUE,6997,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6077",6619,"Tam.me","Tamias merriami","J.A. Allen, 1889",TRUE,6997,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6078",6620,"Tam.mi","Tamias minimus","Bachman, 1839",TRUE,6997,FALSE,"MAM",1530,44,"2012-05-25T00:00:00.000Z",NA
+"6079",6621,"Tam.pl","Tamias palmeri","(Merriam, 1897)",TRUE,6997,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6080",6622,"Tam.pn","Tamias panamintinus","Merriam, 1893",TRUE,6997,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6081",6623,"Tam.qm","Tamias quadrimaculatus","Gray, 1867",TRUE,6997,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6082",6624,"Tam.qv","Tamias quadrivittatus","(Say, 1823)",TRUE,6997,FALSE,"MAM",1530,44,"2012-05-25T00:00:00.000Z",NA
+"6083",6625,"Tam.ru","Tamias ruficaudus","(A.H. Howell, 1920)",TRUE,6997,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6084",6626,"Tam.so","Tamias sonomae","(Grinnell, 1915)",TRUE,6997,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6085",6627,"Tam.sp","Tamias sp.","Illiger, 1811",TRUE,6733,FALSE,"MAM",1530,44,"2012-05-25T00:00:00.000Z",NA
+"6086",6628,"Tam.sc","Tamias speciosus","Merriam, 1890",TRUE,6997,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6087",6629,"Tam.st","Tamias striatus","(Linnaeus, 1758)",TRUE,6998,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6088",6630,"Tam.tp","Tamias townsendii","Bachman, 1839",TRUE,6997,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6089",6631,"Tam.um","Tamias umbrinus","J.A. Allen, 1890",TRUE,6997,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6090",6632,"Tsc.do","Tamiasciurus douglasii","(Bachman, 1839)",TRUE,6915,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6091",6633,"Tsc.hu","Tamiasciurus hudsonicus","(Erxleben, 1777)",TRUE,6915,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6092",6634,"Tsc.sp","Tamiasciurus sp.","Trouessart, 1880",TRUE,6915,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6115",6657,"Tho.bo","Thomomys bottae","(Eydoux and Gervais, 1836)",TRUE,6984,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"6116",6658,"Tho.bu","Thomomys bulbivorus","(Richardson, 1829)",TRUE,6984,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"6117",6659,"Tho.gi","Thomomys gidleyi","Wilson, 1933",TRUE,6984,TRUE,"MAM",5063,44,"2012-11-01T00:00:00.000Z",NA
+"6118",6660,"Tho.ma","Thomomys mazama","Merriam, 1897",TRUE,6984,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"6119",6661,"Tho.mi","Thomomys microdon","Sinclair, 1905",TRUE,6984,TRUE,"MAM",1541,44,"2012-11-01T00:00:00.000Z",NA
+"6120",6662,"Tho.mo","Thomomys monticola","J. A. Allen, 1893",TRUE,6984,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"6121",6663,"Tho.sp","Thomomys sp.","Wied-Neuwied, 1839",TRUE,6984,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"6122",6664,"Tho.or","Thomomys orientalis","Simpson, 1928",TRUE,6984,TRUE,"MAM",1541,44,"2012-11-01T00:00:00.000Z",NA
+"6123",6665,"Tho.sc","Thomomys scudderi","Hay, 1921",TRUE,6984,TRUE,"MAM",1591,44,"2012-11-01T00:00:00.000Z","May be conspecific with the extant Thomomys townsendii or T. bottae (Rogers 1991). [ECG, 31 Jul 2007]"
+"6124",6666,"Tho.ta","Thomomys talpoides","(Richardson, 1828)",TRUE,6984,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"6125",6667,"Tho.to","Thomomys townsendii","(Bachman, 1839)",TRUE,6984,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"6126",6668,"Tho.um","Thomomys umbrinus","(Richardson, 1829)",TRUE,6984,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"6127",6669,"Tho.vi","Thomomys vetus","Davis, 1937",TRUE,6984,TRUE,"MAM",1591,44,"2012-11-01T00:00:00.000Z","May be conspecific with the extant Thomomys townsendii (Rogers 1991). ECG, 31 Jul 2007]"
+"6156",6698,"Zapnae","Zapodinae","Coues, 1875",TRUE,6872,FALSE,"MAM",1521,44,"2012-05-24T00:00:00.000Z",NA
+"6158",6699,"Zap.hu","Zapus hudsonius","(Zimmermann, 1780)",TRUE,6996,FALSE,"MAM",1521,44,"2013-02-20T00:00:00.000Z",NA
+"6159",6700,"Zap.pr","Zapus princeps","J.A. Allen, 1893",TRUE,6996,FALSE,"MAM",1521,44,"2013-02-20T00:00:00.000Z",NA
+"6160",6701,"Zap.sp","Zapus sp.","Coues, 1875",TRUE,6996,FALSE,"MAM",1521,44,"2013-02-20T00:00:00.000Z",NA
+"6161",6702,"Zap.tr","Zapus trinotatus","Rhoads, 1895",TRUE,6996,FALSE,"MAM",1521,44,"2013-02-20T00:00:00.000Z",NA
+"6163",6704,"Bla.br.ki","Blarina brevicauda kirtlandi","Bole & Moulthrop, 1942",TRUE,5875,FALSE,"MAM",1522,44,"2012-11-28T00:00:00.000Z",NA
+"6164",6705,"Bla.br.te","Blarina brevicauda telmalestes","Merriam, 1895",TRUE,5875,FALSE,"MAM",1522,44,"2012-11-28T00:00:00.000Z",NA
+"6169",6710,"Dcx","Dicrostonyx","Gloger, 1841",TRUE,6711,FALSE,"MAM",1524,44,"2012-11-07T00:00:00.000Z",NA
+"6170",6711,"Arvnae","Arvicolinae","Gray, 1821",TRUE,5953,FALSE,"MAM",1524,44,"2012-07-30T00:00:00.000Z",NA
+"6172",6713,"Did","Didelphis",NA,TRUE,5978,FALSE,"MAM",1514,NA,NA,NA
+"6176",6717,"Dip","Dipodomys","Gray, 1841",TRUE,6113,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"6177",6718,"Prd.mi","Prodipodomys minor","(Gidley, 1922)",TRUE,6719,TRUE,"MAM",5063,44,"2012-05-25T00:00:00.000Z",NA
+"6178",6719,"Prd","Prodipodomys","Hibbard, 1939",TRUE,6113,TRUE,"MAM",5063,44,"2012-05-25T00:00:00.000Z",NA
+"6186",6727,"Erz","Erethizon","F. Cuvier, 1823",TRUE,6050,FALSE,"MAM",1531,44,"2012-05-25T00:00:00.000Z",NA
+"6192",6792,"Cas","Castor","Linnaeus, 1758",TRUE,5930,FALSE,"MAM",1519,44,"2012-11-30T00:00:00.000Z",NA
+"6193",6793,"Css","Castoroides","Foster, 1838",TRUE,5930,TRUE,"MAM",1574,44,"2012-06-26T00:00:00.000Z",NA
+"6197",6798,"Cnd","Condylura","Illiger, 1811",TRUE,6612,FALSE,"MAM",1522,44,"2013-02-20T00:00:00.000Z",NA
+"6199",6733,"Tam","Tamias","Illiger, 1811",TRUE,28009,FALSE,"MAM",1530,44,"2016-08-30T00:00:00.000Z","Based on molecular phylogeny, Piaggio and Spicer (2001) argue that Tamias should be divided into three genera: Eutamias, which includes only Eutamias sibiricus (northern Eurasia); Tamias, which includes only Tamias striatus (eastern North America); and Neotamias, which includes all other species (western North American and Mexico). Thorington & Hoffmann (in Wilson & Reeder, 2005), follow Piaggio and Spicer (2001), but place the three groups as subgenera of Tamias. According to the molecular evidence, the western North American species Tamias minimus (recognized as Eutamias minimus by Kurten and Anderson 1980) is closely related to other western North American chipmunks and should be grouped with them, whether in Tamias or Neotamias. Thus, all species in North America recognized as Eutamias should be referred to Tamias. [ECG, 1 Apr 2013]"
+"6217",6889,"Ocm","Ochrotomys",NA,TRUE,6895,FALSE,"MAM",1524,NA,NA,NA
+"6220",6752,"Geo","Geomys","Rafinesque, 1817",TRUE,6078,FALSE,"MAM",1525,44,"2012-06-15T00:00:00.000Z",NA
+"6221",6753,"Geo(Ner)","Geomys (Nerterogeomys)","Gazin, 1942",TRUE,6752,TRUE,"MAM",1586,44,"2012-06-18T00:00:00.000Z","Kurtén  and Anderson (1980) elevate Nerterogeomys to the genus level; however, recent treatments synonymize with Geomys (e.g. Patton 2005, McKenna and Bell 1997) or treat as a subgenus (e.g. Becker and White 1981, Martin et al. 2003b). Nerterogeomys is extinct.  [ECG, 19 Jul 2007]"
+"6228",6760,"Ali","Alilepus","Dice, 1931",TRUE,6136,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"6229",6761,"Amm","Ammospermophilus","Merriam, 1892",TRUE,28009,FALSE,"MAM",1530,44,"2016-08-30T00:00:00.000Z",NA
+"6233",6765,"Apl","Aplodontia",NA,TRUE,5848,FALSE,"MAM",1518,NA,NA,NA
+"6236",6768,"Ato","Atopomys",NA,TRUE,6711,TRUE,"MAM",1574,NA,NA,NA
+"6237",6769,"Azt","Aztlanolagus","Russell & Harris, 1986",TRUE,6151,TRUE,"MAM",5064,44,"2012-10-31T00:00:00.000Z",NA
+"6238",6770,"Bai","Baiomys","True, 1894",TRUE,6895,FALSE,"MAM",1524,44,"2012-11-27T00:00:00.000Z",NA
+"6243",6775,"Bla","Blarina","Gray, 1838",TRUE,6549,FALSE,"MAM",1522,44,"2012-11-28T00:00:00.000Z",NA
+"6250",6782,"Bra","Brachylagus","Miller, 1900",TRUE,6151,FALSE,"MAM",1520,44,"2012-10-31T00:00:00.000Z",NA
+"6254",6786,"Cal","Calomys","Waterhouse, 1837",TRUE,6835,FALSE,"MAM",1524,44,"2012-06-06T00:00:00.000Z",NA
+"6260",6800,"Cra","Cratogeomys","Merriam, 1895",TRUE,6078,FALSE,"MAM",1525,44,"2012-06-18T00:00:00.000Z",NA
+"6261",6801,"Crp","Cryptotis","Pomel, 1848",TRUE,6549,FALSE,"MAM",1522,44,"2012-11-28T00:00:00.000Z",NA
+"6264",6804,"Cyn","Cynomys","Rafinesque, 1817",TRUE,28009,FALSE,"MAM",1530,44,"2016-08-30T00:00:00.000Z",NA
+"6266",6806,"Das","Dasypus",NA,TRUE,6807,FALSE,"MAM",1513,NA,NA,NA
+"6267",6807,"Dasdae","Dasypodidae","Gray, 1821",TRUE,6904,FALSE,"MAM",1513,6317,"2018-08-17T00:00:00.000Z",NA
+"6269",6809,"Erz.ba","Erethizon bathygnathum","Wilson, 1935",TRUE,6727,TRUE,"MAM",5067,44,"2012-05-25T00:00:00.000Z",NA
+"6273",6813,"Gla","Glaucomys","Thomas, 1908",TRUE,13874,FALSE,"MAM",1530,44,"2012-11-01T00:00:00.000Z",NA
+"6280",6820,"Oge","Orthogeomys","Merriam, 1895",TRUE,6078,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"6286",6826,"Hpl","Hypolagus","Dice, 1917",TRUE,6151,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"6287",6827,"Hyd","Hydrochoerus",NA,TRUE,6878,FALSE,"MAM",1531,NA,NA,NA
+"6289",6829,"Sorpha","Soricomorpha","Gregory, 1910",TRUE,6882,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6291",6831,"Lag","Lagurus","Gloger, 1841",TRUE,6711,FALSE,"MAM",1524,44,"2012-12-14T00:00:00.000Z",NA
+"6292",6832,"Lms","Lemmiscus","Thomas, 1912",TRUE,6711,FALSE,"MAM",1524,44,"2012-12-14T00:00:00.000Z",NA
+"6293",6833,"Lms.cu","Lemmiscus curtatus","(Cope, 1868)",TRUE,6832,FALSE,"MAM",1524,44,"2012-12-14T00:00:00.000Z",NA
+"6295",6835,"Signae","Sigmodontinae","Wagner, 1843",TRUE,5953,FALSE,"MAM",1524,44,"2012-08-10T00:00:00.000Z",NA
+"6296",6836,"Lss","Lasiopodomys","Lataste, 1887",TRUE,6711,FALSE,"MAM",1524,44,"2012-07-20T00:00:00.000Z",NA
+"6298",6838,"Lem","Lemmus","Link, 1795",TRUE,6711,FALSE,"MAM",1524,44,"2013-01-31T00:00:00.000Z",NA
+"6300",6840,"Lep","Lepus","Linnaeus, 1758",TRUE,6151,FALSE,"MAM",1520,44,"2012-09-27T00:00:00.000Z",NA
+"6301",6841,"Lio","Liomys","Merriam, 1902",TRUE,6113,FALSE,"MAM",1526,44,"2012-11-08T00:00:00.000Z",NA
+"6309",6849,"Mar","Marmota","Blumenbach, 1779",TRUE,28009,FALSE,"MAM",1530,44,"2016-08-30T00:00:00.000Z",NA
+"6312",6852,"Mdp","Microdipodops",NA,TRUE,6113,FALSE,"MAM",1526,NA,NA,NA
+"6313",6853,"Mic","Microtus","Schrank, 1798",TRUE,6711,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"6314",6854,"Mic.me","Microtus meadensis","(Hibbard, 1944)",TRUE,7474,TRUE,"MAM",1605,44,"2012-12-04T00:00:00.000Z",NA
+"6315",6855,"Syn.ve","Synaptomys vetus","Wilson, 1933",TRUE,6856,TRUE,"MAM",1646,44,"2012-07-20T00:00:00.000Z","Fejfar and Repenning (1998) synonymize Synaptomys vetus with  Mictomys vetus. Musser and Carleton (2005) place Mictomys as a subgenus of Synaptomys. [ECG, 23 Jul 2007]"
+"6316",6856,"Syn(Mic)","Synaptomys (Mictomys)","True, 1894",TRUE,7005,FALSE,"MAM",1524,44,"2012-11-28T00:00:00.000Z",NA
+"6317",6857,"Syn(Syn)","Synaptomys (Synaptomys)","Baird, 1857",TRUE,7005,FALSE,"MAM",1524,44,"2012-11-28T00:00:00.000Z",NA
+"6318",6858,"Myo","Myodes","Pallas, 1811",TRUE,6711,FALSE,"MAM",1524,44,"2012-06-08T00:00:00.000Z",NA
+"6320",6860,"Mim","Mimomys","Forsyth-Major, 1902",TRUE,6711,TRUE,"MAM",5069,44,"2012-07-30T00:00:00.000Z",NA
+"6322",6862,"Mus","Mus",NA,TRUE,6244,FALSE,"MAM",1524,NA,NA,NA
+"6327",6867,"Myc","Myocastor",NA,TRUE,6263,FALSE,"MAM",1531,NA,NA,NA
+"6331",6871,"Npz","Napaeozapus","Preble, 1899",TRUE,6698,FALSE,"MAM",1521,44,"2013-02-20T00:00:00.000Z",NA
+"6332",6872,"Dipdae","Dipodidae","Fischer de Waldheim, 1817",TRUE,6462,FALSE,"MAM",1521,44,"2013-02-19T00:00:00.000Z",NA
+"6336",6876,"Nch","Neochoerus","Hay, 1926",TRUE,6878,TRUE,"MAM",5067,44,"2012-05-25T00:00:00.000Z",NA
+"6337",6877,"Cavdae","Caviidae",NA,TRUE,6462,FALSE,"MAM",1531,NA,NA,NA
+"6338",6878,"Hydnae","Hydrochoerinae",NA,TRUE,6877,FALSE,"MAM",1531,NA,NA,NA
+"6339",6879,"Nfb","Neofiber",NA,TRUE,6711,FALSE,"MAM",1524,NA,NA,NA
+"6340",6880,"Nkl","Nekrolagus","Hibbard, 1939",TRUE,6151,TRUE,"MAM",1534,44,"2012-10-31T00:00:00.000Z",NA
+"6341",6881,"Ntm","Neotoma","Say and Ord, 1825",TRUE,6895,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"6342",6882,"Liphla","Lipotyphla",NA,TRUE,6171,FALSE,"MAM",1574,NA,NA,"Lipotyphla includes the traditional Insectivora (Wilson and Reeder 2005, McKenna and Bell 1997). [ECG, 25 Jul 2007]"
+"6343",6883,"Neu","Neurotrichus",NA,TRUE,6612,FALSE,"MAM",1522,NA,NA,NA
+"6345",6885,"Nsx","Notiosorex","Baird, in Coues, 1877",TRUE,6549,FALSE,"MAM",1522,44,"2012-07-24T00:00:00.000Z",NA
+"6348",6888,"Och","Ochotona","Link, 1795",TRUE,6322,FALSE,"MAM",1520,44,"2012-11-02T00:00:00.000Z",NA
+"6349",6890,"Ony","Onychomys","Baird, 1858",TRUE,6895,FALSE,"MAM",1524,44,"2012-11-27T00:00:00.000Z",NA
+"6353",6894,"Ond","Ondatra","Link, 1795",TRUE,6943,FALSE,"MAM",1524,44,"2012-08-02T00:00:00.000Z",NA
+"6354",6895,"Ntmnae","Neotominae","Merriam, 1894",TRUE,5953,FALSE,"MAM",1524,44,"2012-11-02T00:00:00.000Z",NA
+"6356",6897,"Orz","Oryzomys","Baird, 1858",TRUE,6835,FALSE,"MAM",1524,44,"2013-01-25T00:00:00.000Z",NA
+"6359",6900,"Orl","Oryctolagus",NA,TRUE,6151,FALSE,"MAM",1520,NA,NA,NA
+"6365",6906,"Ppg","Pappogeomys","Merriam, 1895",TRUE,6078,FALSE,"MAM",1525,44,"2012-06-18T00:00:00.000Z",NA
+"6367",6908,"Prs","Parascalops",NA,TRUE,6612,FALSE,"MAM",1522,NA,NA,NA
+"6368",6909,"Ntm.fo","Neotoma fossilis","Gidley, 1922",TRUE,7002,TRUE,"MAM",5071,44,"2012-05-25T00:00:00.000Z",NA
+"6369",6910,"Prg","Perognathus","Wied-Neuwied, 1839",TRUE,7007,FALSE,"MAM",1526,44,"2012-05-25T00:00:00.000Z",NA
+"6370",6911,"Cha","Chaetodipus","Merriam, 1889",TRUE,7007,FALSE,"MAM",1526,NA,NA,NA
+"6371",6912,"Per","Peromyscus","Gloger, 1841",TRUE,6895,FALSE,"MAM",1524,44,"2012-08-17T00:00:00.000Z",NA
+"6372",6913,"Pod","Podomys","Osgood, 1909",TRUE,6895,FALSE,"MAM",1524,44,"2012-08-13T00:00:00.000Z",NA
+"6373",6914,"Per.ke","Peromyscus keeni","Merriam, 1897",TRUE,6912,FALSE,"MAM",1524,44,"2012-08-17T00:00:00.000Z",NA
+"6374",6915,"Tsc","Tamiasciurus","Trouessart, 1880",TRUE,13872,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6375",6916,"Sci","Sciurus","Linnaeus, 1758",TRUE,13872,FALSE,"MAM",1530,44,"2012-12-20T00:00:00.000Z",NA
+"6376",6917,"Spr","Spermophilus","F. Cuvier, 1825",TRUE,28009,FALSE,"MAM",1530,44,"2016-08-30T00:00:00.000Z",NA
+"6377",6918,"Pwl","Pewelagus",NA,TRUE,6151,TRUE,"MAM",1618,NA,NA,NA
+"6378",6919,"Phn","Phenacomys","Merriam, 1889",TRUE,6923,FALSE,"MAM",1524,44,"2012-08-02T00:00:00.000Z",NA
+"6379",6920,"Arb","Arborimus",NA,TRUE,6923,FALSE,"MAM",1524,NA,NA,NA
+"6380",6921,"Arb.al","Arborimus albipes",NA,TRUE,6920,FALSE,"MAM",1524,NA,NA,NA
+"6381",6922,"Arb.lo","Arborimus longicaudus",NA,TRUE,6920,FALSE,"MAM",1524,NA,NA,NA
+"6382",6923,"Phn/Arb","Phenacomys/Arborimus","Merriam, 1889|Taylor, 1915",TRUE,6711,FALSE,"MAM",1524,44,"2012-08-02T00:00:00.000Z",NA
+"6401",6943,"Ondini","Ondatrini","Gray, 1825",TRUE,6711,FALSE,"MAM",1574,44,"2012-11-16T00:00:00.000Z","Includes the muskrats, Pliopotamys and Ondatra. See notes on Pliopotamys.  [ECG, 28 Jul 2007]."
+"6403",6945,"Pcs","Procastoroides","Barbour & Schultz, 1937",TRUE,5930,TRUE,"MAM",1574,44,"2012-06-26T00:00:00.000Z",NA
+"6411",6953,"Rat","Rattus",NA,TRUE,6244,FALSE,"MAM",1524,NA,NA,NA
+"6412",6954,"Rei","Reithrodontomys","Giglioli, 1874",TRUE,6895,FALSE,"MAM",1524,44,"2012-12-11T00:00:00.000Z",NA
+"6413",6955,"Rpm","Repomys","May, 1981",TRUE,6895,TRUE,"MAM",5071,44,"2013-01-18T00:00:00.000Z",NA
+"6414",6956,"Geo(Geo)","Geomys (Geomys)","Rafinesque, 1817",TRUE,6752,FALSE,"MAM",1586,44,"2012-06-18T00:00:00.000Z",NA
+"6416",6958,"Scl","Scalopus","É. Geoffroy Saint-Hilaire, 1803",TRUE,6612,FALSE,"MAM",1522,44,"2012-11-13T00:00:00.000Z",NA
+"6417",6959,"Scp","Scapanus","Pomel, 1848",TRUE,6612,FALSE,"MAM",1522,44,"2013-01-17T00:00:00.000Z",NA
+"6418",6960,"Oge(Het)","Orthogeomys (Heterogeomys)","Merriam, 1895",TRUE,6820,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"6420",6962,"Sig","Sigmodon","Say & Ord, 1825",TRUE,6835,FALSE,"MAM",1524,44,"2012-08-10T00:00:00.000Z",NA
+"6423",6965,"Sor","Sorex","Linnaeus, 1758",TRUE,6549,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6424",6966,"Sor.pf","Sorex pribilofensis","Merriam, 1895",TRUE,7460,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6433",6975,"Syl","Sylvilagus","Gray, 1867",TRUE,6151,FALSE,"MAM",1520,44,"2012-11-01T00:00:00.000Z",NA
+"6434",6976,"Oge.on","Orthogeomys onerosus","(Russell, 1960)",TRUE,6960,TRUE,"MAM",1591,44,"2012-11-01T00:00:00.000Z",NA
+"6442",6984,"Tho","Thomomys","Wied-Neuwied, 1839",TRUE,6078,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"6454",6996,"Zap","Zapus","Coues, 1875",TRUE,6698,FALSE,"MAM",1521,44,"2013-02-20T00:00:00.000Z",NA
+"6455",6997,"Tam(Neo)","Tamias (Neotamias)","A. H. Howell, 1929",TRUE,6733,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6456",6998,"Tam(Tam)","Tamias (Tamias)","Illiger, 1811",TRUE,6733,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6460",7002,"Ntm(Par)","Neotoma (Paraneotoma)","Hibbard, 1967",TRUE,6881,TRUE,"MAM",5071,44,"2012-05-25T00:00:00.000Z","See also Albright (1999). [ECG, 6 Aug 2007]"
+"6461",7003,"Ntm(Ntm)","Neotoma (Neotoma)","Say and Ord, 1825",TRUE,6881,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"6462",7004,"Ntm(Teo)","Neotoma (Teonoma)","Gray, 1843",TRUE,6881,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"6463",7005,"Syn","Synaptomys","Baird, 1858",TRUE,6711,FALSE,"MAM",1524,44,"2012-11-28T00:00:00.000Z",NA
+"6465",7007,"Prgnae","Perognathinae","Coues, 1875",TRUE,6113,FALSE,"MAM",1526,44,"2012-05-25T00:00:00.000Z",NA
+"6466",7008,"Cha.ba","Chaetodipus baileyi","(Merriam, 1894)",TRUE,6911,FALSE,"MAM",1526,NA,NA,NA
+"6467",7009,"Cha.ca","Chaetodipus californicus","(Merriam, 1889)",TRUE,6911,FALSE,"MAM",1526,NA,NA,NA
+"6468",7010,"Cha.fa","Chaetodipus fallax","(Merriam, 1889)",TRUE,6911,FALSE,"MAM",1526,NA,NA,NA
+"6469",7011,"Cha.fo","Chaetodipus formosus","(Merriam, 1889)",TRUE,6911,FALSE,"MAM",1526,NA,NA,NA
+"6470",7012,"Cha.hi","Chaetodipus hispidus","(Baird, 1858)",TRUE,6911,FALSE,"MAM",1526,NA,NA,NA
+"6471",7013,"Cha.in","Chaetodipus intermedius","(Merriam, 1889)",TRUE,6911,FALSE,"MAM",1526,NA,NA,NA
+"6472",7014,"Cha.ne","Chaetodipus nelsoni","(Merriam, 1894)",TRUE,6911,FALSE,"MAM",1526,NA,NA,NA
+"6473",7015,"Cha.pe","Chaetodipus penicillatus","(Woodhouse, 1852)",TRUE,6911,FALSE,"MAM",1526,NA,NA,NA
+"6479",7020,"Dip.ve.ep","Dipodomys venustus elephantinus","(Grinnell, 1919)",TRUE,6006,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"6484",7025,"Lms.sp","Lemmiscus sp.","Thomas, 1912",TRUE,6832,FALSE,"MAM",1524,44,"2012-12-14T00:00:00.000Z",NA
+"6493",7033,"Myo.ca","Myodes californicus","(Merriam, 1890)",TRUE,6858,FALSE,"MAM",1524,44,"2012-06-08T00:00:00.000Z",NA
+"6494",7034,"Myo.ga","Myodes gapperi","(Vigors, 1830)",TRUE,6858,FALSE,"MAM",1524,44,"2012-06-08T00:00:00.000Z",NA
+"6495",7035,"Myo.ru","Myodes rutilus","(Pallas, 1779)",TRUE,6858,FALSE,"MAM",1524,44,"2012-06-08T00:00:00.000Z",NA
+"6496",7036,"Myo.sp","Myodes sp.","Pallas, 1811",TRUE,6858,FALSE,"MAM",1524,44,"2012-06-08T00:00:00.000Z",NA
+"6497",7037,"Oph.me","Ophiomys meadensis","(Hibbard, 1956)",TRUE,13409,TRUE,"MAM",5069,6706,"2017-10-30T00:00:00.000Z",NA
+"6498",7038,"Arb.br","Arborimus brachyodus",NA,TRUE,6920,FALSE,"MAM",1524,NA,NA,NA
+"6499",7039,"Phn/Arb.sp","Phenacomys/Arborimus sp.","Merriam, 1889|Taylor, 1915",TRUE,6923,FALSE,"MAM",1524,44,"2012-08-02T00:00:00.000Z",NA
+"6506",7046,"Orz.fo","Oryzomys fossilis","Hibbard, 1955",TRUE,6344,TRUE,"MAM",1541,44,"2013-01-25T00:00:00.000Z",NA
+"6507",7047,"Cra.ca","Cratogeomys castanops","(Baird, 1852)",TRUE,6800,FALSE,"MAM",1525,44,"2012-06-18T00:00:00.000Z",NA
+"6511",7051,"Pod.ok","Podomys oklahomensis","(Stephens, 1960)",TRUE,6913,TRUE,"MAM",1524,44,"2012-08-17T00:00:00.000Z",NA
+"6512",7052,"Prgnae.sp","Perognathinae sp.","Coues, 1875",TRUE,7007,FALSE,"MAM",1526,44,"2012-08-06T00:00:00.000Z",NA
+"6513",7053,"Cha.sn","Chaetodipus spinatus","(Merriam, 1889)",TRUE,6911,FALSE,"MAM",1526,NA,NA,NA
+"6530",7070,"?Ntm.ci","?Neotoma cinerea","(Ord, 1815)",TRUE,6462,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"6538",7078,"?Per.sp","?Peromyscus sp.","Gloger, 1841",TRUE,6462,FALSE,"MAM",1524,44,"2013-11-14T00:00:00.000Z",NA
+"6539",7079,"?Per.tr","?Peromyscus truei","(Shufeldt, 1885)",TRUE,6462,FALSE,"MAM",1524,44,"2013-11-14T00:00:00.000Z",NA
+"6550",7091,"Css.sp","Castoroides sp.","Foster, 1838",TRUE,6793,TRUE,"MAM",1574,44,"2012-06-26T00:00:00.000Z",NA
+"6555",7099,"cf.Amm.le","cf. Ammospermophilus leucurus","(Merriam, 1889)",TRUE,6462,TRUE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6556",7100,"cf.Amm.ne","cf. Ammospermophilus nelsoni","(Merriam, 1893)",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6557",7101,"cf.Amm.sp","cf. Ammospermophilus sp.","Merriam, 1892",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6561",7105,"cf.Apl.ru","cf. Aplodontia rufa",NA,TRUE,6462,FALSE,"MAM",1516,NA,NA,NA
+"6562",7106,"cf.Apl.sp","cf. Aplodontia sp.",NA,TRUE,6462,FALSE,"MAM",1529,NA,NA,NA
+"6571",7116,"cf.Bla.br","cf. Blarina brevicauda","(Say, 1823)",TRUE,6829,FALSE,"MAM",1522,44,"2012-11-28T00:00:00.000Z",NA
+"6572",7117,"cf.Bla.ca","cf. Blarina carolinensis","(Bachman, 1837)",TRUE,6829,FALSE,"MAM",1522,44,"2012-11-28T00:00:00.000Z",NA
+"6588",7133,"cf.Cas.cn","cf. Castor canadensis","Kuhl, 1820",TRUE,6462,TRUE,"MAM",1564,44,"2012-11-30T00:00:00.000Z",NA
+"6589",7134,"cf.Cas.sp","cf. Castor sp.","Linnaeus, 1758",TRUE,6462,FALSE,"MAM",1519,44,"2012-11-30T00:00:00.000Z",NA
+"6590",7135,"cf.Css.oh","cf. Castoroides ohioensis","Foster, 1838",TRUE,6462,FALSE,"MAM",1532,44,"2012-06-26T00:00:00.000Z",NA
+"6597",7142,"cf.Myo.ga","cf. Myodes gapperi","(Vigors, 1830)",TRUE,6462,FALSE,"MAM",1524,44,"2012-06-08T00:00:00.000Z",NA
+"6599",7144,"cf.Crp.pa","cf. Cryptotis parva","(Say, 1823)",TRUE,6829,FALSE,"MAM",1541,44,"2012-11-28T00:00:00.000Z",NA
+"6600",7145,"cf.Crp.sp","cf. Cryptotis sp.","Pomel, 1848",TRUE,6829,FALSE,"MAM",1516,44,"2012-11-28T00:00:00.000Z",NA
+"6601",7146,"cf.Cyn.gu","cf. Cynomys gunnisoni","(Baird, 1855)",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-10T00:00:00.000Z",NA
+"6602",7147,"cf.Cyn.le","cf. Cynomys leucurus","Merriam, 1890",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-10T00:00:00.000Z",NA
+"6603",7148,"cf.Cyn.lu","cf. Cynomys ludovicianus","Ord, 1815",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-10T00:00:00.000Z",NA
+"6604",7149,"cf.Cyn.pa","cf. Cynomys parvidens","J.A. Allen, 1905",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-10T00:00:00.000Z",NA
+"6605",7150,"cf.Cyn.sp","cf. Cynomys sp.","Rafinesque, 1817",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-10T00:00:00.000Z",NA
+"6607",7152,"cf.Dcx.sp","cf. Dicrostonyx sp.","Gloger, 1841",TRUE,6462,FALSE,"MAM",1524,44,"2012-11-07T00:00:00.000Z",NA
+"6608",7153,"cf.Dcx.to","cf. Dicrostonyx torquatus","(Pallas, 1778)",TRUE,6462,FALSE,"MAM",1524,44,"2012-11-07T00:00:00.000Z",NA
+"6610",7155,"cf.Dip.ag","cf. Dipodomys agilis","Gambel, 1848",TRUE,6462,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"6611",7156,"cf.Dip.de","cf. Dipodomys deserti","Stephens, 1887",TRUE,6462,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"6612",7157,"cf.Dip.he","cf. Dipodomys heermanni","LeConte, 1853",TRUE,6462,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"6613",7158,"cf.Dip.me","cf. Dipodomys merriami","Mearns, 1890",TRUE,6462,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"6614",7159,"cf.Dip.or","cf. Dipodomys ordii","Woodhouse, 1853",TRUE,6462,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"6615",7160,"cf.Dip.pa","cf. Dipodomys panamintinus","(Merriam, 1894)",TRUE,6462,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"6616",7161,"cf.Dip.sp","cf. Dipodomys sp.","Gray, 1841",TRUE,6462,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"6617",7162,"cf.Dip.ss","cf. Dipodomys spectabilis","Merriam, 1890",TRUE,6462,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"6630",7175,"cf.Erz.do","cf. Erethizon dorsata","(Linnaeus, 1758)",TRUE,6462,FALSE,"MAM",1531,44,"2012-11-09T00:00:00.000Z",NA
+"6631",7176,"cf.Eut.sp","cf. Eutamias sp.",NA,TRUE,6462,FALSE,"MAM",1530,44,"2012-05-25T00:00:00.000Z",NA
+"6640",7185,"cf.Geo.bu","cf. Geomys bursarius","(Shaw, 1800)",TRUE,6462,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"6641",7186,"cf.Geo.pe","cf. Geomys personatus","True, 1889",TRUE,6462,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"6642",7187,"cf.Geo.pi","cf. Geomys pinetis","Rafinesque, 1817",TRUE,6462,FALSE,"MAM",1525,44,"2012-06-15T00:00:00.000Z",NA
+"6643",7188,"cf.Geo.sp","cf. Geomys sp.","Rafinesque, 1817",TRUE,6462,FALSE,"MAM",1525,44,"2012-06-15T00:00:00.000Z",NA
+"6644",7189,"cf.Gla.sa","cf. Glaucomys sabrinus","(Shaw, 1801)",TRUE,6462,FALSE,"MAM",1530,44,"2012-11-01T00:00:00.000Z",NA
+"6645",7190,"cf.Gla.sp","cf. Glaucomys sp.","Thomas, 1908",TRUE,6462,FALSE,"MAM",1530,44,"2012-11-01T00:00:00.000Z",NA
+"6646",7191,"cf.Gla.vo","cf. Glaucomys volans","(Linnaeus, 1758)",TRUE,6462,FALSE,"MAM",1530,44,"2012-11-01T00:00:00.000Z",NA
+"6653",7198,"cf.Hyd.ho","cf. Hydrochoerus holmesi",NA,TRUE,6462,TRUE,"MAM",1541,NA,NA,NA
+"6658",7203,"cf.Lepdae","cf. Leporidae","Fischer, 1817",TRUE,6136,FALSE,"MAM",1520,44,"2012-09-27T00:00:00.000Z",NA
+"6659",7204,"cf.Lep.al","cf. Lepus alleni","Mearns, 1890",TRUE,6136,FALSE,"MAM",1529,44,"2012-09-27T00:00:00.000Z",NA
+"6660",7205,"cf.Lep.am","cf. Lepus americanus","Erxleben, 1777",TRUE,6136,FALSE,"MAM",1529,44,"2012-09-27T00:00:00.000Z",NA
+"6661",7206,"cf.Lep.ca","cf. Lepus californicus","Gray, 1837",TRUE,6136,FALSE,"MAM",1529,44,"2012-09-27T00:00:00.000Z",NA
+"6662",7207,"cf.Lep.sp","cf. Lepus sp.","Linnaeus, 1758",TRUE,6136,FALSE,"MAM",1520,44,"2012-09-27T00:00:00.000Z",NA
+"6663",7208,"cf.Lep.ti","cf. Lepus timidus","Linnaeus, 1758",TRUE,6136,FALSE,"MAM",1520,44,"2012-09-27T00:00:00.000Z",NA
+"6664",7209,"cf.Lep.to","cf. Lepus townsendii","Bachman, 1839",TRUE,6136,FALSE,"MAM",1520,44,"2012-09-27T00:00:00.000Z",NA
+"6672",7217,"cf.Mar.ca","cf. Marmota caligata","(Eschscholtz, 1829)",TRUE,6462,FALSE,"MAM",1530,NA,NA,NA
+"6673",7218,"cf.Mar.fl","cf. Marmota flaviventris","(Audubon & Bachman, 1841)",TRUE,6462,FALSE,"MAM",1530,NA,NA,NA
+"6674",7219,"cf.Mar.mo","cf. Marmota monax","(Linnaeus, 1758)",TRUE,6462,FALSE,"MAM",1530,44,"2013-01-30T00:00:00.000Z",NA
+"6675",7220,"cf.Mar.sp","cf. Marmota sp.","Blumenbach, 1779",TRUE,6462,FALSE,"MAM",1530,44,"2013-01-30T00:00:00.000Z",NA
+"6682",7227,"cf.Mdp.me","cf. Microdipodops megacephalus",NA,TRUE,6462,TRUE,"MAM",1598,NA,NA,NA
+"6683",7228,"cf.Mic.ca","cf. Microtus californicus","(Peale, 1848)",TRUE,6462,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"6684",7229,"cf.Mic.lo","cf. Microtus longicaudus","(Merriam, 1888)",TRUE,6462,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"6685",7230,"cf.Mic.lo/mn","cf. Microtus longicaudus/M. montanus","(Merriam, 1888)|(Peale, 1848)",TRUE,6462,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"6686",7231,"cf.Mic.mx","cf. Microtus mexicanus","(Saussure, 1861)",TRUE,6462,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"6687",7232,"cf.Mic.mi","cf. Microtus miurus","Osgood, 1901",TRUE,6462,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"6688",7233,"cf.Mic.mn","cf. Microtus montanus","(Peale, 1848)",TRUE,6462,FALSE,"MAM",1532,44,"2012-06-27T00:00:00.000Z",NA
+"6689",7234,"cf.Mic.oc","cf. Microtus ochrogaster","(Wagner, 1842)",TRUE,6462,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"6690",7235,"cf.Mic.oc/pt","cf. Microtus ochrogaster/M. pinetorum","(Wagner, 1842)|(Le Conte, 1830)",TRUE,6462,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"6691",7236,"cf.Mic.pn","cf. Microtus pennsylvanicus","(Ord, 1815)",TRUE,6462,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"6692",7237,"cf.Mic.pt","cf. Microtus pinetorum","(Le Conte, 1830)",TRUE,6462,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"6693",7238,"cf.Mic.ri","cf. Microtus richardsoni","(DeKay, 1842)",TRUE,6462,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"6694",7239,"cf.Mic.sp","cf. Microtus sp.","Schrank, 1798",TRUE,6462,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"6695",7240,"cf.Mic.xa","cf. Microtus xanthognathus","(Leach, 1815)",TRUE,6462,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"6719",7264,"cf.Nfb.al","cf. Neofiber alleni",NA,TRUE,6462,FALSE,"MAM",1524,NA,NA,NA
+"6720",7265,"cf.Ntm.al","cf. Neotoma albigula","Hartley, 1894",TRUE,6462,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"6721",7266,"cf.Ntm.ci","cf. Neotoma cinerea","(Ord, 1815)",TRUE,6462,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"6722",7267,"cf.Ntm.fl","cf. Neotoma floridana","(Ord, 1818)",TRUE,6462,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"6723",7268,"cf.Ntm.fu","cf. Neotoma fuscipes","Baird, 1857",TRUE,6462,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"6724",7269,"cf.Ntm.go","cf. Neotoma goldmani","Merriam, 1903",TRUE,6462,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"6725",7270,"cf.Ntm.le","cf. Neotoma lepida","Thomas, 1893",TRUE,6462,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"6726",7271,"cf.Ntm.mx","cf. Neotoma mexicana","Baird, 1855",TRUE,6462,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"6727",7272,"cf.Ntm.mi","cf. Neotoma micropus","Baird, 1855",TRUE,6462,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"6728",7273,"cf.Ntm.sp","cf. Neotoma sp.","Say and Ord, 1825",TRUE,6462,FALSE,"MAM",1588,44,"2012-08-03T00:00:00.000Z",NA
+"6729",7274,"cf.Ntm.st","cf. Neotoma stephensi","Goldman, 1905",TRUE,6462,FALSE,"MAM",1522,44,"2012-08-03T00:00:00.000Z",NA
+"6731",7276,"cf.Nsx.sp","cf. Notiosorex sp.","Baird, in Coues, 1877",TRUE,6829,FALSE,"MAM",1522,44,"2012-07-24T00:00:00.000Z",NA
+"6733",7278,"cf.Och.pr","cf. Ochotona princeps","(Richardson, 1828)",TRUE,6136,FALSE,"MAM",1520,44,"2012-11-02T00:00:00.000Z",NA
+"6734",7279,"cf.Och.sp","cf. Ochotona sp.","Link, 1795",TRUE,6136,FALSE,"MAM",1520,44,"2012-11-02T00:00:00.000Z",NA
+"6738",7283,"cf.Ond.an","cf. Ondatra zibethicus/ annectens","(Brown, 1908)",TRUE,6462,TRUE,"MAM",1616,44,"2012-08-02T00:00:00.000Z",NA
+"6739",7284,"cf.Ond.zi","cf. Ondatra zibethicus","Linnaeus, 1766",TRUE,6462,FALSE,"MAM",1524,44,"2012-08-02T00:00:00.000Z",NA
+"6740",7285,"cf.Ony.le","cf. Onychomys leucogaster","(Wied-Neuwied, 1841)",TRUE,6462,FALSE,"MAM",1524,44,"2012-11-27T00:00:00.000Z",NA
+"6741",7286,"cf.Ony.to","cf. Onychomys torridus","(Coues, 1874)",TRUE,6462,FALSE,"MAM",1524,44,"2012-11-27T00:00:00.000Z",NA
+"6744",7289,"cf.Orz.pa","cf. Oryzomys palustris","(Harlan, 1837)",TRUE,6462,FALSE,"MAM",1524,44,"2013-01-25T00:00:00.000Z",NA
+"6745",7290,"cf.Orz.sp","cf. Oryzomys sp.","Baird, 1858",TRUE,6462,FALSE,"MAM",1524,44,"2013-01-25T00:00:00.000Z",NA
+"6751",7296,"cf.Prs.br","cf. Parascalops breweri",NA,TRUE,6829,FALSE,"MAM",1529,NA,NA,NA
+"6752",7297,"cf.Cha.ca","cf. Chaetodipus californicus","(Merriam, 1889)",TRUE,6462,FALSE,"MAM",1524,NA,NA,NA
+"6753",7298,"cf.Prg.fs","cf. Perognathus fasciatus","Wied-Neuwied, 1839",TRUE,6462,FALSE,"MAM",1524,44,"2012-08-06T00:00:00.000Z",NA
+"6754",7299,"cf.Prg.fl","cf. Perognathus flavescens","Merriam, 1889",TRUE,6462,FALSE,"MAM",1524,44,"2012-08-06T00:00:00.000Z",NA
+"6755",7300,"cf.Prg.fv","cf. Perognathus flavus","Baird, 1855",TRUE,6462,FALSE,"MAM",1524,44,"2012-08-06T00:00:00.000Z",NA
+"6756",7301,"cf.Cha.fo","cf. Chaetodipus formosus","(Merriam, 1889)",TRUE,6462,FALSE,"MAM",1524,44,"2013-09-15T00:00:00.000Z",NA
+"6757",7302,"cf.Cha.hi","cf. Chaetodipus hispidus","(Baird, 1858)",TRUE,6462,FALSE,"MAM",1524,44,"2013-09-15T00:00:00.000Z",NA
+"6758",7303,"cf.Prg.in","cf. Perognathus inornatus","Merriam, 1889",TRUE,6462,FALSE,"MAM",1524,44,"2012-08-06T00:00:00.000Z",NA
+"6759",7304,"cf.Cha.it","cf. Chaetodipus intermedius","(Merriam, 1889)",TRUE,6462,FALSE,"MAM",1524,44,"2013-09-15T00:00:00.000Z",NA
+"6760",7305,"cf.Cha.ne","cf. Chaetodipus nelsoni","(Merriam, 1894)",TRUE,6462,FALSE,"MAM",1524,44,"2013-09-15T00:00:00.000Z",NA
+"6761",7306,"cf.Prg.pa","cf. Perognathus parvus","(Peale, 1848)",TRUE,6462,FALSE,"MAM",1541,44,"2012-08-06T00:00:00.000Z",NA
+"6762",7307,"cf.Per.bo","cf. Peromyscus boylii","(Baird, 1855)",TRUE,6462,FALSE,"MAM",1522,44,"2012-08-17T00:00:00.000Z",NA
+"6763",7308,"cf.Per.ca","cf. Peromyscus californicus","(Gambel, 1848)",TRUE,6462,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"6764",7309,"cf.Per.cn","cf. Peromyscus crinitus","(Merriam, 1891)",TRUE,6462,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"6765",7310,"cf.Per.di","cf. Peromyscus difficilis","(J.A. Allen, 1891)",TRUE,6462,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"6766",7311,"cf.Per.er","cf. Peromyscus eremicus","(Baird, 1858)",TRUE,6462,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"6767",7312,"cf.Per.go","cf. Peromyscus gossypinus","(LeConte, 1853)",TRUE,6462,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"6768",7313,"cf.Per.le","cf. Peromyscus leucopus","(Rafinesque, 1818)",TRUE,6462,FALSE,"MAM",1526,44,"2012-08-14T00:00:00.000Z",NA
+"6769",7314,"cf.Per.ma","cf. Peromyscus maniculatus","(Wagner, 1845)",TRUE,6462,FALSE,"MAM",1526,44,"2012-08-14T00:00:00.000Z",NA
+"6770",7315,"cf.Per.sp","cf. Peromyscus sp.","Gloger, 1841",TRUE,6462,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"6771",7316,"cf.Per.tr","cf. Peromyscus truei","(Shufeldt, 1885)",TRUE,6462,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"6772",7317,"cf.Phn.in","cf. Phenacomys intermedius","Merriam, 1889",TRUE,6462,FALSE,"MAM",1526,NA,NA,NA
+"6773",7318,"cf.Phn.sp","cf. Phenacomys sp.","Merriam, 1889",TRUE,6462,FALSE,"MAM",1524,NA,NA,NA
+"6784",7328,"cf.Rat.no","cf. Rattus norvegicus",NA,TRUE,6462,FALSE,"MAM",1516,NA,NA,NA
+"6785",7329,"cf.Rat.ra","cf. Rattus rattus",NA,TRUE,6462,FALSE,"MAM",1524,NA,NA,NA
+"6786",7330,"cf.Rei.fu","cf. Reithrodontomys fulvescens","J.A. Allen, 1894",TRUE,5953,FALSE,"MAM",1524,44,"2012-12-11T00:00:00.000Z",NA
+"6787",7331,"cf.Rei.hu","cf. Reithrodontomys humulis","(Audubon & Bachman, 1841)",TRUE,5953,FALSE,"MAM",1524,44,"2012-12-11T00:00:00.000Z",NA
+"6788",7332,"cf.Rei.me","cf. Reithrodontomys megalotis","(Baird, 1858)",TRUE,5953,FALSE,"MAM",1524,44,"2012-12-11T00:00:00.000Z",NA
+"6789",7333,"cf.Rei.mn","cf. Reithrodontomys montanus","(Baird, 1855)",TRUE,5953,FALSE,"MAM",1524,44,"2012-12-11T00:00:00.000Z",NA
+"6790",7334,"cf.Rei.sp","cf. Reithrodontomys sp.","Giglioli, 1874",TRUE,5953,FALSE,"MAM",1524,44,"2012-12-11T00:00:00.000Z",NA
+"6792",7336,"cf.Scl.aq","cf. Scalopus aquaticus","(Linnaeus, 1758)",TRUE,6829,FALSE,"MAM",1530,44,"2012-11-13T00:00:00.000Z",NA
+"6793",7337,"cf.Scp.or","cf. Scapanus orarius","True, 1896",TRUE,6829,FALSE,"MAM",1530,44,"2013-01-17T00:00:00.000Z",NA
+"6794",7338,"cf.Scp.to","cf. Scapanus townsendii","(Bachman, 1839)",TRUE,6829,FALSE,"MAM",1530,44,"2013-01-17T00:00:00.000Z",NA
+"6795",7339,"cf.Sci.ab","cf. Sciurus aberti",NA,TRUE,6462,FALSE,"MAM",1624,NA,NA,NA
+"6796",7340,"cf.Sci.ca","cf. Sciurus carolinensis",NA,TRUE,6462,FALSE,"MAM",1522,NA,NA,NA
+"6797",7341,"cf.Sci.ng","cf. Sciurus niger",NA,TRUE,6462,FALSE,"MAM",1522,NA,NA,NA
+"6798",7342,"cf.Sci.sp","cf. Sciurus sp.",NA,TRUE,6462,FALSE,"MAM",1522,NA,NA,NA
+"6799",7343,"cf.Sig.fu","cf. Sigmodon fulviventer","J.A. Allen, 1889",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-10T00:00:00.000Z",NA
+"6800",7344,"cf.Sig.hi","cf. Sigmodon hispidus","Say & Ord, 1825",TRUE,6462,FALSE,"MAM",1524,44,"2012-08-10T00:00:00.000Z",NA
+"6801",7345,"cf.Sig.sp","cf. Sigmodon sp.","Say & Ord, 1825",TRUE,6462,FALSE,"MAM",1524,44,"2012-08-10T00:00:00.000Z",NA
+"6804",7348,"cf.Sor.ar","cf. Sorex arcticus","Kerr, 1792",TRUE,6829,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6805",7349,"cf.Sor.be","cf. Sorex bendirii","(Merriam, 1884)",TRUE,6829,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6807",7350,"cf.Sor.ci","cf. Sorex cinereus","Kerr, 1792",TRUE,6829,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6808",7351,"cf.Sor.di","cf. Sorex dispar","Batchelder, 1911",TRUE,6829,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6809",7352,"cf.Sor.fu","cf. Sorex fumeus","G.M. Miller, 1895",TRUE,6829,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6810",7353,"cf.Sor.ha","cf. Sorex haydeni","Baird, 1857",TRUE,6829,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6811",7354,"cf.Sor.ho","cf. Sorex hoyi","Baird, 1857",TRUE,6829,FALSE,"MAM",1522,44,"2012-07-26T00:00:00.000Z",NA
+"6812",7355,"cf.Sor.lo","cf. Sorex longirostris","Bachman, 1837",TRUE,6829,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6813",7356,"cf.Sor.mr","cf. Sorex merriami","Dobson, 1890",TRUE,6829,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6814",7357,"cf.Sor.mo/va","cf. Sorex monticolus/S. vagrans","Merriam, 1890|Baird, 1857",TRUE,6829,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6815",7358,"cf.Sor.na","cf. Sorex nanus","Merriam, 1895",TRUE,6829,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6816",7359,"cf.Sor.or","cf. Sorex ornatus","Merriam, 1895",TRUE,6829,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6817",7360,"cf.Sor.pl","cf. Sorex palustris","Richardson, 1828",TRUE,6829,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6818",7361,"cf.Sor.te","cf. Sorex tenellus","Merriam, 1895",TRUE,6829,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6819",7362,"cf.Sor.tr","cf. Sorex trowbridgii","Baird, 1857",TRUE,6829,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6820",7363,"cf.Sor.va","cf. Sorex vagrans","Baird, 1857",TRUE,6829,TRUE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6821",7364,"cf.Spr.ar","cf. Spermophilus armatus","Kennicott, 1863",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6822",7365,"cf.Spr.be","cf. Spermophilus beecheyi","(Richardson, 1829)",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6823",7366,"cf.Spr.bl","cf. Spermophilus beldingi","Merriam, 1888",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6824",7367,"cf.Spr.co","cf. Spermophilus columbianus","(Ord, 1815)",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6825",7368,"cf.Spr.el","cf. Spermophilus elegans","Kennicott, 1863",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6826",7369,"cf.Spr.fr","cf. Spermophilus franklinii","(Sabine, 1822)",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6827",7370,"cf.Spr.la","cf. Spermophilus lateralis","(Say, 1823)",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6828",7371,"cf.Spr.mx","cf. Spermophilus mexicanus","(Erxleben, 1777)",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6829",7372,"cf.Spr.mo","cf. Spermophilus mohavensis","Merriam, 1889",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6830",7373,"cf.Spr.ri","cf. Spermophilus richardsonii","(Sabine, 1822)",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-10T00:00:00.000Z",NA
+"6831",7374,"cf.Spr.sp","cf. Spermophilus sp.","F. Cuvier, 1825",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6832",7375,"cf.Spr.sl","cf. Spermophilus spilosoma","Bennett, 1833",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6833",7376,"cf.Spr.te","cf. Spermophilus tereticaudus","Baird, 1858",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6834",7377,"cf.Spr.to","cf. Spermophilus townsendii","Bachman, 1839",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6835",7378,"cf.Spr.tr","cf. Spermophilus tridecemlineatus","(Mitchill, 1821)",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6836",7379,"cf.Spr.va","cf. Spermophilus variegatus","(Erxleben, 1777)",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6837",7380,"cf.Spr.wa","cf. Spermophilus washingtoni","(A.H. Howell, 1938)",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6842",7385,"cf.Syl.aq","cf. Sylvilagus aquaticus","(Bachman, 1837)",TRUE,6136,FALSE,"MAM",1520,44,"2012-11-01T00:00:00.000Z",NA
+"6843",7386,"cf.Syl.au","cf. Sylvilagus audubonii","(Baird, 1858)",TRUE,6136,FALSE,"MAM",1520,44,"2012-11-01T00:00:00.000Z",NA
+"6845",7387,"cf.Syl.ba","cf. Sylvilagus bachmani","(Waterhouse, 1839)",TRUE,6136,FALSE,"MAM",1520,44,"2012-11-01T00:00:00.000Z",NA
+"6846",7388,"cf.Syl.fl","cf. Sylvilagus floridanus","(J. A. Allen, 1890)",TRUE,6136,FALSE,"MAM",1520,44,"2012-11-01T00:00:00.000Z",NA
+"6847",7389,"cf.Syl.id","cf. Sylvilagus idahoensis",NA,TRUE,6136,FALSE,"MAM",1520,NA,NA,"=Brachylagus idahoensis"
+"6848",7390,"cf.Syl.nu","cf. Sylvilagus nuttallii","(Bachman, 1837)",TRUE,6136,FALSE,"MAM",1520,44,"2012-10-31T00:00:00.000Z",NA
+"6849",7391,"cf.Syl.pa","cf. Sylvilagus palustris","(Bachman, 1837)",TRUE,6136,FALSE,"MAM",1520,44,"2012-11-01T00:00:00.000Z",NA
+"6850",7392,"cf.Syl.sp","cf. Sylvilagus sp.","Gray, 1867",TRUE,6136,FALSE,"MAM",1520,44,"2012-11-01T00:00:00.000Z",NA
+"6851",7393,"cf.Syl.tr","cf. Sylvilagus transitionalis","(Bangs, 1895)",TRUE,6136,FALSE,"MAM",1520,44,"2012-11-01T00:00:00.000Z",NA
+"6854",7396,"cf.Syn.au","cf. Synaptomys australis","Simpson, 1928",TRUE,6462,TRUE,"MAM",1634,44,"2012-11-28T00:00:00.000Z",NA
+"6855",7397,"cf.Syn.co","cf. Synaptomys cooperi","Baird, 1857",TRUE,6462,FALSE,"MAM",1524,44,"2012-11-28T00:00:00.000Z",NA
+"6857",7399,"cf.Tam.ci","cf. Tamias cinereicollis","J.A. Allen, 1890",TRUE,6462,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6858",7400,"cf.Tam.do","cf. Tamias dorsalis","Baird, 1855",TRUE,6462,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6859",7401,"cf.Tam.mi","cf. Tamias minimus","Bachman, 1839",TRUE,6462,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6860",7402,"cf.Tam.sp","cf. Tamias sp.","Illiger, 1811",TRUE,6462,FALSE,"MAM",1530,44,"2012-05-25T00:00:00.000Z",NA
+"6861",7403,"cf.Tam.st","cf. Tamias striatus","(Linnaeus, 1758)",TRUE,6462,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6862",7404,"cf.Tam.um","cf. Tamias umbrinus","J.A. Allen, 1890",TRUE,6462,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"6863",7405,"cf.Tsc.hu","cf. Tamiasciurus hudsonicus","(Erxleben, 1777)",TRUE,6462,FALSE,"MAM",1525,44,"2013-01-16T00:00:00.000Z",NA
+"6864",7406,"cf.Tsc.sp","cf. Tamiasciurus sp.","Trouessart, 1880",TRUE,6462,FALSE,"MAM",1525,44,"2013-01-16T00:00:00.000Z",NA
+"6870",7412,"cf.Tho.bo","cf. Thomomys bottae","(Eydoux and Gervais, 1836)",TRUE,6462,TRUE,"MAM",1638,44,"2012-11-01T00:00:00.000Z",NA
+"6871",7413,"cf.Tho.sp","cf. Thomomys sp.","Wied-Neuwied, 1839",TRUE,6462,TRUE,"MAM",1639,44,"2012-11-01T00:00:00.000Z",NA
+"6872",7414,"cf.Tho.ta","cf. Thomomys talpoides","(Richardson, 1828)",TRUE,6462,FALSE,"MAM",1532,44,"2012-11-01T00:00:00.000Z",NA
+"6873",7415,"cf.Tho.to","cf. Thomomys townsendii","(Bachman, 1839)",TRUE,6462,TRUE,"MAM",1532,44,"2012-11-01T00:00:00.000Z",NA
+"6874",7416,"cf.Tho.um","cf. Thomomys umbrinus","(Richardson, 1829)",TRUE,6462,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"6885",7427,"cf.Zap.hu","cf. Zapus hudsonius","(Zimmermann, 1780)",TRUE,6462,FALSE,"MAM",1521,44,"2013-02-20T00:00:00.000Z",NA
+"6886",7428,"cf.Zap.pr","cf. Zapus princeps","J.A. Allen, 1893",TRUE,6462,FALSE,"MAM",1521,44,"2013-02-20T00:00:00.000Z",NA
+"6887",7429,"cf.Zap.sp","cf. Zapus sp.","Coues, 1875",TRUE,6462,FALSE,"MAM",1521,44,"2013-02-20T00:00:00.000Z",NA
+"6891",7433,"Cyn.ni","Cynomys niobrarius","Hay, 1921",TRUE,6804,TRUE,"MAM",5072,44,"2012-06-05T00:00:00.000Z",NA
+"6894",7436,"Syl.au/nu","Sylvilagus audubonii/S. nuttallii","(Baird, 1858)|(Bachman, 1837)",TRUE,6975,FALSE,"MAM",1520,44,"2012-11-01T00:00:00.000Z",NA
+"6895",7437,"Ntm.fl/mi","Neotoma floridana/N. micropus","(Ord, 1818)|Baird, 1855",TRUE,7003,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"6898",7441,"Rei.me/mn","Reithrodontomys megalotis/R. montanus","(Baird, 1858)|(Baird, 1855)",TRUE,6954,FALSE,"MAM",1524,44,"2012-12-11T00:00:00.000Z",NA
+"6899",7442,"Sor.mr/mo","Sorex merriami/S. monticolus","Dobson, 1890|Merriam, 1890",TRUE,6965,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6904",7447,"Sci.ca/ng","Sciurus carolinensis/S. niger",NA,TRUE,6916,FALSE,"MAM",1530,NA,NA,NA
+"6905",7448,"Ntm.ci/mx","Neotoma cinerea/N. mexicana","(Ord, 1815)|Baird, 1855",TRUE,6881,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"6907",7450,"Spr.el/ri","Spermophilus elegans/S. richardsonii","Kennicott, 1863|(Sabine, 1822)",TRUE,7512,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6908",7451,"Spr.cf.tr","Spermophilus cf. S. tridecemlineatus","(Mitchill, 1821)",TRUE,7516,FALSE,"MAM",1530,2041,"2018-07-10T00:00:00.000Z",NA
+"6909",7452,"Prg.fl.ap","Perognathus flavescens apache","Merriam, 1889",TRUE,6377,FALSE,"MAM",1526,44,"2012-08-06T00:00:00.000Z",NA
+"6910",7453,"Prg.fv/fl.ap","Perognathus flavus/P.flavescens apache","Baird, 1855|Merriam, 1889",TRUE,6910,FALSE,"MAM",1526,44,"2012-08-06T00:00:00.000Z",NA
+"6911",7454,"Spr/Cyn","Spermophilus/Cynomys","F. Cuvier, 1825|Rafinesque, 1817",TRUE,28009,FALSE,"MAM",1530,44,"2016-08-30T00:00:00.000Z",NA
+"6917",7460,"Sor(Oti)","Sorex (Otisorex)","De Kay, 1842",TRUE,6965,FALSE,"MAM",1522,44,"2012-07-24T00:00:00.000Z",NA
+"6918",7461,"Sor(Sor)","Sorex (Sorex)","Linnaeus, 1758",TRUE,6965,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6919",7462,"Sor.ci.fo","Sorex cinereus fontinalis","Hollister, 1911",TRUE,6517,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6920",7463,"Sor.or.si","Sorex ornatus sinuosus","Grinnell, 1913",TRUE,6537,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"6923",7466,"Ntm.ma","Neotoma magister","Baird, 1857",TRUE,7003,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"6924",7467,"cf.Ntm.ma","cf. Neotoma magister","Baird, 1857",TRUE,6462,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"6928",7471,"Mic.pn/ch","Microtus pennsylvanicus/M. chrotorrhinus","(Ord, 1815)|(Miller, 1894)",TRUE,6853,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"6929",7472,"Mic.(Myn)","Microtus (Mynomes)","Rafinesque, 1817",TRUE,6853,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"6930",7473,"Mic.(Ped)","Microtus (Pedomys)","Baird, 1857",TRUE,6853,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"6931",7474,"Mic.(Pty)","Microtus (Pitymys)","McMurtrie, 1831",TRUE,6853,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"6932",7475,"Mic.(Alx)","Microtus (Alexandromys)","Ognev, 1914",TRUE,6853,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"6944",7487,"Mic.ca/mn","Microtus californicus/M. montanus","(Peale, 1848)|(Peale, 1848)",TRUE,6853,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"6945",7488,"Ntm.al/le","Neotoma albigula/N. lepida","Hartley, 1894|Thomas, 1893",TRUE,7003,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"6953",7496,"Och.cf.pr","Ochotona cf. O. princeps","(Richardson, 1828)",TRUE,6888,FALSE,"MAM",1520,44,"2012-11-02T00:00:00.000Z",NA
+"6954",7497,"Ntm.mx/al","Neotoma mexicana/N. albigula","Baird, 1855|Hartley, 1894",TRUE,7003,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"6955",7498,"Per.bo/tr","Peromyscus boylii/P. truei","(Baird, 1855)|(Shufeldt, 1885)",TRUE,6912,FALSE,"MAM",1524,44,"2012-08-17T00:00:00.000Z",NA
+"6956",7499,"Tho.bo/um","Thomomys bottae/T. umbrinus","(Eydoux and Gervais, 1836)|(Richardson, 1829)",TRUE,6984,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"6958",7501,"Arvnae.sp","Arvicolinae sp.","Gray, 1821",TRUE,6711,FALSE,"MAM",1524,44,"2012-07-30T00:00:00.000Z",NA
+"6966",7508,"Ntm.al/st","Neotoma albigula/N. stephensi","Hartley, 1894|Goldman, 1905",TRUE,7003,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"6967",7509,"Sig.cf.fu","Sigmodon cf. S. fulviventer","J.A. Allen, 1889",TRUE,6962,FALSE,"MAM",1524,44,"2012-08-10T00:00:00.000Z",NA
+"6968",7510,"Per.na","Peromyscus nasutus","(J.A. Allen, 1891)",TRUE,6912,FALSE,"MAM",1524,44,"2012-08-17T00:00:00.000Z",NA
+"6969",7511,"Spr(Xer)","Spermophilus (Xerospermophilus)","Merriam, 1892",TRUE,6917,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6970",7512,"Spr(Spr)","Spermophilus (Spermophilus)","F. Cuvier, 1825",TRUE,6917,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6971",7513,"Spr(Oto)","Spermophilus (Otospermophilus)","Brandt, 1844",TRUE,6917,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6972",7514,"Spr(Pol)","Spermophilus (Poliocitellus)","A.H. Howell, 1938",TRUE,6917,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6973",7515,"Spr(Cal)","Spermophilus (Callospermophilus)","Merriam, 1897",TRUE,6917,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6974",7516,"Spr(Ict)","Spermophilus (Ictidomys)","J.A. Allen, 1877",TRUE,6917,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6975",7517,"Spr(Xer)sp","Spermophilus (Xerospermophilus) sp.","Merriam, 1892",TRUE,7511,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"6976",7518,"Sor(Oti)sp","Sorex (Otisorex) sp.","De Kay, 1842",TRUE,6965,FALSE,"MAM",1522,44,"2012-07-24T00:00:00.000Z",NA
+"6977",7519,"Per.ca/er","Peromyscus californicus/P. eremicus","(Gambel, 1848)|(Baird, 1858)",TRUE,6912,FALSE,"MAM",1524,44,"2012-08-17T00:00:00.000Z",NA
+"7116",7660,"Cyn.gu/Spr.va","Cynomys gunnisoni/Spermophilus variegatus","(Baird, 1855)|(Erxleben, 1777)",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"7117",7661,"cf.Prg.fl.ap","cf. Perognathus flavescens apache","Merriam, 1889",TRUE,6462,FALSE,"MAM",1526,44,"2012-08-06T00:00:00.000Z",NA
+"7121",7665,"Tho.cf.ta","Thomomys cf. T. talpoides","(Richardson, 1828)",TRUE,6984,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"7123",7666,"Ony.cf.le","Onychomys cf. O. leucogaster","(Wied-Neuwied, 1841)",TRUE,6890,FALSE,"MAM",1524,44,"2012-11-27T00:00:00.000Z",NA
+"7124",7667,"Mar.cf.fl","Marmota cf. M. flaviventris","(Audubon & Bachman, 1841)",TRUE,6849,FALSE,"MAM",1530,44,"2013-01-30T00:00:00.000Z",NA
+"7125",7668,"Dip.cf.or","Dipodomys cf. D. ordii","Woodhouse, 1853",TRUE,6717,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"7126",7669,"Prg.cf.pa","Perognathus cf. P. parvus","(Peale, 1848)",TRUE,6910,FALSE,"MAM",1526,44,"2012-08-06T00:00:00.000Z",NA
+"7143",7686,"Syl.fl/tr","Sylvilagus floridanus/S. transitionalis","(J.A. Allen, 1890)|(Bangs, 1895)",TRUE,6975,FALSE,"MAM",1520,44,"2012-11-01T00:00:00.000Z",NA
+"7146",7689,"Spr.tr/mx","Spermophilus tridecemlineatus/S. mexicanus","(Mitchill, 1821)|(Erxleben, 1777)",TRUE,7516,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"7147",7690,"Spr.tr/sl","Spermophilus tridecemlineatus/S. spilosoma","(Mitchill, 1821)|Bennett, 1833",TRUE,7516,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"7151",7694,"Sor.ci/ha","Sorex cinereus/S. haydeni","Kerr, 1792|Baird, 1857",TRUE,7460,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"7152",7695,"Geo/Tho","Geomys/Thomomys","Rafinesque, 1817|Wied-Neuwied, 1839",TRUE,6078,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"7153",7696,"Geodae.sp","Geomyidae sp.","Bonaparte, 1845",TRUE,6078,FALSE,"MAM",1525,44,"2012-11-14T00:00:00.000Z",NA
+"7154",7697,"Prg.fv/fl","Perognathus flavus/P.flavescens","Baird, 1855|Merriam, 1889",TRUE,6910,FALSE,"MAM",1526,44,"2012-08-06T00:00:00.000Z",NA
+"7168",7711,"Sor.cf.pl","Sorex cf. S. palustris","Richardson, 1828",TRUE,6965,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"7169",7712,"Bla.cf.br","Blarina cf. B. brevicauda","(Say, 1823)",TRUE,6775,FALSE,"MAM",1522,44,"2012-11-28T00:00:00.000Z",NA
+"7175",7717,"cf.Ocm.nu","cf. Ochrotomys nuttalli",NA,TRUE,6462,FALSE,"MAM",1524,NA,NA,NA
+"7188",7730,"Sci.ng.ru","Sciurus niger rufiventer",NA,TRUE,6496,FALSE,"MAM",1530,NA,NA,NA
+"7192",7734,"Syl.cf.nu.gr","Sylvilagus cf. S. nuttallii grangeri","(J. Allen, 1895)",TRUE,6975,FALSE,"MAM",1520,44,"2012-11-01T00:00:00.000Z",NA
+"7193",7735,"Spr.va.ut","Spermophilus variegatus utah","Merriam, 1903",TRUE,6574,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"7194",7736,"Lep.ca.de","Lepus californicus deserticola","Mearns, 1896",TRUE,6156,FALSE,"MAM",1520,44,"2012-09-27T00:00:00.000Z",NA
+"7195",7737,"Tho.ta.ui","Thomomys talpoides uinta","Merriam, 1901",TRUE,6666,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"7196",7738,"Erz.do.ep","Erethizon dorsata epixanthus","Brandt, 1835",TRUE,6047,FALSE,"MAM",1531,44,"2012-11-09T00:00:00.000Z",NA
+"7208",7750,"Geo.pi.cu","Geomys pinetis cumberlandius","(Bangs, 1898)",TRUE,6085,FALSE,"MAM",1525,44,"2012-06-18T00:00:00.000Z",NA
+"7236",7779,"Myo/Mic","Myodes/Microtus","Pallas, 1811|Schrank, 1798",TRUE,6711,FALSE,"MAM",1524,44,"2012-06-08T00:00:00.000Z",NA
+"7237",7780,"Per.cf.ma","Peromyscus cf. P. maniculatus","(Wagner, 1845)",TRUE,6912,FALSE,"MAM",1524,44,"2012-08-17T00:00:00.000Z",NA
+"7238",7781,"Ntm.cf.ci","Neotoma cf. N. cinerea","(Ord, 1815)",TRUE,6895,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"7243",7786,"cf.Lep","cf. Lepus","Linnaeus, 1758",TRUE,6136,FALSE,"MAM",1529,44,"2012-09-27T00:00:00.000Z",NA
+"7244",7787,"?Ntm","?Neotoma","Say and Ord, 1825",TRUE,6462,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"7247",7790,"Mic.cf.mn","Microtus cf. M. montanus","(Peale, 1848)",TRUE,6853,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"7248",7791,"cf.Per","cf. Peromyscus","Gloger, 1841",TRUE,6462,FALSE,"MAM",1526,44,"2012-08-17T00:00:00.000Z",NA
+"7251",7794,"Spr.cf.ar","Spermophilus cf. S. armatus","Kennicott, 1863",TRUE,6917,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"7253",7796,"Syl/Lep","Sylvilagus/Lepus","Gray, 1867|Linnaeus, 1758",TRUE,6151,FALSE,"MAM",1520,44,"2012-09-27T00:00:00.000Z",NA
+"7254",7797,"Lep.cf.am","Lepus cf. L. americanus","Erxleben, 1777",TRUE,6840,FALSE,"MAM",1520,44,"2012-09-27T00:00:00.000Z",NA
+"9329",10038,"Alu","Aluralagus","Downey, 1968",TRUE,6151,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"9420",10010,"Hpl.re","Hypolagus regalis","Hibbard, 1939",TRUE,6826,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"9421",10011,"Hpl.az","Hypolagus arizonensis","Downey, 1962",TRUE,6826,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"9422",10012,"Ali.br","Alilepus browni","(Hay, 1921)",TRUE,6760,TRUE,"MAM",1534,44,"2012-05-23T00:00:00.000Z",NA
+"9423",10013,"Jac.ve","Jacobsomys verdensis","Czaplewski, 1987",TRUE,10014,TRUE,"MAM",5056,44,"2012-05-23T00:00:00.000Z",NA
+"9424",10014,"Jac","Jacobsomys","Czaplewski, 1987",TRUE,6835,TRUE,"MAM",5056,44,"2012-05-23T00:00:00.000Z",NA
+"9425",10015,"Hpl.vo","Hypolagus voorhiesi","White, 1987",TRUE,6826,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"9429",10019,"Jav.we","Javazapus weeksi","R.A. Martin, 1989",TRUE,10020,TRUE,"MAM",5058,44,"2012-05-24T00:00:00.000Z",NA
+"9430",10020,"Jav","Javazapus","R.A. Martin, 1989",TRUE,6698,TRUE,"MAM",5058,44,"2012-05-24T00:00:00.000Z",NA
+"9431",10021,"Zap.sy","Zapus sykesae","R.A. Martin, 1989",TRUE,6996,TRUE,"MAM",5058,44,"2012-05-24T00:00:00.000Z",NA
+"9432",10022,"Tyr","Tyrannomys","R.A. Martin, 1989",TRUE,10023,TRUE,"MAM",5058,44,"2012-05-24T00:00:00.000Z",NA
+"9433",10023,"Sicnae","Sicistinae","J.A. Allen, 1901",TRUE,6872,FALSE,"MAM",1521,44,"2012-05-24T00:00:00.000Z",NA
+"9434",10024,"Tyr.ha","Tyrannomys harkseni","R.A. Martin, 1989",TRUE,10022,TRUE,"MAM",5058,44,"2012-05-24T00:00:00.000Z",NA
+"9435",10025,"Lss.sp","Lasiopodomys sp.","Lataste, 1887",TRUE,6836,FALSE,"MAM",1524,44,"2012-05-24T00:00:00.000Z",NA
+"9441",10031,"Dpo","Dipoides","Schlosser, 1902",TRUE,5930,TRUE,"MAM",5061,44,"2013-01-30T00:00:00.000Z","McKenna & Bell (1997. Classification of mammals above the species level. Columbia Univ Press) consider Schlosser, 1902 to be the valid author of Dipoides and that Dipoides Jäger, 1835 is nomen nudum. However, Hugueney (1999, in Rössner & Heissig, eds. The Miocene land mammals of Europe. Verlag Dr. Friedrich Pfeil, pp. 281-300) considers Jäger, 1835 valid. [E.C. Grimm, 24 May 2012]"
+"9442",10032,"Dpo.sp","Dipoides sp.","Schlosser, 1902",TRUE,10031,TRUE,"MAM",5061,44,"2013-01-30T00:00:00.000Z",NA
+"9443",10033,"Dpo.wi","Dipoides wilsoni","Hibbard, 1949",TRUE,10031,TRUE,"MAM",5062,44,"2012-05-24T00:00:00.000Z",NA
+"9444",10034,"Dpo.rx","Dipoides rexroadensis","Hibbard & Riggs, 1949",TRUE,10031,TRUE,"MAM",5062,44,"2012-05-24T00:00:00.000Z",NA
+"9446",10036,"Dpr","Diprionomys","Kellogg, 1910",TRUE,6113,TRUE,"MAM",5063,44,"2012-05-24T00:00:00.000Z",NA
+"9447",10037,"Dpr.pa","Diprionomys parvus","Kellogg, 1910",TRUE,10036,TRUE,"MAM",5063,44,"2012-05-24T00:00:00.000Z",NA
+"9449",10039,"Alu.vi","Aluralagus virginiae","Downey, 1970",TRUE,10038,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"9450",10040,"Pcs.in","Procastoroides intermedius","(Zakrzewski, 1969)",TRUE,6945,TRUE,"MAM",5065,44,"2012-05-24T00:00:00.000Z",NA
+"9452",10042,"Dip.gi","Dipodomys gidleyi","Wood, 1935",TRUE,6717,TRUE,"MAM",1541,44,"2012-05-24T00:00:00.000Z",NA
+"9453",10043,"Nkl.pr","Nekrolagus progressus","(Hibbard, 1939)",TRUE,6880,TRUE,"MAM",1534,44,"2012-05-24T00:00:00.000Z",NA
+"9454",10044,"cf.Nkl.pr","cf. Nekrolagus progressus","(Hibbard, 1939)",TRUE,6151,TRUE,"MAM",1534,44,"2012-05-24T00:00:00.000Z",NA
+"9455",10045,"Nch.di","Neochoerus dichroplax","Ahearn and Lance, 1980",TRUE,6876,TRUE,"MAM",5067,44,"2012-05-25T00:00:00.000Z",NA
+"9458",10048,"Neb","Nebraskomys","Hibbard, 1957",TRUE,6711,TRUE,"MAM",5069,44,"2012-05-25T00:00:00.000Z",NA
+"9459",10049,"Neb.mc","Nebraskomys mcgrewi","Hibbard, 1957",TRUE,10048,TRUE,"MAM",5069,44,"2012-05-25T00:00:00.000Z",NA
+"9460",10050,"Neb.sp","Nebraskomys sp.","Hibbard, 1957",TRUE,10048,TRUE,"MAM",5069,44,"2012-05-25T00:00:00.000Z",NA
+"9463",10053,"Prd.ti","Prodipodomys tiheni","(Hibbard, 1943)",TRUE,6719,TRUE,"MAM",5063,44,"2012-05-25T00:00:00.000Z",NA
+"9465",10055,"Erz.ca","Erethizon cascoensis","(White, 1970)",TRUE,6727,TRUE,"MAM",5067,44,"2012-05-25T00:00:00.000Z",NA
+"9466",10056,"Nfb.di","Neofiber diluvianus","(Cope, 1896)",TRUE,6879,TRUE,"MAM",1541,44,"2012-05-25T00:00:00.000Z",NA
+"9467",10057,"Ntm.am","Neotoma amplidonta","Zakrzewski, 1985",TRUE,6881,TRUE,"MAM",5070,44,"2012-05-25T00:00:00.000Z",NA
+"9468",10058,"Ntm.sa","Neotoma sawrockensis","Hibbard, 1967",TRUE,7002,TRUE,"MAM",5071,44,"2012-05-25T00:00:00.000Z",NA
+"9469",10059,"Prd.id","Prodipodomys idahoensis","Hibbard, 1962",TRUE,6719,TRUE,"MAM",5065,44,"2012-05-25T00:00:00.000Z",NA
+"9470",10060,"Cup","Cupidinimus","Wood, 1935",TRUE,10062,TRUE,"MAM",5063,44,"2012-05-25T00:00:00.000Z",NA
+"9471",10061,"Cup.cf.bi","Cupidinimus cf. C. bidahochiensis","(Baskin, 1979)",TRUE,10060,TRUE,"MAM",5063,44,"2012-05-25T00:00:00.000Z",NA
+"9472",10062,"Dipnae","Dipodomyinae","Gervais, 1853",TRUE,6113,TRUE,"MAM",1526,44,"2012-05-25T00:00:00.000Z",NA
+"9473",10063,"Lep.ar","Lepus arcticus","Ross, 1819",TRUE,6840,FALSE,"MAM",1520,44,"2012-06-05T00:00:00.000Z",NA
+"9474",10064,"Nto","Notolagus","Wilson, 1938",TRUE,6151,TRUE,"MAM",1534,44,"2012-06-06T00:00:00.000Z",NA
+"9475",10065,"Nto.le","Notolagus lepusculus","(Hibbard, 1939)",TRUE,10064,TRUE,"MAM",1534,44,"2012-06-06T00:00:00.000Z",NA
+"9476",10066,"Ben","Bensonomys","Gazin, 1942",TRUE,6835,TRUE,"MAM",1574,44,"2012-06-06T00:00:00.000Z","The taxonomic placement of Bensonomys is uncertain. McKenna & Bell (1997) and Martin et al. (2002, JVP 22:137-151) place it as genus, whereas others place it as a subgenus of Calomys (e.g. Lindsay, 2008, Evolution of Tertiary mammals of North America. v. 2; ). See also discssion of Calomys in Musser & Carleton (2005, Wilson & Reeder, eds. Mammal species of the world, 3rd ed.). [E.C. Grimm, 6 Jun 2012]"
+"9477",10067,"Ben.az","Bensonomys arizonae","Gidley, 1922",TRUE,10066,TRUE,"MAM",5074,44,"2012-06-06T00:00:00.000Z",NA
+"9496",10086,"cf.Myo.ru","cf. Myodes rutilus","(Pallas, 1779)",TRUE,6462,FALSE,"MAM",1524,44,"2012-06-08T00:00:00.000Z",NA
+"9497",10087,"Cyn.ve","Cynomys vetus","Hibbard, 1942",TRUE,6804,TRUE,"MAM",5072,44,"2012-06-09T00:00:00.000Z",NA
+"9498",10088,"cf. Cyn.ve","cf. Cynomys vetus","Hibbard, 1942",TRUE,6462,TRUE,"MAM",5072,44,"2012-06-09T00:00:00.000Z",NA
+"9518",10108,"Mar.mi","Marmota minor","Kellogg, 1910",TRUE,6849,TRUE,"MAM",5080,44,"2012-06-13T00:00:00.000Z",NA
+"9519",10109,"cf.Ali.wi","cf. Alilepus wilsoni","White, 1991",TRUE,6136,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"9520",10110,"Pae.ne","Paenemarmota nevadensis","(Kellogg, 1910)",TRUE,10111,TRUE,"MAM",5081,44,"2012-06-14T00:00:00.000Z",NA
+"9521",10111,"Pae","Paenemarmota","Hibbard & Schultz, 1948",TRUE,6462,TRUE,"MAM",5092,44,"2012-06-14T00:00:00.000Z",NA
+"9522",10112,"Pae.sa","Paenemarmota sawrockensis","Hibbard, 1964",TRUE,10111,TRUE,"MAM",5082,44,"2012-06-14T00:00:00.000Z",NA
+"9523",10113,"Phn.gr","Phenacomys gryci","Repenning, 1987",TRUE,6919,TRUE,"MAM",5069,44,"2012-06-14T00:00:00.000Z",NA
+"9524",10114,"cf.Dip.co","cf. Dipodomys compactus","True, 1889",TRUE,6462,FALSE,"MAM",1526,44,"2012-06-14T00:00:00.000Z",NA
+"9526",10116,"Geo.ps","Geomys persimilis","(Hay, 1927)",TRUE,6753,TRUE,"MAM",5063,44,"2012-06-15T00:00:00.000Z",NA
+"9528",10117,"cf.Geo.ps","cf. Geomys persimilis","(Hay, 1927)",TRUE,6462,TRUE,"MAM",5063,44,"2012-06-15T00:00:00.000Z",NA
+"9529",10118,"cf.Geo.to","cf. Geomys tobinensis","(Hibbard, 1944)",TRUE,6462,TRUE,"MAM",5063,44,"2012-06-15T00:00:00.000Z",NA
+"9531",10120,"Geo.mi","Geomys minor","Gidley, 1922",TRUE,6753,TRUE,"MAM",5063,44,"2012-06-15T00:00:00.000Z",NA
+"9532",10121,"Oge.pr","Orthogeomys propinetis","(Wilkins, 1984)",TRUE,6820,TRUE,"MAM",1539,44,"2012-06-15T00:00:00.000Z",NA
+"9533",10122,"cf.Oge.pr","cf. Orthogeomys propinetis","(Wilkins, 1984)",TRUE,6462,TRUE,"MAM",1539,44,"2012-06-15T00:00:00.000Z",NA
+"9534",10123,"Geo.qu","Geomys quinni","McGrew, 1944",TRUE,6956,TRUE,"MAM",5063,44,"2012-06-15T00:00:00.000Z",NA
+"9535",10124,"cf.Geo.qu","cf. Geomys quinni","McGrew, 1944",TRUE,6462,TRUE,"MAM",5063,44,"2012-06-15T00:00:00.000Z",NA
+"9536",10125,"Plg","Pliogeomys","Hibbard, 1954",TRUE,6078,TRUE,"MAM",5063,44,"2012-06-15T00:00:00.000Z",NA
+"9537",10126,"Plg.bu","Pliogeomys buisi","Hibbard, 1954",TRUE,10125,TRUE,"MAM",5063,44,"2012-06-15T00:00:00.000Z",NA
+"9538",10127,"Plg.pa","Pliogeomys parvus","Zakrzewski,1969",TRUE,10125,TRUE,"MAM",5065,44,"2012-06-15T00:00:00.000Z",NA
+"9539",10128,"Cra.sa","Cratogeomys sansimonensis","(Tomida, 1987)",TRUE,6800,TRUE,"MAM",1567,44,"2012-06-18T00:00:00.000Z",NA
+"9540",10129,"Geo.ad","Geomys adamsi","Hibbard, 1967",TRUE,6956,TRUE,"MAM",5085,44,"2012-06-18T00:00:00.000Z",NA
+"9541",10130,"Geo(Ner)sp","Geomys (Nerterogeomys) sp.","Gazin, 1942",TRUE,6753,TRUE,"MAM",1586,44,"2012-06-18T00:00:00.000Z",NA
+"9542",10131,"Geo.pi.fl","Geomys pinetis floridanus","(Audubon and Bachman, 1853)",TRUE,6085,FALSE,"MAM",1525,44,"2012-06-18T00:00:00.000Z",NA
+"9543",10132,"Geo.ja","Geomys jacobi","Hibbard, 1967",TRUE,6956,TRUE,"MAM",5086,44,"2012-06-18T00:00:00.000Z",NA
+"9544",10133,"Geo.sm","Geomys smithi","(Hibbard, 1967)",TRUE,6753,TRUE,"MAM",1617,44,"2012-06-18T00:00:00.000Z",NA
+"9545",10134,"?Geo.mi","?Geomys minor","Gidley, 1922",TRUE,6462,TRUE,"MAM",5063,44,"2012-06-25T00:00:00.000Z",NA
+"9546",10135,"?Geo.an","?Geomys anzensis","Becker and White, 1981",TRUE,6462,TRUE,"MAM",5063,44,"2012-06-26T00:00:00.000Z",NA
+"9547",10137,"?Geo.ga","?Geomys garbanii","White and Downs, 1961",TRUE,6462,TRUE,"MAM",5063,44,"2012-06-26T00:00:00.000Z",NA
+"9548",10138,"Cra.be","Cratogeomys bensoni","Gidley, 1922",TRUE,6800,TRUE,"MAM",5063,44,"2012-06-26T00:00:00.000Z",NA
+"9549",10139,"Pcs.sw","Procastoroides sweeti","Barbour & Schultz, 1937",TRUE,6945,TRUE,"MAM",1541,44,"2012-06-26T00:00:00.000Z",NA
+"9550",10142,"Pcs.sp","Procastoroides sp.","Barbour & Schultz, 1937",TRUE,6945,TRUE,"MAM",1574,44,"2012-06-26T00:00:00.000Z",NA
+"9551",10143,"cf.Pcs.id","cf. Procastoroides idahoensis","Shotwell, 1970",TRUE,6462,TRUE,"MAM",1541,44,"2012-06-26T00:00:00.000Z",NA
+"9552",10145,"cf.Pcs.sw","cf. Procastoroides sweeti","Barbour & Schultz, 1937",TRUE,6462,TRUE,"MAM",1541,44,"2012-06-26T00:00:00.000Z",NA
+"9553",10146,"Mic.(Ste)","Microtus (Stenocranius)","Kastschenko, 1901",TRUE,6853,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"9554",10148,"Mic.gr","Microtus gregalis","(Pallas, 1779)",TRUE,10146,FALSE,"MAM",1524,44,"2012-06-27T00:00:00.000Z",NA
+"12445",13428,"Oph.ta","Ophiomys taylori","(Hibbard, 1959)",TRUE,13409,TRUE,"MAM",5069,44,"2012-07-30T00:00:00.000Z",NA
+"12778",13368,"cf.Lss.de","cf. Lasiopodomys deceitensis","(Guthrie & Matthews, 1971)",TRUE,6462,TRUE,"MAM",1597,44,"2012-07-20T00:00:00.000Z",NA
+"12779",13369,"All.sp","Allophaiomys sp.","Kormos, 1932",TRUE,5832,TRUE,"MAM",1536,44,"2012-07-20T00:00:00.000Z",NA
+"12780",13370,"Syn.ka","Synaptomys kansasensis","Hibbard, 1952",TRUE,6856,TRUE,"MAM",1541,44,"2012-07-20T00:00:00.000Z",NA
+"12781",13371,"Syn.me/ka","Synaptomys meltoni/S. kansasensis","Paulson, 1961|Hibbard, 1952",TRUE,6856,TRUE,"MAM",1541,44,"2012-07-20T00:00:00.000Z",NA
+"12782",13372,"cf.Mic.oe","cf. Microtus oeconomus","(Pallas, 1776)",TRUE,6462,FALSE,"MAM",1524,44,"2012-07-20T00:00:00.000Z",NA
+"12789",13381,"cf.Sor.pr","cf. Sorex pratensis","(Hibbard, 1944)",TRUE,6829,TRUE,"MAM",1631,44,"2012-07-24T00:00:00.000Z",NA
+"12790",13382,"Plx","Planisorex","Hibbard, in Skinner & Hibbard, 1972",TRUE,6549,TRUE,"MAM",5090,44,"2012-07-24T00:00:00.000Z",NA
+"12791",13383,"Plx.di","Planisorex dixonensis","(Hibbard, 1956)",TRUE,13382,TRUE,"MAM",5090,44,"2012-07-24T00:00:00.000Z",NA
+"12792",13384,"Sor.re","Sorex rexroadensis","Hibbard, 1953",TRUE,6965,TRUE,"MAM",5090,44,"2012-07-25T00:00:00.000Z",NA
+"12793",13385,"cf.Sor.re","cf. Sorex rexroadensis","Hibbard, 1953",TRUE,6549,TRUE,"MAM",5090,44,"2012-07-25T00:00:00.000Z",NA
+"12794",13386,"cf.Sor.ml","cf. Sorex meltoni","Hibbard & Bjork, 1971",TRUE,6549,TRUE,"MAM",5090,44,"2012-07-25T00:00:00.000Z",NA
+"12795",13387,"cf.Plx.di","cf. Planisorex dixonensis","(Hibbard, 1956)",TRUE,6549,TRUE,"MAM",5090,44,"2012-07-25T00:00:00.000Z",NA
+"12796",13388,"Sor.sa","Sorex sandersi","Hibbard, 1956",TRUE,6965,TRUE,"MAM",5090,44,"2012-07-25T00:00:00.000Z",NA
+"12797",13389,"cf.Sor.sa","cf. Sorex sandersi","Hibbard, 1956",TRUE,6549,TRUE,"MAM",5090,44,"2012-07-25T00:00:00.000Z",NA
+"12798",13390,"af.Sor.sa","aff. Sorex sandersi","Hibbard, 1956",TRUE,6549,TRUE,"MAM",5090,44,"2012-07-25T00:00:00.000Z",NA
+"12799",13391,"?Sor.sp","?Sorex sp.","Linnaeus, 1758",TRUE,6829,TRUE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"12800",13392,"af.Sor.ci","aff. Sorex cinereus","Kerr, 1792",TRUE,6549,FALSE,"MAM",1522,44,"2012-07-25T00:00:00.000Z",NA
+"12801",13393,"Sor.ta","Sorex taylori","Hibbard, 1937",TRUE,6965,TRUE,"MAM",5090,44,"2012-07-25T00:00:00.000Z",NA
+"12802",13394,"Sor.le","Sorex leahyi","Hibbard, 1956",TRUE,6965,TRUE,"MAM",5090,44,"2012-07-25T00:00:00.000Z",NA
+"12803",13395,"Sor.hg","Sorex hagermanensis","Hibbard & Bjork, 1971",TRUE,6965,TRUE,"MAM",5090,44,"2012-07-25T00:00:00.000Z",NA
+"12804",13396,"Sor.po","Sorex powersi","Hibbard & Bjork, 1971",TRUE,6965,TRUE,"MAM",5090,44,"2012-07-25T00:00:00.000Z",NA
+"12816",13408,"cf.Syn.ve","cf. Synaptomys vetus","Wilson, 1933",TRUE,6462,TRUE,"MAM",1646,44,"2012-07-27T00:00:00.000Z",NA
+"12817",13409,"Oph","Ophiomys","Hibbard & Zakrzewski, 1967",TRUE,6711,TRUE,"MAM",5069,6706,"2017-10-30T00:00:00.000Z",NA
+"12818",13410,"Oph.mk","Ophiomys mcknighti","(Gustafson, 1978)",TRUE,13409,TRUE,"MAM",5069,44,"2012-07-27T00:00:00.000Z",NA
+"12819",13411,"Oph.ma","Ophiomys magilli","Skinner & Hibbard, 1972",TRUE,13409,TRUE,"MAM",5069,44,"2012-07-27T00:00:00.000Z",NA
+"12820",13412,"Oph.pa","Ophiomys parvus","(Wilson, 1933)",TRUE,13409,TRUE,"MAM",5069,44,"2012-07-27T00:00:00.000Z",NA
+"12821",13416,"Ogm","Ogmodontomys","Hibbard, 1941",TRUE,6711,TRUE,"MAM",5069,6706,"2017-10-30T00:00:00.000Z",NA
+"12822",13417,"Ogm.sa","Ogmodontomys sawrockensis","Hibbard, 1957",TRUE,13416,TRUE,"MAM",5069,44,"2012-07-30T00:00:00.000Z",NA
+"12823",13418,"Mim.da","Mimomys dakotaensis","Martin, 1989",TRUE,6860,TRUE,"MAM",5069,44,"2012-07-30T00:00:00.000Z",NA
+"12824",13419,"Lou","Loupomys","Koenigswald & Martin, 1984",TRUE,5953,TRUE,"MAM",5069,44,"2012-07-30T00:00:00.000Z",NA
+"12825",13420,"Lou.mo","Loupomys monahani","(Martin, 1972)",TRUE,13419,TRUE,"MAM",5069,44,"2012-07-30T00:00:00.000Z",NA
+"12826",13421,"Ogm.po","Ogmodontomys poaphagus","Hibbard, 1941",TRUE,13416,TRUE,"MAM",5069,44,"2012-07-30T00:00:00.000Z",NA
+"12827",13423,"Cos","Cosomys","Wilson, 1932",TRUE,5953,TRUE,"MAM",5069,44,"2012-07-30T00:00:00.000Z",NA
+"12828",13424,"Cos.pr","Cosomys primus","Wilson, 1932",TRUE,13423,TRUE,"MAM",5069,44,"2012-07-30T00:00:00.000Z",NA
+"12829",13425,"?Oph.pa","?Ophiomys parvus","(Wilson, 1933)",TRUE,6462,TRUE,"MAM",5069,44,"2012-07-30T00:00:00.000Z",NA
+"12830",13426,"cf. Mim.da","cf. Mimomys dakotaensis","Martin, 1989",TRUE,6462,TRUE,"MAM",5069,44,"2012-07-30T00:00:00.000Z",NA
+"12831",13427,"cf.Oph.pa","cf. Ophiomys parvus","(Wilson, 1933)",TRUE,6462,TRUE,"MAM",5069,44,"2012-07-30T00:00:00.000Z",NA
+"12832",13429,"cf.Oph.ta","cf. Ophiomys taylori","(Hibbard, 1959)",TRUE,6462,TRUE,"MAM",5069,44,"2012-07-30T00:00:00.000Z",NA
+"12841",13438,"Pae.ba","Paenemarmota barbouri","Hibbard & Schultz, 1948",TRUE,10111,TRUE,"MAM",5092,44,"2012-07-31T00:00:00.000Z",NA
+"12842",13439,"Pae.sp","Paenemarmota sp.","Hibbard & Schultz, 1948",TRUE,10111,TRUE,"MAM",1574,44,"2012-08-01T00:00:00.000Z",NA
+"12845",13442,"Phn.de","Phenacomys deeringensis","(Guthrie & Matthews, 1971)",TRUE,6919,TRUE,"MAM",5093,44,"2012-08-01T00:00:00.000Z",NA
+"12846",13443,"Pph","Pliophenacomys","Hibbard, 1937",TRUE,6711,TRUE,"MAM",5069,44,"2014-05-01T00:00:00.000Z",NA
+"12847",13445,"Pph.pr","Pliophenacomys primaevus","Hibbard, 1937",TRUE,13443,TRUE,"MAM",5069,44,"2012-08-01T00:00:00.000Z",NA
+"12848",13446,"Pph.os","Pliophenacomys osborni","Martin, 1972",TRUE,13443,TRUE,"MAM",5094,44,"2012-08-01T00:00:00.000Z",NA
+"12849",13447,"Pph.sp","Pliophenacomys sp.","Hibbard, 1937",TRUE,13443,TRUE,"MAM",5069,44,"2012-08-01T00:00:00.000Z",NA
+"12850",13449,"Pph.fi","Pliophenacomys finneyi","Hibbard & Zakrzewski, 1972",TRUE,13443,TRUE,"MAM",5069,44,"2012-08-01T00:00:00.000Z",NA
+"12851",13450,"?Pph.os","?Pliophenacomys osborni","Martin, 1972",TRUE,5953,TRUE,"MAM",5094,44,"2012-08-01T00:00:00.000Z",NA
+"12852",13451,"cf.Pph.pr","cf. Pliophenacomys primaevus","Hibbard, 1937",TRUE,5953,TRUE,"MAM",5069,44,"2012-08-02T00:00:00.000Z",NA
+"12853",13452,"cf.Pph.os","cf. Pliophenacomys osborni","Martin, 1972",TRUE,5953,TRUE,"MAM",5094,44,"2012-08-02T00:00:00.000Z",NA
+"12854",13453,"cf.Phn.gr","cf. Phenacomys gryci","Repenning, 1987",TRUE,5953,TRUE,"MAM",5069,44,"2012-08-02T00:00:00.000Z",NA
+"12855",13454,"Ond.zi/me","Ondatra zibethicus /meadensis","(Hibbard, 1937)",TRUE,6334,TRUE,"MAM",5069,44,"2012-08-02T00:00:00.000Z",NA
+"12856",13455,"cf.Ond.zi/me","cf. Ondatra zibethicus /meadensis","(Hibbard, 1937)",TRUE,6462,TRUE,"MAM",5069,44,"2012-08-02T00:00:00.000Z",NA
+"12857",13456,"Ntm.qu","Neotoma quadriplicata","(Hibbard, 1941)",TRUE,7002,TRUE,"MAM",5071,44,"2012-08-02T00:00:00.000Z",NA
+"12858",13457,"Ntm(Par)sp","Neotoma (Paraneotoma) sp.","Hibbard, 1967",TRUE,7002,TRUE,"MAM",5071,44,"2012-08-02T00:00:00.000Z",NA
+"12859",13458,"Ntm.ta","Neotoma taylori","Hibbard, 1967",TRUE,7002,TRUE,"MAM",5071,44,"2012-08-02T00:00:00.000Z",NA
+"12860",13459,"Ntm.va","Neotoma vaughani","Czaplewski, 1990",TRUE,7002,TRUE,"MAM",5071,44,"2012-08-02T00:00:00.000Z",NA
+"12861",13460,"Ntm.sp.nr.ta","Neotoma sp. nr. taylori","Hibbard, 1967",TRUE,7002,TRUE,"MAM",5071,44,"2012-08-03T00:00:00.000Z",NA
+"12862",13461,"Ntm.oz","Neotoma ozarkensis","Brown, 1908",TRUE,6881,TRUE,"MAM",5096,44,"2012-08-03T00:00:00.000Z",NA
+"12863",13462,"?Ntm.sp","?Neotoma sp.","Say and Ord, 1825",TRUE,6462,FALSE,"MAM",1524,44,"2012-08-03T00:00:00.000Z",NA
+"12864",13463,"?Ntm.qu","?Neotoma quadriplicata","(Hibbard, 1941)",TRUE,6462,TRUE,"MAM",5071,44,"2012-08-03T00:00:00.000Z",NA
+"12865",13464,"cf.Ntm.qu","cf. Neotoma quadriplicata","(Hibbard, 1941)",TRUE,6462,TRUE,"MAM",5071,44,"2012-08-03T00:00:00.000Z",NA
+"12866",13465,"cf.Ntm.sa","cf. Neotoma sawrockensis","Hibbard, 1967",TRUE,6462,TRUE,"MAM",5071,44,"2012-08-03T00:00:00.000Z",NA
+"12867",13466,"cf.Ntm.fo","cf. Neotoma fossilis","Gidley, 1922",TRUE,6462,TRUE,"MAM",5071,44,"2012-08-03T00:00:00.000Z",NA
+"12868",13467,"Prg.mc","Perognathus mclaughlini","Hibbard, 1949",TRUE,6910,TRUE,"MAM",5063,44,"2012-08-03T00:00:00.000Z",NA
+"12869",13468,"Prg.ma","Perognathus maldei","Zakrzewski, 1969",TRUE,6910,TRUE,"MAM",5063,44,"2012-08-03T00:00:00.000Z",NA
+"12870",13469,"Prg.pr","Perognathus pearlettensis","Hibbard, 1941",TRUE,6910,TRUE,"MAM",5063,44,"2012-08-03T00:00:00.000Z",NA
+"12871",13470,"Prg.gi","Perognathus gidleyi","Hibbard, 1941",TRUE,6910,TRUE,"MAM",5063,44,"2012-08-03T00:00:00.000Z",NA
+"12872",13471,"Prg.cr","Perognathus carpenteri","Dalquest, 1978",TRUE,6910,TRUE,"MAM",5063,44,"2012-08-06T00:00:00.000Z",NA
+"12873",13472,"Prg.rx","Perognathus rexroadensis","Hibbard, 1950",TRUE,6910,TRUE,"MAM",5063,44,"2012-08-06T00:00:00.000Z",NA
+"12874",13473,"Prg.st","Perognathus strigipredus","Czaplewski, 1990",TRUE,6910,TRUE,"MAM",5097,44,"2012-08-06T00:00:00.000Z",NA
+"12875",13474,"cf.Prgnae.sp","cf. Perognathinae sp.","Coues, 1875",TRUE,6462,FALSE,"MAM",1526,44,"2012-08-06T00:00:00.000Z",NA
+"12876",13475,"cf.Prg.rx","cf. Perognathus rexroadensis","Hibbard, 1950",TRUE,6462,TRUE,"MAM",5063,44,"2012-08-06T00:00:00.000Z",NA
+"12877",13476,"cf.Prg.pr","cf. Perognathus pearlettensis","Hibbard, 1941",TRUE,6462,TRUE,"MAM",5063,44,"2012-08-06T00:00:00.000Z",NA
+"12878",13477,"cf.Prg.gi","cf. Perognathus gidleyi","Hibbard, 1941",TRUE,6462,TRUE,"MAM",5063,44,"2012-08-06T00:00:00.000Z",NA
+"12879",13478,"cf.Prg.mc","cf. Perognathus mclaughlini","Hibbard, 1949",TRUE,6462,TRUE,"MAM",5063,44,"2012-08-06T00:00:00.000Z",NA
+"12909",13508,"cf.Sig.cu","cf. Sigmodon curtisi","Gidley, 1922",TRUE,6462,TRUE,"MAM",5071,44,"2012-08-09T00:00:00.000Z",NA
+"12910",13510,"Sig.me","Sigmodon medius","Gidley, 1922",TRUE,6505,TRUE,"MAM",5071,44,"2012-08-10T00:00:00.000Z",NA
+"12911",13511,"cf.Sig.me","cf. Sigmodon medius","Gidley, 1922",TRUE,6462,TRUE,"MAM",5071,44,"2012-08-10T00:00:00.000Z",NA
+"12912",13512,"?Sig.mi","?Sigmodon minor","Gidley, 1922",TRUE,6962,TRUE,"MAM",5071,44,"2012-08-10T00:00:00.000Z",NA
+"12913",13513,"?Sig.sp","?Sigmodon sp.","Say & Ord, 1825",TRUE,6462,TRUE,"MAM",1524,44,"2012-08-10T00:00:00.000Z",NA
+"12914",13514,"Psg","Prosigmodon","Jacobs & Lindsay, 1981",TRUE,5953,TRUE,"MAM",5071,44,"2012-08-10T00:00:00.000Z",NA
+"12915",13515,"Psg.ho","Prosigmodon holocuspis","Czaplewski, 1987",TRUE,13514,TRUE,"MAM",5071,44,"2012-08-10T00:00:00.000Z",NA
+"12916",13516,"Cyn.hi","Cynomys hibbardi","Eshelman, 1975",TRUE,6804,TRUE,"MAM",5092,44,"2012-08-10T00:00:00.000Z",NA
+"12917",13517,"?Cyn.lu","?Cynomys ludovicianus","Ord, 1815",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-10T00:00:00.000Z",NA
+"12918",13518,"cf.Spr.ho","cf. Spermophilus howelli","(Hibbard, 1941)",TRUE,6462,TRUE,"MAM",5072,44,"2012-08-10T00:00:00.000Z",NA
+"12919",13519,"cf.Spr.ru","cf. Spermophilus russelli","Gustafson, 1978",TRUE,6462,TRUE,"MAM",5092,44,"2012-08-10T00:00:00.000Z",NA
+"12920",13520,"cf.Spr.pa","cf. Spermophilus parryii","(Richardson, 1825)",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"12921",13521,"Spr.bn","Spermophilus bensoni","Gidley, 1922",TRUE,6917,TRUE,"MAM",5092,44,"2012-08-13T00:00:00.000Z",NA
+"12922",13522,"cf.Spr.bn","cf. Spermophilus bensoni","Gidley, 1922",TRUE,6462,TRUE,"MAM",5092,44,"2012-08-13T00:00:00.000Z",NA
+"12923",13523,"Spr.un","Spermophilus undulatus","(Pallas, 1778)",TRUE,6917,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"12924",13525,"cf.Spr.un","cf. Spermophilus undulatus","(Pallas, 1778)",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"12925",13526,"?Spr.pa","?Spermophilus parryii","(Richardson, 1825)",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"12926",13527,"?Spr.ru","?Spermophilus russelli","Gustafson, 1978",TRUE,6462,TRUE,"MAM",5092,44,"2012-08-13T00:00:00.000Z",NA
+"12927",13528,"?Spr.ri","?Spermophilus richardsonii","(Sabine, 1822)",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"12928",13529,"?Spr.sp","?Spermophilus sp.","F. Cuvier, 1825",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"12929",13530,"?Spr.tr","?Spermophilus tridecemlineatus","(Mitchill, 1821)",TRUE,6462,FALSE,"MAM",1530,44,"2012-08-13T00:00:00.000Z",NA
+"12930",13531,"Spr.bo","Spermophilus boothi","Skinner & Hibbard, 1972",TRUE,6917,TRUE,"MAM",5092,44,"2012-08-13T00:00:00.000Z",NA
+"12931",13532,"Spr.ch","Spermophilus cochisei","Gidley, 1922",TRUE,7512,TRUE,"MAM",5092,44,"2012-08-13T00:00:00.000Z",NA
+"12932",13533,"Spr.do","Spermophilus dotti","Hibbard, 1954",TRUE,6917,TRUE,"MAM",5092,44,"2012-08-13T00:00:00.000Z",NA
+"12933",13534,"Spr.jo","Spermophilus johnsoni","Skinner & Hibbard, 1972",TRUE,6917,TRUE,"MAM",5092,44,"2012-08-13T00:00:00.000Z",NA
+"12934",13535,"Spr.lo","Spermophilus lorisrusselli","Hibbard, 1976",TRUE,6917,TRUE,"MAM",6001,44,"2012-08-13T00:00:00.000Z",NA
+"12935",13536,"Spr.ml","Spermophilus meltoni","Skinner & Hibbard, 1972",TRUE,6917,TRUE,"MAM",5092,44,"2012-08-13T00:00:00.000Z",NA
+"12936",13537,"Spr.rx","Spermophilus rexroadensis","(Hibbard, 1941)",TRUE,6917,TRUE,"MAM",5092,44,"2012-08-13T00:00:00.000Z",NA
+"12937",13538,"Amm.hn","Ammospermophilus hanfordi","Gustafson, 1978",TRUE,6761,TRUE,"MAM",5092,44,"2012-08-13T00:00:00.000Z",NA
+"12938",13539,"Per.ha","Peromyscus hagermanensis","Hibbard, 1962",TRUE,6912,TRUE,"MAM",5071,44,"2012-08-13T00:00:00.000Z",NA
+"12940",13540,"Per.cm","Peromyscus complexus","Albright, 1999",TRUE,6912,TRUE,"MAM",5071,44,"2012-08-14T00:00:00.000Z",NA
+"12941",13541,"Per.ka","Peromyscus kansasensis","Hibbard, 1941",TRUE,6912,TRUE,"MAM",5071,44,"2012-08-14T00:00:00.000Z",NA
+"12942",13542,"Per.cf.ka","Peromyscus cf. P. kansasensis","Hibbard, 1941",TRUE,6912,TRUE,"MAM",5071,44,"2012-08-14T00:00:00.000Z",NA
+"12943",13543,"Smm","Symmetrodontomys","Hibbard, 1941",TRUE,5953,TRUE,"MAM",5071,44,"2012-08-14T00:00:00.000Z",NA
+"12944",13544,"Smm.be","Symmetrodontomys beckensis","(Dalquest, 1978)",TRUE,13543,TRUE,"MAM",5071,44,"2012-08-14T00:00:00.000Z",NA
+"12945",13545,"Per.be","Peromyscus berendsensis","Starrett, 1956",TRUE,6912,TRUE,"MAM",1541,44,"2012-08-14T00:00:00.000Z",NA
+"12946",13546,"Per.ba","Peromyscus baumgartneri","Hibbard, 1954",TRUE,6912,TRUE,"MAM",5071,44,"2012-08-14T00:00:00.000Z",NA
+"12947",13547,"Per.?ba","Peromyscus ?baumgartneri","Hibbard, 1954",TRUE,6912,TRUE,"MAM",5071,44,"2012-08-14T00:00:00.000Z",NA
+"12948",13548,"Per.aq","Peromyscus antiquus","Kellogg, 1910",TRUE,6912,TRUE,"MAM",5071,44,"2012-08-14T00:00:00.000Z",NA
+"12949",13549,"Per.cf.ha","Peromyscus cf. P. hagermanensis","Hibbard, 1962",TRUE,6912,TRUE,"MAM",5071,44,"2012-08-14T00:00:00.000Z",NA
+"12950",13550,"Atc","Antecalomys","Korth, 1998",TRUE,5953,TRUE,"MAM",5071,44,"2012-08-14T00:00:00.000Z",NA
+"12951",13551,"Atc.va","Antecalomys valensis","(Shotwell, 1967)",TRUE,13550,TRUE,"MAM",5071,44,"2012-08-14T00:00:00.000Z",NA
+"12952",13552,"Per.mx","Peromyscus maximus","Albright, 1999",TRUE,6912,TRUE,"MAM",5071,44,"2012-08-15T00:00:00.000Z",NA
+"12953",13553,"Per.no","Peromyscus nosher","Gustafson, 1978",TRUE,6912,TRUE,"MAM",5071,44,"2012-08-15T00:00:00.000Z",NA
+"12954",13554,"Oph.sp","Ophiomys sp.","Hibbard & Zakrzewski, 1967",TRUE,13409,TRUE,"MAM",5069,44,"2012-08-16T00:00:00.000Z",NA
+"12955",13555,"Per.cf.ba","Peromyscus cf. P. baumgartneri","Hibbard, 1954",TRUE,6912,TRUE,"MAM",5071,44,"2012-08-16T00:00:00.000Z",NA
+"12956",13556,"Smm.si","Symmetrodontomys simplicidens","Hibbard, 1941",TRUE,13543,TRUE,"MAM",5071,44,"2012-08-16T00:00:00.000Z",NA
+"12957",13557,"cf.Per.cg","cf. Peromyscus cragini","Hibbard, 1944",TRUE,6462,TRUE,"MAM",5071,44,"2012-08-16T00:00:00.000Z",NA
+"12958",13559,"cf.Per.co","cf. Peromyscus cochrani","Hibbard, 1955",TRUE,6462,TRUE,"MAM",1541,44,"2012-08-16T00:00:00.000Z",NA
+"12959",13560,"cf.Per.ba","cf. Peromyscus baumgartneri","Hibbard, 1954",TRUE,6462,TRUE,"MAM",5071,44,"2012-08-16T00:00:00.000Z",NA
+"12960",13561,"cf.Per.ha","cf. Peromyscus hagermanensis","Hibbard, 1962",TRUE,6462,TRUE,"MAM",5071,44,"2012-08-16T00:00:00.000Z",NA
+"12961",13562,"cf.Per.ka","cf. Peromyscus kansasensis","Hibbard, 1941",TRUE,6462,TRUE,"MAM",5071,44,"2012-08-16T00:00:00.000Z",NA
+"12962",13563,"cf.Per.pr","cf. Peromyscus progressus","Hibbard, 1960",TRUE,6462,TRUE,"MAM",1541,44,"2012-08-16T00:00:00.000Z",NA
+"12963",13564,"cf.Per.me","cf. Peromyscus merriami","Mearns, 1896",TRUE,6462,FALSE,"MAM",1524,44,"2012-08-16T00:00:00.000Z",NA
+"12964",13565,"?Dip.sp","?Dipodomys sp.","Gray, 1841",TRUE,6462,FALSE,"MAM",1526,44,"2012-08-16T00:00:00.000Z",NA
+"12965",13566,"?Prd.sp","?Prodipodomys sp.","Hibbard, 1939",TRUE,6462,TRUE,"MAM",5063,44,"2012-08-16T00:00:00.000Z",NA
+"12966",13567,"Prd.tm","Prodipodomys timoteoensis","Albright, 1999",TRUE,6719,TRUE,"MAM",5063,44,"2012-08-16T00:00:00.000Z",NA
+"12967",13569,"?Prd.mi","?Prodipodomys minor","(Gidley, 1922)",TRUE,6462,TRUE,"MAM",5063,44,"2012-08-17T00:00:00.000Z",NA
+"12968",13570,"Prd.ri","Prodipodomys riversidensis","Albright, 1999",TRUE,6719,TRUE,"MAM",5063,44,"2012-08-17T00:00:00.000Z",NA
+"12982",13586,"Pra","Pratilepus","Hibbard, 1939",TRUE,6151,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"12983",13587,"Hpl/Pra.sp","Hypolagus/Pratilepus sp.","Dice, 1917|Hibbard, 1939",TRUE,6151,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"12984",13588,"?Alu.vi","?Aluralagus virginiae","Downey, 1970",TRUE,6136,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"12985",13590,"cf.Hpl.ed","cf. Hypolagus edensis","Frick, 1921",TRUE,6136,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"12986",13591,"cf.Hpl.fu","cf. Hypolagus furlongi","Gazin, 1934",TRUE,6136,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"12987",13592,"cf.Hpl.gi","cf. Hypolagus gidleyi","White, 1987",TRUE,6136,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"12988",13593,"cf.Hpl.sp","cf. Hypolagus sp.","Dice, 1917",TRUE,6136,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"12989",13594,"cf.Hpl.ve","cf. Hypolagus vetus","(Kellogg, 1910)",TRUE,6136,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"12990",13595,"Pra.sp","Pratilepus sp.","Hibbard, 1939",TRUE,13586,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"12991",13596,"Pra.ka","Pratilepus kansasensis","Hibbard, 1939",TRUE,13586,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"12992",13597,"Alu.sp","Aluralagus sp.","Downey, 1968",TRUE,10038,TRUE,"MAM",5064,44,"2012-09-27T00:00:00.000Z",NA
+"12993",13598,"Lepdae.cf.Lep.sp","Leporidae cf. Lepus sp.","Linnaeus, 1758",TRUE,6151,FALSE,"MAM",1520,44,"2012-09-27T00:00:00.000Z",NA
+"12996",13602,"Lep.be","Lepus benjamini","Hay, 1921",TRUE,6840,TRUE,"MAM",1541,44,"2012-09-27T00:00:00.000Z",NA
+"12998",13604,"?Lep.am","?Lepus americanus","Erxleben, 1777",TRUE,6136,FALSE,"MAM",1520,44,"2012-09-28T00:00:00.000Z",NA
+"12999",13605,"cf.Lep.cl","cf. Lepus callotis","Wagler, 1830",TRUE,6136,FALSE,"MAM",1520,44,"2012-09-28T00:00:00.000Z",NA
+"13000",13606,"cf.Lep.ar","cf. Lepus arcticus","Ross, 1819",TRUE,6136,FALSE,"MAM",1520,44,"2012-09-28T00:00:00.000Z",NA
+"13001",13607,"cf.Nto.le","cf. Notolagus lepusculus","(Hibbard, 1939)",TRUE,6136,FALSE,"MAM",1520,44,"2012-09-28T00:00:00.000Z",NA
+"13004",13609,"Oph.fr","Ophiomys fricki","Hibbard, 1972",TRUE,13409,TRUE,"MAM",5069,6706,"2017-10-30T00:00:00.000Z","According to Martin (2008, Janis, et al., eds. Evolution of Tertiary mammals of North America. vol. 2., p. 487): ""Ophiomys fricki dental materials described and
+illustrated by Hibbard (1972) have none of the distinguishing features of Ophiomys and are currently left incertae sedis."" [E.C. Grimm, 28 Sep 2012]"
+"13005",13610,"cf.Oph.mk","cf. Ophiomys mcknighti","(Gustafson, 1978)",TRUE,6462,TRUE,"MAM",5069,44,"2012-09-28T00:00:00.000Z",NA
+"13017",13622,"?Nkl.sp","?Nekrolagus sp.","Hibbard, 1939",TRUE,6151,TRUE,"MAM",1534,44,"2012-10-31T00:00:00.000Z",NA
+"13018",13623,"?Syl.nu","?Sylvilagus nuttallii","(Bachman, 1837)",TRUE,6151,FALSE,"MAM",1520,44,"2012-10-31T00:00:00.000Z",NA
+"13019",13624,"Alu.be","Aluralagus bensonensis","(Gazin, 1942)",TRUE,10038,TRUE,"MAM",5064,44,"2012-10-31T00:00:00.000Z",NA
+"13020",13625,"Azt.sp","Aztlanolagus sp.","Russell & Harris, 1986",TRUE,6769,TRUE,"MAM",5064,44,"2012-10-31T00:00:00.000Z",NA
+"13021",13626,"cf. Bra.id","cf. Brachylagus idahoensis","(Merriam, 1891)",TRUE,6151,FALSE,"MAM",1520,44,"2012-10-31T00:00:00.000Z",NA
+"13022",13627,"Syl.cu","Sylvilagus cunicularius","(Waterhouse, 1848)",TRUE,6975,FALSE,"MAM",1520,44,"2012-10-31T00:00:00.000Z",NA
+"13023",13628,"?Tho.sp","?Thomomys sp.","Wied-Neuwied, 1839",TRUE,6462,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"13024",13629,"cf.Tho.gi","cf. Thomomys gidleyi","Wilson, 1933",TRUE,6462,TRUE,"MAM",5063,44,"2012-11-01T00:00:00.000Z",NA
+"13025",13630,"Tho.cf.gi","Thomomys cf. T. gidleyi","Wilson, 1933",TRUE,6984,TRUE,"MAM",5063,44,"2012-11-01T00:00:00.000Z",NA
+"13026",13631,"Tho.bo.pe","Thomomys bottae perpallidus","(Merriam, 1886)",TRUE,6657,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"13027",13632,"Tho.cf.bo","Thomomys cf. T. bottae","(Eydoux and Gervais, 1836)",TRUE,6984,FALSE,"MAM",1525,44,"2012-11-01T00:00:00.000Z",NA
+"13028",13633,"Pth","Prothomomys","May et al., 2011",TRUE,6078,TRUE,"MAM",6002,44,"2012-11-01T00:00:00.000Z",NA
+"13029",13634,"Pth.wa","Prothomomys warrenensis","May et al., 2011",TRUE,13633,TRUE,"MAM",6002,44,"2012-11-01T00:00:00.000Z",NA
+"13030",13635,"Pth.cf.wa","Prothomomys cf. P. warrenensis","May et al., 2011",TRUE,13633,TRUE,"MAM",6002,44,"2012-11-01T00:00:00.000Z",NA
+"13033",13638,"Par","Paronychomys","Jacobs, 1977",TRUE,6895,TRUE,"MAM",5071,44,"2012-11-02T00:00:00.000Z",NA
+"13034",13639,"?Par.sp","?Paronychomys sp.","Jacobs, 1977",TRUE,6462,TRUE,"MAM",5071,44,"2012-11-02T00:00:00.000Z",NA
+"13035",13640,"Par.sp","Paronychomys sp.","Jacobs, 1977",TRUE,13638,TRUE,"MAM",5071,44,"2012-11-02T00:00:00.000Z",NA
+"13041",13646,"Och.wh","Ochotona whartoni","Guthrie & Matthews, 1971",TRUE,6888,TRUE,"MAM",1541,44,"2012-11-02T00:00:00.000Z",NA
+"13059",13667,"Dcx.cf.he","Dicrostonyx cf. D. henseli","Hinton, 1910",TRUE,6710,TRUE,"MAM",6005,44,"2012-11-07T00:00:00.000Z",NA
+"13060",13668,"Pdx","Predicrostonyx","Guthrie & Matthews, 1971",TRUE,6711,TRUE,"MAM",5069,44,"2012-11-07T00:00:00.000Z",NA
+"13061",13669,"Pdx.ho","Predicrostonyx hopkinsi","Guthrie & Matthews, 1971",TRUE,13668,TRUE,"MAM",6003,44,"2012-11-07T00:00:00.000Z",NA
+"13062",13670,"?Dcx.sp","?Dicrostonyx sp.","Gloger, 1841",TRUE,6462,FALSE,"MAM",1524,44,"2012-11-07T00:00:00.000Z",NA
+"13063",13671,"Dcx.cf.hu","Dicrostonyx cf. D. hudsonius","(Pallas, 1778)",TRUE,6710,FALSE,"MAM",1524,44,"2012-11-07T00:00:00.000Z",NA
+"13072",13680,"Gui","Guildayomys","Zakrzewski, 1984",TRUE,6711,TRUE,"MAM",5069,44,"2012-11-08T00:00:00.000Z",NA
+"13073",13681,"Gui.hi","Guildayomys hibbardi","Zakrzewski, 1984",TRUE,13680,TRUE,"MAM",5069,44,"2012-11-08T00:00:00.000Z",NA
+"13074",13682,"Lou.sp","Loupomys sp.","Koenigswald & Martin, 1984",TRUE,13419,TRUE,"MAM",5069,44,"2012-11-08T00:00:00.000Z",NA
+"13077",13685,"Erz.?ca","Erethizon ?cascoensis","(White, 1970)",TRUE,6727,TRUE,"MAM",5067,44,"2012-11-09T00:00:00.000Z",NA
+"13078",13686,"?Erz.do","?Erethizon dorsata","(Linnaeus, 1758)",TRUE,6462,FALSE,"MAM",1531,44,"2012-11-09T00:00:00.000Z",NA
+"13081",13689,"Scl.rx","Scalopus rexroadi","(Hibbard, 1941)",TRUE,6958,TRUE,"MAM",5090,44,"2012-11-13T00:00:00.000Z",NA
+"13082",13690,"Scl.bl","Scalopus blancoensis","(Dalquest, 1975)",TRUE,6958,TRUE,"MAM",5090,44,"2012-11-13T00:00:00.000Z",NA
+"13083",13691,"Mip","Miopetaurista","Kretzoi, 1962",TRUE,13874,TRUE,"MAM",6023,44,"2012-12-12T00:00:00.000Z",NA
+"13084",13692,"Mip.we","Miopetaurista webbi","(Robertson, 1976)",TRUE,13691,TRUE,"MAM",5092,44,"2012-11-14T00:00:00.000Z","Named Cryptopterus webbi by Robertson (1976, Bull Florida State Mus 20(3):1-186), but synonymized as Miopetaurista webbi, following the synonymization of Cryptopterus with Miopetaurista (Daxner-Höck & Mein, 1975,  Palaeontologische Zeitschrift 49(1/2):75-77; McKenna & Bell, 1997). [E.C. Grimm, 12 Dec 2012]"
+"13085",13693,"Plo","Pliosaccomys","Wilson, 1936",TRUE,6078,TRUE,"MAM",5063,44,"2012-11-14T00:00:00.000Z",NA
+"13086",13694,"Plo.ma","Pliosaccomys magnus","(Kellogg, 1910)",TRUE,13693,TRUE,"MAM",5063,44,"2012-11-14T00:00:00.000Z",NA
+"13087",13695,"Plo.du","Pliosaccomys dubius","Wilson, 1936",TRUE,13693,TRUE,"MAM",5063,44,"2012-11-14T00:00:00.000Z",NA
+"13091",13701,"Lid","Liodontia","Miller & Gidley, 1918",TRUE,6462,TRUE,"MAM",6010,44,"2012-11-15T00:00:00.000Z",NA
+"13092",13702,"Lid.fu","Liodontia furlongi","Gazin, 1932",TRUE,13701,TRUE,"MAM",6010,44,"2012-11-15T00:00:00.000Z",NA
+"13095",13705,"Cop","Copemys","Wood, 1936",TRUE,5953,TRUE,"MAM",5071,44,"2012-11-15T00:00:00.000Z",NA
+"13096",13706,"Atc.vq","Antecalomys vasquezi","(Jacobs, 1977)",TRUE,13550,TRUE,"MAM",5071,44,"2012-11-15T00:00:00.000Z",NA
+"13097",13707,"Cop.sp","Copemys sp.","Wood, 1936",TRUE,13705,TRUE,"MAM",5071,44,"2012-11-15T00:00:00.000Z",NA
+"13098",13708,"Hib","Hibbardomys","Zakrzewski, 1984",TRUE,6711,TRUE,"MAM",5069,44,"2012-11-15T00:00:00.000Z",NA
+"13099",13709,"Hib.sk","Hibbardomys skinneri","Zakrzewski, 1984",TRUE,13708,TRUE,"MAM",5069,44,"2012-11-15T00:00:00.000Z",NA
+"13100",13710,"Hib.ma","Hibbardomys marthae","Zakrzewski, 1984",TRUE,13708,TRUE,"MAM",5069,44,"2012-11-15T00:00:00.000Z",NA
+"13101",13711,"Hib.vo","Hibbardomys voorhiesi","Zakrzewski, 1984",TRUE,13708,TRUE,"MAM",5069,44,"2012-11-15T00:00:00.000Z",NA
+"13102",13713,"Hib.za","Hibbardomys zakrzewskii","Martin, 1989",TRUE,13708,TRUE,"MAM",5069,44,"2012-11-15T00:00:00.000Z",NA
+"13103",13714,"cf.Hib.ma","cf. Hibbardomys marthae","Zakrzewski, 1984",TRUE,5953,TRUE,"MAM",5069,44,"2012-11-15T00:00:00.000Z",NA
+"13104",13715,"Coe","Coendou","Lacépède, 1799",TRUE,6050,FALSE,"MAM",1531,44,"2012-11-16T00:00:00.000Z",NA
+"13105",13716,"Coe.sp","Coendou sp.","Lacépède, 1799",TRUE,13715,FALSE,"MAM",1531,44,"2012-11-16T00:00:00.000Z","Coendou sp. from North American Plio-Pleistocene deposits should probably be called Erethizontidae sp., as Coendou stirtoni C. cascoensis have been synonymized with Erethizon species. [E.C. Grimm, 16 Nov 2012]"
+"13111",13723,"cf.Och.wh","cf. Ochotona whartoni","Guthrie & Matthews, 1971",TRUE,6322,TRUE,"MAM",1541,44,"2012-11-16T00:00:00.000Z",NA
+"13117",13729,"cf.Ond.zi/id","cf. Ondatra zibethicus /idahoensis","(Wilson, 1933)",TRUE,6943,TRUE,"MAM",1616,44,"2012-11-16T00:00:00.000Z",NA
+"13129",13741,"Ben.me","Bensonomys meadensis","Hibbard, 1956",TRUE,10066,TRUE,"MAM",5074,44,"2012-11-27T00:00:00.000Z",NA
+"13130",13742,"Ben.el","Bensonomys eliasi","(Hibbard, 1937)",TRUE,10066,TRUE,"MAM",5074,44,"2012-11-27T00:00:00.000Z",NA
+"13131",13743,"Ben.sp","Bensonomys sp.","Gazin, 1942",TRUE,10066,TRUE,"MAM",1574,44,"2012-11-27T00:00:00.000Z",NA
+"13140",13752,"Org","Oregonomys","Martin, 1984",TRUE,7007,TRUE,"MAM",5063,44,"2012-11-27T00:00:00.000Z",NA
+"13141",13753,"Org.ma","Oregonomys magnus","(Zakrzewski, 1969)",TRUE,13752,TRUE,"MAM",5063,44,"2012-11-27T00:00:00.000Z",NA
+"13142",13754,"Bai.sa","Baiomys sawrockensis","Hibbard, 1953",TRUE,6770,TRUE,"MAM",5071,44,"2012-11-27T00:00:00.000Z",NA
+"13143",13755,"Bai.br","Baiomys brachygnathus","(Gidley, 1922)",TRUE,6770,TRUE,"MAM",5071,44,"2012-11-27T00:00:00.000Z",NA
+"13144",13757,"Bai.rx","Baiomys rexroadi","Hibbard, 1941",TRUE,6770,TRUE,"MAM",5071,44,"2012-11-27T00:00:00.000Z",NA
+"13145",13758,"Bai.ko","Baiomys kolbi","Hibbard, 1952",TRUE,6770,TRUE,"MAM",5071,44,"2012-11-27T00:00:00.000Z",NA
+"13146",13759,"Bai.mo","Baiomys mowi","Albright, 1999",TRUE,6770,TRUE,"MAM",5071,44,"2012-11-27T00:00:00.000Z",NA
+"13147",13761,"Bai.mi","Baiomys minimus","(Gidley, 1922)",TRUE,6770,TRUE,"MAM",5071,44,"2012-11-27T00:00:00.000Z",NA
+"13148",13762,"Bai.aq","Baiomys aquilonius","Zakrzewski, 1969",TRUE,6770,TRUE,"MAM",5071,44,"2012-11-27T00:00:00.000Z",NA
+"13149",13763,"cf.Bai.br","cf. Baiomys brachygnathus","(Gidley, 1922)",TRUE,5953,TRUE,"MAM",5071,44,"2012-11-27T00:00:00.000Z",NA
+"13150",13764,"Ony.be","Onychomys bensoni","Gidley, 1922",TRUE,6890,TRUE,"MAM",5071,44,"2012-11-27T00:00:00.000Z",NA
+"13151",13765,"Ony.gi","Onychomys gidleyi","Hibbard, 1941",TRUE,6890,TRUE,"MAM",5071,44,"2012-11-27T00:00:00.000Z",NA
+"13152",13766,"Ony.ho","Onychomys hollisteri","Carleton & Eshelman, 1979",TRUE,6890,TRUE,"MAM",6015,44,"2012-11-27T00:00:00.000Z",NA
+"13153",13767,"cf.Ony.ho","cf. Onychomys hollisteri","Carleton & Eshelman, 1979",TRUE,5953,TRUE,"MAM",6015,44,"2012-11-27T00:00:00.000Z",NA
+"13154",13768,"cf.Ony.sp","cf. Onychomys sp.","Baird, 1858",TRUE,5953,FALSE,"MAM",1524,44,"2012-11-27T00:00:00.000Z",NA
+"13163",13777,"Crp.ad","Cryptotis adamsi","(Hibbard, 1953)",TRUE,6801,TRUE,"MAM",5090,44,"2012-11-28T00:00:00.000Z",NA
+"13164",13778,"Bla.af.ca","Blarina aff. B. carolinensis","(Bachman, 1837)",TRUE,6775,FALSE,"MAM",1522,44,"2012-11-28T00:00:00.000Z",NA
+"13165",13779,"?Bla.sp","?Blarina sp.","Gray, 1838",TRUE,6549,FALSE,"MAM",1522,44,"2012-11-28T00:00:00.000Z",NA
+"13166",13780,"Crp?.me","Cryptotis? meadensis","Hibbard, 1953",TRUE,6549,FALSE,"MAM",1522,44,"2012-11-28T00:00:00.000Z",NA
+"13167",13781,"Pct","Paracryptotis","Hibbard, 1950",TRUE,6549,TRUE,"MAM",5090,44,"2012-11-28T00:00:00.000Z",NA
+"13168",13782,"Pct.gi","Paracryptotis gidleyi","(Gazin, 1933)",TRUE,13781,TRUE,"MAM",5090,44,"2012-11-28T00:00:00.000Z",NA
+"13169",13783,"Pct.rx","Paracryptotis rex","Hibbard, 1950",TRUE,13781,TRUE,"MAM",5090,44,"2012-11-28T00:00:00.000Z",NA
+"13170",13784,"cf.Syn.me","cf. Synaptomys meltoni","Paulson, 1961",TRUE,5953,TRUE,"MAM",1541,44,"2012-11-29T00:00:00.000Z",NA
+"13171",13785,"Plt","Plioctomys","(Suchov, 1976)",TRUE,6711,TRUE,"MAM",5069,44,"2012-11-29T00:00:00.000Z",NA
+"13172",13786,"Plt.ri","Plioctomys rinkeri","(Hibbard, 1956)",TRUE,13785,TRUE,"MAM",5069,44,"2012-11-29T00:00:00.000Z",NA
+"13173",13787,"cf.Plt.ri","cf. Plioctomys rinkeri","(Hibbard, 1956)",TRUE,5953,TRUE,"MAM",5069,44,"2012-11-29T00:00:00.000Z",NA
+"13174",13788,"cf.Syn.sp","cf. Synaptomys sp.","Baird, 1858",TRUE,5953,FALSE,"MAM",1524,44,"2012-11-29T00:00:00.000Z",NA
+"13175",13789,"?Syn.sp","?Synaptomys sp.","Baird, 1858",TRUE,5953,FALSE,"MAM",1524,44,"2012-11-29T00:00:00.000Z",NA
+"13176",13790,"Syn.la","Synaptomys landesi","Hibbard, 1954",TRUE,6856,TRUE,"MAM",5069,44,"2012-11-29T00:00:00.000Z","Martin places Synaptomys landesi in the genus Mictomys, but here is placed in Synaptomys (Mictomys) following Musser& Carleton Wilson & Reeder, eds. (2005). [E.C. Grimm, 29 Nov 2012]"
+"13177",13791,"Plt.mi","Plioctomys mimomiformis","(Suchov, 1976)",TRUE,13785,TRUE,"MAM",5069,44,"2012-11-29T00:00:00.000Z",NA
+"13178",13792,"cf.Sordae","cf. Soricidae","G. Fischer, 1814",TRUE,6829,FALSE,"MAM",1522,44,"2012-11-29T00:00:00.000Z",NA
+"13193",13807,"Ben.gi","Bensonomys gidleyi","Baskin, 1978",TRUE,10066,TRUE,"MAM",5074,44,"2012-11-30T00:00:00.000Z",NA
+"13194",13808,"Ben.nr.gi","Bensonomys nr. B. gidleyi","Baskin, 1978",TRUE,10066,TRUE,"MAM",5074,44,"2012-11-30T00:00:00.000Z",NA
+"13195",13810,"Ben.es","Bensonomys elachys","Lindsay & Jacobs, 1985",TRUE,10066,TRUE,"MAM",5074,44,"2012-11-30T00:00:00.000Z",NA
+"13196",13811,"Ben.cf.es","Bensonomys cf. B. elachys","Lindsay & Jacobs, 1985",TRUE,10066,TRUE,"MAM",5074,44,"2012-11-30T00:00:00.000Z",NA
+"13197",13812,"?Cal.sp","?Calomys sp.","Waterhouse, 1837",TRUE,5953,FALSE,"MAM",1524,44,"2012-11-30T00:00:00.000Z",NA
+"13198",13813,"Ogm.po.po","Ogmodontomys poaphagus poaphagus","Hibbard, 1941",TRUE,13421,TRUE,"MAM",5069,44,"2012-11-30T00:00:00.000Z",NA
+"13199",13814,"Ogm.sp","Ogmodontomys sp.","Hibbard, 1941",TRUE,13416,TRUE,"MAM",5069,44,"2012-11-30T00:00:00.000Z",NA
+"13200",13815,"Ben.st","Bensonomys stirtoni","(Hibbard, 1953)",TRUE,10066,TRUE,"MAM",5074,44,"2012-11-30T00:00:00.000Z",NA
+"13206",13822,"Cas.cf.ca","Castor cf. C. californicus","Kellogg, 1911",TRUE,6792,TRUE,"MAM",5062,44,"2012-11-30T00:00:00.000Z",NA
+"13207",13824,"?Cas.sp","?Castor sp.","Linnaeus, 1758",TRUE,5930,FALSE,"MAM",1510,44,"2012-12-03T00:00:00.000Z",NA
+"13208",13825,"Mic.ar","Microtus aratai","(Martin, 1974)",TRUE,7474,TRUE,"MAM",6017,44,"2012-12-04T00:00:00.000Z","Martin (1974) named Pitymys aratai, which, here, is placed as Microtus (Pitymys) aratai follwoing the taxonimic placement of Pitymys by Musser & Carleton in Wilson & Reeder, eds.(2005). [E.C. Grimm, 4 Dec 2012]"
+"13209",13826,"Mic.(Pty).sp","Microtus (Pitymys) sp.","McMurtrie, 1831",TRUE,7474,FALSE,"MAM",1524,44,"2012-12-04T00:00:00.000Z",NA
+"13213",13830,"Plm","Pliolemmus","Hibbard, 1937",TRUE,6711,TRUE,"MAM",5069,44,"2012-12-05T00:00:00.000Z",NA
+"13214",13831,"Plm.an","Pliolemmus antiquus","Hibbard, 1937",TRUE,13830,TRUE,"MAM",5069,44,"2012-12-05T00:00:00.000Z",NA
+"13224",13841,"Ntm.?fo","Neotoma ?fossilis","Gidley, 1922",TRUE,7002,TRUE,"MAM",5071,44,"2012-12-06T00:00:00.000Z",NA
+"13225",13842,"Ntm.sp.nr.fu","Neotoma sp. nr. fuscipes","Baird, 1857",TRUE,7003,FALSE,"MAM",1524,44,"2012-12-06T00:00:00.000Z",NA
+"13228",13846,"Geo.cf.pi","Geomys cf. G. pinetis","Rafinesque, 1817",TRUE,6752,FALSE,"MAM",1525,44,"2012-12-07T00:00:00.000Z",NA
+"13237",13855,"Pcs.af.sw","Procastoroides aff. P. sweeti","Barbour & Schultz, 1937",TRUE,6945,TRUE,"MAM",1541,44,"2012-12-11T00:00:00.000Z",NA
+"13238",13856,"Rei.af.me","Reithrodontomys aff. R. megalotis","(Baird, 1858)",TRUE,6954,FALSE,"MAM",1524,44,"2012-12-11T00:00:00.000Z",NA
+"13241",13859,"Sor.af.pl","Sorex aff. S. palustris","Richardson, 1828",TRUE,7460,FALSE,"MAM",1522,44,"2012-12-12T00:00:00.000Z",NA
+"13242",13860,"Spr.af.ho","Spermophilus aff. S. howelli","(Hibbard, 1941)",TRUE,6917,TRUE,"MAM",5072,44,"2012-12-12T00:00:00.000Z",NA
+"13254",13872,"Scinae","Sciurinae","Fischer de Waldheim, 1817",TRUE,6488,FALSE,"MAM",1530,44,"2012-12-12T00:00:00.000Z",NA
+"13255",13873,"Xernae","Xerinae","Osborn, 1910",TRUE,6488,FALSE,"MAM",1530,44,"2012-12-12T00:00:00.000Z",NA
+"13256",13874,"Pteini","Pteromyini","Brandt, 1855",TRUE,13872,FALSE,"MAM",1530,44,"2012-12-12T00:00:00.000Z",NA
+"13257",13875,"Scinae.sp","Sciurinae sp.","Fischer de Waldheim, 1817",TRUE,13872,FALSE,"MAM",1530,44,"2012-12-12T00:00:00.000Z",NA
+"13258",13876,"Tho.af.gi","Thomomys aff. T. gidleyi","Wilson, 1933",TRUE,6984,TRUE,"MAM",5063,44,"2012-12-12T00:00:00.000Z",NA
+"13259",13877,"Tam.af.mi","Tamias aff. T. minimus","Bachman, 1839",TRUE,6997,FALSE,"MAM",1530,44,"2012-12-12T00:00:00.000Z",NA
+"13262",13880,"Pcs.cf.sw","Procastoroides cf. P. sweeti","Barbour & Schultz, 1937",TRUE,6945,TRUE,"MAM",1541,44,"2012-12-12T00:00:00.000Z",NA
+"13263",13881,"cf.Lms.cu","cf. Lemmiscus curtatus","(Cope, 1868)",TRUE,6711,FALSE,"MAM",1524,44,"2012-12-14T00:00:00.000Z",NA
+"13264",13882,"Lms.cf.cu","Lemmiscus cf. L. curtatus","(Cope, 1868)",TRUE,6832,FALSE,"MAM",1524,44,"2012-12-14T00:00:00.000Z",NA
+"13266",13884,"Rodtia.sp","Rodentia sp.","Bowdich, 1821",TRUE,6462,FALSE,"MAM",1512,44,"2012-12-14T00:00:00.000Z",NA
+"13268",13886,"Ntm.cf.le","Neotoma cf. N. lepida","Thomas, 1893",TRUE,7003,FALSE,"MAM",1524,44,"2012-12-14T00:00:00.000Z",NA
+"13275",13895,"?Dpo.rx","?Dipoides rexroadensis","Hibbard & Riggs, 1949",TRUE,5930,TRUE,"MAM",5062,44,"2012-12-18T00:00:00.000Z",NA
+"13290",13911,"?Sci.sp","?Sciurus sp.","Linnaeus, 1758",TRUE,6488,FALSE,"MAM",1530,44,"2012-12-20T00:00:00.000Z",NA
+"13431",14080,"?Tam.sp","?Tamias sp.","Illiger, 1811",TRUE,6488,FALSE,"MAM",1530,44,"2013-01-16T00:00:00.000Z",NA
+"13432",14081,"?Scp.sp","?Scapanus sp.","Pomel, 1848",TRUE,6612,FALSE,"MAM",1522,44,"2013-01-17T00:00:00.000Z",NA
+"13433",14082,"cf.Scp.sp","cf. Scapanus sp.","Pomel, 1848",TRUE,6612,FALSE,"MAM",1522,44,"2013-01-17T00:00:00.000Z",NA
+"13434",14083,"Scp.cf.la","Scapanus cf. S. latimanus","(Bachman, 1842)",TRUE,6959,FALSE,"MAM",1522,44,"2013-01-17T00:00:00.000Z",NA
+"13435",14084,"Scp.ha","Scapanus hagermanensis","Hutchison, 1987",TRUE,6959,TRUE,"MAM",5090,44,"2013-01-17T00:00:00.000Z",NA
+"13440",14090,"?Rei.sp","?Reithrodontomys sp.","Giglioli, 1874",TRUE,5953,FALSE,"MAM",1524,44,"2013-01-18T00:00:00.000Z",NA
+"13441",14091,"Rei.rx","Reithrodontomys rexroadensis","Hibbard, 1952",TRUE,6954,TRUE,"MAM",5071,44,"2013-01-18T00:00:00.000Z",NA
+"13442",14092,"cf.Rei.rx","cf. Reithrodontomys rexroadensis","Hibbard, 1952",TRUE,5953,TRUE,"MAM",5071,44,"2013-01-18T00:00:00.000Z",NA
+"13443",14093,"Rei.pr","Reithrodontomys pratincola","Hibbard, 1941",TRUE,6954,TRUE,"MAM",5071,44,"2013-01-18T00:00:00.000Z",NA
+"13444",14094,"cf.Rei.pr","cf. Reithrodontomys pratincola","Hibbard, 1941",TRUE,5953,TRUE,"MAM",5071,44,"2013-01-18T00:00:00.000Z",NA
+"13445",14095,"Rei.we","Reithrodontomys wetmorei","Hibbard, 1952",TRUE,6954,TRUE,"MAM",5071,44,"2013-01-18T00:00:00.000Z",NA
+"13446",14096,"Rei.ga","Reithrodontomys galushai","Tomida, 1987",TRUE,6954,TRUE,"MAM",5071,44,"2013-01-18T00:00:00.000Z",NA
+"13453",14103,"Rpm.pa","Repomys panacaensis","May, 1981",TRUE,6955,TRUE,"MAM",1623,44,"2013-01-25T00:00:00.000Z",NA
+"13454",14104,"cf.Rpm.pa","cf. Repomys panacaensis","May, 1981",TRUE,5953,TRUE,"MAM",1623,44,"2013-01-25T00:00:00.000Z",NA
+"13455",14105,"Rpm.mx","Repomys maxumi","May, 1981",TRUE,6955,TRUE,"MAM",1623,44,"2013-01-25T00:00:00.000Z",NA
+"13456",14106,"Rpm.az","Repomys arizonensis","Tomida, 1987",TRUE,6955,TRUE,"MAM",1617,44,"2013-01-25T00:00:00.000Z",NA
+"13467",14117,"Prg.cf.fv","Perognathus cf. P. flavus","Baird, 1855",TRUE,6910,FALSE,"MAM",1526,44,"2013-01-28T00:00:00.000Z",NA
+"13468",14118,"Mygdae","Mylagaulidae","Cope, 1881",TRUE,6462,TRUE,"MAM",6010,44,"2013-01-28T00:00:00.000Z",NA
+"13469",14119,"Umb","Umbogaulus","Korth, 2000",TRUE,14118,TRUE,"MAM",6010,44,"2013-01-28T00:00:00.000Z",NA
+"13470",14120,"Umb.mo","Umbogaulus monodon","(Cope, 1881)",TRUE,14119,TRUE,"MAM",6010,44,"2013-01-28T00:00:00.000Z",NA
+"13476",14126,"Dpo.st","Dipoides stovalli","(Rinker & Hibbard, 1952)",TRUE,10031,TRUE,"MAM",5062,44,"2013-01-30T00:00:00.000Z",NA
+"13477",14127,"?Mar.sp","?Marmota sp.","Blumenbach, 1779",TRUE,6488,FALSE,"MAM",1530,44,"2016-08-30T00:00:00.000Z",NA
+"13478",14128,"Umb.cf.mo","Umbogaulus cf. U. monodon","(Cope, 1881)",TRUE,14119,TRUE,"MAM",6010,44,"2013-01-31T00:00:00.000Z",NA
+"13480",14132,"Orz.cf.fo","Oryzomys cf. O. fossilis","Hibbard, 1955",TRUE,6897,TRUE,"MAM",1541,44,"2013-01-31T00:00:00.000Z",NA
+"13481",14133,"Lem.cf.si","Lemmus cf. L. sibiricus","(Kerr, 1792)",TRUE,6838,FALSE,"MAM",1524,44,"2013-01-31T00:00:00.000Z",NA
+"13504",14164,"cf.Bla","cf. Blarina","Gray, 1838",TRUE,6549,FALSE,"MAM",1522,44,"2013-02-19T00:00:00.000Z",NA
+"13507",14167,"Plz","Pliozapus","Wilson, 1936",TRUE,6698,TRUE,"MAM",6036,44,"2013-02-19T00:00:00.000Z",NA
+"13508",14168,"Plz.so","Pliozapus solus","Wilson, 1936",TRUE,14167,TRUE,"MAM",6036,44,"2013-02-19T00:00:00.000Z",NA
+"13509",14169,"Pfr","Proneofiber","Hibbard & Dalquest, 1973",TRUE,6711,TRUE,"MAM",1541,44,"2013-02-19T00:00:00.000Z",NA
+"13510",14170,"Pfr.gu","Proneofiber guildayi","Hibbard & Dalquest, 1973",TRUE,14169,TRUE,"MAM",1541,44,"2013-02-19T00:00:00.000Z",NA
+"13520",14181,"Hpl.cf.re","Hypolagus cf. H. regalis","Hibbard, 1939",TRUE,6826,TRUE,"MAM",5064,44,"2013-02-20T00:00:00.000Z",NA
+"13528",14190,"Arcnae","Archaeolaginae","Dice, 1929",TRUE,6151,TRUE,"MAM",5064,44,"2013-02-20T00:00:00.000Z",NA
+"13529",14191,"?Arcnae","?Archaeolaginae","Dice, 1929",TRUE,6151,TRUE,"MAM",5064,44,"2013-02-20T00:00:00.000Z",NA
+"13531",14193,"?Cnd.sp","?Condylura sp.","Illiger, 1811",TRUE,6612,FALSE,"MAM",1522,44,"2013-02-20T00:00:00.000Z",NA
+"13538",14202,"Zap.ri","Zapus rinkeri","Hibbard, 1951",TRUE,6996,TRUE,"MAM",6036,44,"2013-02-20T00:00:00.000Z",NA
+"13539",14203,"Zap.sa","Zapus sandersi","Hibbard, 1956",TRUE,6996,TRUE,"MAM",6036,44,"2013-02-20T00:00:00.000Z",NA
+"13540",14204,"Zap.bu","Zapus burti","Hibbard, 1941",TRUE,6996,TRUE,"MAM",6036,44,"2013-02-20T00:00:00.000Z",NA
+"13736",14654,"Rey","Reynoldsomys","Albright, 1999",TRUE,6078,TRUE,"MAM",5063,44,"2013-02-22T00:00:00.000Z",NA
+"13737",14655,"Rey.ti","Reynoldsomys timoteoensis","Albright, 1999",TRUE,14654,TRUE,"MAM",5063,44,"2013-02-22T00:00:00.000Z",NA
+"13746",14663,"Sci.cy","Sciurus calycinus","Cope, 1871",TRUE,6916,TRUE,"MAM",6042,44,"2013-02-22T00:00:00.000Z",NA
+"13750",14667,"Sig.?mi","Sigmodon ?S. minor","Gidley, 1922",TRUE,6962,TRUE,"MAM",5071,44,"2013-02-22T00:00:00.000Z",NA
+"13752",14669,"Cha.cf.hi","Chaetodipus cf. C. hispidus","(Baird, 1858)",TRUE,6911,FALSE,"MAM",1526,44,"2013-02-22T00:00:00.000Z",NA
+"13753",14670,"Cyn.cf.lu","Cynomys cf. C. ludovicianus","Ord, 1815",TRUE,6804,FALSE,"MAM",1530,44,"2013-02-22T00:00:00.000Z",NA
+"13756",14673,"Spr.cf.el","Spermophilus cf. S. elegans","Kennicott, 1863",TRUE,6917,FALSE,"MAM",1530,44,"2013-02-22T00:00:00.000Z",NA
+"13774",14684,"Cha.sp","Chaetodipus sp.","Merriam, 1889",TRUE,6911,FALSE,"MAM",1526,44,"2013-02-22T00:00:00.000Z",NA
+"13775",14685,"Dip.pt","Dipodomys pattersoni","Dalquest & Carpenter, 1986",TRUE,6717,TRUE,"MAM",6045,44,"2013-02-22T00:00:00.000Z",NA
+"13778",14689,"Syl.cf.fl","Sylvilagus cf. S. floridanus","(J.A. Allen, 1890)",TRUE,6975,FALSE,"MAM",1520,44,"2013-02-22T00:00:00.000Z",NA
+"13781",14692,"Per.cf.pr","Peromyscus cf. P. progressus","Hibbard, 1960",TRUE,6912,TRUE,"MAM",1541,44,"2013-02-25T00:00:00.000Z",NA
+"13782",14693,"Spr.cf.sl","Spermophilus cf. S. spilosoma","Bennett, 1833",TRUE,6917,FALSE,"MAM",1530,44,"2013-02-25T00:00:00.000Z",NA
+"13783",14694,"Ntm.cf.mi","Neotoma cf. N. micropus","Baird, 1855",TRUE,6881,FALSE,"MAM",1524,44,"2013-02-26T00:00:00.000Z",NA
+"13784",14695,"Lep.cf.ca","Lepus cf. L. californicus","Gray, 1837",TRUE,6840,FALSE,"MAM",1520,44,"2013-02-26T00:00:00.000Z",NA
+"13790",14701,"Spr.sp(lrg)","Spermophilus sp. (large)","F. Cuvier, 1825",TRUE,6917,FALSE,"MAM",1530,44,"2013-03-20T00:00:00.000Z",NA
+"13791",14702,"Spr.sp(med)","Spermophilus sp. (medium)","F. Cuvier, 1825",TRUE,6917,FALSE,"MAM",1530,44,"2013-03-20T00:00:00.000Z",NA
+"13794",14706,"Prg.sp(sma)","Perognathus sp. (small)","Wied-Neuwied, 1839",TRUE,6910,FALSE,"MAM",1526,44,"2013-03-20T00:00:00.000Z",NA
+"13795",14708,"Plm.sp","Pliolemmus sp.","Hibbard, 1937",TRUE,13830,FALSE,"MAM",5069,44,"2013-03-20T00:00:00.000Z",NA
+"13801",14715,"Geo.cf.bu","Geomys cf. G. bursarius","(Shaw, 1800)",TRUE,6956,FALSE,"MAM",1525,44,"2013-03-21T00:00:00.000Z",NA
+"13802",14717,"Syl.cf.au","Sylvilagus cf. S. audubonii","(Baird, 1858)",TRUE,6975,FALSE,"MAM",1520,44,"2013-03-21T00:00:00.000Z",NA
+"13810",14726,"Per.cf.le","Peromyscus cf. P. leucopus","(Rafinesque, 1818)",TRUE,6912,FALSE,"MAM",1524,44,"2013-03-28T00:00:00.000Z",NA
+"14354",15288,"Msx.sp","Megasorex sp.","Hibbard, 1950",TRUE,6549,FALSE,"MAM",1522,44,"2012-07-24T00:00:00.000Z",NA
+"14373",15307,"Mim.sp","Mimomys sp.","Forsyth-Major, 1902",TRUE,6860,FALSE,"MAM",5069,44,"2012-07-30T00:00:00.000Z","Inasmuch as most North American species formerly assigned to Mimomys have been moved to other genera within the Arvicolinae (R.A. Martin, 2008), many specimens formerly identified as ""Mimomys sp."" are probably better referred to ""Arvicolinae sp."" [E.C. Grimm, 27 Jul 2012]"
+"14386",15320,"Pms.sp","Pliomys sp.","Méhely, 1914",TRUE,15500,TRUE,"MAM",5093,44,"2012-08-01T00:00:00.000Z","According to Martin et al. (1986), Pliomys is strictly Old World and ""there is no record of Pliomys ever having occurred in North America."" However, Pliomys is a valid genus, so this synonymy applies only to North America. [E.C. Grimm, 1 Aug 2012]"
+"14401",15335,"cf.Prg.sp","cf. Perognathus sp.","Wied-Neuwied, 1839",TRUE,6462,FALSE,"MAM",1526,44,"2013-11-14T00:00:00.000Z","Includes both the genera Perognathus and Chaetodipus, which comprise the subfamily Perognathinae. [ECG, 6 Aug 2012]"
+"14568",15499,"Syn(Mic).sp","Synaptomys (Mictomys) sp.","True, 1894",TRUE,6856,FALSE,"MAM",1524,44,"2013-04-05T00:00:00.000Z",NA
+"14569",15500,"Pms","Pliomys","Méhely, 1914",TRUE,5953,TRUE,"MAM",5093,44,"2013-04-05T00:00:00.000Z",NA
+"15083",17063,"?Cra.ca","?Cratogeomys castanops","(Baird, 1852)",TRUE,6078,FALSE,"MAM",1525,44,"2013-09-15T00:00:00.000Z",NA
+"15620",18723,"Lem.tr","Lemmus trimucronatus","(Richardson, 1825)",TRUE,6838,FALSE,"MAM",1524,44,"2013-10-26T00:00:00.000Z",NA
+"15621",18724,"Lep.?am","Lepus ?americanus","Erxleben, 1777",TRUE,6840,FALSE,"MAM",1520,44,"2013-10-26T00:00:00.000Z",NA
+"15622",18725,"Lep.?ca","Lepus ?californicus","Gray, 1837",TRUE,6840,FALSE,"MAM",1520,44,"2013-10-26T00:00:00.000Z",NA
+"15623",18726,"Syl.?au","Sylvilagus ?audubonii","(Baird, 1858)",TRUE,6975,FALSE,"MAM",1520,44,"2013-10-26T00:00:00.000Z",NA
+"15624",18727,"Syl.?nu","Sylvilagus ?nuttallii","(Bachman, 1837)",TRUE,6598,FALSE,"MAM",1520,44,"2013-10-26T00:00:00.000Z",NA
+"16469",19661,"Lep.ot","Lepus othus","Merriam, 1900",TRUE,6840,FALSE,"MAM",1520,6288,"2013-12-17T00:00:00.000Z",NA
+"16818",20018,"Rodtia.(s","Rodentia (small)","Bowdich, 1821",TRUE,13884,FALSE,"MAM",1512,6288,"2014-01-07T00:00:00.000Z",NA
+"16819",20019,"Rodtia.(l","Rodentia (large)","Bowdich, 1821",TRUE,13884,FALSE,"MAM",1512,2041,"2018-05-12T00:00:00.000Z",NA
+"16820",20020,"Rodtia.(m","Rodentia (medium)","Bowdich, 1821",TRUE,13884,FALSE,"MAM",1512,2041,"2018-05-12T00:00:00.000Z",NA
+"16821",20021,"Rodtia.(e","Rodentia (medium/large)","Bowdich, 1821",TRUE,13884,FALSE,"MAM",1512,2041,"2018-05-12T00:00:00.000Z",NA
+"16822",20022,"cf.Dcx.gr","cf. Dicrostonyx groenlandicus","(Traill, 1823)",TRUE,6711,FALSE,"MAM",1524,6288,"2014-01-07T00:00:00.000Z",NA
+"18526",21893,"Pph.ko","Pliophenacomys koenigswaldi","Martin et al., 2002",TRUE,13443,TRUE,"MAM",5074,NA,NA,NA
+"18528",21895,"Spr.cf.ho","Spermophilus cf. S. howelli","(Hibbard, 1941)",TRUE,6558,TRUE,"MAM",5072,NA,NA,NA
+"19028",22488,"Spr.cf.lt","Spermophilus cf. S. lateralis","Say, 1823",TRUE,6917,FALSE,"MAM",1530,44,"2017-10-27T00:00:00.000Z",NA
+"19197",22663,"Peo","Peromyscus/Reithrodontomys","Gloger, 1841|Giglioli, 1874",TRUE,5953,FALSE,"MAM",1511,NA,NA,NA
+"19201",22669,"Tho.cf.ma","Thomomys cf. T. mazama","Merriam, 1897",TRUE,6984,FALSE,"MAM",1525,6527,"2014-06-27T00:00:00.000Z",NA
+"19202",22670,"Rei.cf.me","Reithrodontomys cf. R. megalotis","(Baird, 1858)",TRUE,6954,FALSE,"MAM",1524,6527,"2014-06-27T00:00:00.000Z",NA
+"19204",22671,"Myo.cf.ca","Myodes cf. M. californicus","(Merriam, 1890)",TRUE,6858,FALSE,"MAM",1524,6527,"2014-06-27T00:00:00.000Z",NA
+"19207",22674,"cf.Arb.al","cf. Arborimus albipes",NA,TRUE,6920,FALSE,"MAM",1524,6527,"2014-07-02T00:00:00.000Z",NA
+"19208",22675,"cf.Scp.la","cf. Scapanus latimanus","(Bachman, 1842)",TRUE,6959,FALSE,"MAM",1522,6527,"2014-07-02T00:00:00.000Z",NA
+"19209",22676,"Gla.cf.sa","Glaucomys cf. G. sabrinus","(Shaw, 1801)",TRUE,6813,FALSE,"MAM",1530,6527,"2014-07-02T00:00:00.000Z",NA
+"19333",22801,"Abrdae","Abrocomidae","Miller & Gidley, 1918",TRUE,6462,FALSE,"MAM",1531,44,"2014-07-28T00:00:00.000Z",NA
+"19334",22802,"Abr","Abrocoma","Waterhouse, 1837",TRUE,22801,FALSE,"MAM",1531,44,"2014-07-28T00:00:00.000Z",NA
+"19335",22803,"Phl","Phyllotis","Waterhouse, 1837",TRUE,6835,FALSE,"MAM",1524,44,"2014-07-28T00:00:00.000Z",NA
+"19427",22907,"Tai","Tamias/Spermophilus","Illinger, 1811|Cuvier, 1825",TRUE,28009,FALSE,"MAM",1511,44,"2016-08-30T00:00:00.000Z",NA
+"19429",22909,"Cyo","Cynomys/Spermophilus","Rafinesque, 1817|Cuvier, 1825",TRUE,28009,FALSE,"MAM",1511,44,"2016-08-30T00:00:00.000Z",NA
+"19960",23480,"Lepdae(lrg)","Leporidae (large)","Fischer, 1817",TRUE,6151,FALSE,"MAM",1520,6527,"2014-09-11T00:00:00.000Z",NA
+"19961",23481,"Lepdae(sm)","Leporidae (small)","Fischer, 1817",TRUE,6151,FALSE,"MAM",1520,6527,"2014-09-11T00:00:00.000Z",NA
+"19962",23482,"Oto","Otospermophilus","Brandt, 1844",TRUE,28009,FALSE,"MAM",7520,44,"2016-08-30T00:00:00.000Z",NA
+"19963",23483,"Oto.sp","Otospermophilus sp.","Brandt, 1844",TRUE,23482,FALSE,"MAM",7520,6527,"2014-09-11T00:00:00.000Z",NA
+"19986",23507,"Spr.sl.sp","Spermophilus sensu lato sp.","Cuvier, 1825",TRUE,28009,FALSE,"MAM",7520,44,"2016-08-30T00:00:00.000Z",NA
+"20004",23527,"?Lep.ca","?Lepus californicus","Gray, 1837",TRUE,6136,FALSE,"MAM",1511,NA,NA,NA
+"20026",23551,"Scu","Sciurus/Tamiasciurus","Linnaeus, 1758|Trouessart, 1880",TRUE,13872,FALSE,"MAM",1511,NA,NA,NA
+"20096",23623,"Lepdae.cf.Lep.am","Leporidae cf. Lepus americanus.","Erxleben, 1777",TRUE,6151,FALSE,"MAM",1520,44,"2014-11-11T00:00:00.000Z",NA
+"20112",23641,"Syl.cf.nt","Sylvilagus cf. S. nuttallii","Bachman, 1837",TRUE,6975,FALSE,"MAM",1511,NA,NA,NA
+"20275",23809,"Art","Arctisorex","Hutchison & Harington, 2002",TRUE,6549,FALSE,"MAM",7596,NA,NA,NA
+"20276",23810,"Ari.pl","Arctisorex polaris","Hutchison & Harington, 2002",TRUE,23809,TRUE,"MAM",7596,NA,NA,NA
+"20279",23813,"Bar","Baranomys","Kormos, 1933",TRUE,5953,FALSE,"MAM",1574,NA,NA,NA
+"20283",23817,"cf.Hpl","cf. Hypolagus","Dice, 1917",TRUE,6826,TRUE,"MAM",5064,NA,NA,NA
+"20368",23904,"Eut.cf.mi","Eutamias cf. E. minimus","Bachman, 1839",TRUE,6062,TRUE,"MAM",7574,NA,NA,NA
+"20369",23905,"Gui.ma","Guildayomys matthewsi","Storer, 2004",TRUE,13680,TRUE,"MAM",7574,NA,NA,NA
+"20370",23906,"Mic.mo","Microtus morlani","Storer, 2004",TRUE,6853,TRUE,"MAM",7574,NA,NA,NA
+"20371",23907,"Sor.cf.cn","Sorex cf. S. cinereus","Kerr, 1792",TRUE,7460,FALSE,"MAM",1522,NA,NA,NA
+"20372",23908,"Spr.cf.pr","Spermophilus cf. S. parryii","Richardon, 1825",TRUE,7511,TRUE,"MAM",7574,NA,NA,NA
+"20596",24144,"Ony.le/Cha.hi/Prg.sp/Per.sp","Onychomys leucogaster/Chaetodipus hispidus/Perognathus sp./Peromyscus sp.","(Wied-Neuwied, 1841)|(Baird, 1858)|Wied-Neuwied, 1839|Gloger, 1841",TRUE,6462,FALSE,"MAM",1512,44,"2015-03-21T00:00:00.000Z",NA
+"20597",24145,"Rodtia.ud","Rodentia undiff.","Bowdich, 1821",TRUE,6462,FALSE,"MAM",1512,44,"2015-03-21T00:00:00.000Z",NA
+"21078",24722,"Mar.cf.ca.gr","Marmota cf. M. caligata group","(Eschscholtz, 1829)",TRUE,6849,FALSE,"MAM",1530,NA,NA,NA
+"21380",25054,"Ett","Eutatus","Gervais, 1867",TRUE,6807,TRUE,"MAM",1574,44,"2018-04-15T00:00:00.000Z",NA
+"21381",25055,"Ett.se","Eutatus seguini","Gervais, 1867",TRUE,25054,TRUE,"MAM",8061,44,"2018-04-15T00:00:00.000Z",NA
+"21529",25207,"Mic.cf.mt","Microtus cf. M. montanus/longicaudus","Peale, 1848|Merriam, 1888",TRUE,6853,FALSE,"MAM",8134,6385,"2015-07-10T00:00:00.000Z",NA
+"21940",25651,"Prp","Propraopus","Ameghino, 1881",TRUE,6807,TRUE,"MAM",8287,7484,"2016-02-02T00:00:00.000Z",NA
+"21941",25652,"Prp.su","Propraopus sulcatus","Lund, 1842",TRUE,25651,TRUE,"MAM",8287,7484,"2016-02-02T00:00:00.000Z",NA
+"21942",25653,"Pah","Pachymatherium","Downing & White, 1995",TRUE,6807,TRUE,"MAM",1592,7484,"2016-02-02T00:00:00.000Z",NA
+"22006",25718,"Hyd.hy","Hydrochoerus hydrochaeris",NA,TRUE,6827,FALSE,"MAM",8321,7484,"2016-02-10T00:00:00.000Z",NA
+"22007",25719,"Hyd.is","Hydrochoerus isthmius",NA,TRUE,6827,FALSE,"MAM",8321,7484,"2016-02-10T00:00:00.000Z",NA
+"23268",28009,"Marini","Marmotini","Pocock, 1923",TRUE,13873,FALSE,"MAM",1530,44,"2016-08-30T00:00:00.000Z",NA
+"23269",28010,"Urc","Urocitellus","Obolenskij, 1927",TRUE,28009,FALSE,"MAM",7520,44,"2016-08-30T00:00:00.000Z",NA
+"23270",28011,"Urc.el","Urocitellus elegans","(Kennicott, 1863)",TRUE,28010,FALSE,"MAM",7520,44,"2016-08-30T00:00:00.000Z",NA
+"23277",28018,"Sor.cf.pb","Sorex cf. S. preblei","Jackson, 1922",TRUE,7460,FALSE,"MAM",1522,44,"2016-08-31T00:00:00.000Z",NA
+"23278",28019,"Sor.cf.mo","Sorex cf. S. monticolus","Merriam, 1890",TRUE,7460,FALSE,"MAM",1522,44,"2016-08-31T00:00:00.000Z",NA
+"23440",28186,"Mar.br","Marmota broweri","Hall & Gilmore, 1934",TRUE,6849,FALSE,"MAM",1530,6288,"2016-10-21T00:00:00.000Z",NA
+"23461",28209,"Lei","Lemmini","Gray, 1825",TRUE,6711,FALSE,"MAM",1524,6288,"2016-11-04T00:00:00.000Z",NA
+"23769",28534,"Lgopha.ud","Lagomorpha undiff.","Brandt, 1855",TRUE,6136,FALSE,"MAM",1520,44,"2017-01-19T00:00:00.000Z",NA
+"29728",34692,"Lep.am/Syl.fl","Lepus americanus/Syvilagus floridanus","Erxleben, 1777|(J.A. Allen, 1890)",TRUE,6151,FALSE,"MAM",1520,44,"2018-01-11T00:00:00.000Z",NA
+"29829",34794,"Mic.cf.pn","Microtus cf. M. pennsylvanicus","Ord, 1815",TRUE,6223,FALSE,"MAM",1524,2041,"2018-03-05T00:00:00.000Z",NA
+"29830",34795,"Spr.cf.ri","Spermophilus cf. S. richardsonii","(Sabine, 1822)",TRUE,6567,FALSE,"MAM",1530,2041,"2018-03-05T00:00:00.000Z",NA
+"29990",34973,"Lep.cf.to","Lepus cf. L. townsendii","Backman, 1839",TRUE,6161,FALSE,"MAM",1520,2041,"2018-04-05T00:00:00.000Z",NA
+"30075",35059,"Tam(Eut)","Tamias (Eutamias)","Trouessart, 1880",TRUE,6733,FALSE,"MAM",1530,44,"2018-04-15T00:00:00.000Z",NA
+"30221",35205,"Och.cf.wh","Ochotona cf. O. whartoni","Guthrie & Matthews, 1971",TRUE,6888,TRUE,"MAM",1541,2041,"2018-05-08T00:00:00.000Z",NA
+"30227",35211,"Rodtia.(v","Rodentia (very small)","Bowdich, 1821",TRUE,13884,FALSE,"MAM",1512,2041,"2018-05-12T00:00:00.000Z",NA
+"30328",35316,"Mar.cf.ca","Marmota cf. M. caligata","(Eschscholtz, 1829)",TRUE,6849,FALSE,"MAM",1530,2041,"2018-06-12T00:00:00.000Z",NA
+"30329",35317,"Per.cf.ke","Peromyscus cf. P. keeni","Merriam, 1897",TRUE,6912,FALSE,"MAM",1524,2041,"2018-06-12T00:00:00.000Z",NA
+"30330",35318,"Dcx.cf.to","Dicrostonyx cf. D. torquatus","(pallas, 1778)",TRUE,6710,FALSE,"MAM",1524,2041,"2018-06-13T00:00:00.000Z",NA
+"30355",35346,"Lep.cf.ot","Lepus cf. L. othus","Merriam, 1900",TRUE,6840,FALSE,"MAM",1520,2041,"2018-06-16T00:00:00.000Z",NA
+"30570",35567,"Myo.cf.ga","Myodes cf. M. gapperi","(Vigors, 1830)",TRUE,6858,FALSE,"MAM",1524,2041,"2018-06-25T00:00:00.000Z",NA
+"30572",35569,"Mic.cf.ch","Microtus cf. M. chrotorrhinus","(Miller, 1894)",TRUE,6853,FALSE,"MAM",1524,2041,"2018-06-25T00:00:00.000Z",NA
+"30573",35570,"Mic.cf.pt","Microtus cf. M. pinetorum","(Le Conte, 1830)",TRUE,7474,FALSE,"MAM",1524,2041,"2018-06-25T00:00:00.000Z",NA
+"30627",35626,"Erz.cf.do","Erethizon cf. E. dorsata","(Linnaeus, 1758)",TRUE,6727,FALSE,"MAM",1531,2041,"2018-07-10T00:00:00.000Z",NA
+"30635",35635,"Tam.cf.st","Tamias cf. T. striatus","(Linnaeus, 1758)",TRUE,6998,FALSE,"MAM",1530,2041,"2018-07-10T00:00:00.000Z",NA
+"30636",35636,"Syn.cf.co","Synaptomys cf. S. cooperi","Baird, 1857",TRUE,6857,FALSE,"MAM",1524,2041,"2018-07-10T00:00:00.000Z",NA
+"30646",35646,"Ond.an","Ondatra annectens","Brown, 1908",TRUE,6894,TRUE,"MAM",1541,2041,"2018-07-11T00:00:00.000Z",NA
+"30647",35647,"Ond.cf.an","Ondatra cf. O. annectens","Brown, 1908",TRUE,6894,TRUE,"MAM",1541,2041,"2018-12-08T00:00:00.000Z",NA
+"30680",35682,"Gla.cf.vo","Glaucomys cf. G. volans","(Linnaeus, 1758)",TRUE,6813,FALSE,"MAM",NA,2041,"2018-07-27T00:00:00.000Z",NA
+"30681",35683,"Sci.cf.ca","Sciurus cf. S. carolinensis","Gmelin, 1788",TRUE,6916,FALSE,"MAM",1530,2041,"2018-07-27T00:00:00.000Z",NA
+"30691",35693,"Tho.po","Thomomys potomacensis","Gidley & Gazin, 1933",TRUE,6984,TRUE,"MAM",1541,2041,"2018-08-02T00:00:00.000Z",NA
+"30692",35694,"Tho.cf.po","Thomomys cf. T. potomacensis","Gidley & Gazin, 1933",TRUE,6984,TRUE,"MAM",1541,2041,"2018-08-02T00:00:00.000Z",NA
+"30752",35754,"Syl.ud","Sylvilagus undiff.","Gray, 1867",TRUE,6975,FALSE,"MAM",1520,44,"2018-08-11T00:00:00.000Z",NA
+"30769",35771,"Sor.cf.lo","Sorex cf. S. longirostris","Bachman, 1837",TRUE,7460,FALSE,"MAM",1522,44,"2018-08-16T00:00:00.000Z",NA
+"31583",36590,"Spr(Spr).sp","Spermophilus (Spermophilus) sp.","F. Cuvier, 1825",TRUE,7512,FALSE,"MAM",1530,2041,"2018-10-31T00:00:00.000Z",NA
+"31672",36680,"Ntm.cf.fl","Neotoma cf. N. floridana","(Ord, 1818)",TRUE,7003,FALSE,"MAM",1524,2041,"2018-11-08T00:00:00.000Z",NA
+"31674",36682,"Mic.cf.oc","Microtus cf. M. ochrogaster","(Wagner, 1842)",TRUE,7473,FALSE,"MAM",1524,2041,"2018-11-08T00:00:00.000Z",NA
+"32032",37036,"Sig.cf.cu","Sigmodon cf. S. curtisi","Gidley, 1922",TRUE,6499,TRUE,"MAM",5071,2041,"2018-11-29T00:00:00.000Z","See also Peláez-Campomanes and Martin (2005). [ECG, 30 Jul 2007]"
+"32053",37057,"Ond.zi/id/an","Ondatra zibethicus /idahoensis/annectens","Wilson, 1933|(Brown, 1908)",TRUE,6334,TRUE,"MAM",1616,2041,"2018-11-30T00:00:00.000Z",NA
+"32056",37060,"Scp/Scl","Scapanus/Scalopus","Pomel, 1848|É. Geoffroy Saint-Hilaire, 1803",TRUE,6612,FALSE,"MAM",1522,2041,"2018-11-30T00:00:00.000Z",NA
+"32224",37233,"Erz.kl","Erethizon kleini","Frazier, 1981",TRUE,6727,TRUE,"MAM",1582,2041,"2018-12-08T00:00:00.000Z",NA
+"32255",37263,"Per.sa","Peromyscus sarmocophinus","Ruez, Jr., 2001",TRUE,6912,TRUE,"MAM",1539,2041,"2018-12-09T00:00:00.000Z",NA
+"32429",37439,"Oto.be","Otospermophilus beecheyi","Richardson, 1829",TRUE,23482,FALSE,"MAM",15407,6527,"2019-01-17T00:00:00.000Z",NA
+"32725",37759,"Tam.cf.me","Tamias cf. T. merriami","J.A. Allen, 1889",TRUE,6997,FALSE,"MAM",1530,6527,"2019-02-09T00:00:00.000Z",NA
+"32726",37760,"Sor.cf.or","Sorex cf. S. ornatus","Merriam, 1895",TRUE,7460,FALSE,"MAM",1522,NA,NA,NA
+"32727",37761,"Ntm.mc","Neotoma macrotis","Thomas, 1893",TRUE,7003,FALSE,"MAM",1524,NA,NA,NA
+"32842",37875,"?Crcdae","?Cricetidae","Fischer, 1817",TRUE,6462,FALSE,"MAM",1524,NA,NA,NA
+"32853",37888,"?Sorpha","?Soricomorpha","Gregory, 1910",TRUE,6882,FALSE,"MAM",1522,NA,NA,NA
+"32854",37889,"Sornae","Soricinae","G. Fischer, 1814",TRUE,6549,FALSE,"MAM",1522,NA,NA,NA
+"32855",37890,"?Geodae","?Geomyidae","Bonaparte, 1845",TRUE,6462,FALSE,"MAM",1525,NA,NA,NA
+"32856",37891,"?Hetdae","?Heteromyidae","Gray, 1868",TRUE,6462,FALSE,"MAM",1526,NA,NA,NA
+"32857",37892,"?Ntmnae","?Neotominae","Merriam, 1894",TRUE,5953,FALSE,"MAM",1524,NA,NA,NA
+"32858",37893,"?Oto.be","?Otospermophilus beecheyi","Richardson, 1829",TRUE,23482,FALSE,"MAM",15407,NA,NA,NA
+"32859",37894,"?Prgnae","?Perognathinae","Coues, 1875",TRUE,6113,FALSE,"MAM",1526,NA,NA,NA
+"32860",37895,"?Scidae","?Sciuridae","Hemprich, 1820",TRUE,6462,FALSE,"MAM",1530,NA,NA,NA
+"32950",37986,"Amm.cf.le","Ammospermophilus cf. A. leucurus","(Merriam, 1889)",TRUE,6761,FALSE,"MAM",1530,2041,"2019-03-06T00:00:00.000Z",NA
+"32951",37987,"Urc.mo","Urocitellus mollis","(Kennicott, 1863)",TRUE,28010,FALSE,"MAM",7520,2041,"2019-03-06T00:00:00.000Z",NA
+"32952",37988,"Urc.cf.mo","Urocitellus cf. U. mollis","(Kennicott, 1863)",TRUE,28010,FALSE,"MAM",7520,2041,"2019-03-06T00:00:00.000Z",NA
+"33021",38058,"Geodea","Geomyoidea","Bonaparte, 1845",TRUE,6462,FALSE,"MAM",1574,NA,NA,NA
+"35845",41037,"Mic.gu","Microtus guatemalensis","Merriam, 1898",TRUE,6853,FALSE,"MAM",1524,6527,"2020-03-25T00:00:00.000Z",NA
+"36103",41296,"Cundae","Cuniculidae","Miller & Gidley, 1918",TRUE,6462,FALSE,"MAM",1531,6527,"2020-04-29T00:00:00.000Z",NA
+"36104",41297,"Cun","Cuniculus","Brisson, 1762",TRUE,41296,FALSE,"MAM",1531,6527,"2020-04-29T00:00:00.000Z",NA
+"36105",41298,"Cun.pc","Cuniculus paca","(Linnaeus, 1766)",TRUE,41297,FALSE,"MAM",1531,6527,"2020-04-29T00:00:00.000Z",NA
+"36160",41355,"Daydae","Dasyproctidae","Bonaparte, 1838",TRUE,6462,FALSE,"MAM",1531,6527,"2020-05-03T00:00:00.000Z",NA
+"36161",41356,"Day","Dasyprocta","Illiger, 1811",TRUE,41355,FALSE,"MAM",1531,6527,"2020-05-03T00:00:00.000Z",NA
+"36162",41357,"Day.me","Dasyprocta mexicana","de Saussure, 1860",TRUE,41356,FALSE,"MAM",1531,6527,"2020-05-03T00:00:00.000Z",NA
+"36163",41358,"Day.pu","Dasyprocta punctata","Gray, 1842",TRUE,41356,FALSE,"MAM",1531,6527,"2020-05-03T00:00:00.000Z",NA
+"36436",41634,"Bai.in","Baiomys intermedius","Packard & Álvarez, 1965",TRUE,6770,FALSE,"MAM",1524,NA,NA,NA
+"36437",41635,"Bai.mu","Baiomys musculus","(Merriam, 1892)",TRUE,6770,FALSE,"MAM",1524,NA,NA,NA
+"36440",41638,"Cab","Cabassous","McMurtrie, 1831",TRUE,6807,FALSE,"MAM",1513,16171,"2020-06-04T00:00:00.000Z",NA
+"36441",41639,"Cab.ce","Cabassous centralis","(Miller, 1899)",TRUE,41638,FALSE,"MAM",1513,16171,"2020-06-04T00:00:00.000Z",NA
+"36462",41659,"Cau","Caluromys","J. A. Allen, 1900",TRUE,5978,FALSE,"MAM",1514,16171,"2020-06-05T00:00:00.000Z",NA
+"36464",41661,"Cau.de","Caluromys derbianus","(Waterhouse, 1841)",TRUE,41659,FALSE,"MAM",1514,16171,"2020-06-05T00:00:00.000Z",NA
+"36532",41731,"Crp.ma","Cryptotis mayensis","(Merriam, 1901)",TRUE,6801,FALSE,"MAM",1522,16171,"2020-06-08T00:00:00.000Z",NA
+"36533",41732,"Crp.me","Cryptotis mexicanus","(Coues, 1877)",TRUE,6801,FALSE,"MAM",1522,16171,"2020-06-08T00:00:00.000Z",NA
+"36534",41733,"Sor.oe","Sorex oreopolus","Merriam, 1892",TRUE,6965,FALSE,"MAM",1522,16171,"2020-06-08T00:00:00.000Z",NA
+"36535",41734,"Sor.su","Sorex saussurei","Merriam, 1892",TRUE,6965,FALSE,"MAM",1522,16171,"2020-06-08T00:00:00.000Z",NA
+"36536",41735,"Mic.oa","Microtus oaxacensis","Goodwin, 1966",TRUE,6853,FALSE,"MAM",1524,16171,"2020-06-09T00:00:00.000Z",NA
+"36537",41736,"Mic.qu","Microtus quasiater","(Coues, 1874)",TRUE,6853,FALSE,"MAM",1524,16171,"2020-06-09T00:00:00.000Z",NA
+"36538",41737,"Mic.um","Microtus umbrosus","Merriam, 1898",TRUE,6853,FALSE,"MAM",1524,16171,"2020-06-09T00:00:00.000Z",NA
+"36539",41738,"Cra.me","Cratogeomys merriami","(Thomas, 1893)",TRUE,6800,FALSE,"MAM",1525,16171,"2020-06-09T00:00:00.000Z",NA
+"36540",41739,"Dip.ne","Dipodomys nelsoni","Merriam, 1907",TRUE,6717,FALSE,"MAM",1526,16171,"2020-06-09T00:00:00.000Z",NA
+"36541",41740,"Dip.ph","Dipodomys phillipsii","Gray, 1841",TRUE,6717,FALSE,"MAM",1526,16171,"2020-06-09T00:00:00.000Z",NA
+"36542",41741,"Sci.au","Sciurus aureogaster","F. Cuvier, 1829",TRUE,6916,FALSE,"MAM",1530,16171,"2020-06-09T00:00:00.000Z",NA
+"36543",41742,"Sci.de","Sciurus deppei","Peters, 1864",TRUE,6916,FALSE,"MAM",1530,16171,"2020-06-09T00:00:00.000Z",NA
+"36544",41743,"Sci.va","Sciurus variegatoides","Ogilby, 1839",TRUE,6916,FALSE,"MAM",1530,16171,"2020-06-09T00:00:00.000Z",NA
+"36545",41744,"Sci.yu","Sciurus yucatanensis","J. A. Allen, 1877",TRUE,6916,FALSE,"MAM",1530,16171,"2020-06-09T00:00:00.000Z",NA
+"36550",41749,"Orz.al","Oryzomys alfaroi","(J. A. Allen, 1891)",TRUE,6897,FALSE,"MAM",1524,16171,"2020-06-09T00:00:00.000Z",NA
+"36551",41750,"Orz.co","Oryzomys couesi","(Alston, 1877)",TRUE,6897,FALSE,"MAM",1524,16171,"2020-06-09T00:00:00.000Z",NA
+"36552",41751,"Orz.me","Oryzomys melanotis","Thomas, 1893",TRUE,6897,FALSE,"MAM",1524,16171,"2020-06-09T00:00:00.000Z",NA
+"36553",41752,"Per.lv","Peromyscus levipes","Merriam, 1898",TRUE,6912,FALSE,"MAM",1524,16171,"2020-06-09T00:00:00.000Z",NA
+"36554",41753,"Per.ml","Peromyscus melanophrys","(Coues, 1874)",TRUE,6912,FALSE,"MAM",1524,16171,"2020-06-09T00:00:00.000Z",NA
+"36555",41754,"Per.mn","Peromyscus melanotis","J. A. Allen & Chapman, 1897",TRUE,6912,FALSE,"MAM",1524,16171,"2020-06-09T00:00:00.000Z",NA
+"36556",41755,"Per.mi","Peromyscus mexicanus","(de Saussure, 1860)",TRUE,6912,FALSE,"MAM",1524,16171,"2020-06-09T00:00:00.000Z",NA
+"36557",41756,"Per.oc","Peromyscus ochraventer","R. H. Baker, 1951",TRUE,6912,FALSE,"MAM",1524,16171,"2020-06-09T00:00:00.000Z",NA
+"36558",41757,"Per.yu","Peromyscus yucatanicus","J. A. Allen & Chapman, 1897",TRUE,6912,FALSE,"MAM",1524,16171,"2020-06-09T00:00:00.000Z",NA
+"36559",41758,"Rei.mx","Reithrodontomys mexicanus","(de Saussure, 1860)",TRUE,6954,FALSE,"MAM",1524,16171,"2020-06-09T00:00:00.000Z",NA
+"36560",41759,"Nyt","Nyctomys","(de Saussure, 1860)",TRUE,5953,FALSE,"MAM",1524,16171,"2020-06-09T00:00:00.000Z",NA
+"36561",41760,"Nyt.su","Nyctomys sumichrasti","(de Saussure, 1860)",TRUE,41759,FALSE,"MAM",1524,16171,"2020-06-09T00:00:00.000Z",NA
+"36562",41761,"Oli","Oligoryzomys","Bangs, 1900",TRUE,5953,FALSE,"MAM",1524,16171,"2020-06-09T00:00:00.000Z",NA
+"36563",41762,"Oli.fu","Oligoryzomys fulvescens","(de Saussure, 1860)",TRUE,41761,FALSE,"MAM",1524,16171,"2020-06-09T00:00:00.000Z",NA
+"36564",41763,"Pha","Philander","Brisson, 1762",TRUE,5978,FALSE,"MAM",1514,16171,"2020-06-09T00:00:00.000Z",NA
+"36565",41764,"Pha.op","Philander opossum","(Linnaeus, 1758)",TRUE,41763,FALSE,"MAM",1514,16171,"2020-06-09T00:00:00.000Z",NA
+"36568",41767,"Rom","Romerolagus","Merriam, 1896",TRUE,6151,FALSE,"MAM",1520,16171,"2020-06-09T00:00:00.000Z",NA
+"36569",41768,"Rom.di","Romerolagus diazi","(Ferrari–Pérez, 1893)",TRUE,41767,FALSE,"MAM",1520,16171,"2020-06-09T00:00:00.000Z",NA
+"36643",41963,"Mam.me","Marmosa mexicana","Merriam, 1897",TRUE,41961,FALSE,"MAM",1514,16171,"2020-06-23T00:00:00.000Z",NA
+"36716",41987,"Hod.al","Hodomys alleni","(Merriam, 1892)",TRUE,41985,FALSE,"MAM",1524,16171,"2020-06-25T00:00:00.000Z",NA
+"36752",41961,"Mam","Marmosa","Gray, 1821",TRUE,5978,FALSE,"MAM",1514,16171,"2020-06-23T00:00:00.000Z",NA
+"36753",41962,"Mam.sp","Marmosa sp.","Gray, 1821",TRUE,41961,FALSE,"MAM",1514,16171,"2020-06-23T00:00:00.000Z",NA
+"36754",41964,"Tla","Tlacuatzin","Voss & Jansa, 2003",TRUE,5978,FALSE,"MAM",1514,16171,"2020-06-24T00:00:00.000Z",NA
+"36761",41973,"Oge.sp","Orthogeomys sp.","Merriam, 1895",TRUE,6820,FALSE,"MAM",1525,16171,"2020-06-24T00:00:00.000Z",NA
+"36762",41974,"Oge.hi","Orthogeomys hispidus","(J. L. Le Conte, 1852)",TRUE,6820,FALSE,"MAM",1525,16171,"2020-06-24T00:00:00.000Z",NA
+"36763",41975,"Oge.gr","Orthogeomys grandis","(Thomas, 1893)",TRUE,6820,FALSE,"MAM",1525,16171,"2020-06-24T00:00:00.000Z",NA
+"36764",41976,"Het","Heteromys","Desmarest, 1817",TRUE,6113,FALSE,"MAM",1526,16171,"2020-06-24T00:00:00.000Z",NA
+"36765",41977,"Het.sp","Heteromys sp.","Desmarest, 1817",TRUE,41976,FALSE,"MAM",1526,16171,"2020-06-24T00:00:00.000Z",NA
+"36766",41978,"Het.de","Heteromys desmarestianus","Gray, 1868",TRUE,41976,FALSE,"MAM",1526,16171,"2020-06-24T00:00:00.000Z",NA
+"36768",41979,"Het.ga","Heteromys gaumeri","J. A. Allen & Chapman, 1897",TRUE,41976,FALSE,"MAM",1526,16171,"2020-06-24T00:00:00.000Z",NA
+"36773",41985,"Hod","Hodomys","Merriam, 1894",TRUE,5953,FALSE,"MAM",1524,16171,"2020-06-25T00:00:00.000Z",NA
+"36774",41986,"Hod.sp","Hodomys sp.","Merriam, 1894",TRUE,41985,FALSE,"MAM",1524,16171,"2020-06-25T00:00:00.000Z",NA
+"36775",41988,"Net","Neotomodon","Merriam, 1898",TRUE,5953,FALSE,"MAM",1524,16171,"2020-06-25T00:00:00.000Z",NA
+"36776",41989,"Net.sp","Neotomodon sp.","Merriam, 1898",TRUE,41988,FALSE,"MAM",1524,16171,"2020-06-25T00:00:00.000Z",NA
+"36777",41990,"Net.al","Neotomodon alstoni","Merriam, 1898",TRUE,41988,FALSE,"MAM",1524,16171,"2020-06-25T00:00:00.000Z",NA
+"36778",41991,"Ott","Ototylomys","Merriam, 1901",TRUE,5953,FALSE,"MAM",1524,16171,"2020-06-25T00:00:00.000Z",NA
+"36779",41992,"Ott.sp","Ototylomys sp.","Merriam, 1901",TRUE,41991,FALSE,"MAM",1524,16171,"2020-06-25T00:00:00.000Z",NA
+"36780",41993,"Ott.ph","Ototylomys phyllotis","Merriam, 1901",TRUE,41991,FALSE,"MAM",1524,16171,"2020-06-25T00:00:00.000Z",NA
+"36781",41994,"Otn","Otonyctomys","Anthony, 1932",TRUE,5953,FALSE,"MAM",1524,16171,"2020-06-25T00:00:00.000Z",NA
+"36782",41995,"Otn.ha","Otonyctomys hatti","Anthony, 1932",TRUE,41994,FALSE,"MAM",1524,16171,"2020-06-25T00:00:00.000Z",NA
+"36783",41996,"Otn.sp","Otonyctomys sp.","Anthony, 1932",TRUE,41994,FALSE,"MAM",1524,16171,"2020-06-25T00:00:00.000Z",NA
+"36784",41997,"Tyl","Tylomys","Peters, 1866",TRUE,5953,FALSE,"MAM",1524,16171,"2020-06-25T00:00:00.000Z",NA
+"36785",41998,"Tyl.sp","Tylomys sp.","Peters, 1866",TRUE,41997,FALSE,"MAM",1524,16171,"2020-06-25T00:00:00.000Z",NA
+"36786",41999,"Tyl.nu","Tylomys nudicaudus","(Peters, 1866)",TRUE,41997,FALSE,"MAM",1524,16171,"2020-06-25T00:00:00.000Z",NA
+"36791",42004,"Ntm.an","Neotoma angustapalata","R.H. Baker, 1951",TRUE,7003,FALSE,"MAM",1524,16171,"2020-06-25T00:00:00.000Z",NA
+"36793",42006,"Ntm.ph","Neotoma phenax","(Merriam, 1903)",TRUE,7004,FALSE,"MAM",1524,16171,"2020-06-25T00:00:00.000Z",NA
+"36928",42147,"Tla.ga","Tlacuatzin gaumeri","(Osgood, 1913)",TRUE,41964,FALSE,"MAM",1514,16171,"2020-07-23T00:00:00.000Z",NA
+"36940",42159,"Coe.me","Coendou mexicanus","(Kerr, 1792)",TRUE,13715,FALSE,"MAM",1531,16171,"2020-07-23T00:00:00.000Z",NA
+"37664",42769,"Per.cf.ca","Peromyscus cf. P. californicus","(Gambel, 1848)",TRUE,6912,FALSE,"MAM",1524,6527,"2020-12-15T00:00:00.000Z",NA
+"37734",42844,"Syl.cf.ba","Sylvilagus cf. S. bachmani","(Waterhouse, 1839)",TRUE,6975,FALSE,"MAM",1520,6527,"2021-01-28T00:00:00.000Z",NA
+"37736",42846,"Oto.?be","Otospermophilus ?beecheyi","Richardson, 1829",TRUE,23482,FALSE,"MAM",15407,6527,"2021-01-28T00:00:00.000Z",NA
+"37737",42847,"Tho.?bo","Thomomys ?bottae","(Eydoux & Gervais, 1836)",TRUE,6984,FALSE,"MAM",1525,6527,"2021-01-28T00:00:00.000Z",NA
+"37799",42905,"Per.md","Peromyscus maldonadoi","Álvarez, 1966",TRUE,6912,TRUE,"MAM",16815,16171,"2021-01-30T00:00:00.000Z",NA
+"37801",42908,"Mam.lo","Marmosa lorenzoi","Álvarez & Arroyo-Cabrales, 1989",TRUE,41961,FALSE,"MAM",16815,16171,"2021-01-30T00:00:00.000Z",NA
+"37802",42909,"Ntm.ao","Neotoma anomala","Álvarez & Hernández C., 1994",TRUE,6881,TRUE,"MAM",16815,16171,"2021-01-30T00:00:00.000Z",NA
+"37803",42910,"Ntm.mg","Neotoma magnodonta","Álvarez, 1966",TRUE,6881,TRUE,"MAM",16815,16171,"2021-01-30T00:00:00.000Z",NA
+"37804",42911,"Ntm.tl","Neotoma tlapacoyana","Álvarez & Hernández C., 1994",TRUE,6881,TRUE,"MAM",16815,16171,"2021-01-30T00:00:00.000Z",NA
+"38454",44441,"Syl.ga","Sylvilagus gabbi","(J. A. Allen, 1877)",TRUE,6975,FALSE,"MAM",17153,16171,"2021-06-17T00:00:00.000Z",NA
+"38579",44443,"Cha.hu","Chaetodipus huastecensis","Dalquest & Roth, 1970",TRUE,6911,FALSE,"MAM",17150,16171,"2021-06-17T00:00:00.000Z",NA
+"38684",44390,"Nch.ae","Neochoerus aesopi","(Leidy, 1856)",TRUE,6876,TRUE,"MAM",17150,16171,"2021-06-16T00:00:00.000Z",NA
+"39148",44430,"Hod.sp.nov.","Hodomys sp. nov.","Polaco & Butrón M., 1997",TRUE,41985,FALSE,"MAM",17159,16171,"2021-06-17T00:00:00.000Z",NA
+"39210",44431,"Cra.fu","Cratogeomys fumosus","(Merriam, 1892)",TRUE,6800,FALSE,"MAM",17152,16171,"2021-06-17T00:00:00.000Z",NA
+"41682",46877,"Lep.cap","Lepus capensis","Linnaeus, 1758",TRUE,6840,FALSE,"MAM",1511,13841,"2022-01-18T00:00:00.000Z",NA
+"44011",49271,"Tla.ca","Tlacuatzin canescens","Tate, 1931",TRUE,41964,FALSE,"MAM",18664,NA,NA,NA
+"44140",49402,"Xero","Xerospermophilus","Merriam, 1892",TRUE,28009,FALSE,"MAM",7520,6527,"2022-10-07T00:00:00.000Z",NA
+"44141",49403,"Xero.sp","Xerospermophilus spilosoma","(Bennett, 1833)",TRUE,49402,FALSE,"MAM",7520,6527,"2022-10-07T00:00:00.000Z",NA
+"44142",49404,"Per.la","Peromyscus labecula","Elliot, 1903",TRUE,6912,FALSE,"MAM",18842,6527,"2022-10-08T00:00:00.000Z",NA
+"44143",49405,"Sor.mi","Sorex milleri","Jackson, 1947",TRUE,6965,FALSE,"MAM",1522,6527,"2022-10-08T00:00:00.000Z",NA
+"47185",52885,"Nes.in","Nesoryzomys indefessus","Thomas, 1899",TRUE,52880,FALSE,"MAM",NA,NA,NA,NA
+"47190",52878,"Meo.cu","Megaoryzomys curioi","Niethammer, 1964",TRUE,52877,FALSE,"MAM",NA,NA,NA,NA
+"47191",52881,"Ney.da","Nesoryzomys darwini","Osgood, 1929",TRUE,52880,FALSE,"MAM",NA,NA,NA,NA
+"47216",37264,"Per.cf.po","Peromyscus cf. P. polionotus","(Wagner, 1843)",TRUE,6912,FALSE,"MAM",1524,2041,"2018-12-09T00:00:00.000Z",NA
+"47497",37235,"Syl.we","Sylvilagus webbi","White, 1991",TRUE,6975,FALSE,"MAM",15339,2041,"2018-12-08T00:00:00.000Z",NA
+"47498",37236,"Ond.id","Ondatra idahoensis","Wilson, 1933",TRUE,6894,TRUE,"MAM",1646,2041,"2018-12-08T00:00:00.000Z",NA
+"47518",52481,"Aeg.ga","Aegialomys galapagoensis","Waterhouse, 1839",TRUE,6897,TRUE,"MAM",1533,NA,NA,NA
+"47564",52877,"Meo","Megaoryzomys","Lenglet & Coppois, 1979",TRUE,6835,FALSE,"MAM",NA,NA,NA,NA
+"47566",52882,"Ney.fe","Nesoryzomys fernandinae","Hutterer & Hirsch, 1979",TRUE,52880,FALSE,"MAM",NA,NA,NA,NA
+"47567",52884,"Ney.sw","Nesoryzomys swarthi","Orr, 1938",TRUE,52880,FALSE,"MAM",NA,NA,NA,NA
+"47634",52883,"Ne.in","Nesoryzomys indefessus","Thomas, 1899",TRUE,52880,FALSE,"MAM",NA,NA,NA,NA

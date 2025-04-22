@@ -1,0 +1,49 @@
+Options()
+ {
+  BCAD=FALSE;
+  Curve("IntCal20","IntCal20.14c");
+  Resolution=10;
+ };
+ Plot()
+ {
+  Phase("Collection Unit 40078")
+  {
+    Sequence("AU 453369")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 453369")
+     {
+      R_Date('47427[OxA-15,842]',16730,75);
+      R_Date('47429[OxA-15,877]',19110,90);
+      R_Date('47430[OxA-15,842]',  612,22);
+      R_Date('47428[OxA-15,841]', 6334,30);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 453370")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 453370")
+     {
+      R_Date('47423[Beta 205,077]',5600,40);
+      C_Date('47422[TEMP29, Thermoluminescence]',4700,200);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence("AU 453371")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 453371")
+     {
+      R_Date('47424[OxA-15,842]',  612,22);
+      R_Date('47426[OxA-15,841]', 6334,30);
+      R_Date('47425[OxA-15,842]',16730,75);
+      R_Date('47431[OxA-15,877]',19110,90);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+  };
+ };

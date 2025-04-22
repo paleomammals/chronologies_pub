@@ -1,0 +1,26 @@
+Options()
+ {
+  BCAD=FALSE;
+  Curve("IntCal20","IntCal20.14c");
+  Resolution=100;
+ };
+ Plot()
+ {
+  Phase("Collection Unit 28397")
+  {
+    Sequence("AU 258552")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 258552")
+     {
+      R_Date('29621[WSU-2941]', 8960,240);
+      R_Date('29624[SMU-2093]',21587,2364);
+      R_Date('29625[WSU-2942]',27890,415);
+      C_Date('29622[McKinney 199E1, Uranium series]',143026,5505);
+      C_Date('29623[McKinney 200E1, Uranium series]',166045,6500);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+  };
+ };

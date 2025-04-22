@@ -1,0 +1,9 @@
+"analysisunitid","chronology.agemodel","sampleages.age","sampleages.ageolder","sampleages.ageyounger"
+207713,"event",11000,11200,10900
+207717,"event",12300,12500,12200
+207716,"event",11500,11600,11400
+207714,"event",12000,12300,11800
+207713,"bounds",NA,11400,10600
+207717,"bounds",NA,12700,12000
+207716,"bounds",NA,11700,11300
+207714,"bounds",NA,12700,11400

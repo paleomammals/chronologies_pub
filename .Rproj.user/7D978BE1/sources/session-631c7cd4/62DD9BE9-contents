@@ -1,0 +1,106 @@
+---
+title: "Generating oxcAAR chronologies"
+#output: html_notebook
+author: "Val Syverson"
+---
+
+
+# load functions
+```{r}
+if ("here" %in% installed.packages()) {require(here)} else {install.packages("here"); require(here)}
+require(here); require(oxcAAR); quickSetupOxcal(); require(dplyr); require(rlist)
+i_am("5_autogen_chronologies.Rmd")
+source("functions/5_autogen_chronologies_functions.R")
+```
+
+# load dates table and split by category
+```{r}
+dates <- read.csv("../data/alldates.csv")
+dates <- split(dates, dates$category)
+```
+
+
+# generate simple chronologies from category 1 analysis units
+
+##grab the single analysis unit dates and get the ids, sorted from shortest to longest
+```{r}
+simple <- dates$`1`
+simplecollids <- as.numeric(names(sort(table(simple$collectionunitid))))
+```
+
+## remove the collections that already have results in the sample ages folder
+```{r}
+done <- as.numeric(unlist(sapply(dir("../outputs/sampleages/"),
+                  function(x) return(strsplit(x,".csv")))))
+simplecollids <- subset(simplecollids, !simplecollids %in% done)
+```
+
+## generate the results
+```{r}
+J <- 1
+for (j in J:length(simplecollids)) {
+  print(paste0(c("Collection",j,"of",length(simplecollids)),collapse=" "))
+	result <- dateranges(simplecollids[j],data = simple)
+ 	write.csv(result$sampleages,
+ 	          paste0("../outputs/sampleages/", simplecollids[j],".csv", collapse = ""), row.names = F)
+ 	write.csv(result$chroncontrols,
+ 	          paste0("../outputs/chroncontrols/",simplecollids[j],".csv",collapse = ""),row.names = F)
+}
+```
+
+# Multi-analysis-unit collections
+
+#Get the data
+```{r}
+multi <- dates$`2`
+multi <- split(multi, multi$collectionunitid)
+```
+
+Remove the ones that have already been run.
+```{r}
+done <- as.numeric(unlist(sapply(dir(here("workflow/outputs/sampleages")),
+                                 function(x) return(strsplit(x,".csv")))))
+multi <- multi[!names(multi) %in% done]
+```
+
+## tagging ordered collections (manual)
+Some of the collections have analysis units whose names indicate that they're ordered. In these cases, we're going to add a column called "order" that tells the OxCal assembly function to put them in the right order and wrap them in a Sequence(), which can increase the precision of the estimate. Unfortunately this has to be done one by one, manually.
+
+```{r}
+i <- 0
+```
+
+We page through the sets of analysis unit names one by one...
+```{r}
+i <- i + 1
+temp_order <- data.frame(
+  meanage = rev(sort(by(multi[[i]]$age,multi[[i]]$analysisunitname,mean,na.rm = T)))
+  );temp_order
+```
+
+Label them as ordered /only/ if the analysis unit names imply a stratigraphic order /and/ they correspond more-or-less to their actual mean ages so you can get the direction right. (Don't rely on the auto-generated order here; go in and change them manually! There WILL be mistakes.) 
+
+If they aren't ordered, /don't run this block/.
+```{r}
+temp_order$order <- 1:nrow(temp_order)
+temp_order <- edit(temp_order)
+multi[[i]]$auorder <- temp_order[match(multi[[i]]$analysisunitname, rownames(temp_order)),"order"]
+```
+
+Go on to the next one and repeat.
+
+## generating chronologies
+
+Compute the chronologies for your collections.
+```{r}
+J <- 1
+for (j in J:length(multi)) {
+  print(paste0(c("Collection",j,"of",length(multi)),collapse=" "))
+  result <- dateranges.multi(multi[j])
+  write.csv(result$sampleages,
+            paste0("../outputs/sampleages/",names(multi)[j],".csv",collapse = ""),row.names = F)
+  write.csv(result$chroncontrols,
+            paste0("../outputs/chroncontrols/",names(multi)[j],".csv",collapse = ""),row.names = F)
+  }
+```
+

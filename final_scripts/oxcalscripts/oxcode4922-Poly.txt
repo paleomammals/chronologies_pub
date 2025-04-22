@@ -1,0 +1,24 @@
+Options()
+ {
+  BCAD=FALSE;
+  Curve("IntCal20","IntCal20.14c");
+  Resolution=10;
+ };
+ Plot()
+ {
+  Phase("Collection Unit 4922")
+  {
+    Sequence("AU 81015")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 81015")
+     {
+      R_Date('7989[SMU-800]',440,50);
+      C_Date('7990[WUTL-84i1, Thermoluminescence]',355,35);
+      C_Date('7991[WUTL-84i2, Thermoluminescence]',410,40);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+  };
+ };

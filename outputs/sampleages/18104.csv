@@ -1,0 +1,9 @@
+"analysisunitid","chronology.agemodel","sampleages.age","sampleages.ageolder","sampleages.ageyounger"
+205563,"event",1034,1304,764
+205562,"event",1954,2074,1844
+513800,"event",514,644,394
+513801,"event",344,484,214
+205563,"bounds",NA,1864,204
+205562,"bounds",NA,2254,1684
+513800,"bounds",NA,894,164
+513801,"bounds",NA,744,-76

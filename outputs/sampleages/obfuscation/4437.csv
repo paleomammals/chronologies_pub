@@ -1,0 +1,11 @@
+"analysisunitid","chronology.agemodel","sampleages.age","sampleages.ageolder","sampleages.ageyounger"
+80113,"event",13047,13687,12317
+80114,"event",13467,13657,13297
+513712,"event",8197,8352,8042
+513713,"event",27732,28502,27062
+513714,"event",2162,3037,1292
+80113,"bounds",NA,14912,11002
+80114,"bounds",NA,13892,13062
+513712,"bounds",NA,8657,7737
+513713,"bounds",NA,30082,25487
+513714,"bounds",NA,4537,-218

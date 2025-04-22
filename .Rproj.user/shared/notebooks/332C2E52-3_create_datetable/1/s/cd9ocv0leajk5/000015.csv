@@ -1,0 +1,5 @@
+"0","for (i in objectlist) rm(eval(as.name(objectlist[i])))
+"
+"2","Error in rm(eval(as.name(objectlist[i]))) : 
+  ... must contain names or character strings
+"

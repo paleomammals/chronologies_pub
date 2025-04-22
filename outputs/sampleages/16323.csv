@@ -1,0 +1,9 @@
+"analysisunitid","chronology.agemodel","sampleages.age","sampleages.ageolder","sampleages.ageyounger"
+173263,"event",6200,8100,4400
+513798,"event",2900,3300,2500
+513797,"event",800,1000,500
+513799,"event",5500,6000,4900
+173263,"bounds",NA,11400,1400
+513798,"bounds",NA,3900,1800
+513797,"bounds",NA,1400,100
+513799,"bounds",NA,7000,4000

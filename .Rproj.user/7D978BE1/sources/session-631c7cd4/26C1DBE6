@@ -1,0 +1,26 @@
+{
+    "id": "26C1DBE6",
+    "path": "~/Github/chronologies_pub/final_scripts/3_create_datetable.Rmd",
+    "project_path": "final_scripts/3_create_datetable.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1745274479005.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "297,105",
+        "scrollLine": "287"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1745343240,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1745343240901,
+    "read_only": false,
+    "read_only_alternatives": []
+}

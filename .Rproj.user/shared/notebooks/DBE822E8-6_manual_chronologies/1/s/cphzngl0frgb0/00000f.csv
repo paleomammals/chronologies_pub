@@ -1,0 +1,5 @@
+"0","extractChronology.Table(temp[[i]],idtype = ""geochronid"")
+"
+"2","Error in extractChronology.Table(temp[[i]], idtype = ""geochronid"") : 
+  object 'alldates' not found
+"

@@ -1,0 +1,7 @@
+"analysisunitid","chronology.agemodel","sampleages.age","sampleages.ageolder","sampleages.ageyounger"
+245232,"event",3700,4800,2700
+245233,"event",3700,4100,3300
+245234,"event",4700,5000,4400
+245232,"bounds",NA,6500,1000
+245233,"bounds",NA,4700,2500
+245234,"bounds",NA,5900,3500

@@ -1,0 +1,90 @@
+---
+title: "Untitled"
+author: "Val Syverson"
+date: "2024-11-21"
+---
+
+```{r}
+require(googledrive);require(dplyr);require(neotoma2);require(here);require(openxlsx);require(rlist)
+i_am("scripts/inferred_sampleages.Rmd")
+require(here("scripts/functions.Rmd"))
+newchron.range <- read.csv("outputs/new_chronologies.csv")
+drive_download("https://docs.google.com/spreadsheets/d/1XdX6McNQCd_mMdPYxHjoyfZn9pReYDPMLpr9Q7_t5As/edit?gid=307338603#gid=307338603",here("data/inferred.xlsx"),overwrite = T)
+inferred <- read.xlsx(here("data/inferred.xlsx"),sheet = 6)
+inferred <- subset(inferred,inferred$ndb.collections.collectionunitid != "")
+```
+
+
+```{r}
+inferred$TEMP_chronid <- NA
+for (i in 1:nrow(inferred)){
+  matched <- which(newchron.range$collectionunitid == 
+                     inferred[i,"ndb.collections.collectionunitid"] &
+          newchron.range$agemodel == inferred[i,"agemodel"])
+  if (length(matched) > 0) {
+    inferred$TEMP_chronid[i] <- newchron.range[matched,"TEMP_chronid"]}
+}
+inferred.adrift <- subset(inferred,is.na(inferred$TEMP_chronid))
+write.csv(inferred.adrift,file = here("outputs/sampleages/obfuscation/inferred-bounds.csv"))
+inferred <- subset(inferred, !is.na(inferred$TEMP_chronid))
+```
+
+# assemble tables to append to age tables
+```{r}
+inferred_chroncontrols <- data.frame(
+  collectionunitid = inferred$ndb.collections.collectionunitid,
+  geochronid = NA,
+  geochronology.labnumber = NA,
+  chroncontrols.age = inferred$ndb.chroncontrols.age,
+  chroncontrols.agelimitolder = inferred$ndb.chroncontrols.agelimitolder,
+  chroncontrols.agelimityounger = inferred$ndb.chroncontrols.agelimityounger,
+  chroncontroltypeid = inferred$ndb.chroncontrols.chroncontroltypeid,
+  analysisunitid = inferred$ndb.analysisunits.analysisunitid,
+  chronology.agemodel = inferred$agemodel,
+  chroncontrols.notes = inferred$ndb.chroncontrols.notes
+  )
+write.csv(inferred_chroncontrols,here("workflow/outputs/inferred_chroncontrols.csv"),row.names = F)
+
+inferred_sampleages <- data.frame (
+  collectionunitid = inferred$ndb.collections.collectionunitid,
+  analysisunitid = inferred$ndb.analysisunits.analysisunitid,
+  chronology.agemodel = inferred$agemodel,
+  sampleages.age = inferred$ndb.chroncontrols.age,
+  sampleages.ageolder = inferred$ndb.chroncontrols.agelimitolder,
+  sampleages.ageyounger = inferred$ndb.chroncontrols.agelimityounger,
+  TEMP_chronid = inferred$TEMP_chronid
+)
+write.csv(inferred_sampleages,here("workflow/outputs/inferred_sampleages.csv"),row.names = F)
+```
+
+```{r}
+temp <- subset(alldates,alldates$collectionunitid %in% newchron.range$collectionunitid & 
+         alldates$category %in% c(2,3))
+collections_present <- unique(temp$collectionunitid) 
+analysisunits_present <- unique(c(temp$analysisunitid,inferred_sampleages$analysisunitid))
+all_analysisunits <- vector(mode = "list", length = length(collections_present))
+for (i in 1:length(collections_present)){
+  temp <- try(get_from_tilia(collections_present[i],param = "collunitid", meth = "getanalysisunitsbycollunitid"))
+  if (length(temp)>0) {
+    all_analysisunits[[i]] <- temp$data
+    all_analysisunits[[i]]$collectionunitid <- collections_present[i]
+  }
+}
+all_analysisunits <- list.stack(all_analysisunits[which(sapply(all_analysisunits,function(x) length(x)>1))])
+missing <- subset(all_analysisunits,!all_analysisunits$analysisunitid%in%analysisunits_present)
+```
+
+If "missing" contains no lines, stop here.
+
+If not, use the following code to page through them and reevaluate: 
+
+```{r}
+subset(missing, !missing$collectionunitid%in%problem_sites$ndb.collectionunits.collectionunitid & 
+         !missing$collectionunitid%in%rerun) -> missing
+checklist <- sort(table(missing$collectionunitid),decreasing = T)
+i <- 0
+```
+
+```{r}
+i <- i + 1; write.csv(join_sampleages(as.numeric(names(checklist[i]))),"/home/vsyverson/Github/chronologies/temp.csv",row.names = F); print(as.numeric(names(checklist)[i]))
+```

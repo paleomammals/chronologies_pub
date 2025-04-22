@@ -1,0 +1,30 @@
+Options()
+ {
+  BCAD=FALSE;
+  Curve("IntCal20","IntCal20.14c");
+  Resolution=10;
+ };
+ Plot()
+ {
+  Phase("Collection Unit 6614")
+  {
+    Sequence("AU 83654")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 83654")
+     {
+      R_Date('10278[Beta-10759]',1210,70);
+      R_Date('10279[Beta-17760]',1130,50);
+      R_Date('10280[Beta-7503]',1370,90);
+      R_Date('10281[Beta-7504]', 950,60);
+      R_Date('10282[Beta-7505]',1150,50);
+      R_Date('10283[Beta-7506]',1040,80);
+      R_Date('10284[Beta-7507]', 930,60);
+      C_Date('10285[Alpha-881, Thermoluminescence]', 800,96);
+      C_Date('10286[Alpha-882, Thermoluminescence]',1180,142);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+  };
+ };

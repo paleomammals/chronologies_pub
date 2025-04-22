@@ -1,0 +1,23 @@
+Options()
+ {
+  BCAD=FALSE;
+  Curve("IntCal20","IntCal20.14c");
+  Resolution=10;
+ };
+ Plot()
+ {
+  Phase("Collection Unit 15296")
+  {
+    Sequence("AU 148876")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 148876")
+     {
+      R_Date('18744[CAMS-107316]',30780,330);
+      R_Date('18745[CAMS-107317]',34820,460);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+  };
+ };

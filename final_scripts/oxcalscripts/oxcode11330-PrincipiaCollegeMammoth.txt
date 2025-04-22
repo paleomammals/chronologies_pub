@@ -1,0 +1,25 @@
+Options()
+ {
+  BCAD=FALSE;
+  Curve("IntCal20","IntCal20.14c");
+  Resolution=100;
+ };
+ Plot()
+ {
+  Phase("Collection Unit 11330")
+  {
+    Sequence("AU 104582")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase("Analysis Unit 104582")
+     {
+      R_Date('13533[CAMS-104172]',17810,4300);
+      R_Date('13534[CAMS-120078]',15380,60);
+      C_Date('13535[UNL-1436, Optically stimulated luminescence]',20000,2000);
+      C_Date('13536[UNL-1437, Optically stimulated luminescence]',21200,2200);
+      Date("Event");
+     };
+    Boundary(endAnalysisUnit);
+    };
+  };
+ };

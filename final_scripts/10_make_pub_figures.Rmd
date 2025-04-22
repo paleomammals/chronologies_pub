@@ -1,0 +1,177 @@
+```{r load packages}
+if ("here" %in% installed.packages()) {require(here)} else {install.packages("here"); require(here)}
+require(leaflet); require(maps); require(rnaturalearth)
+require(sf); require(terra); require(ggplot2)
+require(here); require(dplyr)
+require(neotoma2)
+```
+
+```{r refresh data}
+rm(alldates,geochrons,newchron.range,newchron.all,found,corrected)
+```
+
+
+```{r get data}
+if (!exists("alldates")) alldates <- read.csv(here("workflow/data/alldates.csv"))
+if (!exists("geochrons")) geochrons <- read.csv(here("workflow/data/dates_for_analysis_smallmamm.csv"))
+if (!exists("newchron.range")) newchron.range <- read.csv(here("workflow/outputs/new_chronologies.csv"))
+if (!exists("newchron.all")) newchron.all <- read.csv(here("workflow/outputs/new_sampleages.csv"))
+if (!exists("found")) found <- read.csv(here("dates_revision/found.csv"))
+if (!exists("corrected")) {
+  corrected <- read.csv(here("dates_revision/corrections.csv"))
+  corrected <- data.frame(siteid = corrected$Site.ID, sampleid = corrected$Sample.ID,
+                          geochronid = corrected$Geochron.ID, labnumber = corrected$Lab..)
+  corrected[which(corrected$labnumber == ""),"labnumber"] <- NA
+  corrected <- distinct(subset(corrected, !is.na(corrected$geochronid) | !is.na(corrected$labnumber)))
+}
+```
+
+```{r tag dates by update status}
+alldates$source <- "Neotoma"
+alldates[which(alldates$labnumber %in% found$ndb.geochronology.labnumber &
+                 !is.na(alldates$labnumber)),"source"] <- "Corrected"
+alldates[which(alldates$geochronid > 51354),"source"] <- "Added"
+```
+
+```{r get site information}
+siteids <- unique(alldates$siteid)
+sitelist <- get_sites(siteids, all_data = T)
+```
+
+```{r parse site info into dataframe}
+sites <- as.data.frame(sitelist)
+sites <- inner_join(sites,getids(sitelist))
+sites <- distinct(sites[,-which(colnames(sites) == "datasetid")])
+sites <- subset(sites,sites$collunitid %in% newchron.range$collectionunitid)
+colnames(sites)[9] <- "collectionunitid"
+sites[,c("siteid","collectionunitid")] <- apply(sites[,c("siteid","collectionunitid")],2,as.numeric)
+```
+
+```{r tag sites by update status}
+sites$newdates <- "some"
+sites[which(!sites$siteid %in% subset(alldates, 
+          alldates$source == "Added" | alldates$source == "Updated")$siteid),"newdates"] <- "none"
+sites[which(!sites$siteid %in% subset(alldates, 
+          alldates$source == "Neotoma")$siteid),"newdates"] <- "all"
+sites$newdates <- factor(sites$newdates,levels = c("none","some","all"))
+sites <- sites[order(sites$newdates),]
+```
+
+
+```{r add collection age ranges}
+#note that this doubles the size of the table (two chronologies per collection)
+site_chrons <- distinct(inner_join(sites,
+                    newchron.range[,c("collectionunitid","ageboundolder","ageboundyounger","agemodel")]))
+```
+
+
+```{r Figure 2a objects}
+epsg9311 <- leafletCRS(
+  crsClass = "L.Proj.CRS",
+  code = "EPSG:9311",
+  proj4def = "+proj=laea +lat_0=45 +lon_0=-100 +x_0=0 +y_0=0 +a=6370997 +b=6370997 +units=m +no_defs",
+  resolutions = 2 ^ (16:7),
+  origin = c(0,0)
+)
+
+north_america <-
+  rnaturalearth::countries110 |>
+  dplyr::filter(CONTINENT == "North America")
+
+pal <- colorFactor("RdYlBu",sites$newdates,reverse = T)
+```
+
+
+```{r Figure 2a}
+leaflet(north_america, options = leafletOptions(crs = epsg9311)) %>%
+  addPolygons(weight = 1,color = "grey70bl",opacity = 0.8) %>%
+  addCircleMarkers(data = sites[,c("long","lat")],
+                   color = ~pal(sites$newdates),fillColor = ~pal(sites$newdates),
+                   radius = 2,stroke = T,fillOpacity = 0.9) %>%
+  addLegend(position = "bottomleft", pal = pal, values = levels(sites$newdates),
+            title = "New dates by site")
+```
+
+
+```{r Figure 4b objects}
+crdref <- "+proj=longlat +datum=WGS84"
+sites.vect <- vect(sites[c("long","lat")],geom = c("long","lat"),crs = crdref)
+dates <- inner_join(distinct(alldates[,c("collectionunitid","geochronid","age","errorolder")]),
+                    distinct(sites[,c("collectionunitid","siteid","sitename","lat","long","newdates")]))
+dates$interval <- cut(as.numeric(dates$age),c(0,6000,11700,16000,60000))
+levels(dates$interval) <- c("Late Hol.","Early Hol.","Deglacial","LGM")
+dates$new <- as.factor(dates$newdates)
+levels(dates$new) <- c("FALSE","TRUE","TRUE"); dates$new <- as.factor(as.character(dates$new))
+temp <- subset(dates,dates$new == TRUE)
+dates.vect <- sapply(split(temp,temp$interval), 
+                     function(x) vect(x[,c("long","lat")],geom = c("long","lat"),crs = crdref))
+eco1 <- read_sf("/mnt/chromeos/MyFiles/Downloads/na_cec_eco_l1/NA_CEC_Eco_Level1.shp")
+eco1 <- st_transform(eco1,st_crs("+proj=longlat +datum=WGS84"))
+temp <- sapply(dates.vect,function(x) relate(vect(eco1), x, "contains"))
+datecount <- sapply(temp, function(x) apply(x,1,sum))
+```
+
+```{r print Figure 2b}
+temp <- data.frame(eco1$NA_L1NAME,datecount)
+colnames(temp) <- c("Ecoregion","LH","EH","DG","LGM")
+temp <- do.call("rbind",by(temp,temp$Ecoregion,function(x) apply(x[,2:5],2,function(x) sum(x))))
+datecounts <- data.frame(Ecoregion = rownames(temp), temp[,4:1])
+datecounts$Ecoregion <- gsub("NORTHWESTERN","NW",datecounts$Ecoregion)
+datecounts$Ecoregion <- reorder(datecounts$Ecoregion,
+                                apply(datecounts[,2:5],1,sum),decreasing = T)
+datecounts <- subset(datecounts,apply(datecounts[,2:5],1,sum) != 0)
+datecounts <- datecounts[order(apply(datecounts[,2:5],1,sum),decreasing = T),]
+temp <- reshape::melt(datecounts);colnames(temp) <- c("Ecoregion","Interval","Count")
+ggplot(temp,aes(x = Interval,y = Count,fill = Ecoregion)) + geom_bar(stat = "identity") + scale_fill_brewer(palette = "Paired")
+```
+
+```{r Figure 5}
+#range plot of age bounds
+if (!exists("newchron.all")) newchron.all <- read.csv("../../outputs/new_sampleages.csv")
+test <- subset(newchron.all,newchron.all$chronology.agemodel == "bounds")[,c("sampleages.ageolder","sampleages.ageyounger")]
+test <- test[order(test$sampleages.ageolder),]
+#test <- test[-which(test$sampleages.ageolder == max(test$sampleages.ageolder)),] #drop outlier site
+test <- test[-which(test$sampleages.ageolder > 150000),]
+ggplot(test, aes(y = 1:nrow(test))) +
+  geom_linerange(aes(xmin = sampleages.ageyounger, xmax = sampleages.ageolder),
+                 linewidth = 1.5, alpha = 0.25) +
+  scale_x_reverse() +
+  geom_point(aes(x = sampleages.ageolder), color = "blue", size = 0.5) +
+  geom_point(aes(x = sampleages.ageyounger), color = "red", size = 0.5) +
+  geom_vline(xintercept = 11700) +
+  ylab("Samples ordered by maximum age") + xlab("Sample age range (cal yr bp)")
+```
+
+```{r figure G objects}
+newchron.event <- subset(newchron.all,newchron.all$chronology.agemodel == "event")
+newchron.event$agediff_new <- newchron.event$sampleages.ageolder - newchron.event$sampleages.ageyounger
+newchron.event$rangebin <- cut(newchron.event$agediff_new,
+                               breaks = quantile(newchron.event$agediff_new,probs = seq(0,1,0.05)))
+newchron.event$age <- apply(newchron.event,1,function(x) {
+  if (is.na(x["sampleages.age"])) {
+    return(mean(as.numeric(c(x["sampleages.ageolder"],x["sampleages.ageyounger"]))))
+  } else return(as.numeric(x["sampleages.age"]))
+})
+newchron.event$agebin <- cut(log(newchron.event$age),
+                             breaks = quantile(log(newchron.event$age),probs = seq(0,1,0.05)))
+levels(newchron.event$agebin) <- rev(viridis::viridis(n = 20))
+
+temp <- dplyr::inner_join(sites,newchron.event[,c("age","collectionunitid","analysisunitid","agebin","agediff_new","rangebin")],relationship = "many-to-many")
+newchron_sites_event <- dplyr::distinct(temp[,c("age","agebin","agediff_new","rangebin","lat","long")])
+newchron_sites_event <- subset(newchron_sites_event,newchron_sites_event$agediff_new < 10000)
+newchron_sites_event <- newchron_sites_event[rev(order(newchron_sites_event$agediff_new)),]
+newchron_sites_event$range_scaled <- (newchron_sites_event$agediff_new/max(newchron_sites_event$agediff_new))
+```
+
+
+```{r generate figure G}
+leaflet(north_america, options = leafletOptions(crs = epsg9311)) %>%
+  addPolygons(weight = 1, color = "grey70", opacity = 0.8) %>%
+  addCircleMarkers(data = newchron_sites_event, opacity = 0.2,
+     radius = 15*newchron_sites_event$range_scaled,
+     color = newchron_sites_event$agebin, group = "circles") %>%
+  addLegend(position = "bottomleft",
+      pal = colorNumeric(palette = "viridis", newchron_sites_event$age, reverse = T), 
+      values = ~newchron_sites_event$age, title = "Age (ybp)")
+```
+

@@ -1,0 +1,9 @@
+"0","if (""here"" %in% installed.packages()) {require(here)} else {install.packages(""here""); require(here)}"
+"0","i_am(""final_scripts/5_autogen_chronologies.Rmd"")"
+"2","here() starts at /home/vsyverson/Github/chronologies_pub
+"
+"0","source(""functions/5_autogen_chronologies_functions.R"")"
+"1","OxCal v4.4.4 (c) Bronk Ramsey (2021)
+"
+"2","Oxcal is already installed correctly.
+"

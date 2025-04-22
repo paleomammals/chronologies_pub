@@ -1,0 +1,13 @@
+"analysisunitid","chronology.agemodel","sampleages.age","sampleages.ageolder","sampleages.ageyounger"
+477611,"event",21400,26400,16300
+525813,"event",7400,7600,7100
+477609,"event",6200,7200,5200
+477613,"event",8800,9300,8200
+477615,"event",10900,11200,10700
+477614,"event",46000,49500,43100
+477611,"bounds",NA,34000,8600
+525813,"bounds",NA,8400,6300
+477609,"bounds",NA,8900,3400
+477613,"bounds",NA,10300,7400
+477615,"bounds",NA,11800,10000
+477614,"bounds",NA,55500,37400
