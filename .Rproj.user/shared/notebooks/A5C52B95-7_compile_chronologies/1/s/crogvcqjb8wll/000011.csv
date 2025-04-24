@@ -1,3 +1,0 @@
-"0","write.csv(newchron.ctrls,here(""outputs/new_caldates.csv""), row.names = F)"
-"0","write.csv(newchron.range,here(""outputs/new_chronologies.csv""), row.names = F)"
-"0","write.csv(newchron.all,here(""outputs/new_sampleages.csv""), row.names = F)"

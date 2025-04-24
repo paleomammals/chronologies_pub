@@ -1,4 +1,0 @@
-"0","inferred_chroncontrols <- read.csv(here(""outputs/inferred_chroncontrols.csv""))"
-"0","inferred_chroncontrols <- distinct(subset(inferred_chroncontrols, inferred_chroncontrols$collectionunitid %in% newchron.range$collectionunitid))"
-"0","temp <- distinct(left_join(inferred_chroncontrols[,1:9],newchron.all[,c(""collectionunitid"",""chronology.agemodel"",""TEMP_chronid"")],by = join_by(collectionunitid,chronology.agemodel), relationship = ""many-to-many""))"
-"0","newchron.ctrls <- distinct(rbind(newchron.ctrls,temp[,-9]))"

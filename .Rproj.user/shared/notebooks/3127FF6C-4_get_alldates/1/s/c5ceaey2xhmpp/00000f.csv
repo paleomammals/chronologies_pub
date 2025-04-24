@@ -1,3 +1,0 @@
-"0","#remove objects other than alldates"
-"0","objectlist <- ls()"
-"0","rm(list = objectlist[which(!objectlist == ""alldates"")]); rm(objectlist)"

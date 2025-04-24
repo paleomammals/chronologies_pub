@@ -1,2 +1,0 @@
-"0","#assign temporary chronids"
-"0","newchron.range$TEMP_chronid <- paste0(""TEMP"",1:nrow(newchron.range))"

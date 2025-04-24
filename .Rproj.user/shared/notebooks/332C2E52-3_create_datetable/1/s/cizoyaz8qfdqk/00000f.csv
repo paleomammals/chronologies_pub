@@ -1,3 +1,0 @@
-"0","#download sites with both dataset types"
-"0","data <- get_sites(as.numeric(intersect(chronsites$siteid, vertsites$siteid)), all_data = TRUE)"
-"0","siteinfo <- show(data)"

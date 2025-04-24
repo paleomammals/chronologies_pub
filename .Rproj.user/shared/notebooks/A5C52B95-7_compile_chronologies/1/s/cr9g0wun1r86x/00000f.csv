@@ -1,3 +1,0 @@
-"0","future_chronids <- unique(newchron.all[future,""TEMP_chronid""])"
-"0","newchron.range[which(newchron.range$TEMP_chronid %in% future_chronids),"
-"0","   ""chronologies.notes""] <- ""younger age limits truncated at publication date (2025 CE)"""

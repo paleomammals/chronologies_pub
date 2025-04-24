@@ -1,4 +1,0 @@
-"0","done <- as.numeric(unlist(sapply(dir(here(""outputs/sampleages"")),"
-"0","                                 function(x) return(strsplit(x,"".csv"")))))"
-"2","Warning: NAs introduced by coercion"
-"0","multi <- multi[!names(multi) %in% done]"

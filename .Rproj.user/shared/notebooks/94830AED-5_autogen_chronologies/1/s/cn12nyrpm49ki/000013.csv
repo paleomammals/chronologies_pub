@@ -1,7 +1,0 @@
-"0"," 	write.csv(result$chroncontrols,
- 	          paste0(here(""../outputs/chroncontrols/""),simplecollids[j],"".csv"",collapse = """"),row.names = F)
-"
-"2","Warning: cannot open file '/home/vsyverson/Github/chronologies_pub/../outputs/chroncontrols/43127.csv': No such file or directory"
-"2","Error in file(file, ifelse(append, ""a"", ""w"")) : 
-  cannot open the connection
-"

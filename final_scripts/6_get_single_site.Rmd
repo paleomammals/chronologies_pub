@@ -1,0 +1,126 @@
+---
+title: "Single site"
+author: "Val Syverson
+---
+12 Nov 2024
+
+This script acquires all dates in the database for collections from a set of sites specified by siteid, then runs the chronologies analysis for it.
+
+# load libraries
+```{r}
+if ("here" %in% installed.packages()) {require(here)} else {install.packages("here"); require(here)}
+i_am("final_scripts/6_get_single_site.Rmd")
+source(here("final_scripts/functions/6_single_site_functions.R"))
+```
+
+# specify siteid to be downloaded 
+```{r}
+site_selection <- 5120
+add.dates <- get_site_geochrons(site_selection,geochronology.table = geochronology.table,agelimit = 30000)
+```
+
+# specify multiple siteids to download
+```{r}
+site_selections <- c(5120,5700,16549)
+add.dates <- vector(mode = "list",length = length(site_selections)); names(add.dates) <- site_selections
+for (i in 1:length(site_selections)){
+  add.dates[[i]] <- try(get_site_geochrons(site_selections[i]))
+}
+add.dates <- list.stack(add.dates[sapply(add.dates,function(x) 
+          class(x) == "data.frame" & !all(is.na(x)))])
+no.dates <- subset(site_selections,!site_selections %in% unique(add.dates$siteid))
+print(paste0(c("No dates from sites",no.dates),collapse=", "))
+```
+
+#append to alldates
+```{r}
+alldates <- read.csv(here("data/alldates.csv"))
+nas <- which(is.na(add.dates$labnumber)) #if there are NAs
+maxtemp <- max(as.numeric(sapply(grep("(^TEMP)",alldates$labnumber,value = T),substr,5,1000)))
+add.dates[nas,"labnumber"] <- paste("TEMP",(maxtemp+1):(maxtemp+length(nas)),sep="")
+check <- which(add.dates$labnumber %in% alldates$labnumber)
+print(check) #should be zero, otherwise check
+if (length(check) == 0) {changed <- check}
+```
+
+```{r}
+check.rev <- na.omit(match(add.dates[check,]$labnumber,alldates$labnumber))
+alldates[which(!apply(alldates[check.rev,c("age","errorolder","erroryounger")] == 
+  add.dates[check,c("age","errorolder","erroryounger")],1,all)),"labnumber"] -> changed
+length(changed)
+```
+
+
+```{r}
+alldates <- rbind(subset(alldates,!alldates$labnumber %in% changed),
+  subset(add.dates,add.dates$labnumber %in% changed))
+add.dates <- subset(add.dates,!add.dates$labnumber %in% changed 
+                    & !add.dates$labnumber %in% alldates$labnumber)
+check <- which(add.dates$labnumber %in% alldates$labnumber)
+print(check) #should be zero, otherwise check
+```
+
+```{r}
+if (length(check) == 0) { 
+  alldates <- distinct(rbind(alldates, add.dates[,colnames(alldates)]))
+  write.csv(alldates,here("data/alldates.csv"),row.names = F)
+  print(paste("Added",nrow(add.dates),"dates, changed",length(changed),"dates, and saved to data/alldates.csv"))
+} else {
+  print(subset(alldates,alldates$labnumber %in% add.dates$labnumber))
+  print(add.dates)
+}
+```
+
+
+# additionally re-run chronology scripts for it
+
+```{r}
+i_am("final_scripts/9_get_single_site.Rmd")
+source("functions/5_autogen_chronologies_functions.R")
+temp <- subset(alldates,alldates$collectionunitid %in% unique(c(add.dates$collectionunitid,
+                subset(alldates,alldates$labnumber %in% changed)$collectionunitid)))
+dates <- split(temp,temp$category)
+if (!is.null(dates$`1`)) {
+  simple <- dates$`1`; simplecollids <- unique(simple$collectionunitid)
+  J <- 1
+  for (j in J:length(simplecollids)) {
+    print(paste0(c("Collection",j,"of",length(simplecollids)),collapse=" "))
+  	result <- dateranges(simplecollids[j],data = simple)
+   	write.csv(result$sampleages,
+     paste0(here("outputs/sampleages/"), "/", simplecollids[j],".csv", collapse = ""), row.names = F)
+   	write.csv(result$chroncontrols,
+     paste0(here("outputs/chroncontrols/"), "/", simplecollids[j],".csv",collapse = ""),row.names = F)
+  }
+}
+if (!is.null(dates$`2`)){
+  multi <- dates$`2`
+  multi <- split(multi, multi$collectionunitid)
+  J <- 1
+  for (j in J:length(multi)) {
+    print(paste0(c("Collection",j,"of",length(multi)),collapse=" "))
+    result <- dateranges.multi(multi[j])
+    write.csv(result$sampleages,
+              paste0("../outputs/sampleages/",names(multi)[j],".csv",collapse = ""),row.names = F)
+    write.csv(result$chroncontrols,
+              paste0("../outputs/chroncontrols/",names(multi)[j],".csv",collapse = ""),row.names = F)
+    }
+}
+ if (!is.null(dates$`3`)){
+  mixed <- dates$`3`
+  mixed <- split(mixed,mixed$collectionunitid)
+  source(here("final_scripts/functions/6_manual_chronologies_functions.R"))
+  codeblocks <- sapply(mixed,makeOxcalCode)
+  for (i in 1:length(codeblocks)){
+    filename <- paste0(c(here("scripts/oxcalscripts/oxcode"),names(codeblocks[i]),".txt"),
+                       collapse = "")
+    print(filename)
+    write(codeblocks[[i]],file = filename)
+  }
+  print(c(paste0("New OxCal scripts generated for collection units ", 
+               paste0(sort(names(mixed)),collapse = ", "),
+               ".",collapse=" "),
+          "Run them in the OxCal web interface.",
+          "Then ingest them using script 6_manual_chronologies.rmd, starting at chunk 4."))
+}
+```
+
