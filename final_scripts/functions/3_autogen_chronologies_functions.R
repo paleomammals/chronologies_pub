@@ -25,8 +25,8 @@ unitDates <- function(data,auid="all"){
   if (auid == "all") auid <- unique(data$analysisunitid)
   dateString <- vector(mode = "list",length = length(auid))
   for (i in 1:length(auid)) {
-    rdates <- subset(data,data$analysisunitid %in% auid[i] & 
-    rdates <- rdates[rev(order(rdates$age)),]
+    rdates <- subset(data,data$analysisunitid %in% auid[i] &
+                       rdates <- rdates[rev(order(rdates$age)),])
     if (nrow(rdates) > 1) {
       dateString[i] <- paste0(apply(rdates,1,assembleDateString),collapse = "\n      ")
     } else if (nrow(rdates) == 1) {
