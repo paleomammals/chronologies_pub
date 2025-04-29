@@ -52,8 +52,8 @@ assign category names for each collection
 - 3 = analysis units with both uncalibrated 14C and other dates
 - 4 = only non-14C or calibrated 14C dates (new chronologies will not be computed)
 ```{r}
+write.csv(alldates,here("data/rawdates.csv"))
 alldates$category <- NA
-
 alldates.clean <- subset(alldates,alldates$infinite == FALSE & 
                                   alldates$rejected == FALSE & 
                                   alldates$human == FALSE)
@@ -70,7 +70,8 @@ for (i in 1:length(collids.cat$collid)) {
   }
 }
 alldates$category <- collids.cat$category[match(alldates$collectionunitid,collids.cat$collid)]
-alldates <- subset(alldates,alldates$category!=4)
+write.csv(alldates,here("data/alldates_allcategories.csv"),row.names = F)
+alldates <- subset(alldates,alldates$category != 4)
 ```
 
 # save and delete extra items

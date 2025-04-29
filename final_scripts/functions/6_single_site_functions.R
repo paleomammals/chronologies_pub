@@ -217,3 +217,11 @@ get_from_tilia <- function(values, params, meth) {
   obj <- try(GET(url), silent = TRUE)
   return(fromJSON(content(obj,as = "text")))
 }
+
+cleandates <- function(data){
+  drop <- which(is.na(data$age) | is.na(data$errorolder) | is.na(data$erroryounger) |
+                  data$age < 50 | data$errorolder == 0 |
+                  data$infinite == TRUE | data$human == TRUE | data$rejected == TRUE)
+  if (length(drop) > 0) {result <- data[-drop,]} else {result <- data}
+  return(result)
+}
