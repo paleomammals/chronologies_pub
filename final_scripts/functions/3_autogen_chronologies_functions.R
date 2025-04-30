@@ -97,14 +97,16 @@ dateranges <- function(collid,data) {
     sampleages.ageolder = c(chronology$begin.event,chronology$begin.bound),
     sampleages.ageyounger = c(chronology$end.event,chronology$end.bound)
   )
-  controls <- data.frame(unname(t(sapply(grep("^[0-9]",names(oxcalResult),value = T),
-                                         function(x) strsplit(x,"\\[|\\]")[[1]][1:2]))))
+  controls <- data.frame(unname(t(sapply(grep("[0-9]\\[",names(oxcalResult),value = T),
+                                         function(x) {
+                                           strsplit(gsub("[c\\(\\)\"]","",x),"\\[|\\]")[[1]][1:2]
+                                           }))))
   colnames(controls) <- c("geochronid","geochronology.labnumber")
-  controls$chroncontrols.age <- sapply(oxcalResult[grepl("^[0-9]",names(oxcalResult))],
+  controls$chroncontrols.age <- sapply(oxcalResult[grepl("[0-9]\\[",names(oxcalResult))],
                                        function(x) medianProbDist(x$posterior_probabilities,quantile = 0.5))
-  controls$chroncontrols.agelimitolder <- sapply(oxcalResult[grepl("^[0-9]",names(oxcalResult))],
+  controls$chroncontrols.agelimitolder <- sapply(oxcalResult[grepl("[0-9]\\[",names(oxcalResult))],
                                                  function(x) medianProbDist(x$posterior_probabilities,quantile = 0.0455))
-  controls$chroncontrols.agelimityounger <- sapply(oxcalResult[grepl("^[0-9]",names(oxcalResult))],
+  controls$chroncontrols.agelimityounger <- sapply(oxcalResult[grepl("[0-9]\\[",names(oxcalResult))],
                                                    function(x) medianProbDist(x$posterior_probabilities,quantile = 0.9545))
   return(list(sampleages = AUage,chroncontrols = controls))
 }
