@@ -55,7 +55,7 @@ for (i in 1:length(temp)) {
   names(temp)[i] <- gsub(".csv","",dir(here("outputs/oxcalDownloads_new/"))[i])
 }
 # filter out already-processed results
-temp <- temp[sapply(names(mixed), function(x) any(grepl(x,names(temp))))]
+temp <- temp[unlist(sapply(names(mixed), function(x) grep(x,names(temp))))]
 web.results <- vector(mode = "list", length = length(temp))
 names(web.results) <- names(temp)
 ```
@@ -63,7 +63,7 @@ names(web.results) <- names(temp)
 # parse the output tables
 ```{r}
 # compute the appropriate quantiles from the probability density functions in the files you downloaded
-for (i in which(sapply(web.results,length) == 1)){
+for (i in 1:length(web.results)){
   web.results[[i]] <- try(extractChronology.Table(temp[[i]],idtype = "geochronid"))
 }
 # clean up the names of the chroncontrols
