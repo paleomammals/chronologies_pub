@@ -35,13 +35,14 @@ for (i in 1:length(codeblocks)){
   print(filename)
   write(codeblocks[[i]],file = filename)
 }
+# These will be named only with the collection number, not the collection name. The existing files in that folder have had the collection name manually appended as a memory aid.
 ```
 
 2. Run the code blocks in the OxCal web interface
 
 For each of these files, paste the contents into a code window on the OxCal website (https://c14.arch.ox.ac.uk/oxcal/OxCal.html) and run the model. (This may take some time.)
 When it completes, with the "Table" window focused, choose File > Export to bring up the "Report" window. Click "Save", then "Download" to get the results formatted as a .csv file with the name you chose when you ran it. 
-The next section assumes you saved these .csv files in the folder "workflow/outputs/oxcalDownloads_new".
+The next section assumes you saved these .csv files in the folder "outputs/oxcalDownloads_new".
 
 3. Format the .csv output to match the other results
 # read in the output tables
@@ -54,7 +55,7 @@ for (i in 1:length(temp)) {
   names(temp)[i] <- gsub(".csv","",dir(here("outputs/oxcalDownloads_new/"))[i])
 }
 # filter out already-processed results
-temp <- temp[grepl(names(mixed),names(temp))]
+temp <- temp[sapply(names(mixed), function(x) any(grepl(x,names(temp))))]
 web.results <- vector(mode = "list", length = length(temp))
 names(web.results) <- names(temp)
 ```
