@@ -67,7 +67,7 @@ for (i in 1:length(web.results)){
   web.results[[i]] <- try(extractChronology.Table(temp[[i]],idtype = "geochronid"))
 }
 # clean up the names of the chroncontrols
-for (i in 1:length(web.results)){
+for (i in 1:length(web.results)) {
   web.results[[i]]$chroncontrols$geochronology.labnumber <- 
     gsub(", .*", "",web.results[[i]]$chroncontrols$geochronology.labnumber)
 }
