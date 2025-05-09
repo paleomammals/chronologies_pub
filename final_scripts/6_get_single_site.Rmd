@@ -4,24 +4,35 @@ author: "Val Syverson
 ---
 12 Nov 2024
 
-This script acquires all dates in the database for collections from a set of sites specified by siteid, then runs the chronologies analysis for it.
+This script is to be used to generate chronologies according to the same method used for the Syverson and Blois (2025) chronologies, for example, if the geochronologic dataset for a collection has been updated in Neotoma.
 
-# load libraries
+* The first part of this script acquires all dates in Neotoma for collections from a single site or set of sites, specified by siteid. 
+* The section "Run chronologies" runs the OxCal analysis for the dates in the sites you specify and saves the results (sample ages and chron controls) over any existing chronologies.
+* The section "Compile chronologies" creates tables that can be inserted into the "chronologies", "sampleages", and "chroncontrols" tables in the database.
+* The section "Add to main date table" adds any new dates to the main date table (data/alldates.csv). This part of the script is only necessary to run if you are planning to reanalyze the whole table, which is usually not going to be the case; thus, it is probably not useful, but is included for completeness.
+
+
+
+# Download all dates for one or several specified Neotoma sites (by siteid)
+## load libraries
 ```{r}
 if ("here" %in% installed.packages()) {require(here)} else {install.packages("here"); require(here)}
 i_am("final_scripts/6_get_single_site.Rmd")
 source(here("final_scripts/functions/6_single_site_functions.R"))
 ```
 
-# specify siteid to be downloaded 
+## specify siteid to be downloaded 
 ```{r}
-site_selection <- 5120
+site_selection <- 3586
+# this siteid is just an example; change this line to the siteid of the site that you want to download 
 add.dates <- get_site_geochrons(site_selection,geochronology.table = geochronology.table,agelimit = 30000)
 ```
 
-# specify multiple siteids to download
+## or specify multiple siteids to be downloaded
 ```{r}
 site_selections <- c(5120,5700,16549)
+# alternatively, download multiple sites by listing the siteids
+# again, these are example siteids; replace them with the ids of the desired sites
 add.dates <- vector(mode = "list",length = length(site_selections)); names(add.dates) <- site_selections
 for (i in 1:length(site_selections)){
   add.dates[[i]] <- try(get_site_geochrons(site_selections[i]))
@@ -32,54 +43,22 @@ no.dates <- subset(site_selections,!site_selections %in% unique(add.dates$siteid
 print(paste0(c("No dates from sites",no.dates),collapse=", "))
 ```
 
-#append to alldates
+# Run chronologies
+Re-run chronology scripts for all affected collections.
+
+## load scripts 
 ```{r}
-alldates <- read.csv(here("data/alldates.csv"))
-nas <- which(is.na(add.dates$labnumber)) #if there are NAs
-maxtemp <- max(as.numeric(sapply(grep("(^TEMP)",alldates$labnumber,value = T),substr,5,1000)))
-add.dates[nas,"labnumber"] <- paste("TEMP",(maxtemp+1):(maxtemp+length(nas)),sep="")
-check <- which(add.dates$labnumber %in% alldates$labnumber)
-print(check) #should be zero, otherwise check
-if (length(check) == 0) {changed <- check}
+source(here("final_scripts/functions/3_autogen_chronologies_functions.R"))
 ```
 
+## select only dates from affected collections
 ```{r}
-check.rev <- na.omit(match(add.dates[check,]$labnumber,alldates$labnumber))
-alldates[which(!apply(alldates[check.rev,c("age","errorolder","erroryounger")] == 
-  add.dates[check,c("age","errorolder","erroryounger")],1,all)),"labnumber"] -> changed
-length(changed)
+dates <- split(add.dates,add.dates$category)
 ```
 
-
+## compute chronologies by category
+### single analysis unit collection
 ```{r}
-alldates <- rbind(subset(alldates,!alldates$labnumber %in% changed),
-  subset(add.dates,add.dates$labnumber %in% changed))
-add.dates <- subset(add.dates,!add.dates$labnumber %in% changed 
-                    & !add.dates$labnumber %in% alldates$labnumber)
-check <- which(add.dates$labnumber %in% alldates$labnumber)
-print(check) #should be zero, otherwise check
-```
-
-```{r}
-if (length(check) == 0) { 
-  alldates <- distinct(rbind(alldates, add.dates[,colnames(alldates)]))
-  write.csv(alldates,here("data/alldates.csv"),row.names = F)
-  print(paste("Added",nrow(add.dates),"dates, changed",length(changed),"dates, and saved to data/alldates.csv"))
-} else {
-  print(subset(alldates,alldates$labnumber %in% add.dates$labnumber))
-  print(add.dates)
-}
-```
-
-
-# additionally re-run chronology scripts for it
-
-```{r}
-i_am("final_scripts/9_get_single_site.Rmd")
-source("functions/5_autogen_chronologies_functions.R")
-temp <- subset(alldates,alldates$collectionunitid %in% unique(c(add.dates$collectionunitid,
-                subset(alldates,alldates$labnumber %in% changed)$collectionunitid)))
-dates <- split(temp,temp$category)
 if (!is.null(dates$`1`)) {
   simple <- dates$`1`; simplecollids <- unique(simple$collectionunitid)
   J <- 1
@@ -92,6 +71,10 @@ if (!is.null(dates$`1`)) {
      paste0(here("outputs/chroncontrols/"), "/", simplecollids[j],".csv",collapse = ""),row.names = F)
   }
 }
+```
+
+### multiple analysis unit collection
+```{r}
 if (!is.null(dates$`2`)){
   multi <- dates$`2`
   multi <- split(multi, multi$collectionunitid)
@@ -100,12 +83,16 @@ if (!is.null(dates$`2`)){
     print(paste0(c("Collection",j,"of",length(multi)),collapse=" "))
     result <- dateranges.multi(multi[j])
     write.csv(result$sampleages,
-              paste0("../outputs/sampleages/",names(multi)[j],".csv",collapse = ""),row.names = F)
+              paste0(here("outputs/sampleages/"), "/", names(multi)[j],".csv",collapse = ""),row.names = F)
     write.csv(result$chroncontrols,
-              paste0("../outputs/chroncontrols/",names(multi)[j],".csv",collapse = ""),row.names = F)
+              paste0(here("outputs/chroncontrols/"), "/", names(multi)[j],".csv",collapse = ""),row.names = F)
     }
 }
- if (!is.null(dates$`3`)){
+```
+
+### collection containing some non-radiocarbon dates
+```{r}
+if (!is.null(dates$`3`)){
   mixed <- dates$`3`
   mixed <- split(mixed,mixed$collectionunitid)
   source(here("final_scripts/functions/6_manual_chronologies_functions.R"))
@@ -120,7 +107,166 @@ if (!is.null(dates$`2`)){
                paste0(sort(names(mixed)),collapse = ", "),
                ".",collapse=" "),
           "Run them in the OxCal web interface.",
-          "Then ingest them using script 6_manual_chronologies.rmd, starting at chunk 4."))
+          "Then ingest them using script 4_manual_chronologies.Rmd, starting at chunk 4."))
 }
 ```
 
+# Compile chronologies
+## Load data from files created in previous section
+```{r}
+collids <- unique(add.dates$collectionunitid)
+fpath <- here("outputs/sampleages")
+names <- data.frame(collid = gsub(".csv","",dir(path = fpath)),
+                    path = unname(sapply(dir(path = fpath),
+                       function(x) paste(c(fpath,"/",x),collapse = ""))))
+names <- subset(names,suppressWarnings(!is.na(as.numeric(names$collid))) & grepl("csv",names$path))
+names <- names[sapply(collids,function(x) which(grepl(x,names$collid))),]
+sampleages <- list.stack(apply(names,1,function(x) {
+  csv <- try(read.csv(file = x["path"]),silent = T)
+  if (class(csv) == "data.frame") {
+      return(suppressWarnings(cbind(collid = as.numeric(x["collid"]),csv)))}
+  }),use.names = F)
+colnames(sampleages)[1] <- "collectionunitid"
+inferred_sampleages <- read.csv(here("outputs/inferred_sampleages.csv"))[,1:6]
+if (any(sampleages$collectionunitid %in% inferred_sampleages$collectionunitid)) {
+  inferred_sampleages$source <- "inferred"
+  inferred_sampleages <- subset(inferred_sampleages,
+                                inferred_sampleages$collectionunitid %in% sampleages$collectionunitid)
+  sampleages$source <- "computed"
+  sampleages <- as.data.frame(rbind(sampleages,inferred_sampleages))
+}
+future <- which(sampleages$sampleages.ageyounger < -75)
+sampleages[future,"sampleages.ageyounger"] <- -75
+fpath2 <- here("outputs/chroncontrols")
+names2 <- data.frame(collid = gsub(".csv","",dir(path = fpath2)),
+                    path = unname(sapply(dir(path = fpath2),
+                       function(x) paste(c(fpath2,"/",x),collapse = ""))))
+names2 <- subset(names2,suppressWarnings(!is.na(as.numeric(names2$collid))))
+names2 <- names2[sapply(collids,function(x) which(grepl(x,names2$collid))),]
+chroncontrols <- list.stack(apply(names2,1,function(x) {
+  csv <- try(read.csv(file = x["path"]),silent = T)
+  if (class(csv) == "data.frame") {
+      return(suppressWarnings(cbind(collid = as.numeric(x["collid"]),csv)))}
+  }),use.names = F)
+colnames(chroncontrols)[1] <- "collectionunitid"
+```
+
+## Assign types
+```{r}
+chroncontroltypes <- get_table("chroncontroltypes")[,1:3]
+temp <- left_join(chroncontrols,alldates[,c("geochronid","geochrontypeid","agetypeid")])
+table(temp$geochrontypeid)
+typeindex <- data.frame(table(temp$geochrontypeid))
+```
+
+
+```{r}
+#Each type of chroncontrol needs a label and there is no way to do this automatically
+#If there are fewer or more types than listed here, this will throw an error
+
+#typeindex$chroncontroltype <- c("Palaeomagnetic","Argon-argon",
+#                                "Radiocarbon, calibrated, Bayesian modelled",
+#                                "Optically stimulated luminescence",
+#                                "Thermoluminescence","Uranium-series")
+
+#Adjust this list as necessary so that each type of chroncontrol has a matching value in the chroncontroltypes table in the following join.
+#For the example collection Crystal Ball Cave:
+typeindex$chroncontroltype <- "Radiocarbon, calibrated, Bayesian modelled"
+
+typeindex <- left_join(typeindex[c("Var1","chroncontroltype")],chroncontroltypes)
+temp <- left_join(temp,typeindex[,c("Var1","chroncontroltype","chroncontroltypeid")],
+                  by = join_by(geochrontypeid == Var1))
+
+temp[which(temp$geochrontypeid == "Carbon-14" & temp$agetypeid %in% c("calendar yr BP","cal yr BP")),"chroncontroltype"] <- "Calibrated radiocarbon years BP"
+temp[which(temp$geochrontypeid == "Carbon-14" & temp$agetypeid %in% c("calendar yr BP","cal yr BP")),"chroncontroltypeid"] <- 17
+chroncontrols <- temp[,c(colnames(chroncontrols),"chroncontroltypeid")]
+```
+
+## Generate table of ranges and temporary chronids
+```{r}
+collchrons <- list.stack(tapply(sampleages,sampleages$collectionunitid,
+                      dfbounds, simplify = F))
+timeinfo <- cbind(filename = dir(here("outputs/sampleages")),
+                  list.stack(sapply(dir(here("outputs/sampleages"),full.names = T), 
+                                    file.info, simplify = F)))
+timeinfo$collectionunitid <- unlist(sapply(timeinfo$filename,function(x) strsplit(x,".csv")))
+timeinfo$dateprepared <- unlist(sapply(timeinfo$mtime,function(x) strsplit(as.character(x)," ")[[1]][1]))
+collchrons <- merge(collchrons,timeinfo[,c("collectionunitid","dateprepared")])
+collchrons$chronologies.notes <- NA
+collchrons$TEMP_chronid <- paste0("TEMP",1:nrow(collchrons))
+sampleages <- left_join(sampleages,                          
+                        collchrons[,c("collectionunitid","agemodel","TEMP_chronid")],
+                          by = join_by(collectionunitid == collectionunitid,
+                                       chronology.agemodel == agemodel), 
+                          relationship = "many-to-one")
+alldates <- read.csv(here("data/alldates.csv"))
+temp <- distinct(inner_join(chroncontrols,alldates[,c("geochronid","analysisunitid")]))
+temp[,c(1:2,4:8)] <- apply(temp[,c(1:2,4:8)],2,as.numeric)
+sampleages[,c(1:2,4:6)] <- apply(sampleages[,c(1:2,4:6)],2,as.numeric)
+newchron.sampleages <- split(sampleages,sampleages$chronology.agemodel)
+templist <- list(bounds = distinct(left_join(temp,
+                            distinct(newchron.sampleages$bounds[,c("analysisunitid","TEMP_chronid")]))), 
+                 event = distinct(left_join(temp,
+                            distinct(newchron.sampleages$event[,c("analysisunitid","TEMP_chronid")]))))
+templist$bounds <- left_join(templist$bounds,subset(sampleages,sampleages$chronology.agemodel == "bounds")[,c("analysisunitid","TEMP_chronid")],relationship = "many-to-many")
+templist$event <- left_join(templist$event,subset(sampleages,sampleages$chronology.agemodel == "event")[,c("analysisunitid","TEMP_chronid")],relationship = "many-to-many")
+chroncontrols <- distinct(list.stack(templist))
+inferred_chroncontrols <- read.csv(here("outputs/inferred_chroncontrols.csv"))
+inferred_chroncontrols <- distinct(subset(inferred_chroncontrols, inferred_chroncontrols$collectionunitid %in% collchrons$collectionunitid))
+temp <- distinct(left_join(inferred_chroncontrols[,1:9],sampleages[,c("collectionunitid","chronology.agemodel","TEMP_chronid")],by = join_by(collectionunitid,chronology.agemodel), relationship = "many-to-many"))
+chroncontrols <- distinct(rbind(chroncontrols,temp[,-9]))
+future_chronids <- unique(sampleages[future,"TEMP_chronid"])
+collchrons[which(collchrons$TEMP_chronid %in% future_chronids),
+   "chronologies.notes"] <- "younger age limits truncated at publication date (2025 CE)"
+```
+
+## Save new tables
+```{r}
+filestring <- paste0(here("outputs/"),paste0(collids,collapse = "_"),collapse = "")
+write.csv(chroncontrols,paste0(c(filestring,"_caldates.csv"),collapse = ""), row.names = F)
+write.csv(collchrons,paste0(c(filestring,"_chronologies.csv"),collapse = ""), row.names = F)
+write.csv(sampleages,paste0(c(filestring,"_sampleages.csv"),collapse = ""), row.names = F)
+```
+
+
+# Add to main date table
+## search "alldates" table for duplicates of existing dates
+```{r}
+alldates <- read.csv(here("data/alldates.csv"))
+nas <- which(is.na(add.dates$labnumber)) #if there are NAs
+maxtemp <- max(as.numeric(sapply(grep("(^TEMP)",alldates$labnumber,value = T),substr,5,1000)))
+add.dates[nas,"labnumber"] <- paste("TEMP",(maxtemp+1):(maxtemp+length(nas)),sep="")
+check <- which(add.dates$labnumber %in% alldates$labnumber)
+print(check) #should be zero, otherwise check
+if (length(check) == 0) {changed <- check}
+```
+
+## check table for any changes to dates that were already included in the table
+```{r}
+check.rev <- na.omit(match(add.dates[check,]$labnumber,alldates$labnumber))
+alldates[which(!apply(alldates[check.rev,c("age","errorolder","erroryounger")] == 
+  add.dates[check,c("age","errorolder","erroryounger")],1,all)),"labnumber"] -> changed
+length(changed)
+```
+
+## drop duplicates and add only the new dates ("add.dates")
+```{r}
+alldates <- rbind(subset(alldates,!alldates$labnumber %in% changed),
+  subset(add.dates,add.dates$labnumber %in% changed))
+add.dates <- subset(add.dates,!add.dates$labnumber %in% changed 
+                    & !add.dates$labnumber %in% alldates$labnumber)
+check <- which(add.dates$labnumber %in% alldates$labnumber)
+print(check) #should be zero, otherwise check
+```
+
+## update saved copy of "alldates" table with new dates
+```{r}
+if (length(check) == 0) { 
+  alldates <- distinct(rbind(alldates, add.dates[,colnames(alldates)]))
+  write.csv(alldates,here("data/alldates.csv"),row.names = F)
+  print(paste("Added",nrow(add.dates),"dates, changed",length(changed),"dates, and saved to data/alldates.csv"))
+} else {
+  print(subset(alldates,alldates$labnumber %in% add.dates$labnumber))
+  print(add.dates)
+}
+```
