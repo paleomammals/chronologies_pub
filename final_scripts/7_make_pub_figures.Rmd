@@ -7,7 +7,8 @@ checkAndInstall(required.packages)
 ```
 
 ```{r refresh data}
-rm(alldates,geochrons,newchron.range,newchron.all,found,corrected)
+rmlist <- c("alldates","geochrons","newchron.range","newchron.all","found","corrected")
+rm(list = subset(rmlist, sapply(rmlist, exists)))
 ```
 
 
@@ -83,7 +84,7 @@ pal <- colorFactor("RdYlBu",sites$newdates,reverse = T)
 ```
 
 
-```{r Figure 2a}
+```{r create and print Figure 2a}
 figure2a <- leaflet(north_america, options = leafletOptions(crs = epsg9311)) %>%
   addPolygons(weight = 1,color = "grey70bl",opacity = 0.8) %>%
   addCircleMarkers(data = sites[,c("long","lat")],
@@ -91,6 +92,8 @@ figure2a <- leaflet(north_america, options = leafletOptions(crs = epsg9311)) %>%
                    radius = 2,stroke = T,fillOpacity = 0.9) %>%
   addLegend(position = "bottomleft", pal = pal, values = levels(sites$newdates),
             title = "New dates by site")
+
+figure2a
 ```
 
 
@@ -133,6 +136,8 @@ datecounts <- subset(datecounts,apply(datecounts[,2:5],1,sum) != 0)
 datecounts <- datecounts[order(apply(datecounts[,2:5],1,sum),decreasing = T),]
 temp <- reshape::melt(datecounts);colnames(temp) <- c("Ecoregion","Interval","Count")
 figure2b <- ggplot(temp,aes(x = Interval,y = Count,fill = Ecoregion)) + geom_bar(stat = "identity") + scale_fill_brewer(palette = "Paired")
+
+figure2b
 ```
 
 ```{r figure 5 objects}
@@ -185,6 +190,8 @@ Figure6b <- ggplot(test, aes(y = 1:nrow(test))) +
   geom_point(aes(x = sampleages.ageyounger), color = "red", size = 0.5) +
   geom_vline(xintercept = 11700) +
   ylab("Samples ordered by maximum age") + xlab("Sample age range (cal yr bp)")
+
+Figure6b
 ```
 # Statistics
 ## Download existing default chronologies to be replaced
@@ -236,7 +243,7 @@ sampleages.df <- distinct(list.stack(sampleages, fill = TRUE))[,1:5]
 ```
 
 ## Join with downloaded chronologies
-```{r download sample ages}
+```{r join old chronologies to old sample ages}
 oldchron_samp <- data.frame(dplyr::inner_join(chrons, sampleages.df, by = "chronologyid"))
 ```
 ## Download sample ids and match with analysis unit ids in new sample ages
@@ -303,7 +310,7 @@ Table2 <- cbind(
                     Chron_Younger = -median(x$ageshift_younger, na.rm = T)))
   }))
 )
-
+Table2
 ```
 
 ## Report values in "Computing new age estimates"
@@ -323,15 +330,15 @@ data.frame(Carbon14 = length(which(clean_dates$geochrontypeid == "Carbon-14")),
 apply(clean_dates[,c("siteid","collectionunitid","analysisunitid","geochronid")],2,
       function(x) length(unique(x)))
 #counts of unique ids
-
-table(clean_dates$agetypeid)
-table(clean_dates$geochrontypeid)
+print(table(clean_dates$agetypeid))
+print(table(clean_dates$geochrontypeid))
 ```
 
 ## Technical validation section
 ```{r dates}
 newdates <- read.csv(here("outputs/newdates-uploaded.csv"))
-apply(newdates[,c("ndb.geochronology.geochronid","ndb.collectionunits.collectionunitid","ndb.sites.siteid")],2,function(x) length(unique(x)))
+newdate_counts <- apply(newdates[,c("ndb.geochronology.geochronid","ndb.collectionunits.collectionunitid","ndb.sites.siteid")],2,function(x) length(unique(x)))
+print(newdate_counts)
 ```
 
 ```{r chronologies}
@@ -344,19 +351,21 @@ length(which(!test$collectionunitid %in% chrons$collectionunitid))
 length(which(test$collectionunitid %in% chrons$collectionunitid))
 dim(chrons)
 table(chrons$agetype)
-sapply(compare_sampleages, function(x) {
+sampleage_diffs <- sapply(compare_sampleages, function(x) {
   return(data.frame(
     old.agediff = median(x$old.agediff, na.rm=T),
     new.agediff = median(subset(x$new.agediff, !is.na(x$old.agediff)), na.rm=T),
     difference = median(x$new.agediff - x$old.agediff, na.rm=T))
   )
 })
-sapply(compare_chrons, function(x) {
+print(sampleage_diffs)
+chron_diffs <- sapply(compare_chrons, function(x) {
   return(data.frame(
     old.agediff = median(x$old.agediff, na.rm=T),
     new.agediff = median(subset(x$new.agediff, !is.na(x$old.agediff)), na.rm=T),
     difference = median(x$new.agediff - x$old.agediff, na.rm=T))
   )
 })
+print(chron_diffs)
 ```
 
