@@ -1,8 +1,5 @@
 "siteid","collectionunitid","sampleid","datasetid","analysisunitid","geochronid","geochrontypeid","agetypeid","age","errorolder","erroryounger","infinite","delta13c","labnumber","materialdated","notes","depenvtid","sitename","rejected","analysisunitname","human","category"
 244,5601,116781,9747,82004,8938,"Carbon-14","Radiocarbon years BP",11670,300,300,FALSE,NA,"A-3212","Mammuthus dung","",115,"Bechan Cave",FALSE,"Dung Group 1",FALSE,2
-244,5601,116782,9747,82004,8939,"Carbon-14","Radiocarbon years BP",11870,140,140,FALSE,NA,"AA-1123","dung","",115,"Bechan Cave",FALSE,"Dung Group 1",FALSE,2
-244,5601,116783,9747,82004,8940,"Carbon-14","Radiocarbon years BP",11850,160,160,FALSE,NA,"A-3296","Mammuthus dung","",115,"Bechan Cave",FALSE,"Dung Group 1",FALSE,2
-244,5601,116784,9747,82005,8941,"Carbon-14","Radiocarbon years BP",12090,210,210,FALSE,NA,"AA-1113","dung","",115,"Bechan Cave",FALSE,"Dung Group 2",FALSE,2
 244,5601,116785,9747,82005,8942,"Carbon-14","Radiocarbon years BP",12320,160,160,FALSE,NA,"AA-1114","dung","",115,"Bechan Cave",FALSE,"Dung Group 2",FALSE,2
 244,5601,116786,9747,82005,8943,"Carbon-14","Radiocarbon years BP",12390,120,120,FALSE,NA,"AA-1110","dung","",115,"Bechan Cave",FALSE,"Dung Group 2",FALSE,2
 244,5601,116787,9747,82005,8944,"Carbon-14","Radiocarbon years BP",12390,140,140,FALSE,NA,"AA-1122","dung","",115,"Bechan Cave",FALSE,"Dung Group 2",FALSE,2
