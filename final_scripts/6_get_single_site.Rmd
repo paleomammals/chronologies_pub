@@ -57,6 +57,10 @@ dates <- split(add.dates,add.dates$category)
 ```
 
 ## compute chronologies by category
+Note: for the examples above, use the following:
+- For the single site selection example (Site ID 3586). This site has multiple analysis units.
+- For the multiple site selection example (Site IDs 5120,5700,16549). Each site has multiple analysis units.
+
 ### single analysis unit collection
 ```{r}
 if (!is.null(dates$`1`)) {
