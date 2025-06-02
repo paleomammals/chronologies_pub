@@ -158,6 +158,7 @@ colnames(chroncontrols)[1] <- "collectionunitid"
 ## Assign types
 ```{r}
 chroncontroltypes <- get_table("chroncontroltypes")[,1:3]
+alldates <- read.csv(here("data/alldates.csv"))
 temp <- left_join(chroncontrols,alldates[,c("geochronid","geochrontypeid","agetypeid")])
 table(temp$geochrontypeid)
 typeindex <- data.frame(table(temp$geochrontypeid))
