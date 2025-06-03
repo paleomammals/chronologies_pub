@@ -58,7 +58,7 @@ dates <- split(add.dates,add.dates$category)
 
 ## compute chronologies by category
 Note: for the examples above, use the following:
-- For the single site selection example (Site ID 3586). This site has multiple analysis units.
+- For the single site selection example (Site ID 3586). This site has a single analysis unit.
 - For the multiple site selection example (Site IDs 5120,5700,16549). Each site has multiple analysis units.
 
 ### single analysis unit collection
@@ -175,7 +175,7 @@ typeindex <- data.frame(table(temp$geochrontypeid))
 #                                "Thermoluminescence","Uranium-series")
 
 #Adjust this list as necessary so that each type of chroncontrol has a matching value in the chroncontroltypes table in the following join.
-#For the example collection Crystal Ball Cave:
+#For the example collection from above, Crystal Ball Cave, siteID 3586:
 typeindex$chroncontroltype <- "Radiocarbon, calibrated, Bayesian modelled"
 
 typeindex <- left_join(typeindex[c("Var1","chroncontroltype")],chroncontroltypes)
