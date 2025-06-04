@@ -261,7 +261,7 @@ while (I <= length(sampleids)) {
       sampleids[[i]] <- data.frame(sampleid = as.numeric(x),analysisunitid = temp$data$analysisunitid)
     }
   }
-  I <- i + 1; J <- min(c(nrow(sampleids),(i + 100)))
+  I <- i + 1; J <- min(c(length(sampleids),(i + 100)))
 }
 sampleids.df <- distinct(list.stack(sampleids)[,c("sampleid","analysisunitid")])
 ```
