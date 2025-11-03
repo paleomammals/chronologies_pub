@@ -1,8 +1,9 @@
 # chronologies_pub
 
-Public version of code for Syverson and Blois (2015)
+Public version of code for Syverson and Blois (2025)
 
 =======
+
 These are the publication versions of Val's scripts for this project. They are intended to be run on computers that are not set up exactly like Val's and eventually for archiving at publication. 
 
 Scripts in this folder will run on any computer with the right R libraries installed, no need to install Postgres. They operate by calling the Neotoma 2.0 API using library "neotoma2", and where necessary the Neotoma Tilia API using library "RCurl".
@@ -14,3 +15,4 @@ Of the files that it outputs, the ones you probably want are as follows:
 * dates_for_analysis_smallmamm.csv (all geochronology dates <30k 14Cybp from collections that have small mammal taxa, from sites in North America)
     * dates_for_analysis_allvert.csv (same as previoius but without filtering to small mammals only)
 * smallmammaltaxa.csv (version of Neotoma's table "taxa" filtered to only taxa in Rodentia, Lagomorpha, and Eulipotyphla, equivalent to the "ecologicalgroups" RODE, LAGO, and SORI in Neotoma's "samples" table)
+
