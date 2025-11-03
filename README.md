@@ -1,6 +1,6 @@
 # chronologies_pub
 
-Public version of code for Syverson and Blois (2025)
+Public version of code for Syverson et al. (2025)
 
 =======
 
@@ -15,4 +15,5 @@ Of the files that it outputs, the ones you probably want are as follows:
 * dates_for_analysis_smallmamm.csv (all geochronology dates <30k 14Cybp from collections that have small mammal taxa, from sites in North America)
     * dates_for_analysis_allvert.csv (same as previoius but without filtering to small mammals only)
 * smallmammaltaxa.csv (version of Neotoma's table "taxa" filtered to only taxa in Rodentia, Lagomorpha, and Eulipotyphla, equivalent to the "ecologicalgroups" RODE, LAGO, and SORI in Neotoma's "samples" table)
+
 
