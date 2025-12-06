@@ -23,7 +23,7 @@ source(here("final_scripts/functions/6_single_site_functions.R"))
 
 ## specify siteid to be downloaded 
 ```{r}
-site_selection <- 3586
+site_selection <- 3534
 # this siteid is just an example; change this line to the siteid of the site that you want to download 
 add.dates <- get_site_geochrons(site_selection,geochronology.table = geochronology.table,agelimit = 30000)
 ```
@@ -54,6 +54,7 @@ source(here("final_scripts/functions/3_autogen_chronologies_functions.R"))
 ## select only dates from affected collections
 ```{r}
 dates <- split(add.dates,add.dates$category)
+sapply(dates,nrow)
 ```
 
 ## compute chronologies by category
@@ -124,7 +125,7 @@ names <- data.frame(collid = gsub(".csv","",dir(path = fpath)),
                     path = unname(sapply(dir(path = fpath),
                        function(x) paste(c(fpath,"/",x),collapse = ""))))
 names <- subset(names,suppressWarnings(!is.na(as.numeric(names$collid))) & grepl("csv",names$path))
-names <- names[sapply(collids,function(x) which(grepl(x,names$collid))),]
+names <- names[sapply(collids,function(x) which(grepl(paste0("^",x,"$"),names$collid))),]
 sampleages <- list.stack(apply(names,1,function(x) {
   csv <- try(read.csv(file = x["path"]),silent = T)
   if (class(csv) == "data.frame") {
@@ -146,7 +147,7 @@ names2 <- data.frame(collid = gsub(".csv","",dir(path = fpath2)),
                     path = unname(sapply(dir(path = fpath2),
                        function(x) paste(c(fpath2,"/",x),collapse = ""))))
 names2 <- subset(names2,suppressWarnings(!is.na(as.numeric(names2$collid))))
-names2 <- names2[sapply(collids,function(x) which(grepl(x,names2$collid))),]
+names2 <- names2[sapply(collids,function(x) which(grepl(paste0("^",x,"$"),names2$collid))),]
 chroncontrols <- list.stack(apply(names2,1,function(x) {
   csv <- try(read.csv(file = x["path"]),silent = T)
   if (class(csv) == "data.frame") {

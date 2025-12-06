@@ -1,0 +1,78 @@
+---
+title: "update_table"
+output: html_document
+---
+```{r load libraries}
+if ("here" %in% installed.packages()) {require(here)} else {install.packages("here"); require(here)}
+i_am("data/update_table.Rmd")
+source(here("final_scripts/functions/6_single_site_functions.R"))
+checkAndInstall(required.packages = c("openxlsx"))
+```
+
+```{r read in final chronologies table}
+final <- list(chrons = read.xlsx(here("chronologies pub copy.xlsx"),sheet = 1),
+              samples = read.xlsx(here("chronologies pub copy.xlsx"),sheet = 2),
+              controls = read.xlsx(here("chronologies pub copy.xlsx"),sheet = 3))
+```
+
+
+#get IDs and update tables for single collection
+```{r}
+#pull subset of table
+collunitid <- 4417
+updateids <- lapply(final, function(x) subset(x,x[,2] == collunitid)) #column 2 is always collunitid
+
+#get new chronids by collectionunit id
+chrontable <- get_from_tilia(values = collunitid, params = "collectionunitid", meth = "getchronologiesbycollunitid")$data
+corr <- data.frame(row.names = c("bounds","event"))
+corr$TEMP_chronid <- c(NA,NA); corr$chronid <- c(NA,NA)
+for (i in rownames(corr)){
+  corr[i,"TEMP_chronid"] <- updateids$chrons[grep(i,
+                                              updateids$chrons$ndb.chronologies.agemodel),"TEMP_chronid"]
+  corr[i,"chronid"] <- chrontable[grep(i,chrontable$chronologyname),"chronologyid"]
+  updateids$chrons[grep(i,updateids$chrons$ndb.chronologies.agemodel),"TEMP_chronid"] <- corr[i,"chronid"]
+}
+colnames(updateids$chrons)[1] <- "chronid" #update name in table
+
+#update in sample ages and chroncontrols tables
+updateids$samples$TEMP_chronid <- corr[match(updateids$samples$TEMP_chronid,corr$TEMP_chronid),"chronid"]
+colnames(updateids$samples)[1] <- "chronid"
+updateids$controls$TEMP_chronid <- corr[match(updateids$controls$TEMP_chronid,corr$TEMP_chronid),"chronid"]
+colnames(updateids$controls)[1] <- "chronid"
+```
+
+#define function
+```{r function update_chronid}
+get_chronid <- function(collunit) {
+  chrontable <- get_from_tilia(values = collunit[1,"ndb.chronologies.collectionunitid"], 
+                               params = "collectionunitid", 
+                               meth = "getchronologiesbycollunitid")$data
+  corr <- data.frame(TEMP_chronid = collunit[,"TEMP_chronid"],
+                     agemodel = collunit[,"ndb.chronologies.agemodel"],
+                     chronid = NA)
+  for (i in 1:nrow(corr)){
+    corr[i,"chronid"] <- chrontable[grep(corr[i,"agemodel"],chrontable[,"agemodel"]),"chronologyid"]
+  }
+  return(corr)
+}
+```
+
+
+#update all chronids
+```{r}
+collunits <- distinct(final$chrons[,c("TEMP_chronid","ndb.chronologies.collectionunitid","ndb.chronologies.agemodel")])
+collunits <- split(collunits,collunits$ndb.chronologies.collectionunitid)
+
+chronids <- list.stack(lapply(collunits[1:50], get_chronid))
+colnames(chronids)[3] <- "ndb.chronologies.chronologyid"
+
+final_updated <- final
+final_updated$chrons <- full_join(chronids[,c(1,3)], final_updated$chrons, by = join_by(TEMP_chronid))
+final_updated$samples <- full_join(chronids[,c(1,3)], final_updated$samples, by = join_by(TEMP_chronid))
+final_updated$controls <- full_join(chronids[,c(1,3)], final_updated$controls, by = join_by(TEMP_chronid))
+
+for (i in 1:3){
+  write.csv(final_updated[[i]],file = paste0(names(final_updated)[i],"_with_ids.csv"), row.names = F)
+}
+```
+

@@ -49,6 +49,24 @@ get_geochrons <- function(vert_and_chron) {
   return(geochrons.ti)
 }
 
+get_analunit_info <- function(geochrons.ti) {
+  auids <- unique(geochrons.ti$analysisunitid)
+  auinfo.ti <- vector(mode = "list",length = length(auids))
+  print(paste0(c("Downloading data for",length(auids),"analysis units..."),collapse = " "))
+  for (i in 1:length(auids)) {
+    temp <- get_from_tilia(values = as.numeric(auids[i]), 
+                           params = "analunitid", 
+                           meth = "getanalysisunitbyid")$data
+    if (length(temp) == 0) { 
+      temp <- data.frame(analysisunitid = NA, analysisunitname = NA, depth = NA, thickness = NA) }
+    auinfo.ti[[i]] <- data.frame(analysisunitid = auids[i], temp)
+  }
+  auinfo.ti <- distinct(list.stack(auinfo.ti))
+  auinfo.ti <- subset(auinfo.ti,!is.na(auinfo.ti$analysisunitid))
+  print(paste0(c("Downloaded info for",nrow(auinfo.ti),"analysis units."),collapse = " "))
+  return(auinfo.ti)
+}
+
 get_colldata <- function(vert_and_chron){
   require(httr);require(jsonlite);require(dplyr);require(rlist)
   colls <- unique(vert_and_chron$collectionunitid)
@@ -135,11 +153,13 @@ get_site_geochrons <- function(siteid, geochronology.table = geochronology.table
   levels(vert_and_chron$datasettype) <- c("geochron","vertebrate")
   #use Tilia calls to assemble list of samples
   sampleids <- get_sampleids(vert_and_chron)
-  geochrons.ti <- get_geochrons(vert_and_chron)
   collections.ti <- get_colldata(vert_and_chron)
+  geochrons.ti <- get_geochrons(vert_and_chron)
+  auinfo.ti <- get_analunit_info(geochrons.ti)
   #download geochronology table if necessary; save it externally
   geochronology.table <- loadGeochronTable()
   #merge all together
+  geochrons.ti <- distinct(left_join(geochrons.ti, auinfo.ti[,c("analysisunitid","depth","thickness")]))
   a <- distinct(inner_join(subset(vert_and_chron,vert_and_chron$datasettype == "geochron"),
                            distinct(sampleids[,c(1,3)]),by = "datasetid"))
   b <- distinct(right_join(a, geochrons.ti, by = "analysisunitid"))

@@ -1,0 +1,73 @@
+"","x"
+"1","Options()
+ {
+  BCAD=FALSE;
+  Curve(""IntCal20"",""IntCal20.14c"");
+  Resolution=10;
+ };
+ Plot()
+ {
+  Phase(""Collection Unit 10924"")
+  {
+    Sequence(""AU 98153"")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase(""Analysis Unit 98153"")
+     {
+      R_Date('12738[CAMS 137747]',2815,40);
+      Date(""Event"");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence(""AU 98155"")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase(""Analysis Unit 98155"")
+     {
+      R_Date('12739[CAMS 135971]',6900,45);
+      Date(""Event"");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence(""AU 98157"")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase(""Analysis Unit 98157"")
+     {
+      R_Date('12740[CAMS 137748]',8765,50);
+      Date(""Event"");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence(""AU 98159"")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase(""Analysis Unit 98159"")
+     {
+      R_Date('12741[CAMS 135969]',4940,110);
+      Date(""Event"");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence(""AU 98160"")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase(""Analysis Unit 98160"")
+     {
+      R_Date('12742[CAMS 135970]',11320,110);
+      Date(""Event"");
+     };
+    Boundary(endAnalysisUnit);
+    };
+    Sequence(""AU 98162"")
+   {
+    Boundary(beginAnalysisUnit);
+    Phase(""Analysis Unit 98162"")
+     {
+      R_Date('12743[CAMS 135968]',17680,390);
+      Date(""Event"");
+     };
+    Boundary(endAnalysisUnit);
+    };
+  };
+ };"
